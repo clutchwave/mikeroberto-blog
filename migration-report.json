@@ -1,0 +1,1589 @@
+{
+  "conversion_date": "2025-12-19T16:21:46.277984",
+  "total_posts": 61,
+  "posts_with_comments": 50,
+  "total_comments": 290,
+  "categories": [
+    "Book Reviews",
+    "Current Events",
+    "Diet Research",
+    "Entrepreneurship",
+    "Fitness",
+    "Guest Writers",
+    "HUMILIATIONS",
+    "Investing",
+    "Life, The Universe, and Everything",
+    "Music Reviews",
+    "Politics",
+    "Rants",
+    "Sports",
+    "TV",
+    "Technology",
+    "Travels",
+    "Uncategorized"
+  ],
+  "tags": [
+    "2008 4x100 Free Relay",
+    "2008 Olympics",
+    "2009",
+    "4x100 Freestyle Relay",
+    "Alistipes",
+    "Alzheimer's Disease",
+    "Amon Amarth",
+    "Anneke Van Giersbergen",
+    "Anti-Aging",
+    "Antibiotics",
+    "Arachidonic Acid",
+    "Autism",
+    "Autoimmune Disease",
+    "Autumnal Eating",
+    "Baby Formula",
+    "Bacteroides",
+    "Basketball",
+    "Blautia",
+    "Blues Pills",
+    "Butyric Acid",
+    "Calories",
+    "Canola Oil",
+    "Carbohydrates",
+    "Cardiovascular Disease",
+    "Charred Walls of the Damned",
+    "Cian Foley",
+    "Cleveland",
+    "Cleveland Cavaliers",
+    "Cleveland Indians",
+    "Corn Oil",
+    "Cottonseed Oil",
+    "Death Angel",
+    "Diabetes",
+    "Dr. Suzanne Humphries",
+    "Faecalibacterium",
+    "Fat",
+    "Fates Warning",
+    "Flotsam and Jetsam",
+    "Glomerular Filtration Rate",
+    "Gojira",
+    "Hammers of Misfortune",
+    "Hyperphasia",
+    "Ihsahn",
+    "In the Woods...",
+    "Inflammation",
+    "Inflammatory Bowel Disease",
+    "Insomnium",
+    "Jose Antonio",
+    "Katatonia",
+    "Kidneys",
+    "Lemmy",
+    "Leptin",
+    "Linoleic Acid",
+    "Linseed Oil",
+    "Longevity",
+    "Low Carb",
+    "Low Fat Diet",
+    "McMaster University",
+    "Mediterranean Diet",
+    "Metabolism",
+    "Metal Church",
+    "Metallica",
+    "Michael Phelps",
+    "Nonalcoholic Fatty Liver Disease",
+    "Obesity",
+    "Omega-6 Fatty Acids",
+    "Oxidative Stress",
+    "Pain",
+    "Palmitic Acid",
+    "Polyunsaturated Fat",
+    "Processed Seed Oils",
+    "Protein",
+    "Protein Leverage Hypothesis",
+    "Protein Powder",
+    "Redemption",
+    "Robert Morton",
+    "Safflower Oil",
+    "Saturated Fat",
+    "Soybean Oil",
+    "Stuart Phillips",
+    "Subrosa",
+    "Suicidal Tendencies",
+    "Sunflower Oil",
+    "Sweeteners",
+    "Trees of Eternity",
+    "Tucker Goodrich",
+    "Vegetable Oil",
+    "Volbeat",
+    "Weight Loss",
+    "Whey Protein",
+    "beach bum",
+    "best albums of 2009",
+    "best music of 2009",
+    "best of 2009",
+    "crash test",
+    "crash test biomedical scientist",
+    "crash test spike",
+    "daily routine",
+    "devin townsend",
+    "entrepreneur europe",
+    "entrepreneur routine",
+    "entrepreneurial mission statement",
+    "first week entrepreneur",
+    "jack gill",
+    "mike roberto biomedical scientist",
+    "mike roberto crash test",
+    "mike roberto entrepreneur",
+    "mike roberto mission",
+    "mike roberto mission statement",
+    "mission statement",
+    "my mission statement",
+    "nasa",
+    "nasa constellation",
+    "national instruments",
+    "reality tv",
+    "reality tv advice",
+    "reality tv tips",
+    "space privatization",
+    "spacex",
+    "spacex cots",
+    "spacex falcon 9",
+    "spacex falcon 9 launch",
+    "spacex nasa",
+    "spike tv",
+    "stunts",
+    "the empire",
+    "top albums",
+    "top albums of 2009",
+    "two paths"
+  ],
+  "all_images": [
+    "http://a1916.g.akamaitech.net/7/1916/33/7bffa240e4fb9a/images.citysearch.com/profile/62/b9/10206292p1.jpg",
+    "http://a956.ac-images.myspacecdn.com/images01/62/m_a00d8b56208cd73559429fcc981211e3.jpg",
+    "http://c.myspace.com/Groups/00022/01/13/22663110_m.png",
+    "http://cdbaby.name/h/a/hammers2.jpg",
+    "http://content.answers.com/main/content/wp/en/thumb/b/b3/200px-The_Broker_Grisham_Novel.jpg",
+    "http://content.answers.com/main/content/wp/en/thumb/b/ba/180px-Steven_Wilson_tree.jpg",
+    "http://decker.typepad.com/photos/austin_images/oview1.jpg",
+    "http://ec1.images-amazon.com/images/I/61cWh%2BFxbdL._AA240_.jpg",
+    "http://ec2.images-amazon.com/images/P/B0002W18MU.01._AA240_SCLZZZZZZZ_V59016280_.jpg",
+    "http://ec2.images-amazon.com/images/P/B000CEV4ZE.01._AA240_SCLZZZZZZZ_.jpg",
+    "http://ec2.images-amazon.com/images/P/B000EQ5VXG.01._AA240_SCLZZZZZZZ_V65934256_.jpg",
+    "http://ec2.images-amazon.com/images/P/B000F3TBIO.01._AA240_SCLZZZZZZZ_V50752746_.jpg",
+    "http://ec2.images-amazon.com/images/P/B000FMHBDW.01._AA240_SCLZZZZZZZ_V51974776_.jpg",
+    "http://ec2.images-amazon.com/images/P/B000H7JD4A.01._AA240_SCLZZZZZZZ_V61566466_.jpg",
+    "http://ec2.images-amazon.com/images/P/B000HWXS2S.01._AA240_SCLZZZZZZZ_V59034712_.jpg",
+    "http://ec3.images-amazon.com/images/G/01/ciu/b2/b6/07ded250fca04bf347de8010.L.jpg",
+    "http://ecx.images-amazon.com/images/I/41C4QXgczML._SS400_.jpg",
+    "http://ecx.images-amazon.com/images/I/41KbPYOrUxL._SL500_AA240_.jpg",
+    "http://ecx.images-amazon.com/images/I/41P%2B9tw2MML._SL500_AA240_.jpg",
+    "http://ecx.images-amazon.com/images/I/41haEs%2BWAsL._SS500_.jpg",
+    "http://ecx.images-amazon.com/images/I/41iG8bTQnCL._AA240_.jpg",
+    "http://ecx.images-amazon.com/images/I/51-WqyVPyqL._SL500_AA240_.jpg",
+    "http://ecx.images-amazon.com/images/I/510jOoFlZLL._SL500_AA240_.jpg",
+    "http://ecx.images-amazon.com/images/I/51Ivw0sAkAL._SL500_AA240_.jpg",
+    "http://ecx.images-amazon.com/images/I/51XpfnbPusL._SL500_AA240_.jpg",
+    "http://ecx.images-amazon.com/images/I/51jNDkoLw8L._SL500_AA240_.jpg",
+    "http://ecx.images-amazon.com/images/I/51pvEE9tX%2BL._AA240_.jpg",
+    "http://ecx.images-amazon.com/images/I/51qwJ1AatgL._AA240_.jpg",
+    "http://ecx.images-amazon.com/images/I/51r-20zk8iL._AA240_.jpg",
+    "http://ecx.images-amazon.com/images/I/618mmA3YQtL._AA240_.jpg",
+    "http://ecx.images-amazon.com/images/I/61cWh%2BFxbdL._AA240_.jpg",
+    "http://espn.go.com/media/classic/2000/1219/photo/s_elway2_i.jpg",
+    "http://farm3.static.flickr.com/2181/2051667220_cc179b6670_m.jpg",
+    "http://g-ecx.images-amazon.com/images/G/01/ciu/cd/2d/3b94c060ada03c2bb5d9a110._AA240_.L.jpg",
+    "http://g-ecx.images-amazon.com/images/G/01/ciu/e4/2b/efbe53a09da00fbf6dd35110._AA150_.L.jpg",
+    "http://i.a.cnn.net/si/2006/writers/arash_markazi/11/10/lebron/p1_lebron1.jpg",
+    "http://i135.photobucket.com/albums/q133/lisannn24k_yahoo/l_1743fe2ee5231f3debdacdf10723ad92.jpg",
+    "http://i25.photobucket.com/albums/c80/MegaDittos/HDscoreboard2.jpg",
+    "http://i58.photobucket.com/albums/g278/MicroBerto/10_cent_beer_night.jpg",
+    "http://i58.photobucket.com/albums/g278/MicroBerto/2008_Beijing_OlympicGamesSwimmin-1.jpg",
+    "http://i58.photobucket.com/albums/g278/MicroBerto/2008_Beijing_OlympicGamesSwimmin-2.jpg",
+    "http://i58.photobucket.com/albums/g278/MicroBerto/2008_Beijing_OlympicGamesSwimmin-3.jpg",
+    "http://i58.photobucket.com/albums/g278/MicroBerto/2008_Beijing_OlympicGamesSwimmin-4.jpg",
+    "http://i58.photobucket.com/albums/g278/MicroBerto/2008_Beijing_OlympicGamesSwimmin-5.jpg",
+    "http://i58.photobucket.com/albums/g278/MicroBerto/2008_Beijing_OlympicGamesSwimmin-6.jpg",
+    "http://i58.photobucket.com/albums/g278/MicroBerto/2008_Beijing_OlympicGamesSwimmingMe.jpg",
+    "http://i58.photobucket.com/albums/g278/MicroBerto/Hammers_of_Misfortune-August_Eng-2.jpg",
+    "http://i58.photobucket.com/albums/g278/MicroBerto/Hammers_of_Misfortune-August_Engine.png",
+    "http://i58.photobucket.com/albums/g278/MicroBerto/th_Crash_Test-Lobby_Card-Small_v7.jpg",
+    "http://i58.photobucket.com/albums/g278/MicroBerto/th_Crash_Test-Pilot-Car_Wreck.jpg",
+    "http://i7.photobucket.com/albums/y278/sixxlover60/ce5957b5.jpg",
+    "http://i718.photobucket.com/albums/ww185/worldisbar/new/dtp_addicted.jpg",
+    "http://img.timeinc.net/time/magazine/archive/covers/2006/1101061225_400.jpg",
+    "http://mikuna.image.pbase.com/u/wyk/small/52980.Scan2148.jpg",
+    "http://shinymedia.blogs.com/photos/uncategorized/ollypop.jpg",
+    "http://smv.typepad.com/photos/austin/jan_06_007.jpg",
+    "http://upload.wikimedia.org/wikipedia/commons/7/7f/Wikipedia-logo-en.png",
+    "http://upload.wikimedia.org/wikipedia/en/0/06/The_Catch.png",
+    "http://upload.wikimedia.org/wikipedia/en/3/3a/WGA_logo.png",
+    "http://upload.wikimedia.org/wikipedia/en/d/dd/MJ_shot.JPG",
+    "http://upload.wikimedia.org/wikipedia/en/thumb/0/03/Fiction-1-.jpg/200px-Fiction-1-.jpg",
+    "http://upload.wikimedia.org/wikipedia/en/thumb/4/44/Agalloch.jpg/220px-Agalloch.jpg",
+    "http://upload.wikimedia.org/wikipedia/en/thumb/b/b0/BlackfieldII.jpg/200px-BlackfieldII.jpg",
+    "http://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Mikey_life_cereal.jpg/180px-Mikey_life_cereal.jpg",
+    "http://www.100xr.com/100_XR/Artists/H/Hed_Pe/Hed.p.e..jpg",
+    "http://www.af.mil/shared/media/photodb/photos/070326-F-0809C-222.jpg",
+    "http://www.alltheclosefamily.com/alamologo.jpg",
+    "http://www.assoc-amazon.com/e/ir?t=mikrobsblo-20&l=ur2&o=1",
+    "http://www.bertopics.com/d/16604-3/Clutch01-Los_Angeles-20070525.jpg",
+    "http://www.bertopics.com/d/16660-3/Clutch12-Los_Angeles-20070525.jpg",
+    "http://www.bertopics.com/d/16670-5/Clutch14-Los_Angeles-20070525.jpg",
+    "http://www.bertopics.com/d/16685-3/Clutch17-Los_Angeles-20070525.jpg",
+    "http://www.bertopics.com/d/18155-2/Sarah_Watson-Mike_Roberto-Writers_Guild_Strike-20071127.jpg",
+    "http://www.bertopics.com/d/18161-2/Writers_Guild_Strike1-20071127.jpg",
+    "http://www.classiccitybrew.com/austin_littlewoodrows.jpg",
+    "http://www.geocities.com/russhowellsite/Surf-Logo-BruceJones-Sticker-200x61.jpg",
+    "http://www.goldmoney.com/en/images/commentary-images/commentary-charts/alert_2008-01-02c.gif",
+    "http://www.goreydetails.net/images/items/jpeg1124519040.jpg",
+    "http://www.johnnyroadtrip.com/cities/sanantonio/images/chugginmonkey.jpg",
+    "http://www.kickedintheface.com/interviews/images/Dark%20Tranquillity%20pic%201.jpg",
+    "http://www.lifecereal.com/images/img_box_LifeVYC.jpg",
+    "http://www.lvsodapop.com/images/Surfing%20at%20Seal%20Beach.JPG",
+    "http://www.mackbrown-texasfootball.com/wp/Football/Stadium/Stadium_800x600.jpg",
+    "http://www.metalopolis.net/files/icons/1248_Strapping_Young_Lad_-_City-front%201.JPG",
+    "http://www.orangecountyshopping.com/seal_beach_pier.jpg",
+    "http://www.progressiveworld.net/jpg/blackfieldlive3.jpg",
+    "http://www.ragazzi-music.de/bilder/blackfield_gr.jpg",
+    "http://www.rbmarina.com/dolphin.jpg",
+    "http://www.redondo.com/business/divesurf.jpg",
+    "http://www.redondochamber.org/images/IMG0121.jpg",
+    "http://www.shiner.com/beers/images/Light.gif",
+    "http://www.tylersaustin.com/images/content/KeepAustinWierdLogo.gif",
+    "http://www.youtube.com/img/pic_youtubelogo_123x63.gif",
+    "https://blog.priceplow.com/wp-content/uploads/framingham-study-cholesterol-risk-factors-improved-low-carb.png",
+    "https://www.mikeroberto.com/Austin_Guide/Austin_Bats-thumb.jpg",
+    "https://www.mikeroberto.com/Austin_Guide/Devils_Cove-thumb.jpg",
+    "https://www.mikeroberto.com/Austin_Guide/Texasstatecapitol.jpg",
+    "https://www.mikeroberto.com/Austin_Guide/UT_Tailgating-thumb.jpg",
+    "https://www.mikeroberto.com/Austin_Guide/UT_Tower_in_Orange-thumb.jpg",
+    "https://www.mikeroberto.com/Austin_Guide/ViewFromTownLake-thumb.jpg",
+    "https://www.mikeroberto.com/Austin_Guide/lake_travis_view-thumb.jpg",
+    "https://www.mikeroberto.com/Austin_Guide/lake_travis_view2-thumb.jpg",
+    "https://www.mikeroberto.com/Friday_Night_Lights/Friday_Night_Lights-Lyla-thumb.jpg",
+    "https://www.mikeroberto.com/Friday_Night_Lights/Friday_Night_Lights-MILF_Wife-thumb.jpg",
+    "https://www.mikeroberto.com/Friday_Night_Lights/Friday_Night_Lights-Stereotyped_Black_Guy-thumb.jpg",
+    "https://www.mikeroberto.com/Friday_Night_Lights/Friday_Night_Lights-thumb.jpg",
+    "https://www.mikeroberto.com/Gonna_Miss_Austin/Bassett_Berto-thumb.jpg",
+    "https://www.mikeroberto.com/Gonna_Miss_Austin/Jordo-thumb.jpg",
+    "https://www.mikeroberto.com/Gonna_Miss_Austin/Lon-Rafters-thumb.jpg",
+    "https://www.mikeroberto.com/Gonna_Miss_Austin/Paul-Timmay-thumb.jpg",
+    "https://www.mikeroberto.com/TIME/New_Passenger_Car_Sales-thumb.jpg",
+    "https://www.mikeroberto.com/TIME/US_Dollar-thumb-121906.jpg",
+    "https://www.mikeroberto.com/TIME/Wilshire5000-121706-thumb.jpg",
+    "https://www.mikeroberto.com/pics/Bertocam-GingoJonJer.jpg",
+    "https://www.mikeroberto.com/pics/Bertocam-JelloShots.jpg",
+    "https://www.mikeroberto.com/pics/Bertocam-OSUvsMich5.jpg",
+    "https://www.mikeroberto.com/pics/Blackfield_Concert/Aviv_Geffen1-Blackfield_Concert-20070310.jpg",
+    "https://www.mikeroberto.com/pics/Blackfield_Concert/Blackfield-Blackfield_Concert-20070310.jpg",
+    "https://www.mikeroberto.com/pics/Blackfield_Concert/Steven_Wilson1-Blackfield_Concert-20070310.jpg",
+    "https://www.mikeroberto.com/pics/Blackfield_Concert/Steven_Wilson_and_Aviv_Geffen1-Blackfield_Concert-ren-20070310.jpg",
+    "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-01-thumb.jpg",
+    "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-02-thumb.jpg",
+    "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-03-thumb.jpg",
+    "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-04-thumb.jpg",
+    "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-05-thumb.jpg",
+    "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-06a-thumb.jpg",
+    "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-06b-thumb.jpg",
+    "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-07-thumb.jpg",
+    "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-08a-thumb.jpg",
+    "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-08b-thumb.jpg",
+    "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-09-thumb.jpg",
+    "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-10-thumb.jpg",
+    "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-11-thumb.jpg",
+    "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-12-thumb.jpg",
+    "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-13-thumb.jpg",
+    "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-14-thumb.jpg",
+    "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-15-thumb.jpg",
+    "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-16-thumb.jpg",
+    "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-17-thumb.jpg",
+    "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-18-thumb.jpg",
+    "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-19-thumb.jpg",
+    "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-20-thumb.jpg",
+    "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-21-thumb.jpg",
+    "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-22-thumb.jpg",
+    "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-23a-thumb.jpg",
+    "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-23b-thumb.jpg",
+    "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-23c-thumb.jpg",
+    "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-24-thumb.jpg",
+    "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-25-thumb.jpg",
+    "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-26-thumb.jpg",
+    "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-27-thumb.jpg",
+    "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-28-thumb.jpg",
+    "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-29-thumb.jpg",
+    "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-30-thumb.jpg",
+    "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-31a-thumb.jpg",
+    "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-31b-thumb.jpg",
+    "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-32-thumb.jpg",
+    "https://www.mikeroberto.com/pics/Little_Berto_Michigan_Sin-thumb.jpg",
+    "https://www.mikeroberto.com/pics/My_New_Surfboard-021807-thumb.jpg",
+    "https://www.mikeroberto.com/pics/RIP_Berto-300.jpg",
+    "https://www.mikeroberto.com/pics/apk.gif",
+    "https://www.mikeroberto.com/wp-content/uploads/class-of-2000-25-years.png"
+  ],
+  "posts": [
+    {
+      "filename": "fellow-buckeyes-so-you-wanna-visit-austin.md",
+      "title": "Fellow Buckeyes - So You Wanna Visit Austin?",
+      "date": "2006-08-16",
+      "slug": "fellow-buckeyes-so-you-wanna-visit-austin",
+      "year": 2006,
+      "categories": [
+        "Uncategorized"
+      ],
+      "tags": [],
+      "images": [
+        "http://www.tylersaustin.com/images/content/KeepAustinWierdLogo.gif",
+        "https://www.mikeroberto.com/Austin_Guide/lake_travis_view-thumb.jpg",
+        "https://www.mikeroberto.com/Austin_Guide/lake_travis_view2-thumb.jpg",
+        "https://www.mikeroberto.com/Austin_Guide/Devils_Cove-thumb.jpg",
+        "https://www.mikeroberto.com/Austin_Guide/ViewFromTownLake-thumb.jpg",
+        "https://www.mikeroberto.com/Austin_Guide/Austin_Bats-thumb.jpg",
+        "https://www.mikeroberto.com/Austin_Guide/Texasstatecapitol.jpg",
+        "http://www.alltheclosefamily.com/alamologo.jpg",
+        "https://www.mikeroberto.com/Austin_Guide/UT_Tower_in_Orange-thumb.jpg",
+        "http://www.mackbrown-texasfootball.com/wp/Football/Stadium/Stadium_800x600.jpg",
+        "http://i25.photobucket.com/albums/c80/MegaDittos/HDscoreboard2.jpg",
+        "http://smv.typepad.com/photos/austin/jan_06_007.jpg",
+        "http://decker.typepad.com/photos/austin_images/oview1.jpg",
+        "https://www.mikeroberto.com/Austin_Guide/UT_Tailgating-thumb.jpg",
+        "http://www.johnnyroadtrip.com/cities/sanantonio/images/chugginmonkey.jpg",
+        "http://mikuna.image.pbase.com/u/wyk/small/52980.Scan2148.jpg",
+        "http://a1916.g.akamaitech.net/7/1916/33/7bffa240e4fb9a/images.citysearch.com/profile/62/b9/10206292p1.jpg",
+        "http://www.classiccitybrew.com/austin_littlewoodrows.jpg"
+      ],
+      "comments": 59,
+      "original_url": "https://www.mikeroberto.com/2006/fellow-buckeyes-so-you-wanna-visit-austin"
+    },
+    {
+      "filename": "outclassed-in-austin-a-giant-thank-you-to-the-longhorns.md",
+      "title": "Outclassed in Austin - A giant THANK YOU to the Longhorns",
+      "date": "2006-09-10",
+      "slug": "outclassed-in-austin-a-giant-thank-you-to-the-longhorns",
+      "year": 2006,
+      "categories": [
+        "Uncategorized"
+      ],
+      "tags": [],
+      "images": [],
+      "comments": 21,
+      "original_url": "https://www.mikeroberto.com/2006/outclassed-in-austin-a-giant-thank-you-to-the-longhorns"
+    },
+    {
+      "filename": "my-first-book-review-freakonomics-by-steven-levitt-and-stephen-dubner.md",
+      "title": "My First Book Review:  Freakonomics, by Steven Levitt and Stephen Dubner",
+      "date": "2006-09-15",
+      "slug": "my-first-book-review-freakonomics-by-steven-levitt-and-stephen-dubner",
+      "year": 2006,
+      "categories": [
+        "Book Reviews"
+      ],
+      "tags": [],
+      "images": [],
+      "comments": 2,
+      "original_url": "https://www.mikeroberto.com/2006/my-first-book-review-freakonomics-by-steven-levitt-and-stephen-dubner"
+    },
+    {
+      "filename": "book-review-a-confederacy-of-dunces-by-john-kennedy-toole.md",
+      "title": "Book Review - A Confederacy of Dunces, by John Kennedy Toole",
+      "date": "2006-10-28",
+      "slug": "book-review-a-confederacy-of-dunces-by-john-kennedy-toole",
+      "year": 2006,
+      "categories": [
+        "Book Reviews"
+      ],
+      "tags": [],
+      "images": [
+        "http://ec3.images-amazon.com/images/G/01/ciu/b2/b6/07ded250fca04bf347de8010.L.jpg"
+      ],
+      "comments": 2,
+      "original_url": "https://www.mikeroberto.com/2006/book-review-a-confederacy-of-dunces-by-john-kennedy-toole"
+    },
+    {
+      "filename": "book-review-the-broker-by-john-grisham.md",
+      "title": "Book Review:  The Broker, by John Grisham",
+      "date": "2006-11-06",
+      "slug": "book-review-the-broker-by-john-grisham",
+      "year": 2006,
+      "categories": [
+        "Book Reviews"
+      ],
+      "tags": [],
+      "images": [
+        "http://content.answers.com/main/content/wp/en/thumb/b/b3/200px-The_Broker_Grisham_Novel.jpg"
+      ],
+      "comments": 0,
+      "original_url": "https://www.mikeroberto.com/2006/book-review-the-broker-by-john-grisham"
+    },
+    {
+      "filename": "forgive-me-buckeyes-for-i-have-sinned.md",
+      "title": "Forgive Me Buckeyes, For I Have Sinned",
+      "date": "2006-11-16",
+      "slug": "forgive-me-buckeyes-for-i-have-sinned",
+      "year": 2006,
+      "categories": [
+        "HUMILIATIONS",
+        "Sports"
+      ],
+      "tags": [],
+      "images": [
+        "https://www.mikeroberto.com/pics/Little_Berto_Michigan_Sin-thumb.jpg"
+      ],
+      "comments": 2,
+      "original_url": "https://www.mikeroberto.com/2006/forgive-me-buckeyes-for-i-have-sinned"
+    },
+    {
+      "filename": "tv-review-friday-night-lights.md",
+      "title": "TV Review:  Friday Night Lights",
+      "date": "2006-12-03",
+      "slug": "tv-review-friday-night-lights",
+      "year": 2006,
+      "categories": [
+        "TV"
+      ],
+      "tags": [],
+      "images": [
+        "https://www.mikeroberto.com/Friday_Night_Lights/Friday_Night_Lights-thumb.jpg",
+        "https://www.mikeroberto.com/Friday_Night_Lights/Friday_Night_Lights-Lyla-thumb.jpg",
+        "https://www.mikeroberto.com/Friday_Night_Lights/Friday_Night_Lights-MILF_Wife-thumb.jpg",
+        "https://www.mikeroberto.com/Friday_Night_Lights/Friday_Night_Lights-Stereotyped_Black_Guy-thumb.jpg"
+      ],
+      "comments": 3,
+      "original_url": "https://www.mikeroberto.com/2006/tv-review-friday-night-lights"
+    },
+    {
+      "filename": "i-had-lasik-surgery.md",
+      "title": "I Had LASIK Surgery... And Totally Regret It.",
+      "date": "2006-12-18",
+      "slug": "i-had-lasik-surgery",
+      "year": 2006,
+      "categories": [
+        "Fitness"
+      ],
+      "tags": [],
+      "images": [],
+      "comments": 1,
+      "original_url": "https://www.mikeroberto.com/2006/i-had-lasik-surgery"
+    },
+    {
+      "filename": "why-you-do-not-deserve-to-be-the-time-magazine-person-of-the-year.md",
+      "title": "Why You do NOT Deserve to be the TIME Magazine Person of the Year",
+      "date": "2006-12-19",
+      "slug": "why-you-do-not-deserve-to-be-the-time-magazine-person-of-the-year",
+      "year": 2006,
+      "categories": [
+        "Current Events"
+      ],
+      "tags": [],
+      "images": [
+        "http://img.timeinc.net/time/magazine/archive/covers/2006/1101061225_400.jpg",
+        "http://upload.wikimedia.org/wikipedia/commons/7/7f/Wikipedia-logo-en.png",
+        "http://www.youtube.com/img/pic_youtubelogo_123x63.gif",
+        "https://www.mikeroberto.com/TIME/New_Passenger_Car_Sales-thumb.jpg",
+        "https://www.mikeroberto.com/TIME/Wilshire5000-121706-thumb.jpg",
+        "https://www.mikeroberto.com/TIME/US_Dollar-thumb-121906.jpg"
+      ],
+      "comments": 2,
+      "original_url": "https://www.mikeroberto.com/2006/why-you-do-not-deserve-to-be-the-time-magazine-person-of-the-year"
+    },
+    {
+      "filename": "my-top-15-albums-of-2006.md",
+      "title": "My Top 15 Albums of 2006",
+      "date": "2006-12-28",
+      "slug": "my-top-15-albums-of-2006",
+      "year": 2006,
+      "categories": [
+        "Music Reviews"
+      ],
+      "tags": [],
+      "images": [
+        "http://ec2.images-amazon.com/images/P/B000H7JD4A.01._AA240_SCLZZZZZZZ_V61566466_.jpg",
+        "http://upload.wikimedia.org/wikipedia/en/thumb/4/44/Agalloch.jpg/220px-Agalloch.jpg",
+        "http://ec2.images-amazon.com/images/P/B000CEV4ZE.01._AA240_SCLZZZZZZZ_.jpg",
+        "http://ec2.images-amazon.com/images/P/B000HWXS2S.01._AA240_SCLZZZZZZZ_V59034712_.jpg",
+        "http://cdbaby.name/h/a/hammers2.jpg",
+        "http://www.metalopolis.net/files/icons/1248_Strapping_Young_Lad_-_City-front%201.JPG",
+        "http://ec2.images-amazon.com/images/P/B000FMHBDW.01._AA240_SCLZZZZZZZ_V51974776_.jpg",
+        "http://ec2.images-amazon.com/images/P/B000EQ5VXG.01._AA240_SCLZZZZZZZ_V65934256_.jpg",
+        "http://ec2.images-amazon.com/images/P/B000F3TBIO.01._AA240_SCLZZZZZZZ_V50752746_.jpg",
+        "http://ec2.images-amazon.com/images/P/B0002W18MU.01._AA240_SCLZZZZZZZ_V59016280_.jpg"
+      ],
+      "comments": 3,
+      "original_url": "https://www.mikeroberto.com/2006/my-top-15-albums-of-2006"
+    },
+    {
+      "filename": "im-gonna-miss-you-austin.md",
+      "title": "I'm Gonna Miss You, Austin",
+      "date": "2006-12-31",
+      "slug": "im-gonna-miss-you-austin",
+      "year": 2006,
+      "categories": [
+        "Life, The Universe, and Everything"
+      ],
+      "tags": [],
+      "images": [
+        "https://www.mikeroberto.com/Gonna_Miss_Austin/Bassett_Berto-thumb.jpg",
+        "https://www.mikeroberto.com/Gonna_Miss_Austin/Lon-Rafters-thumb.jpg",
+        "https://www.mikeroberto.com/Gonna_Miss_Austin/Jordo-thumb.jpg",
+        "https://www.mikeroberto.com/Gonna_Miss_Austin/Paul-Timmay-thumb.jpg"
+      ],
+      "comments": 5,
+      "original_url": "https://www.mikeroberto.com/2006/im-gonna-miss-you-austin"
+    },
+    {
+      "filename": "humiliation.md",
+      "title": "HUMILIATION",
+      "date": "2007-01-10",
+      "slug": "humiliation",
+      "year": 2007,
+      "categories": [
+        "HUMILIATIONS",
+        "Travels"
+      ],
+      "tags": [],
+      "images": [],
+      "comments": 6,
+      "original_url": "https://www.mikeroberto.com/2007/humiliation"
+    },
+    {
+      "filename": "i-cant-cry.md",
+      "title": "I Can't Cry",
+      "date": "2007-01-20",
+      "slug": "i-cant-cry",
+      "year": 2007,
+      "categories": [
+        "HUMILIATIONS",
+        "Life, The Universe, and Everything"
+      ],
+      "tags": [],
+      "images": [],
+      "comments": 0,
+      "original_url": "https://www.mikeroberto.com/2007/i-cant-cry"
+    },
+    {
+      "filename": "music-review-blackfield-blackfield-ii.md",
+      "title": "Music Review - Blackfield - Blackfield II",
+      "date": "2007-01-28",
+      "slug": "music-review-blackfield-blackfield-ii",
+      "year": 2007,
+      "categories": [
+        "Music Reviews"
+      ],
+      "tags": [],
+      "images": [
+        "http://content.answers.com/main/content/wp/en/thumb/b/ba/180px-Steven_Wilson_tree.jpg",
+        "http://upload.wikimedia.org/wikipedia/en/thumb/b/b0/BlackfieldII.jpg/200px-BlackfieldII.jpg",
+        "http://www.ragazzi-music.de/bilder/blackfield_gr.jpg",
+        "http://www.progressiveworld.net/jpg/blackfieldlive3.jpg"
+      ],
+      "comments": 5,
+      "original_url": "https://www.mikeroberto.com/2007/music-review-blackfield-blackfield-ii"
+    },
+    {
+      "filename": "life-and-the-cereal-price-index.md",
+      "title": "Life and the Cereal Price Index",
+      "date": "2007-02-01",
+      "slug": "life-and-the-cereal-price-index",
+      "year": 2007,
+      "categories": [
+        "Life, The Universe, and Everything"
+      ],
+      "tags": [],
+      "images": [
+        "http://www.goreydetails.net/images/items/jpeg1124519040.jpg",
+        "http://www.lifecereal.com/images/img_box_LifeVYC.jpg",
+        "http://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Mikey_life_cereal.jpg/180px-Mikey_life_cereal.jpg"
+      ],
+      "comments": 1,
+      "original_url": "https://www.mikeroberto.com/2007/life-and-the-cereal-price-index"
+    },
+    {
+      "filename": "surf-lessons-with-chris.md",
+      "title": "Surf Lessons with Chris",
+      "date": "2007-02-04",
+      "slug": "surf-lessons-with-chris",
+      "year": 2007,
+      "categories": [
+        "Sports",
+        "Travels"
+      ],
+      "tags": [],
+      "images": [
+        "http://www.orangecountyshopping.com/seal_beach_pier.jpg",
+        "http://www.lvsodapop.com/images/Surfing%20at%20Seal%20Beach.JPG",
+        "http://www.geocities.com/russhowellsite/Surf-Logo-BruceJones-Sticker-200x61.jpg"
+      ],
+      "comments": 0,
+      "original_url": "https://www.mikeroberto.com/2007/surf-lessons-with-chris"
+    },
+    {
+      "filename": "got-some-new-toys.md",
+      "title": "Got Some New Toys!",
+      "date": "2007-02-18",
+      "slug": "got-some-new-toys",
+      "year": 2007,
+      "categories": [
+        "Fitness",
+        "Sports"
+      ],
+      "tags": [],
+      "images": [
+        "https://www.mikeroberto.com/pics/My_New_Surfboard-021807-thumb.jpg",
+        "http://www.redondo.com/business/divesurf.jpg",
+        "http://www.redondochamber.org/images/IMG0121.jpg",
+        "http://www.rbmarina.com/dolphin.jpg"
+      ],
+      "comments": 1,
+      "original_url": "https://www.mikeroberto.com/2007/got-some-new-toys"
+    },
+    {
+      "filename": "five-years-into-the-future.md",
+      "title": "Five Years Into the Future",
+      "date": "2007-02-25",
+      "slug": "five-years-into-the-future",
+      "year": 2007,
+      "categories": [
+        "Life, The Universe, and Everything"
+      ],
+      "tags": [],
+      "images": [],
+      "comments": 2,
+      "original_url": "https://www.mikeroberto.com/2007/five-years-into-the-future"
+    },
+    {
+      "filename": "concert-review-blackfield-the-knitting-factory-hollywood-ca.md",
+      "title": "Concert Review - Blackfield - The Knitting Factory - Hollywood, CA",
+      "date": "2007-03-11",
+      "slug": "concert-review-blackfield-the-knitting-factory-hollywood-ca",
+      "year": 2007,
+      "categories": [
+        "Music Reviews"
+      ],
+      "tags": [],
+      "images": [
+        "https://www.mikeroberto.com/pics/Blackfield_Concert/Steven_Wilson1-Blackfield_Concert-20070310.jpg",
+        "https://www.mikeroberto.com/pics/Blackfield_Concert/Steven_Wilson_and_Aviv_Geffen1-Blackfield_Concert-ren-20070310.jpg",
+        "https://www.mikeroberto.com/pics/Blackfield_Concert/Aviv_Geffen1-Blackfield_Concert-20070310.jpg",
+        "https://www.mikeroberto.com/pics/Blackfield_Concert/Blackfield-Blackfield_Concert-20070310.jpg"
+      ],
+      "comments": 3,
+      "original_url": "https://www.mikeroberto.com/2007/concert-review-blackfield-the-knitting-factory-hollywood-ca"
+    },
+    {
+      "filename": "guest-writer-brian-music-review-dark-tranquillity-fiction.md",
+      "title": "Guest Writer Brian - Music Review:  Dark Tranquillity - Fiction",
+      "date": "2007-03-19",
+      "slug": "guest-writer-brian-music-review-dark-tranquillity-fiction",
+      "year": 2007,
+      "categories": [
+        "Guest Writers",
+        "Music Reviews"
+      ],
+      "tags": [],
+      "images": [
+        "http://upload.wikimedia.org/wikipedia/en/thumb/0/03/Fiction-1-.jpg/200px-Fiction-1-.jpg",
+        "http://www.kickedintheface.com/interviews/images/Dark%20Tranquillity%20pic%201.jpg"
+      ],
+      "comments": 2,
+      "original_url": "https://www.mikeroberto.com/2007/guest-writer-brian-music-review-dark-tranquillity-fiction"
+    },
+    {
+      "filename": "rip-berto.md",
+      "title": "RIP \"berto\"",
+      "date": "2007-05-03",
+      "slug": "rip-berto",
+      "year": 2007,
+      "categories": [
+        "Life, The Universe, and Everything",
+        "Technology"
+      ],
+      "tags": [],
+      "images": [
+        "https://www.mikeroberto.com/pics/RIP_Berto-300.jpg",
+        "https://www.mikeroberto.com/pics/apk.gif",
+        "https://www.mikeroberto.com/pics/Bertocam-JelloShots.jpg",
+        "https://www.mikeroberto.com/pics/Bertocam-GingoJonJer.jpg",
+        "https://www.mikeroberto.com/pics/Bertocam-OSUvsMich5.jpg"
+      ],
+      "comments": 7,
+      "original_url": "https://www.mikeroberto.com/2007/rip-berto"
+    },
+    {
+      "filename": "hostel-review-cuesta-arriba-in-santa-teresa-costa-rica.md",
+      "title": "Hostel Review:  Cuesta Arriba in Santa Teresa, Costa Rica",
+      "date": "2007-06-03",
+      "slug": "hostel-review-cuesta-arriba-in-santa-teresa-costa-rica",
+      "year": 2007,
+      "categories": [
+        "Travels"
+      ],
+      "tags": [],
+      "images": [],
+      "comments": 1,
+      "original_url": "https://www.mikeroberto.com/2007/hostel-review-cuesta-arriba-in-santa-teresa-costa-rica"
+    },
+    {
+      "filename": "concert-review-clutch-at-the-roxy-theatre-hollywood-ca-052407.md",
+      "title": "Concert Review - Clutch at the Roxy Theatre, Hollywood CA - 05/24/07",
+      "date": "2007-06-06",
+      "slug": "concert-review-clutch-at-the-roxy-theatre-hollywood-ca-052407",
+      "year": 2007,
+      "categories": [
+        "Music Reviews"
+      ],
+      "tags": [],
+      "images": [
+        "http://www.bertopics.com/d/16604-3/Clutch01-Los_Angeles-20070525.jpg",
+        "http://www.bertopics.com/d/16660-3/Clutch12-Los_Angeles-20070525.jpg",
+        "http://www.bertopics.com/d/16670-5/Clutch14-Los_Angeles-20070525.jpg",
+        "http://www.bertopics.com/d/16685-3/Clutch17-Los_Angeles-20070525.jpg"
+      ],
+      "comments": 1,
+      "original_url": "https://www.mikeroberto.com/2007/concert-review-clutch-at-the-roxy-theatre-hollywood-ca-052407"
+    },
+    {
+      "filename": "the-2008-cleveland-prophecy.md",
+      "title": "The 2008 Cleveland Prophecy",
+      "date": "2007-06-14",
+      "slug": "the-2008-cleveland-prophecy",
+      "year": 2007,
+      "categories": [
+        "HUMILIATIONS",
+        "Rants",
+        "Sports"
+      ],
+      "tags": [],
+      "images": [
+        "http://upload.wikimedia.org/wikipedia/en/0/06/The_Catch.png",
+        "http://i58.photobucket.com/albums/g278/MicroBerto/10_cent_beer_night.jpg",
+        "http://espn.go.com/media/classic/2000/1219/photo/s_elway2_i.jpg",
+        "http://upload.wikimedia.org/wikipedia/en/d/dd/MJ_shot.JPG",
+        "http://i.a.cnn.net/si/2006/writers/arash_markazi/11/10/lebron/p1_lebron1.jpg"
+      ],
+      "comments": 10,
+      "original_url": "https://www.mikeroberto.com/2007/the-2008-cleveland-prophecy"
+    },
+    {
+      "filename": "album-review-sixx-am-the-heroin-diaries-2007.md",
+      "title": "Album Review:  Sixx: A.M. - The Heroin Diaries (2007)",
+      "date": "2007-08-25",
+      "slug": "album-review-sixx-am-the-heroin-diaries-2007",
+      "year": 2007,
+      "categories": [
+        "Music Reviews"
+      ],
+      "tags": [],
+      "images": [
+        "http://i7.photobucket.com/albums/y278/sixxlover60/ce5957b5.jpg",
+        "http://a956.ac-images.myspacecdn.com/images01/62/m_a00d8b56208cd73559429fcc981211e3.jpg",
+        "http://ec1.images-amazon.com/images/I/61cWh%2BFxbdL._AA240_.jpg"
+      ],
+      "comments": 5,
+      "original_url": "https://www.mikeroberto.com/2007/album-review-sixx-am-the-heroin-diaries-2007"
+    },
+    {
+      "filename": "on-strike-with-the-writers-guild-of-america.md",
+      "title": "On Strike With the Writer's Guild of America",
+      "date": "2007-11-27",
+      "slug": "on-strike-with-the-writers-guild-of-america",
+      "year": 2007,
+      "categories": [
+        "Current Events",
+        "Politics",
+        "Rants",
+        "TV"
+      ],
+      "tags": [],
+      "images": [
+        "http://www.bertopics.com/d/18155-2/Sarah_Watson-Mike_Roberto-Writers_Guild_Strike-20071127.jpg",
+        "http://www.bertopics.com/d/18161-2/Writers_Guild_Strike1-20071127.jpg",
+        "http://upload.wikimedia.org/wikipedia/en/3/3a/WGA_logo.png"
+      ],
+      "comments": 3,
+      "original_url": "https://www.mikeroberto.com/2007/on-strike-with-the-writers-guild-of-america"
+    },
+    {
+      "filename": "bertos-pre-surfing-workout-for-lon.md",
+      "title": "Berto's Pre-Surfing Workout For Lon",
+      "date": "2007-12-12",
+      "slug": "bertos-pre-surfing-workout-for-lon",
+      "year": 2007,
+      "categories": [
+        "Fitness",
+        "Sports"
+      ],
+      "tags": [],
+      "images": [
+        "http://shinymedia.blogs.com/photos/uncategorized/ollypop.jpg",
+        "https://www.mikeroberto.com/Gonna_Miss_Austin/Lon-Rafters-thumb.jpg",
+        "http://farm3.static.flickr.com/2181/2051667220_cc179b6670_m.jpg",
+        "http://www.af.mil/shared/media/photodb/photos/070326-F-0809C-222.jpg"
+      ],
+      "comments": 3,
+      "original_url": "https://www.mikeroberto.com/2007/bertos-pre-surfing-workout-for-lon"
+    },
+    {
+      "filename": "my-top-15-albums-of-2007.md",
+      "title": "My Top 15 Albums of 2007",
+      "date": "2008-01-02",
+      "slug": "my-top-15-albums-of-2007",
+      "year": 2008,
+      "categories": [
+        "Music Reviews"
+      ],
+      "tags": [],
+      "images": [
+        "http://www.assoc-amazon.com/e/ir?t=mikrobsblo-20&l=ur2&o=1",
+        "http://ecx.images-amazon.com/images/I/61cWh%2BFxbdL._AA240_.jpg",
+        "http://www.assoc-amazon.com/e/ir?t=mikrobsblo-20&l=ur2&o=1",
+        "http://www.assoc-amazon.com/e/ir?t=mikrobsblo-20&l=ur2&o=1",
+        "http://ecx.images-amazon.com/images/I/51qwJ1AatgL._AA240_.jpg",
+        "http://www.assoc-amazon.com/e/ir?t=mikrobsblo-20&l=ur2&o=1",
+        "http://www.assoc-amazon.com/e/ir?t=mikrobsblo-20&l=ur2&o=1",
+        "http://www.assoc-amazon.com/e/ir?t=mikrobsblo-20&l=ur2&o=1",
+        "http://ecx.images-amazon.com/images/I/618mmA3YQtL._AA240_.jpg",
+        "http://www.assoc-amazon.com/e/ir?t=mikrobsblo-20&l=ur2&o=1",
+        "http://www.assoc-amazon.com/e/ir?t=mikrobsblo-20&l=ur2&o=1",
+        "http://ecx.images-amazon.com/images/I/51pvEE9tX%2BL._AA240_.jpg",
+        "http://www.assoc-amazon.com/e/ir?t=mikrobsblo-20&l=ur2&o=1",
+        "http://ecx.images-amazon.com/images/I/51r-20zk8iL._AA240_.jpg",
+        "http://www.assoc-amazon.com/e/ir?t=mikrobsblo-20&l=ur2&o=1",
+        "http://www.assoc-amazon.com/e/ir?t=mikrobsblo-20&l=ur2&o=1",
+        "http://www.assoc-amazon.com/e/ir?t=mikrobsblo-20&l=ur2&o=1",
+        "http://ecx.images-amazon.com/images/I/41iG8bTQnCL._AA240_.jpg",
+        "http://www.assoc-amazon.com/e/ir?t=mikrobsblo-20&l=ur2&o=1",
+        "http://www.assoc-amazon.com/e/ir?t=mikrobsblo-20&l=ur2&o=1",
+        "http://www.assoc-amazon.com/e/ir?t=mikrobsblo-20&l=ur2&o=1",
+        "http://g-ecx.images-amazon.com/images/G/01/ciu/e4/2b/efbe53a09da00fbf6dd35110._AA150_.L.jpg",
+        "http://www.assoc-amazon.com/e/ir?t=mikrobsblo-20&l=ur2&o=1",
+        "http://www.assoc-amazon.com/e/ir?t=mikrobsblo-20&l=ur2&o=1",
+        "http://www.assoc-amazon.com/e/ir?t=mikrobsblo-20&l=ur2&o=1",
+        "http://www.assoc-amazon.com/e/ir?t=mikrobsblo-20&l=ur2&o=1",
+        "http://www.assoc-amazon.com/e/ir?t=mikrobsblo-20&l=ur2&o=1",
+        "http://www.assoc-amazon.com/e/ir?t=mikrobsblo-20&l=ur2&o=1",
+        "http://www.assoc-amazon.com/e/ir?t=mikrobsblo-20&l=ur2&o=1",
+        "http://www.assoc-amazon.com/e/ir?t=mikrobsblo-20&l=ur2&o=1",
+        "http://www.assoc-amazon.com/e/ir?t=mikrobsblo-20&l=ur2&o=1"
+      ],
+      "comments": 2,
+      "original_url": "https://www.mikeroberto.com/2008/my-top-15-albums-of-2007"
+    },
+    {
+      "filename": "james-laurinaitis-ohio-states-most-overrated-linebacker-ever.md",
+      "title": "James Laurinaitis:  Ohio State's Most Overrated Linebacker Ever",
+      "date": "2008-01-14",
+      "slug": "james-laurinaitis-ohio-states-most-overrated-linebacker-ever",
+      "year": 2008,
+      "categories": [
+        "Sports"
+      ],
+      "tags": [],
+      "images": [
+        "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-01-thumb.jpg",
+        "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-02-thumb.jpg",
+        "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-03-thumb.jpg",
+        "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-04-thumb.jpg",
+        "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-05-thumb.jpg",
+        "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-06a-thumb.jpg",
+        "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-06b-thumb.jpg",
+        "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-07-thumb.jpg",
+        "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-08a-thumb.jpg",
+        "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-08b-thumb.jpg",
+        "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-09-thumb.jpg",
+        "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-10-thumb.jpg",
+        "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-11-thumb.jpg",
+        "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-12-thumb.jpg",
+        "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-13-thumb.jpg",
+        "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-14-thumb.jpg",
+        "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-15-thumb.jpg",
+        "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-16-thumb.jpg",
+        "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-17-thumb.jpg",
+        "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-18-thumb.jpg",
+        "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-19-thumb.jpg",
+        "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-20-thumb.jpg",
+        "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-21-thumb.jpg",
+        "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-22-thumb.jpg",
+        "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-23a-thumb.jpg",
+        "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-23b-thumb.jpg",
+        "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-23c-thumb.jpg",
+        "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-24-thumb.jpg",
+        "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-25-thumb.jpg",
+        "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-26-thumb.jpg",
+        "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-27-thumb.jpg",
+        "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-28-thumb.jpg",
+        "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-29-thumb.jpg",
+        "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-30-thumb.jpg",
+        "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-31a-thumb.jpg",
+        "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-31b-thumb.jpg",
+        "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-32-thumb.jpg"
+      ],
+      "comments": 34,
+      "original_url": "https://www.mikeroberto.com/2008/james-laurinaitis-ohio-states-most-overrated-linebacker-ever"
+    },
+    {
+      "filename": "fed-cuts-interest-rate-to-0-in-emergency-effort.md",
+      "title": "Fed Cuts Interest Rate to 0% In Emergency Effort",
+      "date": "2008-01-22",
+      "slug": "fed-cuts-interest-rate-to-0-in-emergency-effort",
+      "year": 2008,
+      "categories": [
+        "Investing",
+        "Rants"
+      ],
+      "tags": [],
+      "images": [],
+      "comments": 8,
+      "original_url": "https://www.mikeroberto.com/2008/fed-cuts-interest-rate-to-0-in-emergency-effort"
+    },
+    {
+      "filename": "ms-150.md",
+      "title": "My 2008 MS 150 Adventure from Houston to Austin",
+      "date": "2008-02-19",
+      "slug": "ms-150",
+      "year": 2008,
+      "categories": [
+        "Fitness",
+        "Sports",
+        "Travels"
+      ],
+      "tags": [],
+      "images": [],
+      "comments": 27,
+      "original_url": "https://www.mikeroberto.com/2008/ms-150"
+    },
+    {
+      "filename": "regarding-this-weeks-shark-attack-in-san-diego.md",
+      "title": "Regarding This Week's Shark Attack in San Diego",
+      "date": "2008-04-26",
+      "slug": "regarding-this-weeks-shark-attack-in-san-diego",
+      "year": 2008,
+      "categories": [
+        "Fitness",
+        "Life, The Universe, and Everything",
+        "Rants"
+      ],
+      "tags": [],
+      "images": [],
+      "comments": 3,
+      "original_url": "https://www.mikeroberto.com/2008/regarding-this-weeks-shark-attack-in-san-diego"
+    },
+    {
+      "filename": "the-great-unamerican-beer.md",
+      "title": "The Great Unamerican Beer",
+      "date": "2008-07-20",
+      "slug": "the-great-unamerican-beer",
+      "year": 2008,
+      "categories": [
+        "Politics",
+        "Rants"
+      ],
+      "tags": [],
+      "images": [
+        "http://c.myspace.com/Groups/00022/01/13/22663110_m.png",
+        "http://www.goldmoney.com/en/images/commentary-images/commentary-charts/alert_2008-01-02c.gif",
+        "http://www.shiner.com/beers/images/Light.gif"
+      ],
+      "comments": 7,
+      "original_url": "https://www.mikeroberto.com/2008/the-great-unamerican-beer"
+    },
+    {
+      "filename": "hammers-of-misfortune-the-august-engine-images.md",
+      "title": "Hammers of Misfortune - The August Engine - Images",
+      "date": "2008-07-25",
+      "slug": "hammers-of-misfortune-the-august-engine-images",
+      "year": 2008,
+      "categories": [
+        "Music Reviews",
+        "Technology"
+      ],
+      "tags": [],
+      "images": [
+        "http://i58.photobucket.com/albums/g278/MicroBerto/Hammers_of_Misfortune-August_Eng-2.jpg",
+        "http://i58.photobucket.com/albums/g278/MicroBerto/Hammers_of_Misfortune-August_Engine.png"
+      ],
+      "comments": 0,
+      "original_url": "https://www.mikeroberto.com/2008/hammers-of-misfortune-the-august-engine-images"
+    },
+    {
+      "filename": "never-let-defeat-have-the-last-word.md",
+      "title": "\"Never let defeat have the last word.\"",
+      "date": "2008-08-12",
+      "slug": "never-let-defeat-have-the-last-word",
+      "year": 2008,
+      "categories": [
+        "Sports"
+      ],
+      "tags": [
+        "2008 4x100 Free Relay",
+        "2008 Olympics",
+        "4x100 Freestyle Relay",
+        "Michael Phelps"
+      ],
+      "images": [
+        "http://i58.photobucket.com/albums/g278/MicroBerto/2008_Beijing_OlympicGamesSwimmingMe.jpg",
+        "http://i58.photobucket.com/albums/g278/MicroBerto/2008_Beijing_OlympicGamesSwimmin-1.jpg",
+        "http://i58.photobucket.com/albums/g278/MicroBerto/2008_Beijing_OlympicGamesSwimmin-2.jpg",
+        "http://i58.photobucket.com/albums/g278/MicroBerto/2008_Beijing_OlympicGamesSwimmin-3.jpg",
+        "http://i58.photobucket.com/albums/g278/MicroBerto/2008_Beijing_OlympicGamesSwimmin-5.jpg",
+        "http://i58.photobucket.com/albums/g278/MicroBerto/2008_Beijing_OlympicGamesSwimmin-4.jpg",
+        "http://i58.photobucket.com/albums/g278/MicroBerto/2008_Beijing_OlympicGamesSwimmin-6.jpg"
+      ],
+      "comments": 1,
+      "original_url": "https://www.mikeroberto.com/2008/never-let-defeat-have-the-last-word"
+    },
+    {
+      "filename": "how-to-buy-and-own-gold-the-laymans-guide-to-escaping-the-dollar.md",
+      "title": "How to Buy and Own Gold - The Layman's Guide to Escaping the Dollar",
+      "date": "2008-09-29",
+      "slug": "how-to-buy-and-own-gold-the-laymans-guide-to-escaping-the-dollar",
+      "year": 2008,
+      "categories": [
+        "Investing",
+        "Politics"
+      ],
+      "tags": [],
+      "images": [],
+      "comments": 8,
+      "original_url": "https://www.mikeroberto.com/2008/how-to-buy-and-own-gold-the-laymans-guide-to-escaping-the-dollar"
+    },
+    {
+      "filename": "my-top-15-albums-of-2008.md",
+      "title": "My Top 15 Albums of 2008",
+      "date": "2009-01-01",
+      "slug": "my-top-15-albums-of-2008",
+      "year": 2009,
+      "categories": [
+        "Music Reviews"
+      ],
+      "tags": [],
+      "images": [
+        "http://ecx.images-amazon.com/images/I/51jNDkoLw8L._SL500_AA240_.jpg",
+        "http://ecx.images-amazon.com/images/I/51-WqyVPyqL._SL500_AA240_.jpg",
+        "http://i135.photobucket.com/albums/q133/lisannn24k_yahoo/l_1743fe2ee5231f3debdacdf10723ad92.jpg",
+        "http://ecx.images-amazon.com/images/I/51Ivw0sAkAL._SL500_AA240_.jpg",
+        "http://g-ecx.images-amazon.com/images/G/01/ciu/cd/2d/3b94c060ada03c2bb5d9a110._AA240_.L.jpg",
+        "http://ecx.images-amazon.com/images/I/51XpfnbPusL._SL500_AA240_.jpg",
+        "http://ecx.images-amazon.com/images/I/41KbPYOrUxL._SL500_AA240_.jpg"
+      ],
+      "comments": 2,
+      "original_url": "https://www.mikeroberto.com/2009/my-top-15-albums-of-2008"
+    },
+    {
+      "filename": "disable-root-logins-in-phpmyadmin-with-ubuntu.md",
+      "title": "How to Disable Root Logins in phpmyadmin with Ubuntu",
+      "date": "2009-01-20",
+      "slug": "disable-root-logins-in-phpmyadmin-with-ubuntu",
+      "year": 2009,
+      "categories": [
+        "Technology"
+      ],
+      "tags": [],
+      "images": [],
+      "comments": 11,
+      "original_url": "https://www.mikeroberto.com/2009/disable-root-logins-in-phpmyadmin-with-ubuntu"
+    },
+    {
+      "filename": "top-15-albums-of-2009.md",
+      "title": "My Top 15 Albums of 2009",
+      "date": "2009-12-31",
+      "slug": "top-15-albums-of-2009",
+      "year": 2009,
+      "categories": [
+        "Music Reviews"
+      ],
+      "tags": [
+        "2009",
+        "Anneke Van Giersbergen",
+        "best albums of 2009",
+        "best music of 2009",
+        "best of 2009",
+        "devin townsend",
+        "top albums",
+        "top albums of 2009"
+      ],
+      "images": [
+        "http://i718.photobucket.com/albums/ww185/worldisbar/new/dtp_addicted.jpg",
+        "http://ecx.images-amazon.com/images/I/41C4QXgczML._SS400_.jpg",
+        "http://ecx.images-amazon.com/images/I/41haEs%2BWAsL._SS500_.jpg",
+        "http://www.100xr.com/100_XR/Artists/H/Hed_Pe/Hed.p.e..jpg",
+        "http://ecx.images-amazon.com/images/I/510jOoFlZLL._SL500_AA240_.jpg",
+        "http://ecx.images-amazon.com/images/I/41P%2B9tw2MML._SL500_AA240_.jpg"
+      ],
+      "comments": 3,
+      "original_url": "https://www.mikeroberto.com/2009/top-15-albums-of-2009"
+    },
+    {
+      "filename": "crash-test-spike.md",
+      "title": "Announcing Crash Test - Tues 4/27 11PM EST on Spike TV ",
+      "date": "2010-04-23",
+      "slug": "crash-test-spike",
+      "year": 2010,
+      "categories": [
+        "TV"
+      ],
+      "tags": [
+        "crash test",
+        "crash test spike",
+        "jack gill",
+        "spike tv",
+        "stunts"
+      ],
+      "images": [
+        "http://i58.photobucket.com/albums/g278/MicroBerto/th_Crash_Test-Lobby_Card-Small_v7.jpg",
+        "http://i58.photobucket.com/albums/g278/MicroBerto/th_Crash_Test-Pilot-Car_Wreck.jpg"
+      ],
+      "comments": 3,
+      "original_url": "https://www.mikeroberto.com/2010/crash-test-spike"
+    },
+    {
+      "filename": "what-i-learned-from-being-a-reality-tv-character-part-1-of-3-on-the-set.md",
+      "title": "What I Learned From Being a Reality TV Character - Part 1 of 3 - On the Set",
+      "date": "2010-08-16",
+      "slug": "what-i-learned-from-being-a-reality-tv-character-part-1-of-3-on-the-set",
+      "year": 2010,
+      "categories": [
+        "Life, The Universe, and Everything",
+        "TV"
+      ],
+      "tags": [
+        "crash test",
+        "crash test biomedical scientist",
+        "crash test spike",
+        "mike roberto biomedical scientist",
+        "mike roberto crash test",
+        "reality tv",
+        "reality tv advice",
+        "reality tv tips"
+      ],
+      "images": [],
+      "comments": 1,
+      "original_url": "https://www.mikeroberto.com/2010/what-i-learned-from-being-a-reality-tv-character-part-1-of-3-on-the-set"
+    },
+    {
+      "filename": "things-just-got-real.md",
+      "title": "IT JUST GOT REAL: Quitting My Sales Job to Start My Own Business",
+      "date": "2010-08-06",
+      "slug": "things-just-got-real",
+      "year": 2010,
+      "categories": [
+        "Entrepreneurship",
+        "Life, The Universe, and Everything"
+      ],
+      "tags": [
+        "national instruments"
+      ],
+      "images": [],
+      "comments": 4,
+      "original_url": "https://www.mikeroberto.com/2010/things-just-got-real"
+    },
+    {
+      "filename": "quitting-a-job-is-hard.md",
+      "title": "Quitting a Job is Hard",
+      "date": "2010-08-28",
+      "slug": "quitting-a-job-is-hard",
+      "year": 2010,
+      "categories": [
+        "Entrepreneurship",
+        "Life, The Universe, and Everything"
+      ],
+      "tags": [],
+      "images": [],
+      "comments": 1,
+      "original_url": "https://www.mikeroberto.com/2010/quitting-a-job-is-hard"
+    },
+    {
+      "filename": "two-paths-from-here.md",
+      "title": "Two Paths From Here",
+      "date": "2010-08-31",
+      "slug": "two-paths-from-here",
+      "year": 2010,
+      "categories": [
+        "Entrepreneurship",
+        "Life, The Universe, and Everything"
+      ],
+      "tags": [
+        "beach bum",
+        "mike roberto entrepreneur",
+        "the empire",
+        "two paths"
+      ],
+      "images": [],
+      "comments": 4,
+      "original_url": "https://www.mikeroberto.com/2010/two-paths-from-here"
+    },
+    {
+      "filename": "week-one-in-the-books.md",
+      "title": "Week One in the Books",
+      "date": "2010-09-04",
+      "slug": "week-one-in-the-books",
+      "year": 2010,
+      "categories": [
+        "Entrepreneurship"
+      ],
+      "tags": [
+        "daily routine",
+        "entrepreneur routine",
+        "first week entrepreneur"
+      ],
+      "images": [],
+      "comments": 2,
+      "original_url": "https://www.mikeroberto.com/2010/week-one-in-the-books"
+    },
+    {
+      "filename": "my-mission-statement.md",
+      "title": "My 2010 Mission Statement",
+      "date": "2010-10-13",
+      "slug": "my-mission-statement",
+      "year": 2010,
+      "categories": [
+        "Entrepreneurship"
+      ],
+      "tags": [
+        "entrepreneurial mission statement",
+        "mike roberto mission",
+        "mike roberto mission statement",
+        "mission statement",
+        "my mission statement"
+      ],
+      "images": [],
+      "comments": 0,
+      "original_url": "https://www.mikeroberto.com/2010/my-mission-statement"
+    },
+    {
+      "filename": "you-cant-live-the-american-dream-in-europe.md",
+      "title": "You Can't Live the American Dream in Europe",
+      "date": "2010-10-22",
+      "slug": "you-cant-live-the-american-dream-in-europe",
+      "year": 2010,
+      "categories": [
+        "Entrepreneurship",
+        "Politics",
+        "Travels"
+      ],
+      "tags": [
+        "entrepreneur europe"
+      ],
+      "images": [],
+      "comments": 1,
+      "original_url": "https://www.mikeroberto.com/2010/you-cant-live-the-american-dream-in-europe"
+    },
+    {
+      "filename": "spacex-falcon-9-success-meaning.md",
+      "title": "What the SpaceX Falcon 9 Launch Success Means to America",
+      "date": "2010-12-09",
+      "slug": "spacex-falcon-9-success-meaning",
+      "year": 2010,
+      "categories": [
+        "Current Events",
+        "Entrepreneurship",
+        "Politics",
+        "Rants",
+        "Technology"
+      ],
+      "tags": [
+        "nasa",
+        "nasa constellation",
+        "space privatization",
+        "spacex",
+        "spacex cots",
+        "spacex falcon 9",
+        "spacex falcon 9 launch",
+        "spacex nasa"
+      ],
+      "images": [],
+      "comments": 3,
+      "original_url": "https://www.mikeroberto.com/2010/spacex-falcon-9-success-meaning"
+    },
+    {
+      "filename": "best-metal-albums-2016.md",
+      "title": "The Best Metal Albums of 2016",
+      "date": "2017-01-27",
+      "slug": "best-metal-albums-2016",
+      "year": 2017,
+      "categories": [
+        "Guest Writers",
+        "Music Reviews"
+      ],
+      "tags": [
+        "Amon Amarth",
+        "Blues Pills",
+        "Charred Walls of the Damned",
+        "Death Angel",
+        "devin townsend",
+        "Fates Warning",
+        "Flotsam and Jetsam",
+        "Gojira",
+        "Hammers of Misfortune",
+        "Ihsahn",
+        "In the Woods...",
+        "Insomnium",
+        "Katatonia",
+        "Lemmy",
+        "Metal Church",
+        "Metallica",
+        "Pain",
+        "Redemption",
+        "Subrosa",
+        "Suicidal Tendencies",
+        "Trees of Eternity",
+        "Volbeat"
+      ],
+      "images": [],
+      "comments": 0,
+      "original_url": "https://www.mikeroberto.com/2017/best-metal-albums-2016"
+    },
+    {
+      "filename": "best-man-speech.md",
+      "title": "My Best Man Speech for My Brother Nick",
+      "date": "2017-06-01",
+      "slug": "best-man-speech",
+      "year": 2017,
+      "categories": [
+        "Life, The Universe, and Everything",
+        "Sports"
+      ],
+      "tags": [
+        "Cleveland",
+        "Cleveland Cavaliers",
+        "Cleveland Indians"
+      ],
+      "images": [],
+      "comments": 1,
+      "original_url": "https://www.mikeroberto.com/2017/best-man-speech"
+    },
+    {
+      "filename": "diet-soda-weight-loss-research-flawed.md",
+      "title": "Why the New Diet Soda Weight Loss Study is Flawed to the Core",
+      "date": "2014-05-30",
+      "slug": "diet-soda-weight-loss-research-flawed",
+      "year": 2014,
+      "categories": [
+        "Diet Research"
+      ],
+      "tags": [
+        "Sweeteners",
+        "Weight Loss"
+      ],
+      "images": [],
+      "comments": 0,
+      "original_url": "https://www.mikeroberto.com/2014/diet-soda-weight-loss-research-flawed"
+    },
+    {
+      "filename": "keto-diet-review.md",
+      "title": "My Keto Diet Review from 2019: Thoughts After Three Years, Now Evolved",
+      "date": "2019-06-09",
+      "slug": "keto-diet-review",
+      "year": 2019,
+      "categories": [
+        "Diet Research"
+      ],
+      "tags": [],
+      "images": [],
+      "comments": 2,
+      "original_url": "https://www.mikeroberto.com/2019/keto-diet-review"
+    },
+    {
+      "filename": "autism-seed-oils.md",
+      "title": "Autism Cause THEORY: Is the Increase in Autism from SEED Oils?",
+      "date": "2018-06-19",
+      "slug": "autism-seed-oils",
+      "year": 2018,
+      "categories": [
+        "Diet Research"
+      ],
+      "tags": [
+        "Antibiotics",
+        "Autism",
+        "Baby Formula",
+        "Canola Oil",
+        "Corn Oil",
+        "Cottonseed Oil",
+        "Dr. Suzanne Humphries",
+        "Inflammation",
+        "Linoleic Acid",
+        "Linseed Oil",
+        "Oxidative Stress",
+        "Processed Seed Oils",
+        "Safflower Oil",
+        "Soybean Oil",
+        "Sunflower Oil",
+        "Tucker Goodrich",
+        "Vegetable Oil"
+      ],
+      "images": [],
+      "comments": 1,
+      "original_url": "https://www.mikeroberto.com/2018/autism-seed-oils"
+    },
+    {
+      "filename": "kevin-love-diet.md",
+      "title": "Kevin Love's Diet: When Weight Loss Weakens You",
+      "date": "2016-06-15",
+      "slug": "kevin-love-diet",
+      "year": 2016,
+      "categories": [
+        "Diet Research"
+      ],
+      "tags": [
+        "Basketball",
+        "Metabolism",
+        "Protein",
+        "Saturated Fat"
+      ],
+      "images": [],
+      "comments": 0,
+      "original_url": "https://www.mikeroberto.com/2016/kevin-love-diet"
+    },
+    {
+      "filename": "biggest-loser-study.md",
+      "title": "Study Shows \"The Biggest Loser\" *IS* the Big Loser",
+      "date": "2016-05-06",
+      "slug": "biggest-loser-study",
+      "year": 2016,
+      "categories": [
+        "Diet Research"
+      ],
+      "tags": [
+        "Leptin",
+        "Weight Loss"
+      ],
+      "images": [],
+      "comments": 0,
+      "original_url": "https://www.mikeroberto.com/2016/biggest-loser-study"
+    },
+    {
+      "filename": "carbs-fats-brain.md",
+      "title": "Is the Combo of Carbs and Fats Duping Your Brain.. and Diet?",
+      "date": "2018-06-22",
+      "slug": "carbs-fats-brain",
+      "year": 2018,
+      "categories": [
+        "Diet Research"
+      ],
+      "tags": [
+        "Calories",
+        "Carbohydrates",
+        "Cian Foley",
+        "Fat",
+        "Hyperphasia",
+        "Low Carb",
+        "Low Fat Diet"
+      ],
+      "images": [],
+      "comments": 0,
+      "original_url": "https://www.mikeroberto.com/2018/carbs-fats-brain"
+    },
+    {
+      "filename": "soybean-oil-gut-microbiome.md",
+      "title": "Soybean Oil WRECKS the Gut Microbiome.. But They Won't Tell You That",
+      "date": "2019-02-21",
+      "slug": "soybean-oil-gut-microbiome",
+      "year": 2019,
+      "categories": [
+        "Diet Research"
+      ],
+      "tags": [
+        "Alistipes",
+        "Alzheimer's Disease",
+        "Arachidonic Acid",
+        "Autoimmune Disease",
+        "Autumnal Eating",
+        "Bacteroides",
+        "Blautia",
+        "Butyric Acid",
+        "Cardiovascular Disease",
+        "Diabetes",
+        "Faecalibacterium",
+        "Inflammation",
+        "Inflammatory Bowel Disease",
+        "Low Fat Diet",
+        "Nonalcoholic Fatty Liver Disease",
+        "Obesity",
+        "Omega-6 Fatty Acids",
+        "Palmitic Acid",
+        "Polyunsaturated Fat",
+        "Processed Seed Oils",
+        "Protein Leverage Hypothesis",
+        "Soybean Oil"
+      ],
+      "images": [],
+      "comments": 1,
+      "original_url": "https://www.mikeroberto.com/2019/soybean-oil-gut-microbiome"
+    },
+    {
+      "filename": "high-protein-kidney.md",
+      "title": "High Protein Diets Do NOT Cause Kidney Issues: Meta-Analysis",
+      "date": "2019-03-13",
+      "slug": "high-protein-kidney",
+      "year": 2019,
+      "categories": [
+        "Diet Research"
+      ],
+      "tags": [
+        "Glomerular Filtration Rate",
+        "Jose Antonio",
+        "Kidneys",
+        "McMaster University",
+        "Protein",
+        "Protein Powder",
+        "Robert Morton",
+        "Stuart Phillips",
+        "Whey Protein"
+      ],
+      "images": [],
+      "comments": 0,
+      "original_url": "https://www.mikeroberto.com/2019/high-protein-kidney"
+    },
+    {
+      "filename": "blue-zones-fraud.md",
+      "title": "Are Blue Zones Based Upon FRAUD? New Research May Suggest\u2026",
+      "date": "2019-08-09",
+      "slug": "blue-zones-fraud",
+      "year": 2019,
+      "categories": [
+        "Diet Research"
+      ],
+      "tags": [
+        "Anti-Aging",
+        "Longevity",
+        "Mediterranean Diet"
+      ],
+      "images": [],
+      "comments": 3,
+      "original_url": "https://www.mikeroberto.com/2019/blue-zones-fraud"
+    },
+    {
+      "filename": "blood-work-july-2024.md",
+      "title": "My Blood Work After 1.5 Years on a Low Vitamin A Diet: The Good, The Bad, and The Ugly",
+      "date": "2024-07-27",
+      "slug": "blood-work-july-2024",
+      "year": 2024,
+      "categories": [
+        "Fitness",
+        "Life, The Universe, and Everything"
+      ],
+      "tags": [],
+      "images": [
+        "https://blog.priceplow.com/wp-content/uploads/framingham-study-cholesterol-risk-factors-improved-low-carb.png"
+      ],
+      "comments": 3,
+      "original_url": "https://www.mikeroberto.com/2024/blood-work-july-2024"
+    },
+    {
+      "filename": "class-of-2000.md",
+      "title": "Class of 2000: The Final Boarding Call Before the Chaos",
+      "date": "2025-09-17",
+      "slug": "class-of-2000",
+      "year": 2025,
+      "categories": [
+        "Current Events",
+        "Life, The Universe, and Everything",
+        "Rants",
+        "Technology"
+      ],
+      "tags": [
+        "Processed Seed Oils"
+      ],
+      "images": [
+        "https://www.mikeroberto.com/wp-content/uploads/class-of-2000-25-years.png"
+      ],
+      "comments": 4,
+      "original_url": "https://www.mikeroberto.com/2025/class-of-2000"
+    }
+  ]
+}
