@@ -22,3 +22,7 @@ pnpm-debug.log*
 pnpm-lock.yaml
 
 .astro
+# WordPress migration files (too large for git)
+migration-tools/*.xml
+migration-tools/*.json
+migration-tools/redirection-*.json
