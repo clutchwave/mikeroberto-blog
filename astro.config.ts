@@ -72,7 +72,17 @@ export default defineConfig({
   ],
 
   image: {
-    domains: ['cdn.pixabay.com'],
+    domains: ['cdn.pixabay.com', 'www.mikeroberto.com'],
+    remotePatterns: [
+      {
+        protocol: "https",
+        hostname: "www.mikeroberto.com"
+      },
+      {
+        protocol: "https",
+        hostname: "cdn.pixabay.com"
+      }
+    ]
   },
 
   markdown: {

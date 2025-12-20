@@ -1,35 +1,34 @@
 ---
 publishDate: 2018-06-19
-title: "Autism Cause THEORY: Is the Increase in Autism from SEED Oils?"
-excerpt: "Disclaimer: The following article is an untested theory based upon a small amount of research involving correlational data. I'm not expanding on this idea, as..."
-category: "Diet Research"
+title: 'Autism Cause THEORY: Is the Increase in Autism from SEED Oils?'
+excerpt: 'Disclaimer: The following article is an untested theory based upon a small amount of research involving correlational data. I''m not expanding on this idea, as...'
+category: Diet Research
 tags:
-  - "Antibiotics"
-  - "Autism"
-  - "Baby Formula"
-  - "Canola Oil"
-  - "Corn Oil"
-  - "Cottonseed Oil"
-  - "Dr. Suzanne Humphries"
-  - "Inflammation"
-  - "Linoleic Acid"
-  - "Linseed Oil"
-  - "Oxidative Stress"
-  - "Processed Seed Oils"
-  - "Safflower Oil"
-  - "Soybean Oil"
-  - "Sunflower Oil"
-  - "Tucker Goodrich"
-  - "Vegetable Oil"
-author: "Mike Roberto"
-wpSlug: "autism-seed-oils"
+- Antibiotics
+- Autism
+- Baby Formula
+- Canola Oil
+- Corn Oil
+- Cottonseed Oil
+- Dr. Suzanne Humphries
+- Inflammation
+- Linoleic Acid
+- Linseed Oil
+- Oxidative Stress
+- Processed Seed Oils
+- Safflower Oil
+- Soybean Oil
+- Sunflower Oil
+- Tucker Goodrich
+- Vegetable Oil
+author: Mike Roberto
+wpSlug: autism-seed-oils
 wpYear: 2018
 comments_count: 1
-image: "https://www.mikeroberto.com/wp-content/uploads/autism-and-canola-oil.png"
+image: https://www.mikeroberto.com/wp-content/uploads/autism-and-canola-oil.png
 metadata:
-  canonical: "https://www.mikeroberto.com/2018/autism-seed-oils"
+  canonical: https://www.mikeroberto.com/2018/autism-seed-oils
 ---
-
 *Disclaimer:* The following article is an untested *theory* based upon a small amount of research involving *correlational* data.
 
 I'm not expanding on this idea, as it is not my fight to fight, but I wanted to publish the article and video to put the theory out into the "Internet ether", since I believe it to be closer to the truth than any other theory, and I know many unfortunate individuals are out there looking for answers when none others have sufficed.
@@ -113,7 +112,7 @@ But what's this have to do with autism?
 Now take a look at what's happened since processed seed oils have become ubiquitous in our food supply. Their increased usage -- namely **canola oil** -- also correlates *very* tightly with the rising rates of autism:
 
 <figure class="aligncenter">
-  <a href="https://www.mikeroberto.com/wp-content/uploads/autism-and-canola-oil.png"><img src="https://www.mikeroberto.com/wp-content/uploads/autism-and-canola-oil.png" alt="Autism and Canola Oil" width="404" height="533" class="size-full wp-image-39486" data-wp-pid="39486" /></a>
+  <a href="/images/autism-and-canola-oil.png"><img src="/images/autism-and-canola-oil.png" alt="Autism and Canola Oil" width="404" height="533" class="size-full wp-image-39486" data-wp-pid="39486" /></a>
   <figcaption>Since the introduction of <em>Canola Oil</em> in 1985, literally <em>nothing</em> has gone right for us. That includes exploding rates of autism. Is there a connection? I believe there is.</figcaption>
 </figure>
 

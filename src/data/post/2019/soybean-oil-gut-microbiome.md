@@ -1,46 +1,45 @@
 ---
 publishDate: 2019-02-21
-title: "Soybean Oil WRECKS the Gut Microbiome.. But They Won't Tell You That"
-excerpt: "Soybean Oil has been shown to damage the gut microbiome in a new 6 month research study in China. But that's not exactly how they're positioning it..."
-category: "Diet Research"
+title: Soybean Oil WRECKS the Gut Microbiome.. But They Won't Tell You That
+excerpt: Soybean Oil has been shown to damage the gut microbiome in a new 6 month research study in China. But that's not exactly how they're positioning it...
+category: Diet Research
 tags:
-  - "Alistipes"
-  - "Alzheimer's Disease"
-  - "Arachidonic Acid"
-  - "Autoimmune Disease"
-  - "Autumnal Eating"
-  - "Bacteroides"
-  - "Blautia"
-  - "Butyric Acid"
-  - "Cardiovascular Disease"
-  - "Diabetes"
-  - "Faecalibacterium"
-  - "Inflammation"
-  - "Inflammatory Bowel Disease"
-  - "Low Fat Diet"
-  - "Nonalcoholic Fatty Liver Disease"
-  - "Obesity"
-  - "Omega-6 Fatty Acids"
-  - "Palmitic Acid"
-  - "Polyunsaturated Fat"
-  - "Processed Seed Oils"
-  - "Protein Leverage Hypothesis"
-  - "Soybean Oil"
-author: "Mike Roberto"
-wpSlug: "soybean-oil-gut-microbiome"
+- Alistipes
+- Alzheimer's Disease
+- Arachidonic Acid
+- Autoimmune Disease
+- Autumnal Eating
+- Bacteroides
+- Blautia
+- Butyric Acid
+- Cardiovascular Disease
+- Diabetes
+- Faecalibacterium
+- Inflammation
+- Inflammatory Bowel Disease
+- Low Fat Diet
+- Nonalcoholic Fatty Liver Disease
+- Obesity
+- Omega-6 Fatty Acids
+- Palmitic Acid
+- Polyunsaturated Fat
+- Processed Seed Oils
+- Protein Leverage Hypothesis
+- Soybean Oil
+author: Mike Roberto
+wpSlug: soybean-oil-gut-microbiome
 wpYear: 2019
 comments_count: 1
-image: "https://www.mikeroberto.com/wp-content/uploads/soybean-oil-scandal.png"
+image: https://www.mikeroberto.com/wp-content/uploads/soybean-oil-scandal.png
 metadata:
-  canonical: "https://www.mikeroberto.com/2019/soybean-oil-gut-microbiome"
+  canonical: https://www.mikeroberto.com/2019/soybean-oil-gut-microbiome
 ---
-
 For years, the most well-researched members of the diet community have warned of the dangers of omega-6 polyunsaturated fatty acids (PUFAs) such as **soybean oil**, given their high propensity for inflammation, obesity, and disease. A six month, randomized controlled diet study run in China has given new evidence for those warnings, as **a diet high in soybean oil significantly damaged the gut microbiome** in participants.[1]
 
 ## The soybean study scandal
 
 <figure class="alignright">
-  <a href="https://www.mikeroberto.com/wp-content/uploads/soybean-oil-scandal.png" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/soybean-oil-scandal-300x300.png" alt="Soybean Oil Scandal" width="300" height="300" class="size-medium wp-image-37477" data-wp-pid="37477"></a>
+  <a href="/images/soybean-oil-scandal.png" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/soybean-oil-scandal-300x300.png" alt="Soybean Oil Scandal" width="300" height="300" class="size-medium wp-image-37477" data-wp-pid="37477"></a>
   <figcaption>A new study has shown us that soybean oil is <em>disastrous</em> for the gut microbiome and slows weight loss. But that's not exactly how they're 'selling' it...</figcaption>
 </figure>
 
@@ -93,7 +92,7 @@ Given this statement, **the study's title is extremely misleading**. What we're 
 As mentioned above, the researchers largely used **soybean oil** to increase fat calories.
 
 <figure class="alignleft">
-  <a href="https://www.mikeroberto.com/wp-content/uploads/soybean-oil.jpg" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/soybean-oil-300x198.jpg" alt="Soybean Oil" width="300" height="198" class="size-medium wp-image-37479" data-wp-pid="37479"></a>
+  <a href="/images/soybean-oil.jpg" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/soybean-oil-300x198.jpg" alt="Soybean Oil" width="300" height="198" class="size-medium wp-image-37479" data-wp-pid="37479"></a>
   <figcaption>This is not a vegetable. And it's loaded with unstable omega-6 polyunsaturated fatty acids that are <em>terrible</em> for heating/cooking! Image courtesy Wikimedia</figcaption>
 </figure>
 
@@ -108,7 +107,7 @@ In 2012, research showed that diets high in omega-6 polyunsaturated fatty acids 
 ### A "cooking oil" that oxidizes when heated?!
 
 <figure class="alignright">
-  <a href="https://www.mikeroberto.com/wp-content/uploads/omega-6-polyunsaturated-fatty-acid-dangers.png" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/omega-6-polyunsaturated-fatty-acid-dangers-300x216.png" alt="Omega-6 Polyunsaturated Fatty Acid Dangers" width="300" height="216" class="size-medium wp-image-37484" data-wp-pid="37484"></a>
+  <a href="/images/omega-6-polyunsaturated-fatty-acid-dangers.png" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/omega-6-polyunsaturated-fatty-acid-dangers-300x216.png" alt="Omega-6 Polyunsaturated Fatty Acid Dangers" width="300" height="216" class="size-medium wp-image-37484" data-wp-pid="37484"></a>
   <figcaption>Eating this stuff (especially when heating it) is known to be extremely dangerous. So why would the researchers load participants up with as much as 24% of their diets with it?![4]</figcaption>
 </figure>
 
@@ -153,7 +152,7 @@ Now, the bad news for the poor soybean oil groups:
 The "higher", moderate fat diets had a significant decrease in *Blautia* and *Faecalibacterium*. *Blautia* is a group of bacteria containing various beneficial pro-acetate and pro-butyrate strains, and type-II diabetics are generally lower in them. *Faecalibacterium* is a well-known, important bacteria that is anti-inflammatory.
 
 <figure class="aligncenter">
-  <a href="https://www.mikeroberto.com/wp-content/uploads/soybean-oil-gut-bacteria.png" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/soybean-oil-gut-bacteria-625x167.png" alt="Soybean Oil Gut Bacteria" width="625" height="167" class="size-large wp-image-37487" data-wp-pid="37487"></a>
+  <a href="/images/soybean-oil-gut-bacteria.png" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/soybean-oil-gut-bacteria-625x167.png" alt="Soybean Oil Gut Bacteria" width="625" height="167" class="size-large wp-image-37487" data-wp-pid="37487"></a>
   <figcaption>Healthy bacteria down, inflammatory bacteria up.[1] Would <em>all</em> dietary fats behave like this, though? We think not.</figcaption>
 </figure>
 
@@ -164,7 +163,7 @@ Simultaneously, the soybean group had an increase in the abundance of *Alistipes
 Inflammation markers fared no better. The groups receiving greater amounts of soybean oil had decreased short-chain fatty acids such as butyric acid, a highly-beneficial compound.
 
 <figure class="alignright">
-  <a href="https://www.mikeroberto.com/wp-content/uploads/soybean-oil-inflammation-1.png" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/soybean-oil-inflammation-1-300x309.png" alt="Soybean Oil Inflammation" width="300" height="309" class="size-medium wp-image-37482" data-wp-pid="37482"></a>
+  <a href="/images/soybean-oil-inflammation-1.png" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/soybean-oil-inflammation-1-300x309.png" alt="Soybean Oil Inflammation" width="300" height="309" class="size-medium wp-image-37482" data-wp-pid="37482"></a>
   <figcaption>One example of how it happens. The main constituent breaks down into known inflammatory acids that general dieters do <em>not</em> need more of.</figcaption>
 </figure>
 
@@ -187,7 +186,7 @@ Those who adhere to *actual* low-carbohydrate diets (eg. less than 10% energy fr
  	- **The "higher fat" group was *definitely* not a high-fat diet!**
 
 <figure class="alignleft">
-  <a href="https://www.mikeroberto.com/wp-content/uploads/cooking-oil.jpg" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/cooking-oil-300x225.jpg" alt="Cooking Oil" width="300" height="225" class="size-medium wp-image-37490" data-wp-pid="37490"></a>
+  <a href="/images/cooking-oil.jpg" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/cooking-oil-300x225.jpg" alt="Cooking Oil" width="300" height="225" class="size-medium wp-image-37490" data-wp-pid="37490"></a>
   <figcaption>Another note. Let's not confuse "Cooking Oil" with actual <em>Fat</em> from <em>food</em>. Image courtesy Wikimedia</figcaption>
 </figure>
 

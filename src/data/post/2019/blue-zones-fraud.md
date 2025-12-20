@@ -1,27 +1,26 @@
 ---
 publishDate: 2019-08-09
-title: "Are Blue Zones Based Upon FRAUD? New Research May Suggest…"
-excerpt: "Imagine this. You were born in 1925 in a rural area in Italy and have no birth certificate. It's now 1965, so you're 40 years old. You know that pensions are..."
-category: "Diet Research"
+title: Are Blue Zones Based Upon FRAUD? New Research May Suggest…
+excerpt: Imagine this. You were born in 1925 in a rural area in Italy and have no birth certificate. It's now 1965, so you're 40 years old. You know that pensions are...
+category: Diet Research
 tags:
-  - "Anti-Aging"
-  - "Longevity"
-  - "Mediterranean Diet"
-author: "Mike Roberto"
-wpSlug: "blue-zones-fraud"
+- Anti-Aging
+- Longevity
+- Mediterranean Diet
+author: Mike Roberto
+wpSlug: blue-zones-fraud
 wpYear: 2019
 comments_count: 3
-image: "https://www.mikeroberto.com/wp-content/uploads/blue-zones.png"
+image: https://www.mikeroberto.com/wp-content/uploads/blue-zones.png
 metadata:
-  canonical: "https://www.mikeroberto.com/2019/blue-zones-fraud"
+  canonical: https://www.mikeroberto.com/2019/blue-zones-fraud
 ---
-
 Imagine this. You were born in 1925 in a rural area in Italy and have no birth certificate. It's now 1965, so you're 40 years old. You know that pensions are given to those who are 60 or older. You're poor, uneducated, and have just about nothing to lose.
 
 Knowing that you don't really exist on paper, you submit pension paperwork stating you were born in *1905*. What's the worst that can happen?
 
 <figure class="alignright">
-  <a href="https://www.mikeroberto.com/wp-content/uploads/blue-zones.png"><img src="https://www.mikeroberto.com/wp-content/uploads/blue-zones-300x300.png" alt="Blue Zones" width="300" height="300" class="size-medium wp-image-40256" data-wp-pid="40256" /></a>
+  <a href="/images/blue-zones.png"><img src="https://www.mikeroberto.com/wp-content/uploads/blue-zones-300x300.png" alt="Blue Zones" width="300" height="300" class="size-medium wp-image-40256" data-wp-pid="40256" /></a>
   <figcaption>Yikes! Are the Blue Zones really based upon bad (or even fraudulent) birth reporting?! New research investigates</figcaption>
 </figure>
 
@@ -60,7 +59,7 @@ In the U.S., supercentenarian status is far more common when there was less vita
 This lends credence to the hypothesis that the number of *legitimate* supercentenarians is far fewer than currently reported!
 
  	- <figure class="alignright">
-  <a href="https://www.mikeroberto.com/wp-content/uploads/blue-zones-longevity.jpg"><img src="https://www.mikeroberto.com/wp-content/uploads/blue-zones-longevity-300x299.jpg" alt="Blue Zones Longevity" width="300" height="299" class="size-medium wp-image-40263" data-wp-pid="40263" /></a>
+  <a href="/images/blue-zones-longevity.jpg"><img src="https://www.mikeroberto.com/wp-content/uploads/blue-zones-longevity-300x299.jpg" alt="Blue Zones Longevity" width="300" height="299" class="size-medium wp-image-40263" data-wp-pid="40263" /></a>
   <figcaption>Crazy! People simultaneously live short lives and what seems like <em>forever</em> in the same area![1] How is that possible?</figcaption>
 </figure>
 In Italy, there is somehow an "inverted" longevity curve. There's a relatively short lifespan, unless you make it to past 95, at which point it somehow becomes *increasingly* likely you're going to live to 110![1] This is not at all statistically expected.
@@ -83,7 +82,7 @@ Okinawa has the “*highest murder rate per capita, the worst over-65 dependency
 These are factors that would *decrease* the likelihood of living past 110!
 
  	- <figure class="alignright">
-  <a href="https://www.mikeroberto.com/wp-content/uploads/blue-zone.jpg"><img src="https://www.mikeroberto.com/wp-content/uploads/blue-zone-300x299.jpg" alt="Blue Zone" width="300" height="299" class="size-medium wp-image-40267" data-wp-pid="40267" /></a>
+  <a href="/images/blue-zone.jpg"><img src="https://www.mikeroberto.com/wp-content/uploads/blue-zone-300x299.jpg" alt="Blue Zone" width="300" height="299" class="size-medium wp-image-40267" data-wp-pid="40267" /></a>
   <figcaption>The real world doesn't work like this.[1]</figcaption>
 </figure>
 Okinawa, along with Sardinia and Ikaria, are among the *“least educated and poorest regions*” in their respective nations.[1]
@@ -109,7 +108,7 @@ With severe health factors such as *smoking* and *crime rates* being curiously h
 The biggest visual indicator that something is *clearly* amiss is below:
 
 <figure class="aligncenter">
-  <a href="https://www.mikeroberto.com/wp-content/uploads/blue-zone-birth-certificates.jpg"><img src="https://www.mikeroberto.com/wp-content/uploads/blue-zone-birth-certificates-625x393.jpg" alt="Blue Zone Birth Certificates" width="625" height="393" class="size-large wp-image-40258" data-wp-pid="40258" /></a>
+  <a href="/images/blue-zone-birth-certificates.jpg"><img src="https://www.mikeroberto.com/wp-content/uploads/blue-zone-birth-certificates-625x393.jpg" alt="Blue Zone Birth Certificates" width="625" height="393" class="size-large wp-image-40258" data-wp-pid="40258" /></a>
   <figcaption>Well look at that! Once you start requiring birth certificates, there's a whole lot less people living to 110!</figcaption>
 </figure>
 

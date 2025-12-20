@@ -1,17 +1,16 @@
 ---
 publishDate: 2019-06-09
-title: "My Keto Diet Review from 2019: Thoughts After Three Years, Now Evolved"
-excerpt: "After three years of keto dieting and a decade of low-carb, paleo dieting, I finally put a &quot;keto diet review&quot; to paper, discussing what I've learned."
-category: "Diet Research"
-author: "Mike Roberto"
-wpSlug: "keto-diet-review"
+title: 'My Keto Diet Review from 2019: Thoughts After Three Years, Now Evolved'
+excerpt: After three years of keto dieting and a decade of low-carb, paleo dieting, I finally put a &quot;keto diet review&quot; to paper, discussing what I've learned.
+category: Diet Research
+author: Mike Roberto
+wpSlug: keto-diet-review
 wpYear: 2019
 comments_count: 2
-image: "https://www.mikeroberto.com/wp-content/uploads/keto-diet-review.jpg"
+image: https://www.mikeroberto.com/wp-content/uploads/keto-diet-review.jpg
 metadata:
-  canonical: "https://www.mikeroberto.com/2019/keto-diet-review"
+  canonical: https://www.mikeroberto.com/2019/keto-diet-review
 ---
-
 December 2025 Update from Mike
 
   This article reflects my thinking from *2019*, when I was deeper in the keto world. 
@@ -189,7 +188,7 @@ No, a drastic situation like obesity requires drastic measures, and that often m
 ## The truth about my keto journey
 
 <figure class="alignright">
-  <a href="https://www.mikeroberto.com/wp-content/uploads/keto-diet-review.jpg"><img src="https://www.mikeroberto.com/wp-content/uploads/keto-diet-review-300x300.jpg" alt="Keto Diet Review" width="300" height="300" class="size-medium wp-image-39073" data-wp-pid="39073" /></a>
+  <a href="/images/keto-diet-review.jpg"><img src="https://www.mikeroberto.com/wp-content/uploads/keto-diet-review-300x300.jpg" alt="Keto Diet Review" width="300" height="300" class="size-medium wp-image-39073" data-wp-pid="39073" /></a>
   <figcaption>Long story short -- BURN FAT (preferably your own), NOT SUGAR. And not a ton of butter either! A well-devised ketogenic diet makes this happen.</figcaption>
 </figure>
 

@@ -1,33 +1,32 @@
 ---
 publishDate: 2019-03-13
-title: "High Protein Diets Do NOT Cause Kidney Issues: Meta-Analysis"
-excerpt: "A new meta-analysis adds further weight to combat the myth that protein can damage the kidneys. Repeat: High Protein Diets do NOT cause renal damage!"
-category: "Diet Research"
+title: 'High Protein Diets Do NOT Cause Kidney Issues: Meta-Analysis'
+excerpt: 'A new meta-analysis adds further weight to combat the myth that protein can damage the kidneys. Repeat: High Protein Diets do NOT cause renal damage!'
+category: Diet Research
 tags:
-  - "Glomerular Filtration Rate"
-  - "Jose Antonio"
-  - "Kidneys"
-  - "McMaster University"
-  - "Protein"
-  - "Protein Powder"
-  - "Robert Morton"
-  - "Stuart Phillips"
-  - "Whey Protein"
-author: "Mike Roberto"
-wpSlug: "high-protein-kidney"
+- Glomerular Filtration Rate
+- Jose Antonio
+- Kidneys
+- McMaster University
+- Protein
+- Protein Powder
+- Robert Morton
+- Stuart Phillips
+- Whey Protein
+author: Mike Roberto
+wpSlug: high-protein-kidney
 wpYear: 2019
 comments_count: 0
-image: "https://www.mikeroberto.com/wp-content/uploads/protein-kidneys.png"
+image: https://www.mikeroberto.com/wp-content/uploads/protein-kidneys.png
 metadata:
-  canonical: "https://www.mikeroberto.com/2019/high-protein-kidney"
+  canonical: https://www.mikeroberto.com/2019/high-protein-kidney
 ---
-
 > "The great enemy of truth is very often not the lie - deliberate, contrived, and dishonest - but the myth - persistent, persuasive, and unrealistic. Too often we hold fast to the cliches of our forebears. We subject all facts to a prefabricated set of interpretations. We enjoy the comfort of opinion without the discomfort of thought."
 
 -- John F. Kennedy[1]
 
 <figure class="aligncenter">
-  <a href="https://www.mikeroberto.com/wp-content/uploads/john-f-kennedy-enemy-of-truth-myth.jpg" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/john-f-kennedy-enemy-of-truth-myth-625x433.jpg" alt="John F. Kennedy Enemy of Truth: The Myth" width="625" height="433" class="size-large wp-image-37753" data-wp-pid="37753"></a>
+  <a href="/images/john-f-kennedy-enemy-of-truth-myth.jpg" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/john-f-kennedy-enemy-of-truth-myth-625x433.jpg" alt="John F. Kennedy Enemy of Truth: The Myth" width="625" height="433" class="size-large wp-image-37753" data-wp-pid="37753"></a>
   <figcaption>The Enemy of Truth is not necessarily the lie, but the <em>myth</em>. Today, we fight to destroy one such myth.</figcaption>
 </figure>
 
@@ -48,7 +47,7 @@ https://www.youtube.com/watch?v=hYkA5uDaYVk
 A meta analysis is only as good as the studies it utilizes. In order to get appropriate studies, the researchers were only interested in studies that compared "high protein diets" to "lower protein diets". In this context,
 
 <figure class="alignright">
-  <a href="https://www.mikeroberto.com/wp-content/uploads/protein-kidney-meta-analysis.jpg" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/protein-kidney-meta-analysis-300x259.jpg" alt="Protein Kidney Meta Analysis" width="300" height="259" class="size-medium wp-image-37756" data-wp-pid="37756"></a>
+  <a href="/images/protein-kidney-meta-analysis.jpg" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/protein-kidney-meta-analysis-300x259.jpg" alt="Protein Kidney Meta Analysis" width="300" height="259" class="size-medium wp-image-37756" data-wp-pid="37756"></a>
   <figcaption>The selection criteria for this meta-analysis</figcaption>
 </figure>
 
@@ -97,7 +96,7 @@ So what exactly was the final verdict? Simple: **Dietary protein has no effect o
 The long and short of it is that those with high protein diets had higher GFRs at the end.
 
 <figure class="aligncenter">
-  <a href="https://www.mikeroberto.com/wp-content/uploads/high-protein-diet-renal-function.png" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/high-protein-diet-renal-function-625x247.png" alt="High Protein Diet Renal Function" width="625" height="247" class="size-large wp-image-37760" data-wp-pid="37760"></a>
+  <a href="/images/high-protein-diet-renal-function.png" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/high-protein-diet-renal-function-625x247.png" alt="High Protein Diet Renal Function" width="625" height="247" class="size-large wp-image-37760" data-wp-pid="37760"></a>
   <figcaption>The data shows a dose-response effect between increasing protein intake and post eGFR! The myth is not only wrong, it's <em>completely</em> wrong![2]</figcaption>
 </figure>
 
@@ -110,7 +109,7 @@ Each study is interesting on its own, but when all 28 are collected, the data is
 - **Jose Antonio** and team conducted two crossover studies on athletic men with the *highest* protein intakes analyze (3.3g/kg vs 2.5-2.6g/kg), and both showed GFRs increasing.[5,6] The subjects added whey protein and ate ad libitum (as much as they wanted).
 
  	- <figure class="alignright">
-  <a href="https://www.mikeroberto.com/wp-content/uploads/high-protein-kidneys.png" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/high-protein-kidneys-300x167.png" alt="High Protein Kidneys" width="300" height="167" class="size-medium wp-image-37763" data-wp-pid="37763"></a>
+  <a href="/images/high-protein-kidneys.png" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/high-protein-kidneys-300x167.png" alt="High Protein Kidneys" width="300" height="167" class="size-medium wp-image-37763" data-wp-pid="37763"></a>
   <figcaption>Forest plot of a random-effects meta-analysis on the change in renal function induced by HP compared with NLP intake in healthy people.[2]</figcaption>
 </figure>**Wycherly, et al** performed a diet comparison study in Australia looking at high-protein diets against high-carbohydrate diets.[7] Creatinine clearance *improved* in the high-protein diet but slightly *worsened* in the high-carb diet. The high-protein diet lost more weight, burned more fat, and kept more muscle.
 
@@ -127,7 +126,7 @@ We have mountains of data affirming this, statistically significant and well-con
 This study wasn't the first time arriving at such a conclusion, but it's definitely the *best*.
 
 <figure class="alignleft">
-  <a href="https://www.mikeroberto.com/wp-content/uploads/stuart-phillips-protein-kidneys.jpg" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/stuart-phillips-protein-kidneys-300x223.jpg" alt="Stuart Phillips Protein Kidneys" width="300" height="223" class="size-medium wp-image-37771" data-wp-pid="37771"></a>
+  <a href="/images/stuart-phillips-protein-kidneys.jpg" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/stuart-phillips-protein-kidneys-300x223.jpg" alt="Stuart Phillips Protein Kidneys" width="300" height="223" class="size-medium wp-image-37771" data-wp-pid="37771"></a>
   <figcaption>Robert Morton (left) and Stuart Phillips (right) have put together a <em>fantastic</em> meta-analysis to disprove the "protein-kidney-damage" myth!</figcaption>
 </figure>
 
@@ -174,7 +173,7 @@ In fact, those with chronic kidney disease can *benefit* from a higher protein d
 Dr. Phillips and team performed the best meta analysis to date on this topic, and there's been *such* an abundant amount of data to back it up that the debate has now been put to rest.
 
 <figure class="alignleft">
-  <a href="https://www.mikeroberto.com/wp-content/uploads/protein-kidneys.png" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/protein-kidneys-300x300.png" alt="Protein Kidneys" width="300" height="300" class="size-medium wp-image-37774" data-wp-pid="37774"></a>
+  <a href="/images/protein-kidneys.png" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/protein-kidneys-300x300.png" alt="Protein Kidneys" width="300" height="300" class="size-medium wp-image-37774" data-wp-pid="37774"></a>
   <figcaption>Fact or Fiction?! The myth is not only <strong>fiction</strong>, it's the <em>opposite</em> of what really happens!</figcaption>
 </figure>
 

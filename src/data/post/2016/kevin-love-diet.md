@@ -1,22 +1,21 @@
 ---
 publishDate: 2016-06-15
-title: "Kevin Love's Diet: When Weight Loss Weakens You"
-excerpt: "With Game 5 in the books, the 2016 NBA Finals have gone from \"case closed\" to \"this thing is on\". One of the biggest and most-discussed playoff plotlines has..."
-category: "Diet Research"
+title: 'Kevin Love''s Diet: When Weight Loss Weakens You'
+excerpt: With Game 5 in the books, the 2016 NBA Finals have gone from "case closed" to "this thing is on". One of the biggest and most-discussed playoff plotlines has...
+category: Diet Research
 tags:
-  - "Basketball"
-  - "Metabolism"
-  - "Protein"
-  - "Saturated Fat"
-author: "Mike Roberto"
-wpSlug: "kevin-love-diet"
+- Basketball
+- Metabolism
+- Protein
+- Saturated Fat
+author: Mike Roberto
+wpSlug: kevin-love-diet
 wpYear: 2016
 comments_count: 0
-image: "https://www.mikeroberto.com/wp-content/uploads/kevin-love-diet.png"
+image: https://www.mikeroberto.com/wp-content/uploads/kevin-love-diet.png
 metadata:
-  canonical: "https://www.mikeroberto.com/2016/kevin-love-diet"
+  canonical: https://www.mikeroberto.com/2016/kevin-love-diet
 ---
-
 With Game 5 in the books, the 2016 NBA Finals have gone from "case closed" to "this thing is *on*". One of the biggest and most-discussed playoff plotlines has been the question, ***"What is wrong with Kevin Love?"***
 
 I'll tell you exactly what's wrong. It's that ridiculous weight loss diet of his. In this article, I'm going to show you how it's killing his game, and the two simple things he can do to fix it fast.
@@ -36,7 +35,7 @@ Unfortunately, he has consistently underperformed, failing to meet expectations.
 ### Boxing out the problem
 
 <figure class="alignright">
-  <a href="https://www.mikeroberto.com/wp-content/uploads/og-kevin-love.jpg" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/og-kevin-love-300x418.jpg" alt="OG Kevin Love" width="300" height="418" class="size-medium wp-image-19535"></a>
+  <a href="/images/og-kevin-love.jpg" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/og-kevin-love-300x418.jpg" alt="OG Kevin Love" width="300" height="418" class="size-medium wp-image-19535"></a>
   <figcaption>Look at that look in his eyes. Where did this vicious man go? Some blame it on his longer hair, but I blame it on his excessively clean weight loss diet. Image courtesy Wikimedia commons.</figcaption>
 </figure>
 
@@ -83,7 +82,7 @@ The film was shot in Minnesota, so we're guessing it was for his last season the
 In the video, he mentions and shows the following foods:
 
  	<figure class="alignright">
-  <a href="https://www.mikeroberto.com/wp-content/uploads/kevin-love-skinny.jpg" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/kevin-love-skinny-300x348.jpg" alt="Kevin Love Skinny" width="300" height="348" class="size-medium wp-image-19537"></a>
+  <a href="/images/kevin-love-skinny.jpg" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/kevin-love-skinny-300x348.jpg" alt="Kevin Love Skinny" width="300" height="348" class="size-medium wp-image-19537"></a>
   <figcaption>Compare to the picture of him on the T-Wolves. Losing weight was a good idea, but Love seems to have lost just a <em>bit</em> too much. Image courtesy Wikimedia Commons</figcaption>
 </figure>**Breakfast:**
 
@@ -118,7 +117,7 @@ Frame after frame after frame, we're shown a salad-heavy meal from his food deli
 There's only one little problem: **Kevin Love is a professional athlete in a contact sport, *not* a bikini model preparing for a pageant**.
 
 <figure class="alignright">
-  <a href="https://www.mikeroberto.com/wp-content/uploads/kevin-love-seth-myers-espn-magazine.png" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/kevin-love-seth-myers-espn-magazine-300x167.png" alt="Kevin Love Seth Myers ESPN Magazine" width="300" height="167" class="size-medium wp-image-19540"></a>
+  <a href="/images/kevin-love-seth-myers-espn-magazine.png" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/kevin-love-seth-myers-espn-magazine-300x167.png" alt="Kevin Love Seth Myers ESPN Magazine" width="300" height="167" class="size-medium wp-image-19540"></a>
   <figcaption>Ask any model or bodybuilder: The day you <em>look</em> the best is not the day you can <em>perform</em> the best. Image courtesy Late Night with Seth Myers and YouTube[14]</figcaption>
 </figure>
 
@@ -131,7 +130,7 @@ Ask any bodybuilder and they'll tell you, the day they *look* the best is most c
 Don't get me wrong - I'll be the first to fully endorse a [high-vegetable diet](https://blog.priceplow.com/vegetables), but from my perspective, two things are *clearly* missing from this diet: **saturated fat** and **protein**!! These are two *critical* macronutrients for *any* athlete, let alone a professional one!
 
 <figure class="alignleft">
-  <a href="https://www.mikeroberto.com/wp-content/uploads/kevin-love-salad.png" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/kevin-love-salad-300x163.png" alt="Kevin Love Salad" width="300" height="163" class="size-medium wp-image-19533"></a>
+  <a href="/images/kevin-love-salad.png" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/kevin-love-salad-300x163.png" alt="Kevin Love Salad" width="300" height="163" class="size-medium wp-image-19533"></a>
   <figcaption>Salads are great, but  <strong>where's the protein and saturated fat?!</strong> This is how you should eat when you <em>retire...</em></figcaption>
 </figure>
 
@@ -196,7 +195,7 @@ Using MyFitnessPal, [we created an example day of eating](http://www.myfitnesspa
 #### Breakfast:
 
  	- <figure class="alignright">
-  <a href="https://www.mikeroberto.com/wp-content/uploads/kevin-love-diet.png" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/kevin-love-diet-300x167.png" alt="Kevin Love Diet" width="300" height="167" class="size-medium wp-image-19530"></a>
+  <a href="/images/kevin-love-diet.png" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/kevin-love-diet-300x167.png" alt="Kevin Love Diet" width="300" height="167" class="size-medium wp-image-19530"></a>
   <figcaption>Great breakfast for grandma, but this is <em>not</em> the breakfast of 250lb champion professional athletes. Image courtesy ESPN.[4]</figcaption>
 </figure>1.5 Cups Egg whites
 
@@ -351,7 +350,7 @@ Surely you can add in that second bran muffin, but unless it's slathered with re
 Despite its villainization in media, we all need saturated fat -- and that's doubly true for athletes. Reason being, **increased saturated fat intake is directly correlated to increased testosterone**.[6,7] This is so prevalent that bodybuilders who are utilizing a low-fat diet while in contest prep mode are suggested to increase saturated fat levels so that their testosterone doesn't drop too much.[8]
 
 <figure class="alignright">
-  <a href="https://www.mikeroberto.com/wp-content/uploads/testosterone-and-nutritional-variables.jpg" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/testosterone-and-nutritional-variables-300x347.jpg" alt="Testosterone and Nutritional Variables" width="300" height="347" class="size-medium wp-image-19552"></a>
+  <a href="/images/testosterone-and-nutritional-variables.jpg" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/testosterone-and-nutritional-variables-300x347.jpg" alt="Testosterone and Nutritional Variables" width="300" height="347" class="size-medium wp-image-19552"></a>
   <figcaption>It's plain as day in the top-right chart. Less saturated fat, less testosterone.[6]</figcaption>
 </figure>
 
@@ -366,7 +365,7 @@ If you were to access Love's drug test data over time, I'd be willing to bet tha
 The general rule of thumb is that you should *never get more than 10% of your total calories from saturated fat*.[12] This table provided by health.gov scales it up with calories as well, but let's be conservative and go with the American Heart Association's recommended 7%.[13]
 
 <figure class="aligncenter">
-  <a href="https://www.mikeroberto.com/wp-content/uploads/maximum-saturated-fat.png" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/maximum-saturated-fat.png" alt="Maximum Saturated Fat" width="425" height="173" class="size-full wp-image-19555"></a>
+  <a href="/images/maximum-saturated-fat.png" target="_blank" rel="noopener noreferrer"><img src="/images/maximum-saturated-fat.png" alt="Maximum Saturated Fat" width="425" height="173" class="size-full wp-image-19555"></a>
   <figcaption>Per our splendid government, Maximum Daily Amounts of Saturated Fat To Keep Saturated Fat Below 10 Percent of Total Calorie Intake. The point of this chart is that they are <em>scaling</em> it up. There might be a maximum here, but at this point, I'm quite confident that Love isn't coming close to <em>his</em> ideal number.</figcaption>
 </figure>
 
@@ -403,7 +402,7 @@ Eat a big, fat ribeye steak.
 Fat, gristle, and all -- make John Candy proud, boy!
 
 <figure class="alignright">
-  <a href="https://www.mikeroberto.com/wp-content/uploads/john-candy-great-outdoors-processing-nicely.jpg" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/john-candy-great-outdoors-processing-nicely-300x180.jpg" alt="John Candy Great Outdoors Processing Nicely" width="300" height="180" class="size-medium wp-image-19563"></a>
+  <a href="/images/john-candy-great-outdoors-processing-nicely.jpg" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/john-candy-great-outdoors-processing-nicely-300x180.jpg" alt="John Candy Great Outdoors Processing Nicely" width="300" height="180" class="size-medium wp-image-19563"></a>
   <figcaption>"There's nothing on that plate but gristle and fat!" -- Exactly what K-Love should go eat.</figcaption>
 </figure>
 
