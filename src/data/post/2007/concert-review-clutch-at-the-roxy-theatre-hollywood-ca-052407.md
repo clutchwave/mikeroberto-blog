@@ -1,11 +1,14 @@
 ---
 publishDate: 2007-06-06
 title: "Concert Review - Clutch at the Roxy Theatre, Hollywood CA - 05/24/07"
+excerpt: "Some bands never cease to amaze me, and Clutch is one of them. I will be honest and say that during their May 24th concert at the Roxy Theatre in Hollywood,..."
 category: "Music Reviews"
 author: "Mike Roberto"
 wpSlug: "concert-review-clutch-at-the-roxy-theatre-hollywood-ca-052407"
 wpYear: 2007
 comments_count: 1
+metadata:
+  canonical: "https://www.mikeroberto.com/2007/concert-review-clutch-at-the-roxy-theatre-hollywood-ca-052407"
 ---
 
 [![](http://www.bertopics.com/d/16604-3/Clutch01-Los_Angeles-20070525.jpg)](http://www.bertopics.com/v/LA_Pics/Clutch-20070525/Clutch01-Los_Angeles-20070525.jpg.html)Some bands never cease to amaze me, and [Clutch](http://www.pro-rock.com) is one of them.  I will be honest and say that during their May 24th concert at the Roxy Theatre in Hollywood, CA, I was actually disappointed with the performance.  Something wasn't right.  Neil Fallon did not seem to have the energy that he had when he came to Austin last year and tore Emo's down.  It is only after the concert when I learned new respect for the band.   I was told that lead singer [Neil Fallon had strep throat earlier on tour](http://www.pro-rock.com/bb/viewtopic.php?t=6182&highlight=strep), and [had to cancel a few shows before this one](http://sayow.blogspot.com/2007/05/clutch-at-first-avenue-may-17.html).

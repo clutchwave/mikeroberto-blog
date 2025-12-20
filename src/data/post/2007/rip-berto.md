@@ -1,11 +1,14 @@
 ---
 publishDate: 2007-05-03
 title: "RIP \"berto\""
+excerpt: "#post_excerpt"
 category: "Life, The Universe, and Everything"
 author: "Mike Roberto"
 wpSlug: "rip-berto"
 wpYear: 2007
 comments_count: 7
+metadata:
+  canonical: "https://www.mikeroberto.com/2007/rip-berto"
 ---
 
 [![](https://www.mikeroberto.com/pics/RIP_Berto-300.jpg)](http://i58.photobucket.com/albums/g278/MicroBerto/RIP_Berto.jpg)On December 31, 2006, I was setting up my new bedroom, which also serves as my office, design studio, and, of course, surfboard storage room.  I turned on my computer, which was so creatively named "berto", and noticed the power supply fan struggling to do its job.

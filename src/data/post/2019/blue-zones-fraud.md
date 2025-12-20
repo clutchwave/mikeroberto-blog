@@ -1,6 +1,7 @@
 ---
 publishDate: 2019-08-09
 title: "Are Blue Zones Based Upon FRAUD? New Research May Suggest…"
+excerpt: "Imagine this. You were born in 1925 in a rural area in Italy and have no birth certificate. It's now 1965, so you're 40 years old. You know that pensions are..."
 category: "Diet Research"
 tags:
   - "Anti-Aging"
@@ -10,6 +11,9 @@ author: "Mike Roberto"
 wpSlug: "blue-zones-fraud"
 wpYear: 2019
 comments_count: 3
+image: "https://www.mikeroberto.com/wp-content/uploads/blue-zones.png"
+metadata:
+  canonical: "https://www.mikeroberto.com/2019/blue-zones-fraud"
 ---
 
 Imagine this. You were born in 1925 in a rural area in Italy and have no birth certificate. It's now 1965, so you're 40 years old. You know that pensions are given to those who are 60 or older. You're poor, uneducated, and have just about nothing to lose.

@@ -1,11 +1,14 @@
 ---
 publishDate: 2008-01-22
 title: "Fed Cuts Interest Rate to 0% In Emergency Effort"
+excerpt: "#post_excerpt"
 category: "Investing"
 author: "Mike Roberto"
 wpSlug: "fed-cuts-interest-rate-to-0-in-emergency-effort"
 wpYear: 2008
 comments_count: 8
+metadata:
+  canonical: "https://www.mikeroberto.com/2008/fed-cuts-interest-rate-to-0-in-emergency-effort"
 ---
 
 December 2025 Update from Mike: This was a satire post that ultimately came true not only in late 2008, but 2020 as well.

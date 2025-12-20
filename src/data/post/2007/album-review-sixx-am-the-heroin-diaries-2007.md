@@ -1,11 +1,14 @@
 ---
 publishDate: 2007-08-25
 title: "Album Review:  Sixx: A.M. - The Heroin Diaries (2007)"
+excerpt: "Nikki Sixx, the bassist and key songwriter of Mötley Crüe, has lived a life far more insane and indulgent than you, me, or anyone we know. Here's a guy who was..."
 category: "Music Reviews"
 author: "Mike Roberto"
 wpSlug: "album-review-sixx-am-the-heroin-diaries-2007"
 wpYear: 2007
 comments_count: 5
+metadata:
+  canonical: "https://www.mikeroberto.com/2007/album-review-sixx-am-the-heroin-diaries-2007"
 ---
 
 ![](http://i7.photobucket.com/albums/y278/sixxlover60/ce5957b5.jpg)[Nikki Sixx](http://www.nikkisixx.net/), the bassist and key songwriter of Mötley Crüe, has lived a life far more insane and indulgent than you, me, or anyone we know.  Here's a guy who was raised by a single mother and her insolent boyfriend, abandoned by his father, moved all over the continent, and eventually became a petty thief and drug dealer.  After learning the bass guitar, he moved to Los Angeles at age 17, joined a band, and soon thereafter started Mötley Crüe with Tommy Lee, Mick Mars, and Vince Neil.

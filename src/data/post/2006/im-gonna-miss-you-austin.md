@@ -1,11 +1,14 @@
 ---
 publishDate: 2006-12-31
 title: "I'm Gonna Miss You, Austin"
+excerpt: "#post_excerpt"
 category: "Life, The Universe, and Everything"
 author: "Mike Roberto"
 wpSlug: "im-gonna-miss-you-austin"
 wpYear: 2006
 comments_count: 5
+metadata:
+  canonical: "https://www.mikeroberto.com/2006/im-gonna-miss-you-austin"
 ---
 
 Greetings from Redondo Beach!  My friends and I have been talking about it for the greater part of 2006, and it's finally here.

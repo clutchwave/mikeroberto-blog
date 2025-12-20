@@ -1,11 +1,14 @@
 ---
 publishDate: 2006-11-16
 title: "Forgive Me Buckeyes, For I Have Sinned"
+excerpt: "... or more realistically, my parents have sinned. A few weeks ago, my mom was rummaging through some old stuff, where she happened upon an article from the..."
 category: "HUMILIATIONS"
 author: "Mike Roberto"
 wpSlug: "forgive-me-buckeyes-for-i-have-sinned"
 wpYear: 2006
 comments_count: 2
+metadata:
+  canonical: "https://www.mikeroberto.com/2006/forgive-me-buckeyes-for-i-have-sinned"
 ---
 
 ... or more realistically, my parents have sinned.

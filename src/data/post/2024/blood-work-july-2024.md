@@ -1,11 +1,14 @@
 ---
 publishDate: 2024-07-27
 title: "My Blood Work After 1.5 Years on a Low Vitamin A Diet: The Good, The Bad, and The Ugly"
+excerpt: "It's July 2024, I've been on a low vitamin A diet for 19 months now, and this is my second check-in. My previous blood results were December 2023, 12 months..."
 category: "Fitness"
 author: "Mike Roberto"
 wpSlug: "blood-work-july-2024"
 wpYear: 2024
 comments_count: 3
+metadata:
+  canonical: "https://www.mikeroberto.com/2024/blood-work-july-2024"
 ---
 
 It's July 2024, I've been on a low vitamin A diet for 19 months now, and this is my second check-in. My previous blood results were December 2023, 12 months in. I'm 42 years old.

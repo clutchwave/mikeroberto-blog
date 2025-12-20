@@ -1,6 +1,7 @@
 ---
 publishDate: 2008-08-12
 title: "\"Never let defeat have the last word.\""
+excerpt: "Never Let Defeat Have The Last Word."
 category: "Sports"
 tags:
   - "2008 4x100 Free Relay"
@@ -11,6 +12,8 @@ author: "Mike Roberto"
 wpSlug: "never-let-defeat-have-the-last-word"
 wpYear: 2008
 comments_count: 1
+metadata:
+  canonical: "https://www.mikeroberto.com/2008/never-let-defeat-have-the-last-word"
 ---
 
 Never

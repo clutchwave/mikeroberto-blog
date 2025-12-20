@@ -1,11 +1,14 @@
 ---
 publishDate: 2008-07-25
 title: "Hammers of Misfortune - The August Engine - Images"
+excerpt: "#post_excerpt"
 category: "Music Reviews"
 author: "Mike Roberto"
 wpSlug: "hammers-of-misfortune-the-august-engine-images"
 wpYear: 2008
 comments_count: 0
+metadata:
+  canonical: "https://www.mikeroberto.com/2008/hammers-of-misfortune-the-august-engine-images"
 ---
 
 [![Hammers of Misfortune - The August Engine - Round - White](http://i58.photobucket.com/albums/g278/MicroBerto/Hammers_of_Misfortune-August_Eng-2.jpg)](http://s58.photobucket.com/albums/g278/MicroBerto/?action=view¤t=Hammers_of_Misfortune-August_Eng-2.jpg)One of my biggest complaints about the Internet has been the disturbing lack of quality images of the cover of Hammers of Misfortune's album, The August Engine.  The August Engine claw is by far one of my favorite logos, and is probably my favorite t-shirt too.

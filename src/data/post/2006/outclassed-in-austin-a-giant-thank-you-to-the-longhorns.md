@@ -1,11 +1,14 @@
 ---
 publishDate: 2006-09-10
 title: "Outclassed in Austin - A giant THANK YOU to the Longhorns"
+excerpt: "After our showing last year, I honestly have no clue how the Horns are going to treat us [Ohio State fans]. I’d like to think they’ll be nice, but everyone..."
 category: "Uncategorized"
 author: "Mike Roberto"
 wpSlug: "outclassed-in-austin-a-giant-thank-you-to-the-longhorns"
 wpYear: 2006
 comments_count: 21
+metadata:
+  canonical: "https://www.mikeroberto.com/2006/outclassed-in-austin-a-giant-thank-you-to-the-longhorns"
 ---
 
 > *After our showing last year, I honestly have no clue how the Horns are going to treat us [Ohio State fans]. I’d like to think they’ll be nice, but everyone down here knows what shitty, trashy hosts we were, so I’m not expecting the best. We’ll see.

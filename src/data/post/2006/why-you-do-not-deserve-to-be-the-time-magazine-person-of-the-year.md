@@ -1,11 +1,14 @@
 ---
 publishDate: 2006-12-19
 title: "Why You do NOT Deserve to be the TIME Magazine Person of the Year"
+excerpt: "#post_excerpt"
 category: "Current Events"
 author: "Mike Roberto"
 wpSlug: "why-you-do-not-deserve-to-be-the-time-magazine-person-of-the-year"
 wpYear: 2006
 comments_count: 2
+metadata:
+  canonical: "https://www.mikeroberto.com/2006/why-you-do-not-deserve-to-be-the-time-magazine-person-of-the-year"
 ---
 
 *Warning:  This op-ed is extremely American-centric, since it’s where I live and what I know.  I know that the Person of the Year can be from anywhere (or even a non-human), but I am focusing on America.  Feel free to add comments or write your own if you can do better.*

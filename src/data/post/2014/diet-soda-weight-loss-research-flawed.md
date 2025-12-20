@@ -1,6 +1,7 @@
 ---
 publishDate: 2014-05-30
 title: "Why the New Diet Soda Weight Loss Study is Flawed to the Core"
+excerpt: "Does it assist with weight loss? Maybe, but this study proves nothing. Read why below. This week, a new research study is trending, with article titles such as..."
 category: "Diet Research"
 tags:
   - "Sweeteners"
@@ -9,6 +10,9 @@ author: "Mike Roberto"
 wpSlug: "diet-soda-weight-loss-research-flawed"
 wpYear: 2014
 comments_count: 0
+image: "https://www.mikeroberto.com/wp-content/uploads/diet-coke-by-Niall_Kennedy.jpg"
+metadata:
+  canonical: "https://www.mikeroberto.com/2014/diet-soda-weight-loss-research-flawed"
 ---
 
 <figure class="alignright">

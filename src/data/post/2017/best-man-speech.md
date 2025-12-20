@@ -1,6 +1,7 @@
 ---
 publishDate: 2017-06-01
 title: "My Best Man Speech for My Brother Nick"
+excerpt: "On Saturday June 18, 2016, my brother married his beautiful wife Megan in our hometown of Cleveland, OH. This was just a day before Game 7 of the legendary..."
 category: "Life, The Universe, and Everything"
 tags:
   - "Cleveland"
@@ -10,6 +11,8 @@ author: "Mike Roberto"
 wpSlug: "best-man-speech"
 wpYear: 2017
 comments_count: 1
+metadata:
+  canonical: "https://www.mikeroberto.com/2017/best-man-speech"
 ---
 
 On Saturday June 18, 2016, my brother married his beautiful wife Megan in our hometown of Cleveland, OH. This was just a day before Game 7 of the legendary Cavs vs. Warriors NBA Championship, which had the town abuzz (and then some).

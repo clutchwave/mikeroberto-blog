@@ -1,6 +1,7 @@
 ---
 publishDate: 2010-08-06
 title: "IT JUST GOT REAL: Quitting My Sales Job to Start My Own Business"
+excerpt: "This week, I tendered my resignation to my employer, National Instruments, in order to focus on my own internet marketing business that I started. I spent 1.5..."
 category: "Entrepreneurship"
 tags:
   - "national instruments"
@@ -8,6 +9,8 @@ author: "Mike Roberto"
 wpSlug: "things-just-got-real"
 wpYear: 2010
 comments_count: 4
+metadata:
+  canonical: "https://www.mikeroberto.com/2010/things-just-got-real"
 ---
 
 This week, I tendered my resignation to my employer, National Instruments, in order to focus on my own internet marketing business that I started.

@@ -1,11 +1,14 @@
 ---
 publishDate: 2009-01-20
 title: "How to Disable Root Logins in phpmyadmin with Ubuntu"
+excerpt: "Edit - April 29, 2011 - This is no longer working for me in Ubuntu 10.04 with everything updated. If you can figure it out, please drop a comment! This took me..."
 category: "Technology"
 author: "Mike Roberto"
 wpSlug: "disable-root-logins-in-phpmyadmin-with-ubuntu"
 wpYear: 2009
 comments_count: 11
+metadata:
+  canonical: "https://www.mikeroberto.com/2009/disable-root-logins-in-phpmyadmin-with-ubuntu"
 ---
 
 *Edit - April 29, 2011 - This is no longer working for me in Ubuntu 10.04 with everything updated.  If you can figure it out, please drop a comment!*

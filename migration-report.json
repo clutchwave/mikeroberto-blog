@@ -1,8 +1,9 @@
 {
-  "conversion_date": "2025-12-19T16:21:46.277984",
+  "conversion_date": "2025-12-19T19:55:07.371967",
   "total_posts": 61,
   "posts_with_comments": 50,
   "total_comments": 290,
+  "posts_with_featured_images": 10,
   "categories": [
     "Book Reviews",
     "Current Events",
@@ -348,6 +349,8 @@
         "http://a1916.g.akamaitech.net/7/1916/33/7bffa240e4fb9a/images.citysearch.com/profile/62/b9/10206292p1.jpg",
         "http://www.classiccitybrew.com/austin_littlewoodrows.jpg"
       ],
+      "featured_image": "",
+      "excerpt": "This is a long guide for all of the Buckeye faithful who intend to invade the beautiful city of Austin, TX, and would like some ideas of what to do, see, and...",
       "comments": 59,
       "original_url": "https://www.mikeroberto.com/2006/fellow-buckeyes-so-you-wanna-visit-austin"
     },
@@ -362,6 +365,8 @@
       ],
       "tags": [],
       "images": [],
+      "featured_image": "",
+      "excerpt": "After our showing last year, I honestly have no clue how the Horns are going to treat us [Ohio State fans]. I\u2019d like to think they\u2019ll be nice, but everyone...",
       "comments": 21,
       "original_url": "https://www.mikeroberto.com/2006/outclassed-in-austin-a-giant-thank-you-to-the-longhorns"
     },
@@ -376,6 +381,8 @@
       ],
       "tags": [],
       "images": [],
+      "featured_image": "",
+      "excerpt": "I'll be first to admit that I have no clue how to write a book review, and this contains \u201cspoilers\u201d, if there is such a thing in a non-fiction book. You've...",
       "comments": 2,
       "original_url": "https://www.mikeroberto.com/2006/my-first-book-review-freakonomics-by-steven-levitt-and-stephen-dubner"
     },
@@ -392,6 +399,8 @@
       "images": [
         "http://ec3.images-amazon.com/images/G/01/ciu/b2/b6/07ded250fca04bf347de8010.L.jpg"
       ],
+      "featured_image": "",
+      "excerpt": "Every now and then, a book comes by, rocks your world, and completely shakes your foundations by changing the way you think. A Confederacy of Dunces is not one...",
       "comments": 2,
       "original_url": "https://www.mikeroberto.com/2006/book-review-a-confederacy-of-dunces-by-john-kennedy-toole"
     },
@@ -408,6 +417,8 @@
       "images": [
         "http://content.answers.com/main/content/wp/en/thumb/b/b3/200px-The_Broker_Grisham_Novel.jpg"
       ],
+      "featured_image": "",
+      "excerpt": "Prior to this story, Joel Backman was a high rolling lawyer until he tried to broker a deal to sell software to the world's most powerful satellite...",
       "comments": 0,
       "original_url": "https://www.mikeroberto.com/2006/book-review-the-broker-by-john-grisham"
     },
@@ -425,6 +436,8 @@
       "images": [
         "https://www.mikeroberto.com/pics/Little_Berto_Michigan_Sin-thumb.jpg"
       ],
+      "featured_image": "",
+      "excerpt": "... or more realistically, my parents have sinned. A few weeks ago, my mom was rummaging through some old stuff, where she happened upon an article from the...",
       "comments": 2,
       "original_url": "https://www.mikeroberto.com/2006/forgive-me-buckeyes-for-i-have-sinned"
     },
@@ -444,6 +457,8 @@
         "https://www.mikeroberto.com/Friday_Night_Lights/Friday_Night_Lights-MILF_Wife-thumb.jpg",
         "https://www.mikeroberto.com/Friday_Night_Lights/Friday_Night_Lights-Stereotyped_Black_Guy-thumb.jpg"
       ],
+      "featured_image": "",
+      "excerpt": "I\u2019m not a TV guy, but Friday Night Lights has sucked me in. This action/drama show starring football-addicted small-town Texas has been stealing my Tuesday...",
       "comments": 3,
       "original_url": "https://www.mikeroberto.com/2006/tv-review-friday-night-lights"
     },
@@ -458,6 +473,8 @@
       ],
       "tags": [],
       "images": [],
+      "featured_image": "",
+      "excerpt": "#post_excerpt",
       "comments": 1,
       "original_url": "https://www.mikeroberto.com/2006/i-had-lasik-surgery"
     },
@@ -479,6 +496,8 @@
         "https://www.mikeroberto.com/TIME/Wilshire5000-121706-thumb.jpg",
         "https://www.mikeroberto.com/TIME/US_Dollar-thumb-121906.jpg"
       ],
+      "featured_image": "",
+      "excerpt": "#post_excerpt",
       "comments": 2,
       "original_url": "https://www.mikeroberto.com/2006/why-you-do-not-deserve-to-be-the-time-magazine-person-of-the-year"
     },
@@ -504,6 +523,8 @@
         "http://ec2.images-amazon.com/images/P/B000F3TBIO.01._AA240_SCLZZZZZZZ_V50752746_.jpg",
         "http://ec2.images-amazon.com/images/P/B0002W18MU.01._AA240_SCLZZZZZZZ_V59016280_.jpg"
       ],
+      "featured_image": "",
+      "excerpt": "Happy Holidays from MikeRoberto.com! Each year, my friend Brian and I share our Top 15 albums of the year. Brian is a much more intense music aficionado than I...",
       "comments": 3,
       "original_url": "https://www.mikeroberto.com/2006/my-top-15-albums-of-2006"
     },
@@ -523,6 +544,8 @@
         "https://www.mikeroberto.com/Gonna_Miss_Austin/Jordo-thumb.jpg",
         "https://www.mikeroberto.com/Gonna_Miss_Austin/Paul-Timmay-thumb.jpg"
       ],
+      "featured_image": "",
+      "excerpt": "#post_excerpt",
       "comments": 5,
       "original_url": "https://www.mikeroberto.com/2006/im-gonna-miss-you-austin"
     },
@@ -538,6 +561,8 @@
       ],
       "tags": [],
       "images": [],
+      "featured_image": "",
+      "excerpt": "On Sunday, my friend Joe and I drove from LA to Phoenix, for the National Championship. After dropping Joe off, I picked up Jeremy and Allison at the airport....",
       "comments": 6,
       "original_url": "https://www.mikeroberto.com/2007/humiliation"
     },
@@ -553,6 +578,8 @@
       ],
       "tags": [],
       "images": [],
+      "featured_image": "",
+      "excerpt": "#post_excerpt",
       "comments": 0,
       "original_url": "https://www.mikeroberto.com/2007/i-cant-cry"
     },
@@ -572,6 +599,8 @@
         "http://www.ragazzi-music.de/bilder/blackfield_gr.jpg",
         "http://www.progressiveworld.net/jpg/blackfieldlive3.jpg"
       ],
+      "featured_image": "",
+      "excerpt": "In England, there lives a man who writes, performs, and produces some of the most beautiful music in this world. And practically nobody will ever even hear it....",
       "comments": 5,
       "original_url": "https://www.mikeroberto.com/2007/music-review-blackfield-blackfield-ii"
     },
@@ -590,6 +619,8 @@
         "http://www.lifecereal.com/images/img_box_LifeVYC.jpg",
         "http://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Mikey_life_cereal.jpg/180px-Mikey_life_cereal.jpg"
       ],
+      "featured_image": "",
+      "excerpt": "When moving from one city to another, one should qualify whether or not his supposed wage increase is justified after a comparison of post-tax purchasing...",
       "comments": 1,
       "original_url": "https://www.mikeroberto.com/2007/life-and-the-cereal-price-index"
     },
@@ -609,6 +640,8 @@
         "http://www.lvsodapop.com/images/Surfing%20at%20Seal%20Beach.JPG",
         "http://www.geocities.com/russhowellsite/Surf-Logo-BruceJones-Sticker-200x61.jpg"
       ],
+      "featured_image": "",
+      "excerpt": "Well, it's past midnight on Saturday, and I just woke up from a 3+ hour nap. For those of you haven't figured it out, I took a nap past \"the point of no...",
       "comments": 0,
       "original_url": "https://www.mikeroberto.com/2007/surf-lessons-with-chris"
     },
@@ -629,6 +662,8 @@
         "http://www.redondochamber.org/images/IMG0121.jpg",
         "http://www.rbmarina.com/dolphin.jpg"
       ],
+      "featured_image": "",
+      "excerpt": "Yesterday I headed over to the local Dive 'n Surf shop and walked out 583 dollars poorer. They were hosting their annual February yard sale, with some huge...",
       "comments": 1,
       "original_url": "https://www.mikeroberto.com/2007/got-some-new-toys"
     },
@@ -643,6 +678,8 @@
       ],
       "tags": [],
       "images": [],
+      "featured_image": "",
+      "excerpt": "These past few years have been pretty wild for me. I had the best of my college years, graduated, traveled Europe, moved 1400 miles southwest, and then moved...",
       "comments": 2,
       "original_url": "https://www.mikeroberto.com/2007/five-years-into-the-future"
     },
@@ -662,6 +699,8 @@
         "https://www.mikeroberto.com/pics/Blackfield_Concert/Aviv_Geffen1-Blackfield_Concert-20070310.jpg",
         "https://www.mikeroberto.com/pics/Blackfield_Concert/Blackfield-Blackfield_Concert-20070310.jpg"
       ],
+      "featured_image": "",
+      "excerpt": "Note: Talia has sent me pictures! I am including some of my favorites here. Click here for the entire slideshow. Last night, I had the honor of seeing one of...",
       "comments": 3,
       "original_url": "https://www.mikeroberto.com/2007/concert-review-blackfield-the-knitting-factory-hollywood-ca"
     },
@@ -680,6 +719,8 @@
         "http://upload.wikimedia.org/wikipedia/en/thumb/0/03/Fiction-1-.jpg/200px-Fiction-1-.jpg",
         "http://www.kickedintheface.com/interviews/images/Dark%20Tranquillity%20pic%201.jpg"
       ],
+      "featured_image": "",
+      "excerpt": "Tonight I've decided to post the first of a few different rants from my friend, Brian. We often discuss music and sports via e-mail, along with the usual...",
       "comments": 2,
       "original_url": "https://www.mikeroberto.com/2007/guest-writer-brian-music-review-dark-tranquillity-fiction"
     },
@@ -701,6 +742,8 @@
         "https://www.mikeroberto.com/pics/Bertocam-GingoJonJer.jpg",
         "https://www.mikeroberto.com/pics/Bertocam-OSUvsMich5.jpg"
       ],
+      "featured_image": "",
+      "excerpt": "#post_excerpt",
       "comments": 7,
       "original_url": "https://www.mikeroberto.com/2007/rip-berto"
     },
@@ -715,6 +758,8 @@
       ],
       "tags": [],
       "images": [],
+      "featured_image": "",
+      "excerpt": "#post_excerpt",
       "comments": 1,
       "original_url": "https://www.mikeroberto.com/2007/hostel-review-cuesta-arriba-in-santa-teresa-costa-rica"
     },
@@ -734,6 +779,8 @@
         "http://www.bertopics.com/d/16670-5/Clutch14-Los_Angeles-20070525.jpg",
         "http://www.bertopics.com/d/16685-3/Clutch17-Los_Angeles-20070525.jpg"
       ],
+      "featured_image": "",
+      "excerpt": "Some bands never cease to amaze me, and Clutch is one of them. I will be honest and say that during their May 24th concert at the Roxy Theatre in Hollywood,...",
       "comments": 1,
       "original_url": "https://www.mikeroberto.com/2007/concert-review-clutch-at-the-roxy-theatre-hollywood-ca-052407"
     },
@@ -756,6 +803,8 @@
         "http://upload.wikimedia.org/wikipedia/en/d/dd/MJ_shot.JPG",
         "http://i.a.cnn.net/si/2006/writers/arash_markazi/11/10/lebron/p1_lebron1.jpg"
       ],
+      "featured_image": "",
+      "excerpt": "On this fateful, yet somewhat expected night, I have decided to make public something that I have been preaching to close friends for the past couple of years....",
       "comments": 10,
       "original_url": "https://www.mikeroberto.com/2007/the-2008-cleveland-prophecy"
     },
@@ -774,6 +823,8 @@
         "http://a956.ac-images.myspacecdn.com/images01/62/m_a00d8b56208cd73559429fcc981211e3.jpg",
         "http://ec1.images-amazon.com/images/I/61cWh%2BFxbdL._AA240_.jpg"
       ],
+      "featured_image": "",
+      "excerpt": "Nikki Sixx, the bassist and key songwriter of M\u00f6tley Cr\u00fce, has lived a life far more insane and indulgent than you, me, or anyone we know. Here's a guy who was...",
       "comments": 5,
       "original_url": "https://www.mikeroberto.com/2007/album-review-sixx-am-the-heroin-diaries-2007"
     },
@@ -795,6 +846,8 @@
         "http://www.bertopics.com/d/18161-2/Writers_Guild_Strike1-20071127.jpg",
         "http://upload.wikimedia.org/wikipedia/en/3/3a/WGA_logo.png"
       ],
+      "featured_image": "",
+      "excerpt": "Early this morning, I participated in an event I never would have imagined myself taking part in: I went on strike with a labor union. Specifically, I was a...",
       "comments": 3,
       "original_url": "https://www.mikeroberto.com/2007/on-strike-with-the-writers-guild-of-america"
     },
@@ -815,6 +868,8 @@
         "http://farm3.static.flickr.com/2181/2051667220_cc179b6670_m.jpg",
         "http://www.af.mil/shared/media/photodb/photos/070326-F-0809C-222.jpg"
       ],
+      "featured_image": "",
+      "excerpt": "This weekend, Lon will be visiting me after doing some work in San Diego. On Saturday, we will go surfing, which will be Lon's first time. Depending on surf...",
       "comments": 3,
       "original_url": "https://www.mikeroberto.com/2007/bertos-pre-surfing-workout-for-lon"
     },
@@ -861,6 +916,8 @@
         "http://www.assoc-amazon.com/e/ir?t=mikrobsblo-20&l=ur2&o=1",
         "http://www.assoc-amazon.com/e/ir?t=mikrobsblo-20&l=ur2&o=1"
       ],
+      "featured_image": "",
+      "excerpt": "Happy New Year everyone! It's time for my favorite blog post of the year, one in which I've spent more time pondering than is healthy. The Top 15 Albums of...",
       "comments": 2,
       "original_url": "https://www.mikeroberto.com/2008/my-top-15-albums-of-2007"
     },
@@ -913,6 +970,8 @@
         "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-31b-thumb.jpg",
         "https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-32-thumb.jpg"
       ],
+      "featured_image": "",
+      "excerpt": "#post_excerpt",
       "comments": 34,
       "original_url": "https://www.mikeroberto.com/2008/james-laurinaitis-ohio-states-most-overrated-linebacker-ever"
     },
@@ -928,6 +987,8 @@
       ],
       "tags": [],
       "images": [],
+      "featured_image": "",
+      "excerpt": "#post_excerpt",
       "comments": 8,
       "original_url": "https://www.mikeroberto.com/2008/fed-cuts-interest-rate-to-0-in-emergency-effort"
     },
@@ -944,6 +1005,8 @@
       ],
       "tags": [],
       "images": [],
+      "featured_image": "",
+      "excerpt": "#post_excerpt",
       "comments": 27,
       "original_url": "https://www.mikeroberto.com/2008/ms-150"
     },
@@ -960,6 +1023,8 @@
       ],
       "tags": [],
       "images": [],
+      "featured_image": "",
+      "excerpt": "#post_excerpt",
       "comments": 3,
       "original_url": "https://www.mikeroberto.com/2008/regarding-this-weeks-shark-attack-in-san-diego"
     },
@@ -979,6 +1044,8 @@
         "http://www.goldmoney.com/en/images/commentary-images/commentary-charts/alert_2008-01-02c.gif",
         "http://www.shiner.com/beers/images/Light.gif"
       ],
+      "featured_image": "",
+      "excerpt": "This past Friday, I was asked to buy some beer for a party. On my way to the grocery store, I deposited my Stimulus Check, then used some of that to buy a case...",
       "comments": 7,
       "original_url": "https://www.mikeroberto.com/2008/the-great-unamerican-beer"
     },
@@ -997,6 +1064,8 @@
         "http://i58.photobucket.com/albums/g278/MicroBerto/Hammers_of_Misfortune-August_Eng-2.jpg",
         "http://i58.photobucket.com/albums/g278/MicroBerto/Hammers_of_Misfortune-August_Engine.png"
       ],
+      "featured_image": "",
+      "excerpt": "#post_excerpt",
       "comments": 0,
       "original_url": "https://www.mikeroberto.com/2008/hammers-of-misfortune-the-august-engine-images"
     },
@@ -1024,6 +1093,8 @@
         "http://i58.photobucket.com/albums/g278/MicroBerto/2008_Beijing_OlympicGamesSwimmin-4.jpg",
         "http://i58.photobucket.com/albums/g278/MicroBerto/2008_Beijing_OlympicGamesSwimmin-6.jpg"
       ],
+      "featured_image": "",
+      "excerpt": "Never Let Defeat Have The Last Word.",
       "comments": 1,
       "original_url": "https://www.mikeroberto.com/2008/never-let-defeat-have-the-last-word"
     },
@@ -1039,6 +1110,8 @@
       ],
       "tags": [],
       "images": [],
+      "featured_image": "",
+      "excerpt": "For nearly 40 years, the government and Federal Reserve has been destroying the value of your money. If you're like me, you don't support any bailout plans...",
       "comments": 8,
       "original_url": "https://www.mikeroberto.com/2008/how-to-buy-and-own-gold-the-laymans-guide-to-escaping-the-dollar"
     },
@@ -1061,6 +1134,8 @@
         "http://ecx.images-amazon.com/images/I/51XpfnbPusL._SL500_AA240_.jpg",
         "http://ecx.images-amazon.com/images/I/41KbPYOrUxL._SL500_AA240_.jpg"
       ],
+      "featured_image": "",
+      "excerpt": "Happy New Year! It's the moment you've all been waiting for, my top 15 albums of 2008! 2008 was great (although I didn't blog much) - there could easily be 20...",
       "comments": 2,
       "original_url": "https://www.mikeroberto.com/2009/my-top-15-albums-of-2008"
     },
@@ -1075,6 +1150,8 @@
       ],
       "tags": [],
       "images": [],
+      "featured_image": "",
+      "excerpt": "Edit - April 29, 2011 - This is no longer working for me in Ubuntu 10.04 with everything updated. If you can figure it out, please drop a comment! This took me...",
       "comments": 11,
       "original_url": "https://www.mikeroberto.com/2009/disable-root-logins-in-phpmyadmin-with-ubuntu"
     },
@@ -1105,6 +1182,8 @@
         "http://ecx.images-amazon.com/images/I/510jOoFlZLL._SL500_AA240_.jpg",
         "http://ecx.images-amazon.com/images/I/41P%2B9tw2MML._SL500_AA240_.jpg"
       ],
+      "featured_image": "",
+      "excerpt": "While 2009 was an incredible year for me, its music will go wholly unremembered. To prove my point, there is not a single album on this list that will make it...",
       "comments": 3,
       "original_url": "https://www.mikeroberto.com/2009/top-15-albums-of-2009"
     },
@@ -1128,6 +1207,8 @@
         "http://i58.photobucket.com/albums/g278/MicroBerto/th_Crash_Test-Lobby_Card-Small_v7.jpg",
         "http://i58.photobucket.com/albums/g278/MicroBerto/th_Crash_Test-Pilot-Car_Wreck.jpg"
       ],
+      "featured_image": "",
+      "excerpt": "In Crash Test, Hollywood stunt expert Jack Gill leads an elite team of stuntmen, scientists, and investigators as they recreate full scale accidents to prove who is guilty or innocent.",
       "comments": 3,
       "original_url": "https://www.mikeroberto.com/2010/crash-test-spike"
     },
@@ -1152,6 +1233,8 @@
         "reality tv tips"
       ],
       "images": [],
+      "featured_image": "",
+      "excerpt": "This is part 1 of a 3 part series. Part 1 is about being on the set of a Reality TV Show. Exactly a year ago, I was thrown into a reality TV pilot titled Crash...",
       "comments": 1,
       "original_url": "https://www.mikeroberto.com/2010/what-i-learned-from-being-a-reality-tv-character-part-1-of-3-on-the-set"
     },
@@ -1169,6 +1252,8 @@
         "national instruments"
       ],
       "images": [],
+      "featured_image": "",
+      "excerpt": "This week, I tendered my resignation to my employer, National Instruments, in order to focus on my own internet marketing business that I started. I spent 1.5...",
       "comments": 4,
       "original_url": "https://www.mikeroberto.com/2010/things-just-got-real"
     },
@@ -1184,6 +1269,8 @@
       ],
       "tags": [],
       "images": [],
+      "featured_image": "",
+      "excerpt": "Wow. Ever since Shit Got Real, I've been one busy guy. You'd think it was because I've been working on my own business, but I wasn't. I was transitioning my...",
       "comments": 1,
       "original_url": "https://www.mikeroberto.com/2010/quitting-a-job-is-hard"
     },
@@ -1204,6 +1291,8 @@
         "two paths"
       ],
       "images": [],
+      "featured_image": "",
+      "excerpt": "Two roads diverged in a wood, and I\u2014 I took the one less traveled by, And that has made all the difference. --Robert Frost Tomorrow is the big day. My first...",
       "comments": 4,
       "original_url": "https://www.mikeroberto.com/2010/two-paths-from-here"
     },
@@ -1222,6 +1311,8 @@
         "first week entrepreneur"
       ],
       "images": [],
+      "featured_image": "",
+      "excerpt": "...well, kinda. I just concluded my first three days of reporting to nobody and no one. Honestly, I didn't think it'd feel that much different, as I already...",
       "comments": 2,
       "original_url": "https://www.mikeroberto.com/2010/week-one-in-the-books"
     },
@@ -1242,6 +1333,8 @@
         "my mission statement"
       ],
       "images": [],
+      "featured_image": "",
+      "excerpt": "#post_excerpt",
       "comments": 0,
       "original_url": "https://www.mikeroberto.com/2010/my-mission-statement"
     },
@@ -1260,6 +1353,8 @@
         "entrepreneur europe"
       ],
       "images": [],
+      "featured_image": "",
+      "excerpt": "Greetings from Guangzhou, China! A few weeks ago, I traveled to Europe with friends. We did a weekend in Amsterdam, spent Sunday night in Belgium, hung in...",
       "comments": 1,
       "original_url": "https://www.mikeroberto.com/2010/you-cant-live-the-american-dream-in-europe"
     },
@@ -1287,6 +1382,8 @@
         "spacex nasa"
       ],
       "images": [],
+      "featured_image": "",
+      "excerpt": "Yesterday morning, SpaceX successfully launched their Falcon 9 rocket and accompanying Dragon capsule into orbit, and safely brought Dragon back home. This was...",
       "comments": 3,
       "original_url": "https://www.mikeroberto.com/2010/spacex-falcon-9-success-meaning"
     },
@@ -1325,6 +1422,8 @@
         "Volbeat"
       ],
       "images": [],
+      "featured_image": "https://www.mikeroberto.com/wp-content/uploads/2017/01/best-metal-album-2016.jpg",
+      "excerpt": "It's nearly unanimous... Fates Warning crushed it in 2016 with Theories of Flight After a long hiatus, Mike and MetalBrian are back. 2016 was a legendary year...",
       "comments": 0,
       "original_url": "https://www.mikeroberto.com/2017/best-metal-albums-2016"
     },
@@ -1344,6 +1443,8 @@
         "Cleveland Indians"
       ],
       "images": [],
+      "featured_image": "",
+      "excerpt": "On Saturday June 18, 2016, my brother married his beautiful wife Megan in our hometown of Cleveland, OH. This was just a day before Game 7 of the legendary...",
       "comments": 1,
       "original_url": "https://www.mikeroberto.com/2017/best-man-speech"
     },
@@ -1361,6 +1462,8 @@
         "Weight Loss"
       ],
       "images": [],
+      "featured_image": "https://www.mikeroberto.com/wp-content/uploads/diet-coke-by-Niall_Kennedy.jpg",
+      "excerpt": "Does it assist with weight loss? Maybe, but this study proves nothing. Read why below. This week, a new research study is trending, with article titles such as...",
       "comments": 0,
       "original_url": "https://www.mikeroberto.com/2014/diet-soda-weight-loss-research-flawed"
     },
@@ -1375,6 +1478,8 @@
       ],
       "tags": [],
       "images": [],
+      "featured_image": "https://www.mikeroberto.com/wp-content/uploads/keto-diet-review.jpg",
+      "excerpt": "After three years of keto dieting and a decade of low-carb, paleo dieting, I finally put a &quot;keto diet review&quot; to paper, discussing what I've learned.",
       "comments": 2,
       "original_url": "https://www.mikeroberto.com/2019/keto-diet-review"
     },
@@ -1407,6 +1512,8 @@
         "Vegetable Oil"
       ],
       "images": [],
+      "featured_image": "https://www.mikeroberto.com/wp-content/uploads/autism-and-canola-oil.png",
+      "excerpt": "Disclaimer: The following article is an untested theory based upon a small amount of research involving correlational data. I'm not expanding on this idea, as...",
       "comments": 1,
       "original_url": "https://www.mikeroberto.com/2018/autism-seed-oils"
     },
@@ -1426,6 +1533,8 @@
         "Saturated Fat"
       ],
       "images": [],
+      "featured_image": "https://www.mikeroberto.com/wp-content/uploads/kevin-love-diet.png",
+      "excerpt": "With Game 5 in the books, the 2016 NBA Finals have gone from \"case closed\" to \"this thing is on\". One of the biggest and most-discussed playoff plotlines has...",
       "comments": 0,
       "original_url": "https://www.mikeroberto.com/2016/kevin-love-diet"
     },
@@ -1443,6 +1552,8 @@
         "Weight Loss"
       ],
       "images": [],
+      "featured_image": "",
+      "excerpt": "Weight loss is big business in America -- over a $60 billion annually.[2] This is no surprise when you consider that one in three Americans over the age of 20...",
       "comments": 0,
       "original_url": "https://www.mikeroberto.com/2016/biggest-loser-study"
     },
@@ -1465,6 +1576,8 @@
         "Low Fat Diet"
       ],
       "images": [],
+      "featured_image": "https://www.mikeroberto.com/wp-content/uploads/carbs-fats-combination.jpg",
+      "excerpt": "Is one of our bigger diet problems when we mix carbs and fats together? Because our brains sure get confused by the situation... Image Courtesy Cell...",
       "comments": 0,
       "original_url": "https://www.mikeroberto.com/2018/carbs-fats-brain"
     },
@@ -1502,6 +1615,8 @@
         "Soybean Oil"
       ],
       "images": [],
+      "featured_image": "https://www.mikeroberto.com/wp-content/uploads/soybean-oil-scandal.png",
+      "excerpt": "Soybean Oil has been shown to damage the gut microbiome in a new 6 month research study in China. But that's not exactly how they're positioning it...",
       "comments": 1,
       "original_url": "https://www.mikeroberto.com/2019/soybean-oil-gut-microbiome"
     },
@@ -1526,6 +1641,8 @@
         "Whey Protein"
       ],
       "images": [],
+      "featured_image": "https://www.mikeroberto.com/wp-content/uploads/protein-kidneys.png",
+      "excerpt": "A new meta-analysis adds further weight to combat the myth that protein can damage the kidneys. Repeat: High Protein Diets do NOT cause renal damage!",
       "comments": 0,
       "original_url": "https://www.mikeroberto.com/2019/high-protein-kidney"
     },
@@ -1544,6 +1661,8 @@
         "Mediterranean Diet"
       ],
       "images": [],
+      "featured_image": "https://www.mikeroberto.com/wp-content/uploads/blue-zones.png",
+      "excerpt": "Imagine this. You were born in 1925 in a rural area in Italy and have no birth certificate. It's now 1965, so you're 40 years old. You know that pensions are...",
       "comments": 3,
       "original_url": "https://www.mikeroberto.com/2019/blue-zones-fraud"
     },
@@ -1561,6 +1680,8 @@
       "images": [
         "https://blog.priceplow.com/wp-content/uploads/framingham-study-cholesterol-risk-factors-improved-low-carb.png"
       ],
+      "featured_image": "",
+      "excerpt": "It's July 2024, I've been on a low vitamin A diet for 19 months now, and this is my second check-in. My previous blood results were December 2023, 12 months...",
       "comments": 3,
       "original_url": "https://www.mikeroberto.com/2024/blood-work-july-2024"
     },
@@ -1582,6 +1703,8 @@
       "images": [
         "https://www.mikeroberto.com/wp-content/uploads/class-of-2000-25-years.png"
       ],
+      "featured_image": "https://www.mikeroberto.com/wp-content/uploads/class-of-2000-25-years.png",
+      "excerpt": "You have died of dysentery: 25 Years after the Class of 2000: Old enough for an analog childhood, young enough to master digital. Timing is everything",
       "comments": 4,
       "original_url": "https://www.mikeroberto.com/2025/class-of-2000"
     }

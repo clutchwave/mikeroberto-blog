@@ -1,11 +1,14 @@
 ---
 publishDate: 2007-12-12
 title: "Berto's Pre-Surfing Workout For Lon"
+excerpt: "This weekend, Lon will be visiting me after doing some work in San Diego. On Saturday, we will go surfing, which will be Lon's first time. Depending on surf..."
 category: "Fitness"
 author: "Mike Roberto"
 wpSlug: "bertos-pre-surfing-workout-for-lon"
 wpYear: 2007
 comments_count: 3
+metadata:
+  canonical: "https://www.mikeroberto.com/2007/bertos-pre-surfing-workout-for-lon"
 ---
 
 This weekend, [Lon](http://www.lonallen.com) will be visiting me after doing some work in San Diego.  On Saturday, we will go surfing, which will be Lon's first time.  Depending on surf conditions, hangovers, and the weather, we will be going to either [Seal Beach](http://www.surfline.com/reports/report.cfm?id=4217) or [El Porto](http://www.surfline.com/reports/report.cfm?id=4900).

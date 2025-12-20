@@ -1,11 +1,14 @@
 ---
 publishDate: 2006-11-06
 title: "Book Review:  The Broker, by John Grisham"
+excerpt: "Prior to this story, Joel Backman was a high rolling lawyer until he tried to broker a deal to sell software to the world's most powerful satellite..."
 category: "Book Reviews"
 author: "Mike Roberto"
 wpSlug: "book-review-the-broker-by-john-grisham"
 wpYear: 2006
 comments_count: 0
+metadata:
+  canonical: "https://www.mikeroberto.com/2006/book-review-the-broker-by-john-grisham"
 ---
 
 Prior to this story, Joel Backman was a high rolling lawyer until he tried to broker a deal to sell software to the world's most powerful satellite surveillance system. ![](http://content.answers.com/main/content/wp/en/thumb/b/b3/200px-The_Broker_Grisham_Novel.jpg)He got caught and put in prison and the software was hidden. However, the U.S. government wants his death or that information. After six years in solitary, the CIA director gets the lame duck President to pardon Backman, making him available with a nice target on his chest.

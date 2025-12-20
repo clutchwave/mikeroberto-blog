@@ -1,11 +1,14 @@
 ---
 publishDate: 2007-11-27
 title: "On Strike With the Writer's Guild of America"
+excerpt: "Early this morning, I participated in an event I never would have imagined myself taking part in: I went on strike with a labor union. Specifically, I was a..."
 category: "Current Events"
 author: "Mike Roberto"
 wpSlug: "on-strike-with-the-writers-guild-of-america"
 wpYear: 2007
 comments_count: 3
+metadata:
+  canonical: "https://www.mikeroberto.com/2007/on-strike-with-the-writers-guild-of-america"
 ---
 
 [![](http://www.bertopics.com/d/18155-2/Sarah_Watson-Mike_Roberto-Writers_Guild_Strike-20071127.jpg)](http://www.bertopics.com/v/LA_Pics/Writers_Guild_Strike-20071127/Sarah_Watson-Mike_Roberto-Writers_Guild_Strike-20071127.jpg.html?g2_imageViewsIndex=0)Early this morning, I participated in an event I never would have imagined myself taking part in:  *I went on strike with a labor union*.

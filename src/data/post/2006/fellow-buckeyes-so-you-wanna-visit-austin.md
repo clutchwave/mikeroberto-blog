@@ -1,11 +1,14 @@
 ---
 publishDate: 2006-08-16
 title: "Fellow Buckeyes - So You Wanna Visit Austin?"
+excerpt: "This is a long guide for all of the Buckeye faithful who intend to invade the beautiful city of Austin, TX, and would like some ideas of what to do, see, and..."
 category: "Uncategorized"
 author: "Mike Roberto"
 wpSlug: "fellow-buckeyes-so-you-wanna-visit-austin"
 wpYear: 2006
 comments_count: 59
+metadata:
+  canonical: "https://www.mikeroberto.com/2006/fellow-buckeyes-so-you-wanna-visit-austin"
 ---
 
 This is a long guide for all of the Buckeye faithful who intend to invade the beautiful city of Austin, TX, and would like some ideas of what to do, see, and eat.  I am also going to compare Ohio to Texas in my brutally honest ways and let you know what I've learned and what you can come to expect.

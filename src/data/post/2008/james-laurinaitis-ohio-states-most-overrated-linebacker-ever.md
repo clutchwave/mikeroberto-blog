@@ -1,11 +1,14 @@
 ---
 publishDate: 2008-01-14
 title: "James Laurinaitis:  Ohio State's Most Overrated Linebacker Ever"
+excerpt: "#post_excerpt"
 category: "Sports"
 author: "Mike Roberto"
 wpSlug: "james-laurinaitis-ohio-states-most-overrated-linebacker-ever"
 wpYear: 2008
 comments_count: 34
+metadata:
+  canonical: "https://www.mikeroberto.com/2008/james-laurinaitis-ohio-states-most-overrated-linebacker-ever"
 ---
 
 This will come as complete blasphemy to the Buckeye faithful, but it is true:  James Laurinaitis is the most overrated linebacker Ohio State has ever had.

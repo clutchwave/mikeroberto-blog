@@ -1,6 +1,7 @@
 ---
 publishDate: 2019-03-13
 title: "High Protein Diets Do NOT Cause Kidney Issues: Meta-Analysis"
+excerpt: "A new meta-analysis adds further weight to combat the myth that protein can damage the kidneys. Repeat: High Protein Diets do NOT cause renal damage!"
 category: "Diet Research"
 tags:
   - "Glomerular Filtration Rate"
@@ -16,6 +17,9 @@ author: "Mike Roberto"
 wpSlug: "high-protein-kidney"
 wpYear: 2019
 comments_count: 0
+image: "https://www.mikeroberto.com/wp-content/uploads/protein-kidneys.png"
+metadata:
+  canonical: "https://www.mikeroberto.com/2019/high-protein-kidney"
 ---
 
 > "The great enemy of truth is very often not the lie - deliberate, contrived, and dishonest - but the myth - persistent, persuasive, and unrealistic. Too often we hold fast to the cliches of our forebears. We subject all facts to a prefabricated set of interpretations. We enjoy the comfort of opinion without the discomfort of thought."

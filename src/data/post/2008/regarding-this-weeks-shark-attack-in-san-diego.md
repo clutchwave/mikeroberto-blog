@@ -1,11 +1,14 @@
 ---
 publishDate: 2008-04-26
 title: "Regarding This Week's Shark Attack in San Diego"
+excerpt: "#post_excerpt"
 category: "Fitness"
 author: "Mike Roberto"
 wpSlug: "regarding-this-weeks-shark-attack-in-san-diego"
 wpYear: 2008
 comments_count: 3
+metadata:
+  canonical: "https://www.mikeroberto.com/2008/regarding-this-weeks-shark-attack-in-san-diego"
 ---
 
 Before I begin, I'd like to send my condolences out to the family of Dr. David Martin, [who was killed by a great white shark](https://www.latimes.com/archives/la-xpm-2008-apr-26-me-shark26-story.html) in Solana Beach earlier this week.

@@ -1,11 +1,14 @@
 ---
 publishDate: 2007-01-20
 title: "I Can't Cry"
+excerpt: "#post_excerpt"
 category: "HUMILIATIONS"
 author: "Mike Roberto"
 wpSlug: "i-cant-cry"
 wpYear: 2007
 comments_count: 0
+metadata:
+  canonical: "https://www.mikeroberto.com/2007/i-cant-cry"
 ---
 
 December 2025 Update

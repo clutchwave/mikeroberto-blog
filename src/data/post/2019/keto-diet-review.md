@@ -1,11 +1,15 @@
 ---
 publishDate: 2019-06-09
 title: "My Keto Diet Review from 2019: Thoughts After Three Years, Now Evolved"
+excerpt: "After three years of keto dieting and a decade of low-carb, paleo dieting, I finally put a &quot;keto diet review&quot; to paper, discussing what I've learned."
 category: "Diet Research"
 author: "Mike Roberto"
 wpSlug: "keto-diet-review"
 wpYear: 2019
 comments_count: 2
+image: "https://www.mikeroberto.com/wp-content/uploads/keto-diet-review.jpg"
+metadata:
+  canonical: "https://www.mikeroberto.com/2019/keto-diet-review"
 ---
 
 December 2025 Update from Mike

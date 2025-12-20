@@ -1,11 +1,14 @@
 ---
 publishDate: 2007-02-04
 title: "Surf Lessons with Chris"
+excerpt: "Well, it's past midnight on Saturday, and I just woke up from a 3+ hour nap. For those of you haven't figured it out, I took a nap past \"the point of no..."
 category: "Sports"
 author: "Mike Roberto"
 wpSlug: "surf-lessons-with-chris"
 wpYear: 2007
 comments_count: 0
+metadata:
+  canonical: "https://www.mikeroberto.com/2007/surf-lessons-with-chris"
 ---
 
 Well, it's past midnight on Saturday, and I just woke up from a 3+ hour nap.  For those of you haven't figured it out, I took a nap past "the point of no return", and burned myself for it.  My night is effectively over.  Worst of all, I think I ruined the Saturday night plans of one of my friends.  I'm sorry Claire.

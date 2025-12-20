@@ -1,6 +1,7 @@
 ---
 publishDate: 2019-02-21
 title: "Soybean Oil WRECKS the Gut Microbiome.. But They Won't Tell You That"
+excerpt: "Soybean Oil has been shown to damage the gut microbiome in a new 6 month research study in China. But that's not exactly how they're positioning it..."
 category: "Diet Research"
 tags:
   - "Alistipes"
@@ -29,6 +30,9 @@ author: "Mike Roberto"
 wpSlug: "soybean-oil-gut-microbiome"
 wpYear: 2019
 comments_count: 1
+image: "https://www.mikeroberto.com/wp-content/uploads/soybean-oil-scandal.png"
+metadata:
+  canonical: "https://www.mikeroberto.com/2019/soybean-oil-gut-microbiome"
 ---
 
 For years, the most well-researched members of the diet community have warned of the dangers of omega-6 polyunsaturated fatty acids (PUFAs) such as **soybean oil**, given their high propensity for inflammation, obesity, and disease. A six month, randomized controlled diet study run in China has given new evidence for those warnings, as **a diet high in soybean oil significantly damaged the gut microbiome** in participants.[1]

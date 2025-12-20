@@ -1,6 +1,7 @@
 ---
 publishDate: 2010-10-13
 title: "My 2010 Mission Statement"
+excerpt: "#post_excerpt"
 category: "Entrepreneurship"
 tags:
   - "entrepreneurial mission statement"
@@ -12,6 +13,8 @@ author: "Mike Roberto"
 wpSlug: "my-mission-statement"
 wpYear: 2010
 comments_count: 0
+metadata:
+  canonical: "https://www.mikeroberto.com/2010/my-mission-statement"
 ---
 
 2025 Update from Mike:

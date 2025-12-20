@@ -1,11 +1,14 @@
 ---
 publishDate: 2008-01-02
 title: "My Top 15 Albums of 2007"
+excerpt: "Happy New Year everyone! It's time for my favorite blog post of the year, one in which I've spent more time pondering than is healthy. The Top 15 Albums of..."
 category: "Music Reviews"
 author: "Mike Roberto"
 wpSlug: "my-top-15-albums-of-2007"
 wpYear: 2008
 comments_count: 2
+metadata:
+  canonical: "https://www.mikeroberto.com/2008/my-top-15-albums-of-2007"
 ---
 
 Happy New Year everyone!  It's time for my favorite blog post of the year, one in which I've spent more time pondering than is healthy.  The Top 15 Albums of 2007.  (Top 15 Albums of 2006 can be found [here](https://www.mikeroberto.com/2006/12/28/my-top-15-albums-of-2006/))

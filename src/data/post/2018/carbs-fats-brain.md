@@ -1,6 +1,7 @@
 ---
 publishDate: 2018-06-22
 title: "Is the Combo of Carbs and Fats Duping Your Brain.. and Diet?"
+excerpt: "Is one of our bigger diet problems when we mix carbs and fats together? Because our brains sure get confused by the situation... Image Courtesy Cell..."
 category: "Diet Research"
 tags:
   - "Calories"
@@ -14,6 +15,9 @@ author: "Mike Roberto"
 wpSlug: "carbs-fats-brain"
 wpYear: 2018
 comments_count: 0
+image: "https://www.mikeroberto.com/wp-content/uploads/carbs-fats-combination.jpg"
+metadata:
+  canonical: "https://www.mikeroberto.com/2018/carbs-fats-brain"
 ---
 
 <figure class="alignright">

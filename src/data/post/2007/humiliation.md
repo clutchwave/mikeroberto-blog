@@ -1,11 +1,14 @@
 ---
 publishDate: 2007-01-10
 title: "HUMILIATION"
+excerpt: "On Sunday, my friend Joe and I drove from LA to Phoenix, for the National Championship. After dropping Joe off, I picked up Jeremy and Allison at the airport...."
 category: "HUMILIATIONS"
 author: "Mike Roberto"
 wpSlug: "humiliation"
 wpYear: 2007
 comments_count: 6
+metadata:
+  canonical: "https://www.mikeroberto.com/2007/humiliation"
 ---
 
 On Sunday, my friend Joe and I drove from LA to Phoenix, for the National Championship.  After dropping Joe off, I picked up Jeremy and Allison at the airport.  Kirby came a couple of hours later, and it was great seeing everyone.

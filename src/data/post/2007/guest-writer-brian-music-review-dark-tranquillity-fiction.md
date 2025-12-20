@@ -1,11 +1,14 @@
 ---
 publishDate: 2007-03-19
 title: "Guest Writer Brian - Music Review:  Dark Tranquillity - Fiction"
+excerpt: "Tonight I've decided to post the first of a few different rants from my friend, Brian. We often discuss music and sports via e-mail, along with the usual..."
 category: "Guest Writers"
 author: "Mike Roberto"
 wpSlug: "guest-writer-brian-music-review-dark-tranquillity-fiction"
 wpYear: 2007
 comments_count: 2
+metadata:
+  canonical: "https://www.mikeroberto.com/2007/guest-writer-brian-music-review-dark-tranquillity-fiction"
 ---
 
 Tonight I've decided to post the first of a few different rants from my friend, Brian.  We often discuss [music](https://www.mikeroberto.com/category/music-reviews/) and [sports](https://www.mikeroberto.com/category/sports/) via e-mail, along with the usual conversations about [Life, The Universe, and Everything](https://www.mikeroberto.com/category/life-the-universe-and-everything/).

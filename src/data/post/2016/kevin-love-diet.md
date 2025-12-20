@@ -1,6 +1,7 @@
 ---
 publishDate: 2016-06-15
 title: "Kevin Love's Diet: When Weight Loss Weakens You"
+excerpt: "With Game 5 in the books, the 2016 NBA Finals have gone from \"case closed\" to \"this thing is on\". One of the biggest and most-discussed playoff plotlines has..."
 category: "Diet Research"
 tags:
   - "Basketball"
@@ -11,6 +12,9 @@ author: "Mike Roberto"
 wpSlug: "kevin-love-diet"
 wpYear: 2016
 comments_count: 0
+image: "https://www.mikeroberto.com/wp-content/uploads/kevin-love-diet.png"
+metadata:
+  canonical: "https://www.mikeroberto.com/2016/kevin-love-diet"
 ---
 
 With Game 5 in the books, the 2016 NBA Finals have gone from "case closed" to "this thing is *on*". One of the biggest and most-discussed playoff plotlines has been the question, ***"What is wrong with Kevin Love?"***

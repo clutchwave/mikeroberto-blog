@@ -1,6 +1,7 @@
 ---
 publishDate: 2009-12-31
 title: "My Top 15 Albums of 2009"
+excerpt: "While 2009 was an incredible year for me, its music will go wholly unremembered. To prove my point, there is not a single album on this list that will make it..."
 category: "Music Reviews"
 tags:
   - "2009"
@@ -15,6 +16,8 @@ author: "Mike Roberto"
 wpSlug: "top-15-albums-of-2009"
 wpYear: 2009
 comments_count: 3
+metadata:
+  canonical: "https://www.mikeroberto.com/2009/top-15-albums-of-2009"
 ---
 
 While 2009 was an incredible year for me, its music will go wholly unremembered.  To prove my point, there is not a single album on this list that will make it to my top 10 albums of the decade (coming soon).

@@ -1,6 +1,7 @@
 ---
 publishDate: 2017-01-27
 title: "The Best Metal Albums of 2016"
+excerpt: "It's nearly unanimous... Fates Warning crushed it in 2016 with Theories of Flight After a long hiatus, Mike and MetalBrian are back. 2016 was a legendary year..."
 category: "Guest Writers"
 tags:
   - "Amon Amarth"
@@ -29,6 +30,9 @@ author: "Mike Roberto"
 wpSlug: "best-metal-albums-2016"
 wpYear: 2017
 comments_count: 0
+image: "https://www.mikeroberto.com/wp-content/uploads/2017/01/best-metal-album-2016.jpg"
+metadata:
+  canonical: "https://www.mikeroberto.com/2017/best-metal-albums-2016"
 ---
 
 <figure class="alignright">

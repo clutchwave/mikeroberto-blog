@@ -1,6 +1,7 @@
 ---
 publishDate: 2010-08-31
 title: "Two Paths From Here"
+excerpt: "Two roads diverged in a wood, and I— I took the one less traveled by, And that has made all the difference. --Robert Frost Tomorrow is the big day. My first..."
 category: "Entrepreneurship"
 tags:
   - "beach bum"
@@ -11,6 +12,8 @@ author: "Mike Roberto"
 wpSlug: "two-paths-from-here"
 wpYear: 2010
 comments_count: 4
+metadata:
+  canonical: "https://www.mikeroberto.com/2010/two-paths-from-here"
 ---
 
 > Two roads diverged in a wood, and I—	

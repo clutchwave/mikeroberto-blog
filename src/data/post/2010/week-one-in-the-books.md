@@ -1,6 +1,7 @@
 ---
 publishDate: 2010-09-04
 title: "Week One in the Books"
+excerpt: "...well, kinda. I just concluded my first three days of reporting to nobody and no one. Honestly, I didn't think it'd feel that much different, as I already..."
 category: "Entrepreneurship"
 tags:
   - "daily routine"
@@ -10,6 +11,8 @@ author: "Mike Roberto"
 wpSlug: "week-one-in-the-books"
 wpYear: 2010
 comments_count: 2
+metadata:
+  canonical: "https://www.mikeroberto.com/2010/week-one-in-the-books"
 ---
 
 ...well, kinda.  I just concluded my first three days of reporting to nobody and no one.  Honestly, I didn't think it'd feel that much different, as I already worked from home.  **But it did.**  In fact, ** it felt GREAT**.

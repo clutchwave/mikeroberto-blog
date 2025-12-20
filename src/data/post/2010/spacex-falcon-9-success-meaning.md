@@ -1,6 +1,7 @@
 ---
 publishDate: 2010-12-09
 title: "What the SpaceX Falcon 9 Launch Success Means to America"
+excerpt: "Yesterday morning, SpaceX successfully launched their Falcon 9 rocket and accompanying Dragon capsule into orbit, and safely brought Dragon back home. This was..."
 category: "Current Events"
 tags:
   - "nasa"
@@ -15,6 +16,8 @@ author: "Mike Roberto"
 wpSlug: "spacex-falcon-9-success-meaning"
 wpYear: 2010
 comments_count: 3
+metadata:
+  canonical: "https://www.mikeroberto.com/2010/spacex-falcon-9-success-meaning"
 ---
 
 Yesterday morning, [SpaceX](http://www.spacex.com) successfully launched their Falcon 9 rocket and accompanying Dragon capsule into orbit, and safely brought Dragon back home. This was COTS Demonstration I, which means they are proving to NASA that they are capable of launching and maneuvering cargo (and eventually astronauts) into orbit and to the International Space Station.

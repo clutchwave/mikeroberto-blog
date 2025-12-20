@@ -1,11 +1,14 @@
 ---
 publishDate: 2009-01-01
 title: "My Top 15 Albums of 2008"
+excerpt: "Happy New Year! It's the moment you've all been waiting for, my top 15 albums of 2008! 2008 was great (although I didn't blog much) - there could easily be 20..."
 category: "Music Reviews"
 author: "Mike Roberto"
 wpSlug: "my-top-15-albums-of-2008"
 wpYear: 2009
 comments_count: 2
+metadata:
+  canonical: "https://www.mikeroberto.com/2009/my-top-15-albums-of-2008"
 ---
 
 Happy New Year!  It's the moment you've all been waiting for, my top 15 albums of 2008!

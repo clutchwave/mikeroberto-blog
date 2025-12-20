@@ -1,7 +1,7 @@
 ---
 publishDate: 2010-04-23
 title: "Announcing Crash Test - Tues 4/27 11PM EST on Spike TV "
-excerpt: "In Crash Test, Hollywood stunt expert Jack Gill leads an elite team of stuntmen, scientists, and investigators as they recreate full scale accidents to prove wh"
+excerpt: "In Crash Test, Hollywood stunt expert Jack Gill leads an elite team of stuntmen, scientists, and investigators as they recreate full scale accidents to prove who is guilty or innocent."
 category: "TV"
 tags:
   - "crash test"
@@ -13,6 +13,8 @@ author: "Mike Roberto"
 wpSlug: "crash-test-spike"
 wpYear: 2010
 comments_count: 3
+metadata:
+  canonical: "https://www.mikeroberto.com/2010/crash-test-spike"
 ---
 
 Last fall, I filmed a reality TV pilot for **Spike TV** called **Crash Test**.  On **Tuesday, April 27th**, Spike TV is going to air the pilot at **11PM EST** (check your local listings - DirecTV and other satellite networks will be off of the east coast feed!).

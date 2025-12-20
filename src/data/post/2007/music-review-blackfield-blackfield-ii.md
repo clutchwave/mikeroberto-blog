@@ -1,11 +1,14 @@
 ---
 publishDate: 2007-01-28
 title: "Music Review - Blackfield - Blackfield II"
+excerpt: "In England, there lives a man who writes, performs, and produces some of the most beautiful music in this world. And practically nobody will ever even hear it...."
 category: "Music Reviews"
 author: "Mike Roberto"
 wpSlug: "music-review-blackfield-blackfield-ii"
 wpYear: 2007
 comments_count: 5
+metadata:
+  canonical: "https://www.mikeroberto.com/2007/music-review-blackfield-blackfield-ii"
 ---
 
 In England, there lives a man who writes, performs, and produces some of the most beautiful music in this world.  And practically nobody will ever even hear it.

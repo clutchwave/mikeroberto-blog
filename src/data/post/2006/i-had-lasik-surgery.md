@@ -1,11 +1,14 @@
 ---
 publishDate: 2006-12-18
 title: "I Had LASIK Surgery... And Totally Regret It."
+excerpt: "#post_excerpt"
 category: "Fitness"
 author: "Mike Roberto"
 wpSlug: "i-had-lasik-surgery"
 wpYear: 2006
 comments_count: 1
+metadata:
+  canonical: "https://www.mikeroberto.com/2006/i-had-lasik-surgery"
 ---
 
 December 2025 Update

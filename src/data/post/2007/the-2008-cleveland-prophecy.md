@@ -1,11 +1,14 @@
 ---
 publishDate: 2007-06-14
 title: "The 2008 Cleveland Prophecy"
+excerpt: "On this fateful, yet somewhat expected night, I have decided to make public something that I have been preaching to close friends for the past couple of years...."
 category: "HUMILIATIONS"
 author: "Mike Roberto"
 wpSlug: "the-2008-cleveland-prophecy"
 wpYear: 2007
 comments_count: 10
+metadata:
+  canonical: "https://www.mikeroberto.com/2007/the-2008-cleveland-prophecy"
 ---
 
 On this [fateful](http://cbs.sportsline.com/nba/gamecenter/recap/NBA_20070614_SA@CLE), yet somewhat expected night, I have decided to make public something that I have been preaching to close friends for the past couple of years.  A prediction so unbelievably earth-shattering that it must be documented immediately, thus leaving out any question of its founding.  Ladies and gentlemen, I bring to you **The 2008 Cleveland Prophecy:  *All three major Cleveland sports teams will win their respective championships within the same year***.

@@ -1,11 +1,14 @@
 ---
 publishDate: 2007-03-11
 title: "Concert Review - Blackfield - The Knitting Factory - Hollywood, CA"
+excerpt: "Note: Talia has sent me pictures! I am including some of my favorites here. Click here for the entire slideshow. Last night, I had the honor of seeing one of..."
 category: "Music Reviews"
 author: "Mike Roberto"
 wpSlug: "concert-review-blackfield-the-knitting-factory-hollywood-ca"
 wpYear: 2007
 comments_count: 3
+metadata:
+  canonical: "https://www.mikeroberto.com/2007/concert-review-blackfield-the-knitting-factory-hollywood-ca"
 ---
 
 *Note:  Talia has sent me pictures!  I am including some of my favorites here.  Click [here](http://share.shutterfly.com/action/welcome?sid=2CauWbloxYvkA) for the entire slideshow.*

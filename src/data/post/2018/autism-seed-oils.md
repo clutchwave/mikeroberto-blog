@@ -1,6 +1,7 @@
 ---
 publishDate: 2018-06-19
 title: "Autism Cause THEORY: Is the Increase in Autism from SEED Oils?"
+excerpt: "Disclaimer: The following article is an untested theory based upon a small amount of research involving correlational data. I'm not expanding on this idea, as..."
 category: "Diet Research"
 tags:
   - "Antibiotics"
@@ -24,6 +25,9 @@ author: "Mike Roberto"
 wpSlug: "autism-seed-oils"
 wpYear: 2018
 comments_count: 1
+image: "https://www.mikeroberto.com/wp-content/uploads/autism-and-canola-oil.png"
+metadata:
+  canonical: "https://www.mikeroberto.com/2018/autism-seed-oils"
 ---
 
 *Disclaimer:* The following article is an untested *theory* based upon a small amount of research involving *correlational* data.

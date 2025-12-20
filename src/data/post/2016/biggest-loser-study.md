@@ -1,6 +1,7 @@
 ---
 publishDate: 2016-05-06
 title: "Study Shows \"The Biggest Loser\" *IS* the Big Loser"
+excerpt: "Weight loss is big business in America -- over a $60 billion annually.[2] This is no surprise when you consider that one in three Americans over the age of 20..."
 category: "Diet Research"
 tags:
   - "Leptin"
@@ -9,6 +10,8 @@ author: "Mike Roberto"
 wpSlug: "biggest-loser-study"
 wpYear: 2016
 comments_count: 0
+metadata:
+  canonical: "https://www.mikeroberto.com/2016/biggest-loser-study"
 ---
 
 Weight loss is big business in America -- over a $60 billion annually.[2] This is no surprise when you consider that one in three Americans over the age of 20 is considered obese, and over 70% of the population is classified as overweight.[3]

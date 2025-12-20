@@ -1,11 +1,14 @@
 ---
 publishDate: 2006-12-03
 title: "TV Review:  Friday Night Lights"
+excerpt: "I’m not a TV guy, but Friday Night Lights has sucked me in. This action/drama show starring football-addicted small-town Texas has been stealing my Tuesday..."
 category: "TV"
 author: "Mike Roberto"
 wpSlug: "tv-review-friday-night-lights"
 wpYear: 2006
 comments_count: 3
+metadata:
+  canonical: "https://www.mikeroberto.com/2006/tv-review-friday-night-lights"
 ---
 
 [![](https://www.mikeroberto.com/Friday_Night_Lights/Friday_Night_Lights-thumb.jpg)](https://www.mikeroberto.com/Friday_Night_Lights/Friday_Night_Lights.jpg)I’m not a TV guy, but Friday Night Lights has sucked me in.  This action/drama show starring football-addicted small-town Texas has been stealing my Tuesday nights.  Since it’s filmed right here in Austin, I have taken extra interest in this rapidly-degrading series.

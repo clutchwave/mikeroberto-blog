@@ -1,11 +1,14 @@
 ---
 publishDate: 2008-07-20
 title: "The Great Unamerican Beer"
+excerpt: "This past Friday, I was asked to buy some beer for a party. On my way to the grocery store, I deposited my Stimulus Check, then used some of that to buy a case..."
 category: "Politics"
 author: "Mike Roberto"
 wpSlug: "the-great-unamerican-beer"
 wpYear: 2008
 comments_count: 7
+metadata:
+  canonical: "https://www.mikeroberto.com/2008/the-great-unamerican-beer"
 ---
 
 ![](http://c.myspace.com/Groups/00022/01/13/22663110_m.png)This past Friday, I was asked to buy some beer for a party.  On my way to the grocery store, I deposited my Stimulus Check, then used some of that to buy a case of Bud Light.  A few hours later, I realized that this seemingly normal sequence of events was an ironic microcosm for the economic disaster that this country faces, and I was part of the problem.

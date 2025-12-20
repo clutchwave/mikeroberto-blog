@@ -1,6 +1,7 @@
 ---
 publishDate: 2025-09-17
 title: "Class of 2000: The Final Boarding Call Before the Chaos"
+excerpt: "You have died of dysentery: 25 Years after the Class of 2000: Old enough for an analog childhood, young enough to master digital. Timing is everything"
 category: "Current Events"
 tags:
   - "Processed Seed Oils"
@@ -8,6 +9,9 @@ author: "Mike Roberto"
 wpSlug: "class-of-2000"
 wpYear: 2025
 comments_count: 4
+image: "https://www.mikeroberto.com/wp-content/uploads/class-of-2000-25-years.png"
+metadata:
+  canonical: "https://www.mikeroberto.com/2025/class-of-2000"
 ---
 
 *"Timing is everything!"*

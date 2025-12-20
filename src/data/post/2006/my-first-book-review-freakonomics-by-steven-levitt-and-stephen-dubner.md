@@ -1,11 +1,14 @@
 ---
 publishDate: 2006-09-15
 title: "My First Book Review:  Freakonomics, by Steven Levitt and Stephen Dubner"
+excerpt: "I'll be first to admit that I have no clue how to write a book review, and this contains “spoilers”, if there is such a thing in a non-fiction book. You've..."
 category: "Book Reviews"
 author: "Mike Roberto"
 wpSlug: "my-first-book-review-freakonomics-by-steven-levitt-and-stephen-dubner"
 wpYear: 2006
 comments_count: 2
+metadata:
+  canonical: "https://www.mikeroberto.com/2006/my-first-book-review-freakonomics-by-steven-levitt-and-stephen-dubner"
 ---
 
 I'll be first to admit that I have no clue how to write a book review, and this contains “spoilers”, if there is such a thing in a non-fiction book.  You've been warned.

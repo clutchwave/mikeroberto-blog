@@ -1,11 +1,14 @@
 ---
 publishDate: 2007-02-18
 title: "Got Some New Toys!"
+excerpt: "Yesterday I headed over to the local Dive 'n Surf shop and walked out 583 dollars poorer. They were hosting their annual February yard sale, with some huge..."
 category: "Fitness"
 author: "Mike Roberto"
 wpSlug: "got-some-new-toys"
 wpYear: 2007
 comments_count: 1
+metadata:
+  canonical: "https://www.mikeroberto.com/2007/got-some-new-toys"
 ---
 
 [![](https://www.mikeroberto.com/pics/My_New_Surfboard-021807-thumb.jpg)](http://www.bertopics.com/v/LA_Pics/Hermosa_Beach/My_New_Surfboard-021807.jpg.html)Yesterday I headed over to the [local](http://maps.google.com/maps?f=q&hl=en&q=504+N+Broadway,+Redondo+Beach,+CA+90277+(Dive+N%27+Surf+Inc)%5C&sll=33.869507,-118.387313&sspn=0.024765,0.028367&ie=UTF8&z=14&ll=33.847109,-118.390903&spn=0.049543,0.056734&om=1&iwloc=A) [Dive 'n Surf](http://www.divensurf.com/) shop and walked out 583 dollars poorer.  They were hosting their annual February yard sale, with some huge discounts for the slow season.

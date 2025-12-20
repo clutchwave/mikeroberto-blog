@@ -1,11 +1,14 @@
 ---
 publishDate: 2008-09-29
 title: "How to Buy and Own Gold - The Layman's Guide to Escaping the Dollar"
+excerpt: "For nearly 40 years, the government and Federal Reserve has been destroying the value of your money. If you're like me, you don't support any bailout plans..."
 category: "Investing"
 author: "Mike Roberto"
 wpSlug: "how-to-buy-and-own-gold-the-laymans-guide-to-escaping-the-dollar"
 wpYear: 2008
 comments_count: 8
+metadata:
+  canonical: "https://www.mikeroberto.com/2008/how-to-buy-and-own-gold-the-laymans-guide-to-escaping-the-dollar"
 ---
 
 For nearly 40 years, the government and Federal Reserve has been destroying the value of your money.  If you're like me, you don't support any bailout plans which effectively give money to criminals at the expense of a worse dollar and higher cost-of-living.

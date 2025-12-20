@@ -1,11 +1,14 @@
 ---
 publishDate: 2006-10-28
 title: "Book Review - A Confederacy of Dunces, by John Kennedy Toole"
+excerpt: "Every now and then, a book comes by, rocks your world, and completely shakes your foundations by changing the way you think. A Confederacy of Dunces is not one..."
 category: "Book Reviews"
 author: "Mike Roberto"
 wpSlug: "book-review-a-confederacy-of-dunces-by-john-kennedy-toole"
 wpYear: 2006
 comments_count: 2
+metadata:
+  canonical: "https://www.mikeroberto.com/2006/book-review-a-confederacy-of-dunces-by-john-kennedy-toole"
 ---
 
 Every now and then, a book comes by, rocks your world, and completely shakes your foundations by changing the way you think.

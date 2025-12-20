@@ -1,11 +1,14 @@
 ---
 publishDate: 2007-06-03
 title: "Hostel Review:  Cuesta Arriba in Santa Teresa, Costa Rica"
+excerpt: "#post_excerpt"
 category: "Travels"
 author: "Mike Roberto"
 wpSlug: "hostel-review-cuesta-arriba-in-santa-teresa-costa-rica"
 wpYear: 2007
 comments_count: 1
+metadata:
+  canonical: "https://www.mikeroberto.com/2007/hostel-review-cuesta-arriba-in-santa-teresa-costa-rica"
 ---
 
 Sometimes you find the greatest places by accident.  Billy and I were at the last leg of our Costa Rica trip, and decided to go to the surf town of Santa Teresa and maybe Mal País.  The place recommended by Lonely Planet looked like a disaster area, so we hit the streets.  A bunch of people coming from the beach were walking further down the main street, so we decided to follow.  We arrived at the **Cuesta Arriba Hostel** and were immediately pleased with what we saw.

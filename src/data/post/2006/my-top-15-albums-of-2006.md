@@ -1,11 +1,14 @@
 ---
 publishDate: 2006-12-28
 title: "My Top 15 Albums of 2006"
+excerpt: "Happy Holidays from MikeRoberto.com! Each year, my friend Brian and I share our Top 15 albums of the year. Brian is a much more intense music aficionado than I..."
 category: "Music Reviews"
 author: "Mike Roberto"
 wpSlug: "my-top-15-albums-of-2006"
 wpYear: 2006
 comments_count: 3
+metadata:
+  canonical: "https://www.mikeroberto.com/2006/my-top-15-albums-of-2006"
 ---
 
 Happy Holidays from MikeRoberto.com!

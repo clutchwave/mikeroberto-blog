@@ -1,6 +1,7 @@
 ---
 publishDate: 2010-08-16
 title: "What I Learned From Being a Reality TV Character - Part 1 of 3 - On the Set"
+excerpt: "This is part 1 of a 3 part series. Part 1 is about being on the set of a Reality TV Show. Exactly a year ago, I was thrown into a reality TV pilot titled Crash..."
 category: "Life, The Universe, and Everything"
 tags:
   - "crash test"
@@ -15,6 +16,8 @@ author: "Mike Roberto"
 wpSlug: "what-i-learned-from-being-a-reality-tv-character-part-1-of-3-on-the-set"
 wpYear: 2010
 comments_count: 1
+metadata:
+  canonical: "https://www.mikeroberto.com/2010/what-i-learned-from-being-a-reality-tv-character-part-1-of-3-on-the-set"
 ---
 
 *This is part 1 of a 3 part series.  Part 1 is about being on the set of a Reality TV Show.*

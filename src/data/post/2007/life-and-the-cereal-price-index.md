@@ -1,11 +1,14 @@
 ---
 publishDate: 2007-02-01
 title: "Life and the Cereal Price Index"
+excerpt: "When moving from one city to another, one should qualify whether or not his supposed wage increase is justified after a comparison of post-tax purchasing..."
 category: "Life, The Universe, and Everything"
 author: "Mike Roberto"
 wpSlug: "life-and-the-cereal-price-index"
 wpYear: 2007
 comments_count: 1
+metadata:
+  canonical: "https://www.mikeroberto.com/2007/life-and-the-cereal-price-index"
 ---
 
 When moving from one city to another, one should qualify whether or not his supposed wage increase is justified after a comparison of post-tax purchasing power.  The question to ask is, "After taxes, can I live the same standard of living and buy/save more than I could before?"
