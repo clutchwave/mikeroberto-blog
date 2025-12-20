@@ -27,3 +27,4 @@ migration-tools/*.xml
 migration-tools/*.json
 migration-tools/redirection-*.json
 mnt/
+migration-tools/unused_images.txt
