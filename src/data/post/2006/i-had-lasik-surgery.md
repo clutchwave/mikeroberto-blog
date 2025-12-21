@@ -7,17 +7,25 @@ author: "Mike Roberto"
 wpSlug: "i-had-lasik-surgery"
 wpYear: 2006
 comments_count: 1
-metadata:
-  canonical: "https://www.mikeroberto.com/2006/i-had-lasik-surgery"
 ---
 
-December 2025 Update
-
-About a month after this article was published, I posted an update titled *"[I Can't Cry](https://www.mikeroberto.com/2007/i-cant-cry)"*, explaining my dry eye problem. Truth be told, I *always* had dry eyes. Looking back at it two decades later, it's clear what my vision issues were really from: **Vitamin A toxicity**.
-
-I ended up back in contacts in 2013, and things deteriorated until I figured it out. It's now improving, but I'll never get back to baseline because of this procedure.
-
-Ultimately, **LASIK surgery is one of the top 5 regrets of my life.** I wish I hadn't done it. Someday I'll need to write the full story, but it simply wasn't worth it because it permanently changed my body and didn't address the root cause of my issues. Such is life.
+<div 
+  style="
+    max-width: 750px;
+    margin: 25px auto;
+    padding: 20px 25px;
+    border: 2px solid #c7d4e2;
+    border-radius: 8px;
+    background-color: #f3f7fc;
+    color: #111;
+    text-align: left;
+    font-size: 1.05rem;
+    line-height: 1.55;
+  "
+>
+  <strong style="font-size:1.2rem;">December 2025 Update</strong><br><br>
+About a month after this article was published, I posted an update titled <em>"<a href="https://www.mikeroberto.com/2007/i-cant-cry" title="I Can't Cry" target="_blank">I Can't Cry</a>"</em>, explaining my dry eye problem. Truth be told, I <em>always</em> had dry eyes. Looking back at it two decades later, it's clear what my vision issues were really from: <strong>Vitamin A toxicity</strong>.<br><br>I ended up back in contacts in 2013, and things deteriorated until I figured it out. It's now improving, but I'll never get back to baseline because of this procedure.<br><br>Ultimately, <strong>LASIK surgery is one of the top 5 regrets of my life.</strong> I wish I hadn't done it. Someday I'll need to write the full story, but it simply wasn't worth it because it permanently changed my body and didn't address the root cause of my issues. Such is life.
+</div>
 
 In the spring of 2004 while at Ohio State, I spent two nights in a row with my contacts in.  After the second night, I took them out for a few hours, but put them back into play softball with my friends.  Within an hour, my eyes came under intense pain.  Washing them out did nothing, so I ran home and took my contacts out.
 
@@ -61,7 +69,7 @@ Thanks again, Steve!  And Ryan too!
 
 ---
 
-## Archived Comments (1)
+## Archived Comments
 
 <div class="archived-comments">
 <div class="comment">
@@ -72,5 +80,4 @@ Thanks again, Steve!  And Ryan too!
     [...] It&amp;#8217;s been a bit over a month since my LASIK surgery, so I thought I&amp;#8217;d share an update. [...]
   </div>
 </div>
-
 </div>

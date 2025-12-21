@@ -1,14 +1,11 @@
 ---
 publishDate: 2007-01-10
 title: "HUMILIATION"
-excerpt: "On Sunday, my friend Joe and I drove from LA to Phoenix, for the National Championship. After dropping Joe off, I picked up Jeremy and Allison at the airport...."
 category: "HUMILIATIONS"
 author: "Mike Roberto"
 wpSlug: "humiliation"
 wpYear: 2007
 comments_count: 6
-metadata:
-  canonical: "https://www.mikeroberto.com/2007/humiliation"
 ---
 
 On Sunday, my friend Joe and I drove from LA to Phoenix, for the National Championship.  After dropping Joe off, I picked up Jeremy and Allison at the airport.  Kirby came a couple of hours later, and it was great seeing everyone.
@@ -33,7 +30,7 @@ Anyway, it was a fun weekend, but could have obviously been better.  Good seeing
 
 ---
 
-## Archived Comments (6)
+## Archived Comments
 
 <div class="archived-comments">
 <div class="comment">
@@ -47,7 +44,6 @@ Hugs,
 Allison
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>Aaron C.</strong> • <time>2007-01-11 08:30:35</time>
@@ -58,7 +54,6 @@ Allison
 Aaron
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>Steph</strong> • <time>2007-01-11 13:17:22</time>
@@ -67,7 +62,6 @@ Aaron
     It was great running into you as well Berto!! Took me a while to remember that I saw you, haha...drunken times. Wish the game was better tho :(
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>Yo Mamma</strong> • <time>2007-01-14 16:20:10</time>
@@ -76,7 +70,6 @@ Aaron
     Well, it looks like Dad and I will NOT be buying our retirement home in Florida.  I certainly don&#x27;t want to live near those goofballs.  (I hate that up-collar thing). Perhaps we&#x27;ll get a nice place in Redondo!!!!
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>Lon</strong> • <time>2007-01-15 14:17:45</time>
@@ -85,7 +78,6 @@ Aaron
     It still hurts!
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>Mike Roberto&amp;#8217;s Blog &amp;raquo; The 2007 College Football National Championship Cleveland Watch</strong> • <time>2008-01-06 21:30:23</time>
@@ -94,5 +86,4 @@ Aaron
     [...] year&amp;#8217;s humiliating Buckeye defeat against Florida left most Ohioans with months and months of painful deliberation [...]
   </div>
 </div>
-
 </div>

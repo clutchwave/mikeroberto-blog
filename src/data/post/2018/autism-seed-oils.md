@@ -1,37 +1,35 @@
 ---
 publishDate: 2018-06-19
-title: 'Autism Cause THEORY: Is the Increase in Autism from SEED Oils?'
-excerpt: 'Disclaimer: The following article is an untested theory based upon a small amount of research involving correlational data. I''m not expanding on this idea, as...'
-category: Diet Research
+title: "Autism Cause THEORY: Is the Increase in Autism from SEED Oils?"
+image: "https://www.mikeroberto.com/images/autism-and-canola-oil.png"
+category: "Diet Research"
 tags:
-- Antibiotics
-- Autism
-- Baby Formula
-- Canola Oil
-- Corn Oil
-- Cottonseed Oil
-- Dr. Suzanne Humphries
-- Inflammation
-- Linoleic Acid
-- Linseed Oil
-- Oxidative Stress
-- Processed Seed Oils
-- Safflower Oil
-- Soybean Oil
-- Sunflower Oil
-- Tucker Goodrich
-- Vegetable Oil
-author: Mike Roberto
-wpSlug: autism-seed-oils
+  - "Antibiotics"
+  - "Autism"
+  - "Baby Formula"
+  - "Canola Oil"
+  - "Corn Oil"
+  - "Cottonseed Oil"
+  - "Dr. Suzanne Humphries"
+  - "Inflammation"
+  - "Linoleic Acid"
+  - "Linseed Oil"
+  - "Oxidative Stress"
+  - "Processed Seed Oils"
+  - "Safflower Oil"
+  - "Soybean Oil"
+  - "Sunflower Oil"
+  - "Tucker Goodrich"
+  - "Vegetable Oil"
+author: "Mike Roberto"
+wpSlug: "autism-seed-oils"
 wpYear: 2018
 comments_count: 1
-image: https://www.mikeroberto.com/wp-content/uploads/autism-and-canola-oil.png
-metadata:
-  canonical: https://www.mikeroberto.com/2018/autism-seed-oils
 ---
-*Disclaimer:* The following article is an untested *theory* based upon a small amount of research involving *correlational* data.
 
-I'm not expanding on this idea, as it is not my fight to fight, but I wanted to publish the article and video to put the theory out into the "Internet ether", since I believe it to be closer to the truth than any other theory, and I know many unfortunate individuals are out there looking for answers when none others have sufficed.
+<div class="warning" style="font-size:16px; line-height: 20px;"><strong style="color:inherit;"><em><span class="underline">Disclaimer</span>:</em></strong> The following article is an untested <em>theory</em> based upon a small amount of research involving <em>correlational</em> data.
+
+I'm not expanding on this idea, as it is not my fight to fight, but I wanted to publish the article and video to put the theory out into the "Internet ether", since I believe it to be closer to the truth than any other theory, and I know many unfortunate individuals are out there looking for answers when none others have sufficed.</div>
 
 ## Is the alarming rise of autism in Westernized societies caused by *industrialized processed seed oils?*
 
@@ -39,11 +37,7 @@ Several nights ago, I was awoken and knew that I wasn't going back to sleep. I j
 
 In this case, the comment on my feed that came up is shown below:
 
-> 
-This is interesting. Finally a theory that makes sense. Question is what causes all this inflammation? Is it the mother's diet?
-
-— Peter Faber (@PeterFaberSP) [May 28, 2019](https://twitter.com/PeterFaberSP/status/1133435438939738112?ref_src=twsrc%5Etfw)
- 
+<blockquote class="twitter-tweet" data-conversation="none" data-link-color="#bf1316"><p lang="en" dir="ltr">This is interesting. Finally a theory that makes sense. Question is what causes all this inflammation? Is it the mother&#39;s diet?</p>&mdash; Peter Faber (@PeterFaberSP) <a href="https://twitter.com/PeterFaberSP/status/1133435438939738112?ref_src=twsrc%5Etfw">May 28, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 I was curious what he was replying to -- it turns out to be in response to the short YouTube video below, which is a theory by *Dr. Suzanne Humphries, MD*, who states that "it's undeniable that autism rates spiked when the CDC's vaccination schedule aggressively expanded", *but* her theory is a bit more nuanced (don't worry it's a quick video):
 
@@ -75,7 +69,7 @@ I'll tell you what:
 
 To answer his question, it's the **industrialized processed seed oils**. Particularly those heavy in omega-6 polyunsaturated fatty acids, specifically with high amounts of *linoleic acid*. Often called "vegetable oils", these are anything but that. I'm talking about the following:
 
-> If you are someone who values your health -- or the health of your family -- you will avoid these oils like the plague.
+<blockquote class="pquote right">If you are someone who values your health -- or the health of your family -- you will avoid these oils like the plague.</blockquote>
 
  	- **Canola Oil**
 
@@ -120,13 +114,13 @@ Admittedly, I do not have a source for the bottom chart, but it seems about righ
 
 Yes, this is correlational, but in a general sense, the mechanisms makes sense. I put the idea to the test, tagging one of the world's experts on seed oils, [Tucker Goodrich](https://twitter.com/TuckerGoodrich) ([Tucker's blog](http://yelling-stop.blogspot.com/)):
 
-> 
+<blockquote class="twitter-tweet" data-lang="en">
+<p dir="ltr" lang="en">Did I just stumble on to something here? <a href="https://twitter.com/TuckerGoodrich?ref_src=twsrc%5Etfw" target="_blank" rel="noopener noreferrer">@TuckerGoodrich</a>?
 
-Did I just stumble on to something here? [@TuckerGoodrich](https://twitter.com/TuckerGoodrich?ref_src=twsrc%5Etfw)?
+Compare the approval and usage of canola oil with the skyrocketing <a href="https://twitter.com/hashtag/autism?src=hash&amp;amp;ref_src=twsrc%5Etfw" target="_blank" rel="noopener noreferrer">#autism</a> rates in the US.<a href="https://t.co/f23RjBwVOq" target="_blank" rel="noopener noreferrer">https://t.co/f23RjBwVOq</a><a href="https://twitter.com/hashtag/lcl6?src=hash&amp;amp;ref_src=twsrc%5Etfw" target="_blank" rel="noopener noreferrer">#lcl6</a> <a href="https://twitter.com/hashtag/CanolaOil?src=hash&amp;amp;ref_src=twsrc%5Etfw" target="_blank" rel="noopener noreferrer">#CanolaOil</a> <a href="https://t.co/Zkqm1WmCC9" target="_blank" rel="noopener noreferrer">pic.twitter.com/Zkqm1WmCC9</a></p>
 
-Compare the approval and usage of canola oil with the skyrocketing [#autism](https://twitter.com/hashtag/autism?src=hash&amp;ref_src=twsrc%5Etfw) rates in the US.[https://t.co/f23RjBwVOq](https://t.co/f23RjBwVOq)[#lcl6](https://twitter.com/hashtag/lcl6?src=hash&amp;ref_src=twsrc%5Etfw) [#CanolaOil](https://twitter.com/hashtag/CanolaOil?src=hash&amp;ref_src=twsrc%5Etfw) [pic.twitter.com/Zkqm1WmCC9](https://t.co/Zkqm1WmCC9)
-
-&mdash; Mike Roberto (@MicroBerto) [May 29, 2019](https://twitter.com/MicroBerto/status/1133668609044226048?ref_src=twsrc%5Etfw)
+&amp;mdash; Mike Roberto (@MicroBerto) <a href="https://twitter.com/MicroBerto/status/1133668609044226048?ref_src=twsrc%5Etfw" target="_blank" rel="noopener noreferrer">May 29, 2019</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Tucker responded that *"It's plausible. OxStr [oxidative stress] is a factor in autism."*[1]
 
@@ -141,7 +135,7 @@ If you are someone who values your health -- or the health of your family -- you
 And due to the fact that they are *literally everywhere*, from restaurants to all of the undefined "processed food" we discuss, this means you're going to be cooking a whole lot. Preferably with animal fats like *beef tallow* and *butter*, as I am not sure we can even trust the "fruit oils" such as olive oil and avocado oil, given that they're oftentimes spiked with these nasty seed oils more than anyone wants to admit.
 
 <figure class="alignright">
-  <a href="https://blog.priceplow.com/wp-content/uploads/red-meat.jpg"><img src="https://blog.priceplow.com/wp-content/uploads/red-meat-300x200.jpg" alt="Red Meat" width="300" height="200" class="size-medium wp-image-39063" data-wp-pid="39063" /></a>
+  <a href="/images/red-meat.jpg"><img src="/images/red-meat.jpg" alt="Red Meat" width="300" height="200" class="size-medium wp-image-39063" data-wp-pid="39063" /></a>
   <figcaption>Red Meat is <em>back</em> on the menu, folks! Just don't mix it with those disgusting seed oils (or starchy carbs if you haven't trained like a beast today)</figcaption>
 </figure>
 
@@ -161,11 +155,11 @@ Good luck to you and your families.
 
 ## References
 
-- Google Scholar; Oxidative Stress Autism; [https://scholar.google.com/scholar?hl=en&as_sdt=0%2C7&q=oxidative+stress+autism&btnG=](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C7&q=oxidative+stress+autism&btnG=)
+<ol class="references"><li>Google Scholar; Oxidative Stress Autism; <a href="https://scholar.google.com/scholar?hl=en&amp;as_sdt=0%2C7&amp;q=oxidative+stress+autism&amp;btnG=" target="_blank" rel="noopener noreferrer">https://scholar.google.com/scholar?hl=en&amp;as_sdt=0%2C7&amp;q=oxidative+stress+autism&amp;btnG=</a></li></ol>
 
 ---
 
-## Archived Comments (1)
+## Archived Comments
 
 <div class="archived-comments">
 <div class="comment">
@@ -178,5 +172,4 @@ Good luck to you and your families.
 Hi, yes!! I just came to this conclusion myself and searched online to see if it was known. Not really. Dr. Sean O&#x27;Mara was saying something about cholesterol being low in Autistic people and vegetable oil causes low cholesterol. That&#x27;s it&#x27;s big selling point. Really seems like this could be the root cause.
   </div>
 </div>
-
 </div>

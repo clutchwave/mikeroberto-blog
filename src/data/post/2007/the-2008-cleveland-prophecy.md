@@ -1,14 +1,11 @@
 ---
 publishDate: 2007-06-14
 title: "The 2008 Cleveland Prophecy"
-excerpt: "On this fateful, yet somewhat expected night, I have decided to make public something that I have been preaching to close friends for the past couple of years...."
 category: "HUMILIATIONS"
 author: "Mike Roberto"
 wpSlug: "the-2008-cleveland-prophecy"
 wpYear: 2007
 comments_count: 10
-metadata:
-  canonical: "https://www.mikeroberto.com/2007/the-2008-cleveland-prophecy"
 ---
 
 On this [fateful](http://cbs.sportsline.com/nba/gamecenter/recap/NBA_20070614_SA@CLE), yet somewhat expected night, I have decided to make public something that I have been preaching to close friends for the past couple of years.  A prediction so unbelievably earth-shattering that it must be documented immediately, thus leaving out any question of its founding.  Ladies and gentlemen, I bring to you **The 2008 Cleveland Prophecy:  *All three major Cleveland sports teams will win their respective championships within the same year***.
@@ -27,6 +24,7 @@ But then there's our favorite -- [The Drive](http://en.wikipedia.org/wiki/The_Dr
 
 It only took another year for more of the same.  In January of 1988, [The Fumble](http://en.wikipedia.org/wiki/The_Fumble) went down, where Bernie Kosar's four 2nd-half touchdowns would be negated by Earnest Byner's fumble on the Denver 3-yard-line.  1987 stabbed you in the heart, 1988 twisted the blade.
 
+![](http://upload.wikimedia.org/wikipedia/en/d/dd/MJ_shot.JPG)We weren't beat down enough, so Michael Jordan decided to join the party.  16 months after The Fumble, MJ nailed [The Shot](http://en.wikipedia.org/wiki/The_Shot) over poor Craig Ehlo, which I'm sure you've seen on hundreds of Gatorade commercials.
 
 Next up – Art Modell and Al Lerner tear the soul from the city and [move the Cleveland Browns to Baltimore](http://en.wikipedia.org/wiki/Art_Modell#Move_to_Baltimore), who of course go on to win the Super Bowl.  I will not debate who is at fault for this move, as far as I'm concerned, everyone is, but it goes without saying that 1996-1998 sucked in Cleveland...
 
@@ -34,6 +32,7 @@ Next up – Art Modell and Al Lerner tear the soul from the city and [move the C
 
 In between all of these time gaps, every other Cleveland team is losing their asses off.  That is, until 2007, when the Cleveland Cavs bring championship basketball back to the Heart of Rock and Roll, but lose to a superior San Antonio Spurs.
 
+<a name="prophecy"></a>So this brings me back to the **2008 Cleveland Prophecy**.  ![](http://i.a.cnn.net/si/2006/writers/arash_markazi/11/10/lebron/p1_lebron1.jpg)Things began looking up a few years back – Lebron James on the Cavs.  Hafner, Sabathia, and Sizemore on the Indians.  Phil Savage to return the Browns back to glory.  And slowly, the pieces are truly coming together.
 
 The Cavs need just one or two more skilled players for Lebron to play along with, as well as the hopeful development of Daniel Gibson.  GM Danny Ferry has ONE offseason to get it together – the Cavs will have to be the first to win in 2008.
 
@@ -45,7 +44,7 @@ It's not about Lebron versus the San Antonio Spurs, the Indians vs. the Yankees,
 
 ---
 
-## Archived Comments (10)
+## Archived Comments
 
 <div class="archived-comments">
 <div class="comment">
@@ -56,7 +55,6 @@ It's not about Lebron versus the San Antonio Spurs, the Indians vs. the Yankees,
     In 1974 I was one that spent $20 for 20 beers and had a blast.  In 2006/2007 I spent $20 for 3 beers and all I could do is cry in my beer.
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>Nickyberts</strong> • <time>2007-06-15 13:24:31</time>
@@ -65,7 +63,6 @@ It's not about Lebron versus the San Antonio Spurs, the Indians vs. the Yankees,
     If all teams were created equal, the odds of this happening are 1:28800.
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>Ekim Siwel</strong> • <time>2007-06-15 08:36:17</time>
@@ -74,7 +71,6 @@ It's not about Lebron versus the San Antonio Spurs, the Indians vs. the Yankees,
     In cleveland you have to walk twice as far to get half the distance......My predicition is that the mayan calendar is based around cleveland sports....its either 2011 or 2012 they have a cleveland team picked to win the championship and then for the world to end!!!!
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>Gingo</strong> • <time>2007-06-15 04:10:20</time>
@@ -83,7 +79,6 @@ It's not about Lebron versus the San Antonio Spurs, the Indians vs. the Yankees,
     Nice piece Bert.  Good recap of Cleveland sports suck-dom.  More importantly, a ray of hope on an otherwise lackluster post-Cavs-sweep day.
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>Lon</strong> • <time>2007-07-14 06:42:36</time>
@@ -92,7 +87,6 @@ It's not about Lebron versus the San Antonio Spurs, the Indians vs. the Yankees,
     Of all topics to get lazy after.  Must I keep seeing this painful reminder of my miserable life as a Cleveland sports fan?  I hope the lack of updates are due to your work on Drunkenscholar.com!
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>John Handcock</strong> • <time>2007-06-19 15:13:40</time>
@@ -103,7 +97,6 @@ It's not about Lebron versus the San Antonio Spurs, the Indians vs. the Yankees,
 Everyone will agree: it is.
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>Minh</strong> • <time>2007-06-20 22:55:38</time>
@@ -113,7 +106,6 @@ Everyone will agree: it is.
 Thanks for the insight!
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>Jordan</strong> • <time>2007-07-23 14:42:31</time>
@@ -122,7 +114,6 @@ Thanks for the insight!
     Ok Mr. Californ-I-A, where&#x27;s the update?  I know there must be something blogworthy happening in your life. . .
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>Mike Roberto&amp;#8217;s Blog &amp;raquo; 10/13/2007 - Ohio Obliteration Domination Day (OODD)</strong> • <time>2007-10-13 22:42:37</time>
@@ -131,7 +122,6 @@ Thanks for the insight!
     [...] are good in Ohio, and if there&amp;#8217;s any doubt in the 2008 Cleveland Prophesy, they will be answered tomorrow with the Cleveland Browns&amp;#8217; masterminded victory over the [...]
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>Mike Roberto&amp;#8217;s Blog &amp;raquo; The Ohio State 2007 National Championship Cleveland Watch List</strong> • <time>2008-01-06 21:37:22</time>
@@ -140,5 +130,4 @@ Thanks for the insight!
     [...] being the Clevelanders (read: losers &amp;#8212; see this link if you need a recap) that Troy and Teddy are, they could not cope with the weight of the big stage. Smith&amp;#8217;s [...]
   </div>
 </div>
-
 </div>

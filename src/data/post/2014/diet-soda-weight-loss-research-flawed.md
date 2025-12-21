@@ -1,21 +1,18 @@
 ---
 publishDate: 2014-05-30
-title: Why the New Diet Soda Weight Loss Study is Flawed to the Core
-excerpt: Does it assist with weight loss? Maybe, but this study proves nothing. Read why below. This week, a new research study is trending, with article titles such as...
-category: Diet Research
+title: "Why the New Diet Soda Weight Loss Study is Flawed to the Core"
+image: "https://www.mikeroberto.com/images/diet-coke-by-Niall_Kennedy.jpg"
+category: "Diet Research"
 tags:
-- Sweeteners
-- Weight Loss
-author: Mike Roberto
-wpSlug: diet-soda-weight-loss-research-flawed
+  - "Sweeteners"
+  - "Weight Loss"
+author: "Mike Roberto"
+wpSlug: "diet-soda-weight-loss-research-flawed"
 wpYear: 2014
-comments_count: 0
-image: https://www.mikeroberto.com/wp-content/uploads/diet-coke-by-Niall_Kennedy.jpg
-metadata:
-  canonical: https://www.mikeroberto.com/2014/diet-soda-weight-loss-research-flawed
 ---
+
 <figure class="alignright">
-  <img src="https://www.mikeroberto.com/wp-content/uploads/diet-coke-by-Niall_Kennedy-300x187.jpg" alt="Diet Coke - Image Courtesy of Niall Kennedy" width="300" height="187" class="size-medium wp-image-488" />
+  <img src="/images/diet-coke-by-Niall_Kennedy.jpg" alt="Diet Coke - Image Courtesy of Niall Kennedy" width="300" height="187" class="size-medium wp-image-488" />
   <figcaption>Does it assist with weight loss?  Maybe, but this study proves nothing.  Read why below.</figcaption>
 </figure>
 
@@ -68,7 +65,7 @@ So basically, here's what they're doing:
 Seriously, **what in the hell did you *expect* to happen?**  We're surprised these subjects lost any weight at all!
 
 <figure class="alignright">
-  <a href="https://blog.priceplow.com/wp-content/uploads/2014/05/diet-soda-research-screening.png" target="_blank" rel="noopener noreferrer"><img src="https://blog.priceplow.com/wp-content/uploads/2014/05/diet-soda-research-screening-300x430.png" alt="How the Diet Soda Research was Screened" width="300" height="430" class="size-medium wp-image-4154"></a>
+  <a href="/images/diet-soda-research-screening.png" target="_blank" rel="noopener noreferrer"><img src="/images/diet-soda-research-screening.png" alt="How the Diet Soda Research was Screened" width="300" height="430" class="size-medium wp-image-4154"></a>
   <figcaption>How the Research was Screened</figcaption>
 </figure>To summarize the situation, one side of the study gets roughly ~150mg caffeine (24oz of diet soda, and they can keep their coffee sweetened), while the "control group" cannot.
 
@@ -104,10 +101,8 @@ We rest our case.
 
 ## References
 
-- [Clinical trial reaffirms diet beverages play positive role in weight loss](http://www.sciencedaily.com/releases/2014/05/140527085124.htm), ScienceDaily.com
-
-- [Diet Beverages Shown to Play Positive Role in Dieters' Weight Loss](http://www.ucdenver.edu/about/newsroom/newsreleases/Pages/Diet-beverages-shown-to-play-positive-role-in-dieters-weight-loss.aspx)
-
-- [The effects of water and non-nutritive sweetened beverages on weight loss during a 12-week weight loss treatment program](http://onlinelibrary.wiley.com/enhanced/doi/10.1002/oby.20737/); Peters, John C.; University of Colorado Denver Anschutz Health and Wellness Center
-
-- [Metabolic effects of caffeine in humans: lipid oxidation or futile cycling](http://ajcn.nutrition.org/content/79/1/40.full); Acheson, Kevin J.; Nestlé Research Center, 2004
+<ol class="references"><li><a href="http://www.sciencedaily.com/releases/2014/05/140527085124.htm" rel="noopener noreferrer" target="_blank">Clinical trial reaffirms diet beverages play positive role in weight loss</a>, ScienceDaily.com</li>
+<li><a href="http://www.ucdenver.edu/about/newsroom/newsreleases/Pages/Diet-beverages-shown-to-play-positive-role-in-dieters-weight-loss.aspx" target="_blank" rel="noopener noreferrer">Diet Beverages Shown to Play Positive Role in Dieters' Weight Loss</a></li>
+<li><a href="http://onlinelibrary.wiley.com/enhanced/doi/10.1002/oby.20737/" target="_blank" rel="noopener noreferrer">The effects of water and non-nutritive sweetened beverages on weight loss during a 12-week weight loss treatment program</a>; Peters, John C.; University of Colorado Denver Anschutz Health and Wellness Center</li>
+<li><a href="http://ajcn.nutrition.org/content/79/1/40.full" target="_blank" rel="noopener noreferrer">Metabolic effects of caffeine in humans: lipid oxidation or futile cycling</a>; Acheson, Kevin J.; Nestlé Research Center, 2004</li>
+</ol>

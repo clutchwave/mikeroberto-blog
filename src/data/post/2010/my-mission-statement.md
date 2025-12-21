@@ -12,18 +12,30 @@ tags:
 author: "Mike Roberto"
 wpSlug: "my-mission-statement"
 wpYear: 2010
-comments_count: 0
-metadata:
-  canonical: "https://www.mikeroberto.com/2010/my-mission-statement"
 ---
 
-2025 Update from Mike:
+<div 
+  style="
+    max-width: 750px;
+    margin: 25px auto;
+    padding: 20px 25px 0px;
+    border: 2px solid #c7d4e2;
+    border-radius: 8px;
+    background-color: #f3f7fc;
+    color: #111;
+    text-align: left;
+    font-size: 1.05rem;
+    line-height: 1.55;
+  "
+>
+  <strong style="font-size:1.2rem;">2025 Update from Mike:</strong>
 
-This is interesting to read. I'm keeping it here.
+<p>This is interesting to read. I'm keeping it here.</p>
 
-The mission statement below really launched PricePlow into what it became. It centers around our fight for transparency in the supplement industry -- a mission we (as a whole industry) were laregly successful with.
+<p>The mission statement below really launched PricePlow into what it became. It centers around our fight for transparency in the supplement industry -- a mission we (as a whole industry) were laregly successful with.</p>
 
-My personal journey, however, has evolved from crusading against "bad actors" to exploring metabolic health through an alternative lens, while creating food to support our findings. The investigative spirit remains, but the target has shifted from external enemies to internal metabolic optimization.
+<p>My personal journey, however, has evolved from crusading against "bad actors" to exploring metabolic health through an alternative lens, while creating food to support our findings. The investigative spirit remains, but the target has shifted from external enemies to internal metabolic optimization.</p>
+</div>
 
 ### Information, Awareness, and Competition
 

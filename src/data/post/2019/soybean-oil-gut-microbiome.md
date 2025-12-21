@@ -1,45 +1,44 @@
 ---
 publishDate: 2019-02-21
-title: Soybean Oil WRECKS the Gut Microbiome.. But They Won't Tell You That
-excerpt: Soybean Oil has been shown to damage the gut microbiome in a new 6 month research study in China. But that's not exactly how they're positioning it...
-category: Diet Research
+title: "Soybean Oil WRECKS the Gut Microbiome.. But They Won't Tell You That"
+excerpt: "Soybean Oil has been shown to damage the gut microbiome in a new 6 month research study in China. But that's not exactly how they're positioning it..."
+image: "https://www.mikeroberto.com/images/soybean-oil-scandal.png"
+category: "Diet Research"
 tags:
-- Alistipes
-- Alzheimer's Disease
-- Arachidonic Acid
-- Autoimmune Disease
-- Autumnal Eating
-- Bacteroides
-- Blautia
-- Butyric Acid
-- Cardiovascular Disease
-- Diabetes
-- Faecalibacterium
-- Inflammation
-- Inflammatory Bowel Disease
-- Low Fat Diet
-- Nonalcoholic Fatty Liver Disease
-- Obesity
-- Omega-6 Fatty Acids
-- Palmitic Acid
-- Polyunsaturated Fat
-- Processed Seed Oils
-- Protein Leverage Hypothesis
-- Soybean Oil
-author: Mike Roberto
-wpSlug: soybean-oil-gut-microbiome
+  - "Alistipes"
+  - "Alzheimer's Disease"
+  - "Arachidonic Acid"
+  - "Autoimmune Disease"
+  - "Autumnal Eating"
+  - "Bacteroides"
+  - "Blautia"
+  - "Butyric Acid"
+  - "Cardiovascular Disease"
+  - "Diabetes"
+  - "Faecalibacterium"
+  - "Inflammation"
+  - "Inflammatory Bowel Disease"
+  - "Low Fat Diet"
+  - "Nonalcoholic Fatty Liver Disease"
+  - "Obesity"
+  - "Omega-6 Fatty Acids"
+  - "Palmitic Acid"
+  - "Polyunsaturated Fat"
+  - "Processed Seed Oils"
+  - "Protein Leverage Hypothesis"
+  - "Soybean Oil"
+author: "Mike Roberto"
+wpSlug: "soybean-oil-gut-microbiome"
 wpYear: 2019
 comments_count: 1
-image: https://www.mikeroberto.com/wp-content/uploads/soybean-oil-scandal.png
-metadata:
-  canonical: https://www.mikeroberto.com/2019/soybean-oil-gut-microbiome
 ---
+
 For years, the most well-researched members of the diet community have warned of the dangers of omega-6 polyunsaturated fatty acids (PUFAs) such as **soybean oil**, given their high propensity for inflammation, obesity, and disease. A six month, randomized controlled diet study run in China has given new evidence for those warnings, as **a diet high in soybean oil significantly damaged the gut microbiome** in participants.[1]
 
 ## The soybean study scandal
 
 <figure class="alignright">
-  <a href="/images/soybean-oil-scandal.png" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/soybean-oil-scandal-300x300.png" alt="Soybean Oil Scandal" width="300" height="300" class="size-medium wp-image-37477" data-wp-pid="37477"></a>
+  <a href="/images/soybean-oil-scandal.png" target="_blank" rel="noopener noreferrer"><img src="/images/soybean-oil-scandal.png" alt="Soybean Oil Scandal" width="300" height="300" class="size-medium wp-image-37477" data-wp-pid="37477"></a>
   <figcaption>A new study has shown us that soybean oil is <em>disastrous</em> for the gut microbiome and slows weight loss. But that's not exactly how they're 'selling' it...</figcaption>
 </figure>
 
@@ -57,9 +56,12 @@ https://www.youtube.com/watch?v=kGN_54vEFRY
 
 Behind spokesman Jim Mann of the University of Otago in New Zealand, the researchers wanted to determine what would happens when a low-fat, high-carb culture heavy in rice consumption such as China begins to increase dietary fat consumption as it becomes more "westernized".
 
+<div class="sidebar right">
 **Note:** This article was originally published on the [PricePlow Blog](https://blog.priceplow.com) but I've moved diet-related articles to my personal site.
 
 As another sidenote, I now believe that soybean oil is about 100x worse than when I originally wrote this after diving deep into omega-6 PUFAs like this one. It (along with several other "seed oils") are not allowed into our house.
+
+</div>
 
 To model this, they took 217 healthy Chinese citizens and provided them with all of their food for six months, randomly splitting them into three isocaloric groups (ie they all received the same amount of calories):
 
@@ -92,7 +94,7 @@ Given this statement, **the study's title is extremely misleading**. What we're 
 As mentioned above, the researchers largely used **soybean oil** to increase fat calories.
 
 <figure class="alignleft">
-  <a href="/images/soybean-oil.jpg" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/soybean-oil-300x198.jpg" alt="Soybean Oil" width="300" height="198" class="size-medium wp-image-37479" data-wp-pid="37479"></a>
+  <a href="/images/soybean-oil.jpg" target="_blank" rel="noopener noreferrer"><img src="/images/soybean-oil.jpg" alt="Soybean Oil" width="300" height="198" class="size-medium wp-image-37479" data-wp-pid="37479"></a>
   <figcaption>This is not a vegetable. And it's loaded with unstable omega-6 polyunsaturated fatty acids that are <em>terrible</em> for heating/cooking! Image courtesy Wikimedia</figcaption>
 </figure>
 
@@ -107,7 +109,7 @@ In 2012, research showed that diets high in omega-6 polyunsaturated fatty acids 
 ### A "cooking oil" that oxidizes when heated?!
 
 <figure class="alignright">
-  <a href="/images/omega-6-polyunsaturated-fatty-acid-dangers.png" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/omega-6-polyunsaturated-fatty-acid-dangers-300x216.png" alt="Omega-6 Polyunsaturated Fatty Acid Dangers" width="300" height="216" class="size-medium wp-image-37484" data-wp-pid="37484"></a>
+  <a href="/images/omega-6-polyunsaturated-fatty-acid-dangers.png" target="_blank" rel="noopener noreferrer"><img src="/images/omega-6-polyunsaturated-fatty-acid-dangers.png" alt="Omega-6 Polyunsaturated Fatty Acid Dangers" width="300" height="216" class="size-medium wp-image-37484" data-wp-pid="37484"></a>
   <figcaption>Eating this stuff (especially when heating it) is known to be extremely dangerous. So why would the researchers load participants up with as much as 24% of their diets with it?![4]</figcaption>
 </figure>
 
@@ -139,7 +141,7 @@ The data from the intervention gives very strong evidence that:
 
 First, the good news.
 
-> The “higher fat” group was definitely **not a high-fat diet!**
+<blockquote class="pquote right">The “higher fat” group was definitely <strong>not a high-fat diet!</strong></blockquote>
 
 Of the subjects that completed the study, *all* groups lost weight. The lower-fat group lost more weight than the moderate-fat groups, and this is to be expected given the soybean oil research shown above and our theories behind "Autumnal eating." This is a theory that considers the *combination* of high amounts of carbohydrates *and* fats to be more dangerous than one or the other eaten alone with protein, as discussed in an analysis of a 2018 study on the [brain's inability to properly value carb+fat combos](https://www.mikeroberto.com/2018/carbs-fats-brain) and subject for a future post.
 
@@ -152,7 +154,7 @@ Now, the bad news for the poor soybean oil groups:
 The "higher", moderate fat diets had a significant decrease in *Blautia* and *Faecalibacterium*. *Blautia* is a group of bacteria containing various beneficial pro-acetate and pro-butyrate strains, and type-II diabetics are generally lower in them. *Faecalibacterium* is a well-known, important bacteria that is anti-inflammatory.
 
 <figure class="aligncenter">
-  <a href="/images/soybean-oil-gut-bacteria.png" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/soybean-oil-gut-bacteria-625x167.png" alt="Soybean Oil Gut Bacteria" width="625" height="167" class="size-large wp-image-37487" data-wp-pid="37487"></a>
+  <a href="/images/soybean-oil-gut-bacteria.png" target="_blank" rel="noopener noreferrer"><img src="/images/soybean-oil-gut-bacteria.png" alt="Soybean Oil Gut Bacteria" width="625" height="167" class="size-large wp-image-37487" data-wp-pid="37487"></a>
   <figcaption>Healthy bacteria down, inflammatory bacteria up.[1] Would <em>all</em> dietary fats behave like this, though? We think not.</figcaption>
 </figure>
 
@@ -163,7 +165,7 @@ Simultaneously, the soybean group had an increase in the abundance of *Alistipes
 Inflammation markers fared no better. The groups receiving greater amounts of soybean oil had decreased short-chain fatty acids such as butyric acid, a highly-beneficial compound.
 
 <figure class="alignright">
-  <a href="/images/soybean-oil-inflammation-1.png" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/soybean-oil-inflammation-1-300x309.png" alt="Soybean Oil Inflammation" width="300" height="309" class="size-medium wp-image-37482" data-wp-pid="37482"></a>
+  <a href="/images/soybean-oil-inflammation-1.png" target="_blank" rel="noopener noreferrer"><img src="/images/soybean-oil-inflammation-1.png" alt="Soybean Oil Inflammation" width="300" height="309" class="size-medium wp-image-37482" data-wp-pid="37482"></a>
   <figcaption>One example of how it happens. The main constituent breaks down into known inflammatory acids that general dieters do <em>not</em> need more of.</figcaption>
 </figure>
 
@@ -186,7 +188,7 @@ Those who adhere to *actual* low-carbohydrate diets (eg. less than 10% energy fr
  	- **The "higher fat" group was *definitely* not a high-fat diet!**
 
 <figure class="alignleft">
-  <a href="/images/cooking-oil.jpg" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/cooking-oil-300x225.jpg" alt="Cooking Oil" width="300" height="225" class="size-medium wp-image-37490" data-wp-pid="37490"></a>
+  <a href="/images/cooking-oil.jpg" target="_blank" rel="noopener noreferrer"><img src="/images/cooking-oil.jpg" alt="Cooking Oil" width="300" height="225" class="size-medium wp-image-37490" data-wp-pid="37490"></a>
   <figcaption>Another note. Let's not confuse "Cooking Oil" with actual <em>Fat</em> from <em>food</em>. Image courtesy Wikimedia</figcaption>
 </figure>
 
@@ -233,7 +235,7 @@ Mann should do what he obviously knows is correct, and warn societies of this to
 Regardless of the truth, the process has already begun. The initial headline has been written, and there's almost nothing stopping the media from twisting this one into **yet another crusade against a** ***species-appropriate* diet** -- which includes high amounts of fat and protein from *animal* sources.
 
 <figure class="alignright">
-  <a title="Jillian Michaels is an Anti-Keto “Disinformation Agent”. But We Can Save Her." href="https://www.mikeroberto.com/2019/jillian-michaels-keto-diet" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/jillian-michaels-keto-diet-300x300.png" alt="Jillian Michaels Keto Diet" width="300" height="300" class="size-medium wp-image-36502" data-wp-pid="36502"></a>
+  <a title="Jillian Michaels is an Anti-Keto “Disinformation Agent”. But We Can Save Her." href="https://www.mikeroberto.com/2019/jillian-michaels-keto-diet" target="_blank" rel="noopener noreferrer"><img src="/images/jillian-michaels-keto-diet.png" alt="Jillian Michaels Keto Diet" width="300" height="300" class="size-medium wp-image-36502" data-wp-pid="36502"></a>
   <figcaption>We've seen disinformation before, and we'll see it again. They really are pushing back hard, aren't they? Why is that? What are they afraid of?</figcaption>
 </figure>
 
@@ -241,41 +243,30 @@ These people are *sick*, and they will stop at *nothing* to obfuscate the truth 
 
 Thankfully, we live in a world that is awakening. Distrust in "old guard" establishment news sources and researchers has never been lower, and their exposure has never been higher. The fight for that truth is happening in real-time on social media, and you have yourself a front row seat if you care to take it.
 
-As mentioned in my take on the Jillian Michaels keto ordeal, this is an **information war**, and the establishment *never* knew how powerful the internet would become. Thanks to that (and our First Amendment rights), you can read posts like this one, which prove this type of research to not only be unethical, but downright harmful to anyone involved.
+As mentioned in my take on the <a title="Jillian Michaels is an Anti-Keto “Disinformation Agent”. But We Can Save Her." href="https://www.mikeroberto.com/2019/jillian-michaels-keto-diet" target="_blank" rel="noopener noreferrer">Jillian Michaels keto ordeal</a>, this is an **information war**, and the establishment *never* knew how powerful the internet would become. Thanks to that (and our First Amendment rights), you can read posts like this one, which prove this type of research to not only be unethical, but downright harmful to anyone involved.
 
 ## References
 
- 	- Jim Mann, Yi Wan, Andrew Sinclair, et al; "Effects of dietary fat on gut microbiota and faecal metabolites, and their relationship with cardiometabolic risk factors: a 6-month randomised controlled-feeding trial"; Gut Microbiota; 0:1–13; February 19, 2019; [https://gut.bmj.com/content/early/2019/01/18/gutjnl-2018-317609](https://gut.bmj.com/content/early/2019/01/18/gutjnl-2018-317609) (PDF at [https://gut.bmj.com/content/gutjnl/early/2019/01/18/gutjnl-2018-317609.full.pdf](https://gut.bmj.com/content/gutjnl/early/2019/01/18/gutjnl-2018-317609.full.pdf))
-
- 	- Simpson S, Raubenheimer, D; “Obesity: the protein leverage hypothesis”; Obesity Reviews; 6(2):133-42; May 2005; [https://www.ncbi.nlm.nih.gov/pubmed/15836464](https://www.ncbi.nlm.nih.gov/pubmed/15836464) ([Archive](https://www.docdroid.net/c6G7d6l/protein-leverage-hypothesis-simpson-raubenheimer-2005.pdf))
-
- 	- Siqueira, Joselita et al; “Substitution of standard soybean oil with olive oil-based lipid emulsion in parenteral nutrition: comparison of vascular, metabolic, and inflammatory effects”; Journal of Clinical Endocrinology and Metabolism; vol. 96,10 (2011): 3207-16; [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3200250/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3200250/)
-
- 	- E. Patterson, R. Wall, G. F. Fitzgerald, R. P. Ross, and C. Stanton; “Health Implications of High Dietary Omega-6 Polyunsaturated Fatty Acids”; Journal of Nutrition and Metabolism; vol. 2012, Article ID 539426, 16 pages; 2012; [https://www.hindawi.com/journals/jnme/2012/539426/](https://www.hindawi.com/journals/jnme/2012/539426/)
-
- 	- Fernandes, G; "Dietary lipids and risk of autoimmune disease"; Clinical Immunology and Immunopathology; 72(2):193-7; August 1994; [https://www.ncbi.nlm.nih.gov/pubmed/8050192](https://www.ncbi.nlm.nih.gov/pubmed/8050192)
-
- 	- Jaarin, Kamsiah et al; “The effects of heated vegetable oils on blood pressure in rats” Clinics (Sao Paulo, Brazil); vol. 66,12 (2011): 2125-32; [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3226610/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3226610/)
-
- 	- Ng, C, et al; "Heated vegetable oils and cardiovascular disease risk factors"; Vascular Pharmacology; 61(1):1-9; April 2014; [https://www.ncbi.nlm.nih.gov/pubmed/24632108](https://www.ncbi.nlm.nih.gov/pubmed/24632108)
-
- 	- Perumalla Venkata, Rekhadevi and Rajagopal Subramanyam; “Evaluation of the deleterious health effects of consumption of repeatedly heated vegetable oil”; Toxicology Reports; vol. 3 636-643. 16 Aug. 2016; [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5616019/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5616019/)
-
- 	- Deol P, Evans JR, Dhahbi J, Chellappa K, Han DS, Spindler S, et al; "Soybean Oil Is More Obesogenic and Diabetogenic than Coconut Oil and Fructose in Mouse: Potential Role for the Liver"; PLoS ONE 10(7): e0132672; 2015; [https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0132672](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0132672)
-
- 	- Science News; "Soybean oil causes more obesity than coconut oil, fructose"; July 22, 2015; [https://www.sciencedaily.com/releases/2015/07/150722144640.htm](https://www.sciencedaily.com/releases/2015/07/150722144640.htm)
-
- 	- Deol, P, et al; "Omega-6 and omega-3 oxylipins are implicated in soybean oil-induced obesity in mice"; Scientific Reports; volume 7, Article number: 12488; 2017; [https://www.nature.com/articles/s41598-017-12624-9](https://www.nature.com/articles/s41598-017-12624-9)
-
- 	- Bagga, Dilprit et al; “Differential effects of prostaglandin derived from omega-6 and omega-3 polyunsaturated fatty acids on COX-2 expression and IL-6 secretion"; Proceedings of the National Academy of Sciences of the United States of America; vol. 100,4 (2003): 1751-6; [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC149905/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC149905/)
-
- 	- SciMex; "Gut benefits of moving away from a high fat diet"; February 20, 2019; [https://www.scimex.org/newsfeed/benefits-of-moving-away-from-a-high-fat-diet](https://www.scimex.org/newsfeed/benefits-of-moving-away-from-a-high-fat-diet)
-
- 	- Henderson, George; Twitter; February 19, 2019; [https://twitter.com/puddleg/status/1098059996229562370](https://twitter.com/puddleg/status/1098059996229562370)
+<ol class="references">
+ 	<li>Jim Mann, Yi Wan, Andrew Sinclair, et al; "Effects of dietary fat on gut microbiota and faecal metabolites, and their relationship with cardiometabolic risk factors: a 6-month randomised controlled-feeding trial"; Gut Microbiota; 0:1–13; February 19, 2019; <a href="https://gut.bmj.com/content/early/2019/01/18/gutjnl-2018-317609" target="_blank" rel="noopener noreferrer">https://gut.bmj.com/content/early/2019/01/18/gutjnl-2018-317609</a> (PDF at <a href="https://gut.bmj.com/content/gutjnl/early/2019/01/18/gutjnl-2018-317609.full.pdf" target="_blank" rel="noopener noreferrer">https://gut.bmj.com/content/gutjnl/early/2019/01/18/gutjnl-2018-317609.full.pdf</a>)</li>
+ 	<li>Simpson S, Raubenheimer, D; “Obesity: the protein leverage hypothesis”; Obesity Reviews; 6(2):133-42; May 2005; <a href="https://www.ncbi.nlm.nih.gov/pubmed/15836464" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/pubmed/15836464</a> (<a href="https://www.docdroid.net/c6G7d6l/protein-leverage-hypothesis-simpson-raubenheimer-2005.pdf" target="_blank" rel="noopener noreferrer">Archive</a>)</li>
+ 	<li>Siqueira, Joselita et al; “Substitution of standard soybean oil with olive oil-based lipid emulsion in parenteral nutrition: comparison of vascular, metabolic, and inflammatory effects”; Journal of Clinical Endocrinology and Metabolism; vol. 96,10 (2011): 3207-16; <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3200250/" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3200250/</a></li>
+ 	<li>E. Patterson, R. Wall, G. F. Fitzgerald, R. P. Ross, and C. Stanton; “Health Implications of High Dietary Omega-6 Polyunsaturated Fatty Acids”; Journal of Nutrition and Metabolism; vol. 2012, Article ID 539426, 16 pages; 2012; <a href="https://www.hindawi.com/journals/jnme/2012/539426/" target="_blank" rel="noopener noreferrer">https://www.hindawi.com/journals/jnme/2012/539426/</a></li>
+ 	<li>Fernandes, G; "Dietary lipids and risk of autoimmune disease"; Clinical Immunology and Immunopathology; 72(2):193-7; August 1994; <a href="https://www.ncbi.nlm.nih.gov/pubmed/8050192" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/pubmed/8050192</a></li>
+ 	<li>Jaarin, Kamsiah et al; “The effects of heated vegetable oils on blood pressure in rats” Clinics (Sao Paulo, Brazil); vol. 66,12 (2011): 2125-32; <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3226610/" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3226610/</a></li>
+ 	<li>Ng, C, et al; "Heated vegetable oils and cardiovascular disease risk factors"; Vascular Pharmacology; 61(1):1-9; April 2014; <a href="https://www.ncbi.nlm.nih.gov/pubmed/24632108" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/pubmed/24632108</a></li>
+ 	<li>Perumalla Venkata, Rekhadevi and Rajagopal Subramanyam; “Evaluation of the deleterious health effects of consumption of repeatedly heated vegetable oil”; Toxicology Reports; vol. 3 636-643. 16 Aug. 2016; <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5616019/" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5616019/</a></li>
+ 	<li>Deol P, Evans JR, Dhahbi J, Chellappa K, Han DS, Spindler S, et al; "Soybean Oil Is More Obesogenic and Diabetogenic than Coconut Oil and Fructose in Mouse: Potential Role for the Liver"; PLoS ONE 10(7): e0132672; 2015; <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0132672" target="_blank" rel="noopener noreferrer">https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0132672</a></li>
+ 	<li>Science News; "Soybean oil causes more obesity than coconut oil, fructose"; July 22, 2015; <a href="https://www.sciencedaily.com/releases/2015/07/150722144640.htm" target="_blank" rel="noopener noreferrer">https://www.sciencedaily.com/releases/2015/07/150722144640.htm</a></li>
+ 	<li>Deol, P, et al; "Omega-6 and omega-3 oxylipins are implicated in soybean oil-induced obesity in mice"; Scientific Reports; volume 7, Article number: 12488; 2017; <a href="https://www.nature.com/articles/s41598-017-12624-9" target="_blank" rel="noopener noreferrer">https://www.nature.com/articles/s41598-017-12624-9</a></li>
+ 	<li>Bagga, Dilprit et al; “Differential effects of prostaglandin derived from omega-6 and omega-3 polyunsaturated fatty acids on COX-2 expression and IL-6 secretion"; Proceedings of the National Academy of Sciences of the United States of America; vol. 100,4 (2003): 1751-6; <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC149905/" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC149905/</a></li>
+ 	<li>SciMex; "Gut benefits of moving away from a high fat diet"; February 20, 2019; <a href="https://www.scimex.org/newsfeed/benefits-of-moving-away-from-a-high-fat-diet" target="_blank" rel="noopener noreferrer">https://www.scimex.org/newsfeed/benefits-of-moving-away-from-a-high-fat-diet</a></li>
+ 	<li>Henderson, George; Twitter; February 19, 2019; <a href="https://twitter.com/puddleg/status/1098059996229562370" target="_blank" rel="noopener noreferrer">https://twitter.com/puddleg/status/1098059996229562370</a></li>
+</ol>
 
 ---
 
-## Archived Comments (1)
+## Archived Comments
 
 <div class="archived-comments">
 <div class="comment">
@@ -286,5 +277,4 @@ As mentioned in my take on the Jillian Michaels keto ordeal, this is an **inform
     I believe my daughter got Crohns after a habit of eating Taco Bell on her way home from work. They use soybean oil. The pain and suffering was horrible. Now we use coconut oil and doing better.
   </div>
 </div>
-
 </div>

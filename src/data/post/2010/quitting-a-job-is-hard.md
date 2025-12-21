@@ -1,14 +1,11 @@
 ---
 publishDate: 2010-08-28
 title: "Quitting a Job is Hard"
-excerpt: "Wow. Ever since Shit Got Real, I've been one busy guy. You'd think it was because I've been working on my own business, but I wasn't. I was transitioning my..."
 category: "Entrepreneurship"
 author: "Mike Roberto"
 wpSlug: "quitting-a-job-is-hard"
 wpYear: 2010
 comments_count: 1
-metadata:
-  canonical: "https://www.mikeroberto.com/2010/quitting-a-job-is-hard"
 ---
 
 Wow.  Ever since [Shit Got Real](https://www.mikeroberto.com/shit-just-got-real), I've been one busy guy.  You'd think it was because I've been working on my own business, but I wasn't.  I was transitioning my sales territory to the new guy.  It's kind of funny, but since quitting my job, I've worked harder for it than I have for years.
@@ -33,7 +30,7 @@ Anyway, come September 1st, I'm going to wake up and be on my own.  I'm nervousl
 
 ---
 
-## Archived Comments (1)
+## Archived Comments
 
 <div class="archived-comments">
 <div class="comment">
@@ -44,5 +41,4 @@ Anyway, come September 1st, I'm going to wake up and be on my own.  I'm nervousl
     Well said Berto.  I still find myself following the adventure of you.  Sorry I was out of town last time you were in Chicago!  Let me know if you will be back here, or in Columbus this fall.
   </div>
 </div>
-
 </div>

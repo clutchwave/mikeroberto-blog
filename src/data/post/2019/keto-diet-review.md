@@ -1,31 +1,39 @@
 ---
 publishDate: 2019-06-09
-title: 'My Keto Diet Review from 2019: Thoughts After Three Years, Now Evolved'
-excerpt: After three years of keto dieting and a decade of low-carb, paleo dieting, I finally put a &quot;keto diet review&quot; to paper, discussing what I've learned.
-category: Diet Research
-author: Mike Roberto
-wpSlug: keto-diet-review
+title: "My Keto Diet Review from 2019: Thoughts After Three Years, Now Evolved"
+excerpt: "After three years of keto dieting and a decade of low-carb, paleo dieting, I finally put a &quot;keto diet review&quot; to paper, discussing what I've learned."
+image: "https://www.mikeroberto.com/images/keto-diet-review.jpg"
+category: "Diet Research"
+author: "Mike Roberto"
+wpSlug: "keto-diet-review"
 wpYear: 2019
 comments_count: 2
-image: https://www.mikeroberto.com/wp-content/uploads/keto-diet-review.jpg
-metadata:
-  canonical: https://www.mikeroberto.com/2019/keto-diet-review
 ---
-December 2025 Update from Mike
 
-  This article reflects my thinking from *2019*, when I was deeper in the keto world. 
+<div 
+  style="
+    max-width: 750px;
+    margin: 25px auto;
+    padding: 20px 25px;
+    border: 2px solid #c7d4e2;
+    border-radius: 8px;
+    background-color: #f3f7fc;
+    color: #111;
+    text-align: left;
+    font-size: 1.05rem;
+    line-height: 1.55;
+  "
+>
+  <strong style="font-size:1.2rem;">December 2025 Update from Mike</strong><br><br>
+  This article reflects my thinking from <em>2019</em>, when I was deeper in the keto world. 
   I’ve since changed my perspective in several important ways:
-  
-
-    - I no longer follow or recommend long-term strict ketogenic dieting for most people.
-
-    - I still agree with parts of this piece (high protein, low seed oils, watching carb + fat combos), but no longer view *chronic ketosis* as universally optimal.
-
-    - The ketogenic diet severely "undermuscled" me, and as I did it in my 30s, I lost some crucial final years of potential muscle building. This, I openly regret.
-
-    - My current approach is more: **low *toxicity*, high protein, minimize any kind of added oils/fats, moderate-to-high carbs based on activity, tons of sunshine, no zealotry**.
-
-  
+  <ul style="margin: 10px 0 0 20px; padding: 0;">
+    <li>I no longer follow or recommend long-term strict ketogenic dieting for most people.</li>
+    <li>I still agree with parts of this piece (high protein, low seed oils, watching carb + fat combos), but no longer view <em>chronic ketosis</em> as universally optimal.</li>
+    <li>The ketogenic diet severely "undermuscled" me, and as I did it in my 30s, I lost some crucial final years of potential muscle building. This, I openly regret.</li>
+    <li>My current approach is more: <strong>low <em>toxicity</em>, high protein, minimize any kind of added oils/fats, moderate-to-high carbs based on activity, tons of sunshine, no zealotry</strong>.</li>
+  </ul>
+</div>
 
 After three "runs" on the ketogenic diet, I'd like to lay out my thoughts, and where I see the future heading. Or at least, where I see *my* future with it heading.
 
@@ -35,13 +43,15 @@ This article was also turned into a video. It differs in details, but is the sam
 
 https://www.youtube.com/watch?v=1S8qVmOPPv8
 
+<!--[priceplow_subscribe blog_categories="Diet Research, Keto Diet"]-->
+
 First, we need some background, including my definition of the diet and a discussion on demographics.
 
 ## Ketogenic is ultra low-carb... but not *necessarily* ultra high-fat.
 
 First and foremost, realize that there is no "the" ketogenic diet. This is because something that is ketogenic includes ***any* type of dietary strategy that yields the production of ketones**.
 
-**Note:** This article was originally published on the [PricePlow Blog](https://blog.priceplow.com) but made more sense here on my personal site.
+<div class="sidebar right">**Note:** This article was originally published on the [PricePlow Blog](https://blog.priceplow.com) but made more sense here on my personal site.</div>
 
 This means all of the following things are "ketogenic":
 
@@ -54,7 +64,7 @@ This means all of the following things are "ketogenic":
         - Excessive glycogen-depleting exercise (such as intense cardio)
 
 <figure class="alignright">
-  <a href="https://blog.priceplow.com/wp-content/uploads/beta-oxidation-ketogenesis.png"><img src="https://blog.priceplow.com/wp-content/uploads/beta-oxidation-ketogenesis-267x800.png" alt="Beta Oxidation Ketogenesis" width="267" height="800" class="size-medium wp-image-37660" data-wp-pid="37660" /></a>
+  <a href="/images/beta-oxidation-ketogenesis.png"><img src="/images/beta-oxidation-ketogenesis.png" alt="Beta Oxidation Ketogenesis" width="267" height="800" class="size-medium wp-image-37660" data-wp-pid="37660" /></a>
   <figcaption>Beta Oxidation of fatty acids leading to Ketogenesis. First, why would you NOT want to live in a state where this is easily accessible and not blocked by insulin spikes from carbs? Second, why would you waste this process on dietary fats (from too much butter and coconut oil) when you can burn <em>your own</em> fat?!<br>Note that BHB is the primary ketone made, but we were highlighting acetone for another blog post. Sadly, by gaining a pound per year, few every really get to <em>really</em> experience the glory of this process.</figcaption>
 </figure>
 
@@ -85,7 +95,7 @@ Meanwhile, many people fall in love with the mental clarity once they've rid the
 ### It re-started with seizures... but do *you* have seizures?
 
 <figure class="alignleft">
-  <a href="https://blog.priceplow.com/wp-content/uploads/charlie-foundation.jpg"><img src="https://blog.priceplow.com/wp-content/uploads/charlie-foundation-300x67.jpg" alt="Charlie Foundation" width="300" height="67" class="size-medium wp-image-39057" data-wp-pid="39057" /></a>
+  <a href="/images/charlie-foundation.jpg"><img src="/images/charlie-foundation.jpg" alt="Charlie Foundation" width="300" height="67" class="size-medium wp-image-39057" data-wp-pid="39057" /></a>
   <figcaption>Realize that the current ultra high fat, lowish-protein diet was pioneered seizure disorder. If that's you, then head over to the Charlie Foundation. But if not... then why are eating all that fat if you're trying to <em>burn</em> fat??</figcaption>
 </figure>
 
@@ -102,7 +112,7 @@ Point being this: because there are so many different ways to do keto, and so ma
 This of leads to me and my personal story, but I've decided to make that a separate video so we stay on topic here. The long story short is that I spent about a half dozen years as a fat kid, but fortunately grew out of it and stayed lean with swimming. Eventually in my mid-20s, I could no longer "swim my way out of a bad diet" though.
 
 <figure class="alignright">
-  <a href="https://blog.priceplow.com/wp-content/uploads/marks-daily-apple-diabetes.png"><img src="https://blog.priceplow.com/wp-content/uploads/marks-daily-apple-diabetes-300x236.png" alt="Marks Daily Apple Diabetes" width="300" height="236" class="size-medium wp-image-39054" data-wp-pid="39054" /></a>
+  <a href="/images/marks-daily-apple-diabetes.png"><img src="/images/marks-daily-apple-diabetes.png" alt="Marks Daily Apple Diabetes" width="300" height="236" class="size-medium wp-image-39054" data-wp-pid="39054" /></a>
   <figcaption>The article on Mark's Daily Apple that changed everything for me in 2008[21]</figcaption>
 </figure>
 
@@ -127,7 +137,7 @@ I sometimes ask experts, is it because the ketones are *therapeutic*, or because
 ## Fat adaptation becomes the *only* way to live
 
 <figure class="alignright">
-  <a href="https://blog.priceplow.com/wp-content/uploads/hangry.jpg"><img src="https://blog.priceplow.com/wp-content/uploads/hangry-300x274.jpg" alt="Hangry" width="300" height="274" class="size-medium wp-image-39048" data-wp-pid="39048" /></a>
+  <a href="/images/hangry.jpg"><img src="/images/hangry.jpg" alt="Hangry" width="300" height="274" class="size-medium wp-image-39048" data-wp-pid="39048" /></a>
   <figcaption>Why live like this when you know there's an option <em>not</em> to! Annotations courtesy Dr. Ted Naiman (@TedNaiman)</figcaption>
 </figure>
 
@@ -140,7 +150,7 @@ And once you realize that, you also realize that it's insanely easy to eat less.
 For many of us, appetite disappears like we've *never* known in our entire lives. Before, we couldn't even *fathom* going three waking hours without putting anything into our mouths. Now we can go that many *days* if need be, and all is right as rain (note that I am not the biggest proponent of long fasts but they're occasionally worth exploring).
 
 <figure class="alignleft">
-  <a href="https://blog.priceplow.com/wp-content/uploads/blood-sugar-rollercoaster.jpg"><img src="https://blog.priceplow.com/wp-content/uploads/blood-sugar-rollercoaster-300x300.jpg" alt="Blood Sugar Rollercoaster" width="300" height="300" class="size-medium wp-image-39050" data-wp-pid="39050" /></a>
+  <a href="/images/blood-sugar-rollercoaster.jpg"><img src="/images/blood-sugar-rollercoaster.jpg" alt="Blood Sugar Rollercoaster" width="300" height="300" class="size-medium wp-image-39050" data-wp-pid="39050" /></a>
   <figcaption>You control your appetite by controlling the blood sugar rollercoaster. None of the above nonsense is necessary. Image courtesy Dr. Ted Naimain (@TedNaimain)</figcaption>
 </figure>
 
@@ -151,7 +161,7 @@ The naysayer will retort, *"Yeah, of course you're losing weight -- you're eatin
 ### Fat loss vs. fat loss *prevention* vs. fat *gain*
 
 <figure class="alignright">
-  <a href="https://blog.priceplow.com/wp-content/uploads/carbohydrate-fat-gain.jpg"><img src="https://blog.priceplow.com/wp-content/uploads/carbohydrate-fat-gain-300x238.jpg" alt="Carbohydrate Fat Gain" width="300" height="238" class="size-medium wp-image-39052" data-wp-pid="39052" /></a>
+  <a href="/images/carbohydrate-fat-gain.jpg"><img src="/images/carbohydrate-fat-gain.jpg" alt="Carbohydrate Fat Gain" width="300" height="238" class="size-medium wp-image-39052" data-wp-pid="39052" /></a>
   <figcaption>Low-Carb Advocates need to understand this. It takes a TON of carbohydrate alone to drive it into fat storage via de-novo lipogenesis.[18] The real danger is eating the carbohydrate with tons of fat and not enough protein. Pick one side or the other.</figcaption>
 </figure>
 
@@ -160,7 +170,7 @@ When you eat carbohydrate and spike your insulin, you're *sparing* fat. There's 
 My general take is this: eating carbs and healthy fats in conjunction can easily lead to an "*overweight* crisis". But use industrialized processed seed oils (like canola oil, corn oil, soybean oil, cottonseed oil, safflower oil, etc -- all rich in omega-6 polyunsaturated fatty acids and linoleic acid), and you're off to the *obesity* crisis. Combined with refined carbohydrates, these are the *exact* ingredients in processed foods - the crap from boxes and bags in the middle of the grocery store that you shouldn't be eating.
 
 <figure class="alignleft">
-  <a href="https://blog.priceplow.com/wp-content/uploads/carbohydrates-fat-oxidation.jpg"><img src="https://blog.priceplow.com/wp-content/uploads/carbohydrates-fat-oxidation-300x294.jpg" alt="Carbohydrates Fat Oxidation" width="300" height="294" class="size-medium wp-image-39068" data-wp-pid="39068" /></a>
+  <a href="/images/carbohydrates-fat-oxidation.jpg"><img src="/images/carbohydrates-fat-oxidation.jpg" alt="Carbohydrates Fat Oxidation" width="300" height="294" class="size-medium wp-image-39068" data-wp-pid="39068" /></a>
   <figcaption>Want to burn fat? Stop eating carbohydrates then and replace them with <em>protein!</em> Annotations courtesy Dr. @TedNaiman</figcaption>
 </figure>
 
@@ -177,7 +187,7 @@ My long-winded point is this: while a low-fat diet is almost never easy for any 
 Regarding obesity, I'll put it this way - almost nobody's getting *obese* from eating an ultra low carb diet devoid of seed oils. Again, we need to define our demographic. Obese and extremely overweight individuals have a long road ahead, and traditional short-term diet tricks that do not address the core root of *appetite*, *hunger*, and even *addiction* do not work.
 
 <figure class="alignright">
-  <a href="https://blog.priceplow.com/wp-content/uploads/carbohydrates-displace-fat-oxidation.jpg"><img src="https://blog.priceplow.com/wp-content/uploads/carbohydrates-displace-fat-oxidation-300x300.jpg" alt="Carbohydrates Displace Fat Oxidation" width="300" height="300" class="size-medium wp-image-39060" data-wp-pid="39060" /></a>
+  <a href="/images/carbohydrates-displace-fat-oxidation.jpg"><img src="/images/carbohydrates-displace-fat-oxidation.jpg" alt="Carbohydrates Displace Fat Oxidation" width="300" height="300" class="size-medium wp-image-39060" data-wp-pid="39060" /></a>
   <figcaption>Every time you eat carbohydrates, you <em>stop burning fat!</em> So why are you wasting time? <strong>BURN FAT, NOT SUGAR!</strong> Image courtesy @TedNaiman</figcaption>
 </figure>
 
@@ -188,7 +198,7 @@ No, a drastic situation like obesity requires drastic measures, and that often m
 ## The truth about my keto journey
 
 <figure class="alignright">
-  <a href="/images/keto-diet-review.jpg"><img src="https://www.mikeroberto.com/wp-content/uploads/keto-diet-review-300x300.jpg" alt="Keto Diet Review" width="300" height="300" class="size-medium wp-image-39073" data-wp-pid="39073" /></a>
+  <a href="/images/keto-diet-review.jpg"><img src="/images/keto-diet-review.jpg" alt="Keto Diet Review" width="300" height="300" class="size-medium wp-image-39073" data-wp-pid="39073" /></a>
   <figcaption>Long story short -- BURN FAT (preferably your own), NOT SUGAR. And not a ton of butter either! A well-devised ketogenic diet makes this happen.</figcaption>
 </figure>
 
@@ -251,7 +261,7 @@ And over the course of time and in my own failures mentioned above, I realized t
 ## Don't fear protein!!
 
 <figure class="alignright">
-  <a href="https://blog.priceplow.com/wp-content/uploads/ben-bikman-ketones-boost-muscle-health.jpg"><img src="https://blog.priceplow.com/wp-content/uploads/ben-bikman-ketones-boost-muscle-health-300x169.jpg" alt="Ben Bikman Ketones Boost Muscle Health" width="300" height="169" class="size-medium wp-image-39066" data-wp-pid="39066" /></a>
+  <a href="/images/ben-bikman-ketones-boost-muscle-health.jpg"><img src="/images/ben-bikman-ketones-boost-muscle-health.jpg" alt="Ben Bikman Ketones Boost Muscle Health" width="300" height="169" class="size-medium wp-image-39066" data-wp-pid="39066" /></a>
   <figcaption>When Ben Bikman emphasized prioritizing protein in this video, a light bulb <em>finally</em> went off for me</figcaption>
 </figure>
 
@@ -270,7 +280,7 @@ Meanwhile, we see a ton of keto dieters doing whatever it takes to keep their fa
 Seriously, what in the hell kind of clown world nonsense is that?
 
 <figure class="alignright">
-  <a href="https://blog.priceplow.com/wp-content/uploads/ketogenic-weight-loss-eat-less-fat.jpg"><img src="https://blog.priceplow.com/wp-content/uploads/ketogenic-weight-loss-eat-less-fat-300x300.jpg" alt="Ketogenic Weight Loss Eat Less Fat" width="300" height="300" class="size-medium wp-image-39070" data-wp-pid="39070" /></a>
+  <a href="/images/ketogenic-weight-loss-eat-less-fat.jpg"><img src="/images/ketogenic-weight-loss-eat-less-fat.jpg" alt="Ketogenic Weight Loss Eat Less Fat" width="300" height="300" class="size-medium wp-image-39070" data-wp-pid="39070" /></a>
   <figcaption>Some cold, hard truths from Dr. @TedNaiman</figcaption>
 </figure>
 
@@ -319,7 +329,7 @@ Upon my return to the low-carb movement, something awesome had happened. Protein
 ### Red meat is *back!*
 
 <figure class="alignleft">
-  <a href="https://blog.priceplow.com/wp-content/uploads/red-meat.jpg"><img src="https://blog.priceplow.com/wp-content/uploads/red-meat-300x200.jpg" alt="Red Meat" width="300" height="200" class="size-medium wp-image-39063" data-wp-pid="39063" /></a>
+  <a href="/images/red-meat.jpg"><img src="/images/red-meat.jpg" alt="Red Meat" width="300" height="200" class="size-medium wp-image-39063" data-wp-pid="39063" /></a>
   <figcaption>Red Meat is <em>back</em> on the menu, folks! Just don't mix it with those disgusting seed oils (or starchy carbs if you haven't trained like a beast today)</figcaption>
 </figure>
 
@@ -366,7 +376,7 @@ Fix diet, and most (not all) medical issues go away. Fix medical issues, and ton
 Discovering the truth is not without its uncertainties.
 
 <figure class="alignright">
-  <a href="https://blog.priceplow.com/wp-content/uploads/ldl-cholesterol.png"><img src="https://blog.priceplow.com/wp-content/uploads/ldl-cholesterol-300x300.png" alt="LDL Cholesterol" width="300" height="300" class="size-medium wp-image-38118" data-wp-pid="38118" /></a>
+  <a href="/images/ldl-cholesterol.png"><img src="/images/ldl-cholesterol.png" alt="LDL Cholesterol" width="300" height="300" class="size-medium wp-image-38118" data-wp-pid="38118" /></a>
   <figcaption>LDL Cholesterol is often used as a scare tactic to keep people away from low-carb diets. Turns out... population data shows that it doesn't matter once you bring HDL high, insulin low, and triglycerides down!</figcaption>
 </figure>
 
@@ -386,53 +396,37 @@ I am confident that a low (zero?!) carb approach with no seed oils is what works
 
 If you're still here, thanks for reading this far. Next up, the **journey** begins. And I welcome you to join along.
 
+<!--[priceplow_subscribe blog_categories="Diet Research, Keto Diet"]-->
+
 ## References
 
- 	- Hallberg, Sarah, Volek, Jeff, et al; "Effectiveness and Safety of a Novel Care Model for the Management of Type 2 Diabetes at 1 Year: An Open-Label, Non-Randomized, Controlled Study"; Diabetes Therapy; April 2018, Volume 9, Issue 2, pp 583–612; [https://link.springer.com/article/10.1007%2Fs13300-018-0373-9](https://link.springer.com/article/10.1007%2Fs13300-018-0373-9)
-
- 	- McKenzie, Amy L, Jeff S Volek; Stephen D Phinney, et al; “A Novel Intervention Including Individualized Nutritional Recommendations Reduces Hemoglobin A1c Level, Medication Use, and Weight in Type 2 Diabetes”; JMIR diabetes vol. 2,1 e5; 7 March 2017; [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6238887/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6238887/)
-
- 	- Stoykovich, Seth, and Kelly Gibas; “APOE ε4, the door to insulin-resistant dyslipidemia and brain fog? A case study”; Alzheimer's & dementia (Amsterdam, Netherlands) vol. 11 264-269; 14 Mar. 2019; [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6423699/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6423699/)
-
- 	- Cunnane, Stephen C, et al; "Can ketones compensate for deteriorating brain glucose uptake during aging? Implications for the risk and treatment of Alzheimer's disease"; Annals of the New York Academy of Sciences; 2016 Mar; 1367(1):12-20; [https://www.ncbi.nlm.nih.gov/pubmed/26766547](https://www.ncbi.nlm.nih.gov/pubmed/26766547)
-
- 	- Cunnane, Stephen C, et al; “Can Ketones Help Rescue Brain Fuel Supply in Later Life? Implications for Cognitive Health during Aging and the Treatment of Alzheimer's Disease”; Frontiers in Molecular Neuroscience; vol. 9 53; 8 Jul. 2016; [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4937039/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4937039/)
-
- 	- Taylor, Matthew K et al; “Feasibility and efficacy data from a ketogenic diet intervention in Alzheimer's disease”; Alzheimer's & Dementia (New York, NY); vol. 4 28-36; 6 Dec. 2017; [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6021549/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6021549/)
-
- 	- Croteau, E, Cunnane, Stephen C, et al; "Ketogenic Medium Chain Triglycerides Increase Brain Energy Metabolism in Alzheimer's Disease"; Journal of Alzheimer's Disease; 2018; 64(2):551-561; [https://www.ncbi.nlm.nih.gov/pubmed/29914035](https://www.ncbi.nlm.nih.gov/pubmed/29914035)
-
- 	- Croteau, E, Cunnane, Stephen C, et al; "A cross-sectional comparison of brain glucose and ketone metabolism in cognitively healthy older adults, mild cognitive impairment and early Alzheimer's disease"; Experimental Gerontology; 2018 Jul 1; 107:18-26; [https://www.ncbi.nlm.nih.gov/pubmed/28709938](https://www.ncbi.nlm.nih.gov/pubmed/28709938)
-
- 	- Castellano, C, Cunnane, Stephen C, et al; "Lower brain 18F-fluorodeoxyglucose uptake but normal 11C-acetoacetate metabolism in mild Alzheimer's disease dementia"; Journal of Alzheimer's Disease; 2015;43(4):1343-53; [https://www.ncbi.nlm.nih.gov/pubmed/25147107](https://www.ncbi.nlm.nih.gov/pubmed/25147107)
-
- 	- Youm, Yun-Hee, D'Agostino Dominic, et al; “The ketone metabolite β-hydroxybutyrate blocks NLRP3 inflammasome-mediated inflammatory disease”; Nature medicine vol. 21,3 (2015): 263-9; [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4352123/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4352123/)
-
- 	- Masino, Susan A, and David N Ruskin; “Ketogenic diets and pain”; Journal of Child Neurology; vol. 28,8 (2013): 993-1001; [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4124736/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4124736/)
-
- 	- Paoli, A, et al; "Nutrition and acne: therapeutic potential of ketogenic diets"; Skin Pharmacology and Physiology; 2012; 25(3):111-7; [https://www.ncbi.nlm.nih.gov/pubmed/22327146](https://www.ncbi.nlm.nih.gov/pubmed/22327146)
-
- 	- Phelps, J, et al; "The ketogenic diet for type II bipolar disorder"; Neurocase; 2013; 19(5):423-6; [https://www.ncbi.nlm.nih.gov/pubmed/23030231](https://www.ncbi.nlm.nih.gov/pubmed/23030231)
-
- 	- Pacheco, A, et al; "A Pilot Study of the Ketogenic Diet in Schizophrenia"; American Journal of Psychiatry; may 1965; 121:1110-1; [https://www.ncbi.nlm.nih.gov/pubmed/14283310](https://www.ncbi.nlm.nih.gov/pubmed/14283310)
-
- 	- Kraft, Bryan D, and Eric C Westman; “Schizophrenia, gluten, and low-carbohydrate, ketogenic diets: a case report and review of the literature”; Nutrition & Metabolism; vol. 6 10; 26 Feb. 2009; [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2652467/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2652467/)
-
- 	- Evangeliou, A, et al; "Application of a ketogenic diet in children with autistic behavior: pilot study"; Journal of Child Neurology; 2003 Feb; 18(2):113-8; [https://www.ncbi.nlm.nih.gov/pubmed/12693778](https://www.ncbi.nlm.nih.gov/pubmed/12693778)
-
- 	- Herbert, M, Buckley, J; "Autism and dietary therapy: case report and review of the literature"; Journal of Child Neurology; 2013 Aug; 28(8):975-82; [https://www.ncbi.nlm.nih.gov/pubmed/23666039](https://www.ncbi.nlm.nih.gov/pubmed/23666039)
-
- 	- Acheson, K J, et al; "Glycogen storage capacity and de novo lipogenesis during massive carbohydrate overfeeding in man"; The American Journal of Clinical Nutrition; Volume 48, Issue 2; August 1988; Pages 240–247; [https://academic.oup.com/ajcn/article-abstract/48/2/240/4694971](https://academic.oup.com/ajcn/article-abstract/48/2/240/4694971)
-
- 	- Paddon-Jones, D, et al; “Protein, weight management, and satiety”; American Journal of Clinical Nutrition; 87(5):1558S-1561S; May 2008; [https://www.ncbi.nlm.nih.gov/pubmed/18469287](https://www.ncbi.nlm.nih.gov/pubmed/18469287)
-
- 	- Simpson S, Raubenheimer, D; “Obesity: the protein leverage hypothesis”; Obesity Reviews; 6(2):133-42; May 2005; [https://www.ncbi.nlm.nih.gov/pubmed/15836464](https://www.ncbi.nlm.nih.gov/pubmed/15836464) ([Archive](https://www.docdroid.net/c6G7d6l/protein-leverage-hypothesis-simpson-raubenheimer-2005.pdf))
-
-- Sisson, Mark; "The Definitive Guide to Insulin, Blood Sugar & Type 2 Diabetes (and you’ll understand it)"; Mark's Daily Apple; June 27, 2007; [https://marksdailyapple.com/diabetes](https://marksdailyapple.com/diabetes)
+<ol class="references">
+ 	<li>Hallberg, Sarah, Volek, Jeff, et al; "Effectiveness and Safety of a Novel Care Model for the Management of Type 2 Diabetes at 1 Year: An Open-Label, Non-Randomized, Controlled Study"; Diabetes Therapy; April 2018, Volume 9, Issue 2, pp 583–612; <a href="https://link.springer.com/article/10.1007%2Fs13300-018-0373-9" target="_blank" rel="noopener noreferrer">https://link.springer.com/article/10.1007%2Fs13300-018-0373-9</a></li>
+ 	<li>McKenzie, Amy L, Jeff S Volek; Stephen D Phinney, et al; “A Novel Intervention Including Individualized Nutritional Recommendations Reduces Hemoglobin A1c Level, Medication Use, and Weight in Type 2 Diabetes”; JMIR diabetes vol. 2,1 e5; 7 March 2017; <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6238887/" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6238887/</a></li>
+ 	<li>Stoykovich, Seth, and Kelly Gibas; “APOE ε4, the door to insulin-resistant dyslipidemia and brain fog? A case study”; Alzheimer's &amp; dementia (Amsterdam, Netherlands) vol. 11 264-269; 14 Mar. 2019; <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6423699/" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6423699/</a></li>
+ 	<li>Cunnane, Stephen C, et al; "Can ketones compensate for deteriorating brain glucose uptake during aging? Implications for the risk and treatment of Alzheimer's disease"; Annals of the New York Academy of Sciences; 2016 Mar; 1367(1):12-20; <a href="https://www.ncbi.nlm.nih.gov/pubmed/26766547" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/pubmed/26766547</a></li>
+ 	<li>Cunnane, Stephen C, et al; “Can Ketones Help Rescue Brain Fuel Supply in Later Life? Implications for Cognitive Health during Aging and the Treatment of Alzheimer's Disease”; Frontiers in Molecular Neuroscience; vol. 9 53; 8 Jul. 2016; <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4937039/" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4937039/</a></li>
+ 	<li>Taylor, Matthew K et al; “Feasibility and efficacy data from a ketogenic diet intervention in Alzheimer's disease”; Alzheimer's &amp; Dementia (New York, NY); vol. 4 28-36; 6 Dec. 2017; <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6021549/" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6021549/</a></li>
+ 	<li>Croteau, E, Cunnane, Stephen C, et al; "Ketogenic Medium Chain Triglycerides Increase Brain Energy Metabolism in Alzheimer's Disease"; Journal of Alzheimer's Disease; 2018; 64(2):551-561; <a href="https://www.ncbi.nlm.nih.gov/pubmed/29914035" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/pubmed/29914035</a></li>
+ 	<li>Croteau, E, Cunnane, Stephen C, et al; "A cross-sectional comparison of brain glucose and ketone metabolism in cognitively healthy older adults, mild cognitive impairment and early Alzheimer's disease"; Experimental Gerontology; 2018 Jul 1; 107:18-26; <a href="https://www.ncbi.nlm.nih.gov/pubmed/28709938" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/pubmed/28709938</a></li>
+ 	<li>Castellano, C, Cunnane, Stephen C, et al; "Lower brain 18F-fluorodeoxyglucose uptake but normal 11C-acetoacetate metabolism in mild Alzheimer's disease dementia"; Journal of Alzheimer's Disease; 2015;43(4):1343-53; <a href="https://www.ncbi.nlm.nih.gov/pubmed/25147107" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/pubmed/25147107</a></li>
+ 	<li>Youm, Yun-Hee, D'Agostino Dominic, et al; “The ketone metabolite β-hydroxybutyrate blocks NLRP3 inflammasome-mediated inflammatory disease”; Nature medicine vol. 21,3 (2015): 263-9; <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4352123/" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4352123/</a></li>
+ 	<li>Masino, Susan A, and David N Ruskin; “Ketogenic diets and pain”; Journal of Child Neurology; vol. 28,8 (2013): 993-1001; <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4124736/" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4124736/</a></li>
+ 	<li>Paoli, A, et al; "Nutrition and acne: therapeutic potential of ketogenic diets"; Skin Pharmacology and Physiology; 2012; 25(3):111-7; <a href="https://www.ncbi.nlm.nih.gov/pubmed/22327146" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/pubmed/22327146</a></li>
+ 	<li>Phelps, J, et al; "The ketogenic diet for type II bipolar disorder"; Neurocase; 2013; 19(5):423-6; <a href="https://www.ncbi.nlm.nih.gov/pubmed/23030231" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/pubmed/23030231</a></li>
+ 	<li>Pacheco, A, et al; "A Pilot Study of the Ketogenic Diet in Schizophrenia"; American Journal of Psychiatry; may 1965; 121:1110-1; <a href="https://www.ncbi.nlm.nih.gov/pubmed/14283310" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/pubmed/14283310</a></li>
+ 	<li>Kraft, Bryan D, and Eric C Westman; “Schizophrenia, gluten, and low-carbohydrate, ketogenic diets: a case report and review of the literature”; Nutrition &amp; Metabolism; vol. 6 10; 26 Feb. 2009; <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2652467/" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2652467/</a></li>
+ 	<li>Evangeliou, A, et al; "Application of a ketogenic diet in children with autistic behavior: pilot study"; Journal of Child Neurology; 2003 Feb; 18(2):113-8; <a href="https://www.ncbi.nlm.nih.gov/pubmed/12693778" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/pubmed/12693778</a></li>
+ 	<li>Herbert, M, Buckley, J; "Autism and dietary therapy: case report and review of the literature"; Journal of Child Neurology; 2013 Aug; 28(8):975-82; <a href="https://www.ncbi.nlm.nih.gov/pubmed/23666039" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/pubmed/23666039</a></li>
+ 	<li>Acheson, K J, et al; "Glycogen storage capacity and de novo lipogenesis during massive carbohydrate overfeeding in man"; The American Journal of Clinical Nutrition; Volume 48, Issue 2; August 1988; Pages 240–247; <a href="https://academic.oup.com/ajcn/article-abstract/48/2/240/4694971" target="_blank" rel="noopener noreferrer">https://academic.oup.com/ajcn/article-abstract/48/2/240/4694971</a></li>
+ 	<li>Paddon-Jones, D, et al; “Protein, weight management, and satiety”; American Journal of Clinical Nutrition; 87(5):1558S-1561S; May 2008; <a href="https://www.ncbi.nlm.nih.gov/pubmed/18469287" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/pubmed/18469287</a></li>
+ 	<li>Simpson S, Raubenheimer, D; “Obesity: the protein leverage hypothesis”; Obesity Reviews; 6(2):133-42; May 2005; <a href="https://www.ncbi.nlm.nih.gov/pubmed/15836464" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/pubmed/15836464</a> (<a href="https://www.docdroid.net/c6G7d6l/protein-leverage-hypothesis-simpson-raubenheimer-2005.pdf" target="_blank" rel="noopener noreferrer">Archive</a>)</li>
+<li>Sisson, Mark; "The Definitive Guide to Insulin, Blood Sugar & Type 2 Diabetes (and you’ll understand it)"; Mark's Daily Apple; June 27, 2007; <a href="https://marksdailyapple.com/diabetes" target="_blank" rel="noopener noreferrer">https://marksdailyapple.com/diabetes</a></li>
+</ol>
 
 ---
 
-## Archived Comments (2)
+## Archived Comments
 
 <div class="archived-comments">
 <div class="comment">
@@ -447,7 +441,6 @@ I&#x27;ve done a very similar journey but am not lean but have been getting heal
 I&#x27;m now down the anti PUFA side of things and wondering about the saturated fat and protein ratios. I tried the PE diet and didn&#x27;t find it work for me as I think I need a bit more fat...
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>Berto</strong> • <time>2021-01-17 07:23:37</time>
@@ -456,5 +449,4 @@ I&#x27;m now down the anti PUFA side of things and wondering about the saturated
     Thanks!! Many claim to do far better on a higher-fat diet. One theory I love, and you should find this video, is the &quot;Lipivore&quot; theory from L. Amber O&#x27;Hearn. It basically talks about the importance of animal &lt;em&gt;fats&lt;/em&gt;, not just animal proteins.
   </div>
 </div>
-
 </div>

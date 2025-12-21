@@ -1,14 +1,11 @@
 ---
 publishDate: 2006-11-16
 title: "Forgive Me Buckeyes, For I Have Sinned"
-excerpt: "... or more realistically, my parents have sinned. A few weeks ago, my mom was rummaging through some old stuff, where she happened upon an article from the..."
 category: "HUMILIATIONS"
 author: "Mike Roberto"
 wpSlug: "forgive-me-buckeyes-for-i-have-sinned"
 wpYear: 2006
 comments_count: 2
-metadata:
-  canonical: "https://www.mikeroberto.com/2006/forgive-me-buckeyes-for-i-have-sinned"
 ---
 
 ... or more realistically, my parents have sinned.
@@ -31,7 +28,7 @@ MICHIGAN:    21
 
 ---
 
-## Archived Comments (2)
+## Archived Comments
 
 <div class="archived-comments">
 <div class="comment">
@@ -42,7 +39,6 @@ MICHIGAN:    21
     I am in state of shock Micro.You need to ge down Rayford&#x27;s and ask for remdemption.
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>Yo  Mamma</strong> • <time>2006-11-16 23:54:13</time>
@@ -51,5 +47,4 @@ MICHIGAN:    21
     FYI - Your Dad says he specifically remembers that way back when - little Miker insisted on getting that Michigan shirt.  Of course, this is the same man that thinks your birthday is December 10.....  Regardless - I know, as the Mom, I AM TO BLAME - Aren&#x27;t we always???  Please forgive.
   </div>
 </div>
-
 </div>

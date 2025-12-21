@@ -1,21 +1,18 @@
 ---
 publishDate: 2007-03-11
 title: "Concert Review - Blackfield - The Knitting Factory - Hollywood, CA"
-excerpt: "Note: Talia has sent me pictures! I am including some of my favorites here. Click here for the entire slideshow. Last night, I had the honor of seeing one of..."
 category: "Music Reviews"
 author: "Mike Roberto"
 wpSlug: "concert-review-blackfield-the-knitting-factory-hollywood-ca"
 wpYear: 2007
 comments_count: 3
-metadata:
-  canonical: "https://www.mikeroberto.com/2007/concert-review-blackfield-the-knitting-factory-hollywood-ca"
 ---
 
 *Note:  Talia has sent me pictures!  I am including some of my favorites here.  Click [here](http://share.shutterfly.com/action/welcome?sid=2CauWbloxYvkA) for the entire slideshow.*
 
 ![](https://www.mikeroberto.com/pics/Blackfield_Concert/Steven_Wilson1-Blackfield_Concert-20070310.jpg)Last night, I had the honor of seeing one of [Blackfield](http://www.blackfield.org)'s seven US concerts on their tour to promote [Blackfield II](http://www.amazon.com/Blackfield-II/dp/B000MGVA8I/ref=pd_bbs_sr_1/103-0339983-4830263?ie=UTF8&s=music&qid=1173672698&sr=8-1) (reviewed at [this earlier blog post](https://www.mikeroberto.com/2007/01/28/music-review-blackfield-blackfield-ii/)).  The sold-out show at the [Knitting Factory](http://www.knittingfactory.com/), a small venue on the edge of the Hollywood Blvd. strip, was fetching tickets for up to 4 times face value.  Led by Steven Wilson and Aviv Geffen, Blackfield lived up to the excitement on the street, perhaps more.
 
-John Wesley played the opening act, a one-man band.  Wesley's music consists of whiny love song tripe, so you can safely assume that I did not enjoy it.  The guitar chops were sloppy, the vocals nothing special.  However, the song Thanksgiving Day was touching.  A local Hollywood B-actress/singer came on stage to provide some heinous backup vocals.
+<a href=”http://www.john-wesley.com/index.shtml” target=”_blank”>John Wesley</a> played the opening act, a one-man band.  Wesley's music consists of whiny love song tripe, so you can safely assume that I did not enjoy it.  The guitar chops were sloppy, the vocals nothing special.  However, the song Thanksgiving Day was touching.  A local Hollywood B-actress/singer came on stage to provide some heinous backup vocals.
 
 Although I was largely unimpressed with this opening act, it sure beat the hell out of the typical Hate Eternal shit opening band that I have to deal with at metal shows...
 
@@ -54,8 +51,9 @@ A half hour later, Blackfield drummer Tomer Z stormed the stage, and began an ex
 - End of the World
 
 Encore:
-Hello
+- Hello
 ...which led back into the Once drum intro...
+
 - Once
 
 - Cloudy Now
@@ -92,7 +90,7 @@ An incredible night, one of the best shows I've been to!  Good luck to all of yo
 
 ---
 
-## Archived Comments (3)
+## Archived Comments
 
 <div class="archived-comments">
 <div class="comment">
@@ -103,7 +101,6 @@ An incredible night, one of the best shows I've been to!  Good luck to all of yo
     The name of the guy playing the keyboard is Eran Mittelman, not Daniel Salomon.  Daniel Salomon is the keyboard player of Aviv Geffen, not Blackfield.  You should change it, but we loved your blog and you are absolutely right!  Post the pics :)
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>Brian</strong> • <time>2007-03-12 16:22:12</time>
@@ -118,7 +115,6 @@ Im not ready to agree that they are better than PT.  Porcupine Tree&#x27;s disco
 Now if only I could convince you of the brilliance of Rush.  Both of these bands just scream Rush to me and I still think, someday you will appreciate the genious of Rush.
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>Tom</strong> • <time>2008-03-28 22:57:06</time>
@@ -129,5 +125,4 @@ Second, Daniel Salomon played keys for Blackfield on both albums but left in 200
 Good review otherwise.
   </div>
 </div>
-
 </div>

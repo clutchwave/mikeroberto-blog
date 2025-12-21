@@ -7,8 +7,6 @@ author: "Mike Roberto"
 wpSlug: "rip-berto"
 wpYear: 2007
 comments_count: 7
-metadata:
-  canonical: "https://www.mikeroberto.com/2007/rip-berto"
 ---
 
 [![](https://www.mikeroberto.com/pics/RIP_Berto-300.jpg)](http://i58.photobucket.com/albums/g278/MicroBerto/RIP_Berto.jpg)On December 31, 2006, I was setting up my new bedroom, which also serves as my office, design studio, and, of course, surfboard storage room.  I turned on my computer, which was so creatively named "berto", and noticed the power supply fan struggling to do its job.
@@ -55,7 +53,7 @@ I love and miss you, berto, and I will hold you near and dear to my heart foreve
 
 ---
 
-## Archived Comments (7)
+## Archived Comments
 
 <div class="archived-comments">
 <div class="comment">
@@ -68,7 +66,6 @@ I love and miss you, berto, and I will hold you near and dear to my heart foreve
 I don&#x27;t want to jinx it but my Sony Vaio laptop is turning 105 also - and still going strong :-D. I guess women computers have longer life spans than men also :)
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>Larz</strong> • <time>2007-05-03 03:59:55</time>
@@ -77,7 +74,6 @@ I don&#x27;t want to jinx it but my Sony Vaio laptop is turning 105 also - and s
     Dude you are awesome....that was great...hope you have a blast in costa rica!
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>Yo Momma</strong> • <time>2007-05-03 05:40:17</time>
@@ -86,7 +82,6 @@ I don&#x27;t want to jinx it but my Sony Vaio laptop is turning 105 also - and s
     So happy that my $1300 investment brought u and your buddies so much fun and entertainment!!!!  And that (Jon, Jer, Scott) story is totally hilarious. I know - I&#x27;m a sick mom!!!      I know you&#x27;ll miss berto - but his replacement will bring you many more happy memories.......
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>Gingo</strong> • <time>2007-05-03 06:17:13</time>
@@ -95,7 +90,6 @@ I don&#x27;t want to jinx it but my Sony Vaio laptop is turning 105 also - and s
     Although I lived with berto for 4 years, he was always a bit of an enigma to me.  However, seeing the joy that he brought to you in the form of bertocam, Quake, and, of course, pr0n, warmed my heart.  He will be missed.
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>Minh</strong> • <time>2007-05-04 18:19:30</time>
@@ -104,7 +98,6 @@ I don&#x27;t want to jinx it but my Sony Vaio laptop is turning 105 also - and s
     Although I have never dubbed my old processing beast with a name, it too is on its last legs (AMD 1900+, ATI Wonder 64, Asus 7V333), going on 5 years (which according to your math is 75 years old in computer years) as my one and only computer.  I&#x27;ve tried my best to push back its inevitable relegation to the dustbin via fancier cooling fans and more hard drives but your post really brings home the fact that I&#x27;ll have to say goodbye someday.  Good luck with your computer!
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>jay</strong> • <time>2007-05-09 15:58:54</time>
@@ -113,7 +106,6 @@ I don&#x27;t want to jinx it but my Sony Vaio laptop is turning 105 also - and s
     How about a eulogy for soul? I miss soul...
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>Cfabe</strong> • <time>2024-07-24 20:08:23</time>
@@ -122,5 +114,4 @@ I don&#x27;t want to jinx it but my Sony Vaio laptop is turning 105 also - and s
     Not sure how I&#x27;ve just now come across this for the first time 17 years after you posted it but thanks for the blast from the past!
   </div>
 </div>
-
 </div>

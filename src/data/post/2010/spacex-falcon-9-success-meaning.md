@@ -1,7 +1,6 @@
 ---
 publishDate: 2010-12-09
 title: "What the SpaceX Falcon 9 Launch Success Means to America"
-excerpt: "Yesterday morning, SpaceX successfully launched their Falcon 9 rocket and accompanying Dragon capsule into orbit, and safely brought Dragon back home. This was..."
 category: "Current Events"
 tags:
   - "nasa"
@@ -16,13 +15,13 @@ author: "Mike Roberto"
 wpSlug: "spacex-falcon-9-success-meaning"
 wpYear: 2010
 comments_count: 3
-metadata:
-  canonical: "https://www.mikeroberto.com/2010/spacex-falcon-9-success-meaning"
 ---
 
 Yesterday morning, [SpaceX](http://www.spacex.com) successfully launched their Falcon 9 rocket and accompanying Dragon capsule into orbit, and safely brought Dragon back home. This was COTS Demonstration I, which means they are proving to NASA that they are capable of launching and maneuvering cargo (and eventually astronauts) into orbit and to the International Space Station.
 
 This mission is paramount because the Space Shuttle program is being decommissioned and we're going to have to rely on Russian Soyuz rockets to get astronauts and cargo to the ISS.  America needs to act fast, and SpaceX is stepping up to the plate and has recently hit three home runs.
+
+<object width="449" height="278"><param name="movie" value="http://www.youtube.com/v/Q-ci9xIgNZM?fs=1&amp;hl=en_US&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Q-ci9xIgNZM?fs=1&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="449" height="278"></embed></object>
 
 <figure class="alignright">
   <a href="http://www.spaceflightnow.com/falcon9/002/remotes/01.jpg"><img alt="SpaceX&#039;s Falcon 9 Takes Off" src="http://www.spaceflightnow.com/falcon9/002/remotes/01.jpg" title="SpaceX&#039;s Falcon 9 Takes Off" width="250" /></a>
@@ -79,7 +78,7 @@ Elon is 39, and today I turned 29. I have exactly ten years to be as fucking coo
 
 ---
 
-## Archived Comments (3)
+## Archived Comments
 
 <div class="archived-comments">
 <div class="comment">
@@ -90,7 +89,6 @@ Elon is 39, and today I turned 29. I have exactly ten years to be as fucking coo
     Well said Mike. 10 years. Let&#x27;s do it.
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>Alison Lowndes</strong> • <time>2010-12-12 12:15:15</time>
@@ -99,7 +97,6 @@ Elon is 39, and today I turned 29. I have exactly ten years to be as fucking coo
     Love this article and love SpaceX - &quot;Put a bunch of geniuses in a room with a solid vision, a fiscal goal to achieve, and an inspirational leader, and this is what you get... a wheel of cheese in space!!!&quot;
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>Chad Vordemesche</strong> • <time>2011-02-07 18:23:12</time>
@@ -108,5 +105,4 @@ Elon is 39, and today I turned 29. I have exactly ten years to be as fucking coo
     Great article Mike.  I didn&#x27;t know you were a great writer too!
   </div>
 </div>
-
 </div>

@@ -1,14 +1,11 @@
 ---
 publishDate: 2006-12-03
 title: "TV Review:  Friday Night Lights"
-excerpt: "I’m not a TV guy, but Friday Night Lights has sucked me in. This action/drama show starring football-addicted small-town Texas has been stealing my Tuesday..."
 category: "TV"
 author: "Mike Roberto"
 wpSlug: "tv-review-friday-night-lights"
 wpYear: 2006
 comments_count: 3
-metadata:
-  canonical: "https://www.mikeroberto.com/2006/tv-review-friday-night-lights"
 ---
 
 [![](https://www.mikeroberto.com/Friday_Night_Lights/Friday_Night_Lights-thumb.jpg)](https://www.mikeroberto.com/Friday_Night_Lights/Friday_Night_Lights.jpg)I’m not a TV guy, but Friday Night Lights has sucked me in.  This action/drama show starring football-addicted small-town Texas has been stealing my Tuesday nights.  Since it’s filmed right here in Austin, I have taken extra interest in this rapidly-degrading series.
@@ -47,7 +44,7 @@ But we’ll just keep on watching, because after all, it’s not action, it’s 
 
 ---
 
-## Archived Comments (3)
+## Archived Comments
 
 <div class="archived-comments">
 <div class="comment">
@@ -58,7 +55,6 @@ But we’ll just keep on watching, because after all, it’s not action, it’s 
     Good Review, haven&#x27;t watched the series, but saw the movie which fits the same review.  Have you tried the Prison Break program. Got hooked on that, but I tape all the episodes and watch 4 0r 5 at a time (only 2 left). Has a lot of surprises, but totally unreal which makes it interesting and unpredictable, except it&#x27;s coming back next year, so you know who will still be running. These soap opera series are unfair to senior citizens who may not make it till next year.
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>Lon</strong> • <time>2007-01-26 19:35:30</time>
@@ -67,7 +63,6 @@ But we’ll just keep on watching, because after all, it’s not action, it’s 
     Lon was right, It&#x27;s the female mayor.  I least I didn&#x27;t see THAT coming!
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>Mike Roberto&amp;#8217;s Blog &amp;raquo; On Strike With the Writer&amp;#8217;s Guild of America</strong> • <time>2007-11-27 23:13:47</time>
@@ -76,5 +71,4 @@ But we’ll just keep on watching, because after all, it’s not action, it’s 
     [...] Brent Fletcher and John Zinman of Friday Night Lights (all of my regular readers know what a sucker I am for this show), [...]
   </div>
 </div>
-
 </div>

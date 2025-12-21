@@ -1,7 +1,6 @@
 ---
 publishDate: 2009-12-31
 title: "My Top 15 Albums of 2009"
-excerpt: "While 2009 was an incredible year for me, its music will go wholly unremembered. To prove my point, there is not a single album on this list that will make it..."
 category: "Music Reviews"
 tags:
   - "2009"
@@ -16,8 +15,6 @@ author: "Mike Roberto"
 wpSlug: "top-15-albums-of-2009"
 wpYear: 2009
 comments_count: 3
-metadata:
-  canonical: "https://www.mikeroberto.com/2009/top-15-albums-of-2009"
 ---
 
 While 2009 was an incredible year for me, its music will go wholly unremembered.  To prove my point, there is not a single album on this list that will make it to my top 10 albums of the decade (coming soon).
@@ -32,9 +29,9 @@ While 2009 was an incredible year for me, its music will go wholly unremembered.
 
 On to the list...
 
-The Devin Townsend Project - Addicted
+- [**The Devin Townsend Project - Addicted
 
-![#1 - Devin Townsend Project - Addicted](http://i718.photobucket.com/albums/ww185/worldisbar/new/dtp_addicted.jpg)Devin combines a mixture of metal, pop, techno, and Anneke Van Giersbergen's beautiful voice to make an album that is truly addicting.  It's short (especially if you discredit the two minutes of fade at the end), it's not the most musically articulate, and it's probably not going to last forever with me -- but I can't stop listening to or loving this album -- and that's why it's my #1.
+![#1 - Devin Townsend Project - Addicted](http://i718.photobucket.com/albums/ww185/worldisbar/new/dtp_addicted.jpg)](http://www.amazon.com/gp/product/B002RWX4NO?ie=UTF8&tag=pric07-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B002RWX4NO)**Devin combines a mixture of metal, pop, techno, and Anneke Van Giersbergen's beautiful voice to make an album that is truly addicting.  It's short (especially if you discredit the two minutes of fade at the end), it's not the most musically articulate, and it's probably not going to last forever with me -- but I can't stop listening to or loving this album -- and that's why it's my #1.
 
 - **[Porcupine Tree - The Incident**
 ![#2 - Porcupine Tree - The Incident](http://ecx.images-amazon.com/images/I/41C4QXgczML._SS400_.jpg)](http://www.amazon.com/gp/product/B002GZQY6Q?ie=UTF8&tag=pric07-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B002GZQY6Q)Musically, this is the top album.  Steven Wilson, who I've raved about for years, has done it again.  There are beautiful melodies, incredible solos, and even flashbacks to prior albums.  The rhythm is rarely broken up, and the album strengthens to the end.  Also note that it's a two-CD set, but I am primarily focusing on the first album.
@@ -56,6 +53,7 @@ The album is catchy, fun, old school (even sometimes lame), and a total winner. 
 I almost didn't even give this album a shot.  Their past few albums (since [Six Degrees of Inner Turbulence](http://www.amazon.com/gp/product/B00005UEAR?ie=UTF8&tag=pric07-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B00005UEAR)) have been THAT bad.  I'm glad I listened, because this is a great prog album that got a ton of airtime for me.  Three amazing songs within, I'll let you figure out which ones they are.
 
 - **[(hed) P.E. - New World Orphans**
+![#8 - (hed) PE - New World Orphans](http://www.100xr.com/100_XR/Artists/H/Hed_Pe/Hed.p.e..jpg)](http://www.amazon.com/gp/product/B001EQPDCE?ie=UTF8&tag=pric07-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B001EQPDCE)WHOA.  What in the hell is this?  I'll tell you what it is - some unbelievably intense hip-hop slammed funk metal that breaks every barrier you have ever known in music.  When Amazon says EXPLICIT LYRICS, they mean it.  These guys hate women, the government, corporate America, organized religion, and sing about enough conspiracies to make your head spin.  Furthermore, they're from nearby Huntington Beach - But I don't know if I'd ever go to a local show.  I'd probably fear for my life.
 Just listen to the hit Renegade and you'll be absolutely hooked.  These guys can rap, groove, and most of all, piss you off to no end.
 This album should be higher on the list for the simple fact that it introduced me to the band, which has tons of music I was able to go through.  But at the end of the day, it's low because there's too much ridiculous bullshit between the fantastic tracks on the album (Nibiru Intro? Planet X? The idiocy in Flesh and Blood at 3:10?  come on...)
 Note that this is the part of the list where it starts becoming difficult to listen to albums all the way through - not a good sign for the year.  Every album, starting here, starts to get a bit tired about halfway through, and that's NOT a mark of excellence for me.
@@ -111,7 +109,7 @@ Coming soon - My Top 10 Albums of the Decade.  Rock out in 2010.  Consider this 
 
 ---
 
-## Archived Comments (3)
+## Archived Comments
 
 <div class="archived-comments">
 <div class="comment">
@@ -122,7 +120,6 @@ Coming soon - My Top 10 Albums of the Decade.  Rock out in 2010.  Consider this 
     Hey, nice site and good article... Thank you!&amp;nbsp; If you dig Superpump, you will love&amp;nbsp;White Flood from Controlled Labs!&amp;nbsp; It has no calories, carbs, or fat and the lemonade flavor tastes riduculous.&amp;nbsp; They have more info at &lt;a href=&quot;http://www.whiteflood.info&quot; rel=&quot;nofollow&quot;&gt;http://www.whiteflood.info&lt;/A&gt; Anyway... I&#x27;m subscribed to your RSS feed now so I&#x27;ll be checking in regularly!
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>Devin Koopmans</strong> • <time>2010-05-06 10:47:52</time>
@@ -131,7 +128,6 @@ Coming soon - My Top 10 Albums of the Decade.  Rock out in 2010.  Consider this 
     Porcupine Tree and Devin Townsend are two of my favorites.  Nice taste in music,and great reviews!
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>AnonymousityRules</strong> • <time>2011-07-06 12:29:58</time>
@@ -140,5 +136,4 @@ Coming soon - My Top 10 Albums of the Decade.  Rock out in 2010.  Consider this 
     Devin and Steven are both brilliant in their own ways and quiet independent aswell, very allround, both producing for others aswell. I would say these two and Mike Patton are the three allarounds and big talents of rock/metal in the past ten/fifteen years! I love both Deve and Steven more than most of Pattons work, he tends to annoy me a bit, doesn´t have the emotional aspects of Deve and Steve, so he´s kinda more the Frank Zappa kind of guy i guess, thing just is, that Patton don´t really play an instrument. just a freaky vocalist and musicmaker, more fun really, Devin especially, is addictive and both Porcu and Deve can be healing experiences while being interesting at the same time, Patton is just interresting. and prop the most allround guy thou.
   </div>
 </div>
-
 </div>

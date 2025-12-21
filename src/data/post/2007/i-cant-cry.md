@@ -6,18 +6,25 @@ category: "HUMILIATIONS"
 author: "Mike Roberto"
 wpSlug: "i-cant-cry"
 wpYear: 2007
-comments_count: 0
-metadata:
-  canonical: "https://www.mikeroberto.com/2007/i-cant-cry"
 ---
 
-December 2025 Update
-
-Looking back at it two decades later, it's clear what my vision issues were really from: **Vitamin A toxicity**.
-
-I ended up back in contacts in 2013, and things deteriorated until I figured it out. It's now improving, but I'll never get back to baseline because of this procedure.
-
-Ultimately, **LASIK surgery is one of the top 5 regrets of my life.** I wish I hadn't done it. Someday I'll need to write the full story, but it simply wasn't worth it because it permanently changed my body and didn't address the root cause of my issues.
+<div 
+  style="
+    max-width: 750px;
+    margin: 25px auto;
+    padding: 20px 25px;
+    border: 2px solid #c7d4e2;
+    border-radius: 8px;
+    background-color: #f3f7fc;
+    color: #111;
+    text-align: left;
+    font-size: 1.05rem;
+    line-height: 1.55;
+  "
+>
+  <strong style="font-size:1.2rem;">December 2025 Update</strong><br><br>
+Looking back at it two decades later, it's clear what my vision issues were really from: <strong>Vitamin A toxicity</strong>.<br><br>I ended up back in contacts in 2013, and things deteriorated until I figured it out. It's now improving, but I'll never get back to baseline because of this procedure.<br><br>Ultimately, <strong>LASIK surgery is one of the top 5 regrets of my life.</strong> I wish I hadn't done it. Someday I'll need to write the full story, but it simply wasn't worth it because it permanently changed my body and didn't address the root cause of my issues.
+</div>
 
 It's been a bit over a month since my [LASIK surgery](https://www.mikeroberto.com/2006/12/18/i-had-lasik-surgery/), so I thought I'd share an update.
 

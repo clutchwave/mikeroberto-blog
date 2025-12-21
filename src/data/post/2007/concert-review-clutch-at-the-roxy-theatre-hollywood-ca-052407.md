@@ -1,18 +1,18 @@
 ---
 publishDate: 2007-06-06
 title: "Concert Review - Clutch at the Roxy Theatre, Hollywood CA - 05/24/07"
-excerpt: "Some bands never cease to amaze me, and Clutch is one of them. I will be honest and say that during their May 24th concert at the Roxy Theatre in Hollywood,..."
 category: "Music Reviews"
 author: "Mike Roberto"
 wpSlug: "concert-review-clutch-at-the-roxy-theatre-hollywood-ca-052407"
 wpYear: 2007
 comments_count: 1
-metadata:
-  canonical: "https://www.mikeroberto.com/2007/concert-review-clutch-at-the-roxy-theatre-hollywood-ca-052407"
 ---
 
+[![](http://www.bertopics.com/d/16604-3/Clutch01-Los_Angeles-20070525.jpg)](http://www.bertopics.com/v/LA_Pics/Clutch-20070525/Clutch01-Los_Angeles-20070525.jpg.html)Some bands never cease to amaze me, and [Clutch](http://www.pro-rock.com) is one of them.  I will be honest and say that during their May 24th concert at the Roxy Theatre in Hollywood, CA, I was actually disappointed with the performance.  Something wasn't right.  Neil Fallon did not seem to have the energy that he had when he came to Austin last year and tore Emo's down.  It is only after the concert when I learned new respect for the band.   I was told that lead singer [Neil Fallon had strep throat earlier on tour](http://www.pro-rock.com/bb/viewtopic.php?t=6182&highlight=strep), and [had to cancel a few shows before this one](http://sayow.blogspot.com/2007/05/clutch-at-first-avenue-may-17.html).
 
+[![](http://www.bertopics.com/d/16660-3/Clutch12-Los_Angeles-20070525.jpg)](http://www.bertopics.com/v/LA_Pics/Clutch-20070525/Clutch12-Los_Angeles-20070525.jpg.html)Now here's what gets me:  Even with a sick Fallon, Clutch still blows nearly every other band in the world off the stage.  It is apparent that they have been playing together forever, and when one man goes down, the rest pick up the slack.  I should never need to be reminded again how great of a drummer [Jean-Paul Gaster](http://www.bertopics.com/v/LA_Pics/Clutch-20070525/Clutch11-Los_Angeles-20070525.jpg.html) is.  It was also a pleasure to see [Eric Oblander](http://www.bertopics.com/v/LA_Pics/Clutch-20070525/Clutch17-Los_Angeles-20070525.jpg.html) of Five Horse Johnson on stage with the harmonica as well.  While Fallon sounded great, he still needed longer breaks, and these guys plugged the holes effortlessly.  I'm proud to be a fan of Clutch - we waited for them to come, and they showed up when other bands would have canceled the entire rest of the tour.  Not Clutch.
 
+[![](http://www.bertopics.com/d/16670-5/Clutch14-Los_Angeles-20070525.jpg)](http://www.bertopics.com/v/LA_Pics/Clutch-20070525/Clutch14-Los_Angeles-20070525.jpg.html)Due to the illness/recovery, the setlist was abbreviated.  In true Clutch style, I will simply copy it off of the [actual setlist](http://www.bertopics.com/v/LA_Pics/Clutch-20070525/Clutch18-Los_Angeles-20070525.jpg.html):
 - Promoter
 - Never be Moved
 - Progress
@@ -30,6 +30,7 @@ metadata:
 - Cypress
 - E.Worry
 
+[![](http://www.bertopics.com/d/16685-3/Clutch17-Los_Angeles-20070525.jpg)](http://www.bertopics.com/v/LA_Pics/Clutch-20070525/Clutch17-Los_Angeles-20070525.jpg.html)The Roxy Theatre was a nice venue, I enjoyed the low stage and vibes of the room, and the sound quality was above average.  As far as the crowd goes, everyone I spoke with was from the Midwest or East Coast.  Clutch isn't your typical Los Angeles style of music, and I sometimes wonder if this band should even go anywhere west of Central Standard Time.  These people out here just don't get the working-class mentality of a band like Clutch, which could explain why the show didn't sell out.
 
 And since you all enjoy rants on opening bands, let me tell you that you will get none complaining about [Year Long Disaster](http://www.yearlongdisaster.com/).  These guys were quite a talented, technical three-piece, and I'd love to see them open again.
 
@@ -39,7 +40,7 @@ So if you were at this show and wanted to hear more old stuff - come back next t
 
 ---
 
-## Archived Comments (1)
+## Archived Comments
 
 <div class="archived-comments">
 <div class="comment">
@@ -50,5 +51,4 @@ So if you were at this show and wanted to hear more old stuff - come back next t
     [...] See my concert review here [...]
   </div>
 </div>
-
 </div>

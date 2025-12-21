@@ -1,7 +1,6 @@
 ---
 publishDate: 2010-09-04
 title: "Week One in the Books"
-excerpt: "...well, kinda. I just concluded my first three days of reporting to nobody and no one. Honestly, I didn't think it'd feel that much different, as I already..."
 category: "Entrepreneurship"
 tags:
   - "daily routine"
@@ -11,8 +10,6 @@ author: "Mike Roberto"
 wpSlug: "week-one-in-the-books"
 wpYear: 2010
 comments_count: 2
-metadata:
-  canonical: "https://www.mikeroberto.com/2010/week-one-in-the-books"
 ---
 
 ...well, kinda.  I just concluded my first three days of reporting to nobody and no one.  Honestly, I didn't think it'd feel that much different, as I already worked from home.  **But it did.**  In fact, ** it felt GREAT**.
@@ -73,7 +70,7 @@ And now it's beach time.  Volleyball and cooking out.  And while you're technica
 
 ---
 
-## Archived Comments (2)
+## Archived Comments
 
 <div class="archived-comments">
 <div class="comment">
@@ -84,7 +81,6 @@ And now it's beach time.  Volleyball and cooking out.  And while you're technica
     I love you (no homo). I&#x27;ve been out of the loop, what happened with crash test? And good job on becoming one of the New Rich.
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>Michael Roberto</strong> • <time>2010-10-22 06:46:30</time>
@@ -99,5 +95,4 @@ Good luck to you
 mike roberto
   </div>
 </div>
-
 </div>

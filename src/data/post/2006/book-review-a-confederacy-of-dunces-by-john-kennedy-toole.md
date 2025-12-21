@@ -1,19 +1,16 @@
 ---
 publishDate: 2006-10-28
 title: "Book Review - A Confederacy of Dunces, by John Kennedy Toole"
-excerpt: "Every now and then, a book comes by, rocks your world, and completely shakes your foundations by changing the way you think. A Confederacy of Dunces is not one..."
 category: "Book Reviews"
 author: "Mike Roberto"
 wpSlug: "book-review-a-confederacy-of-dunces-by-john-kennedy-toole"
 wpYear: 2006
 comments_count: 2
-metadata:
-  canonical: "https://www.mikeroberto.com/2006/book-review-a-confederacy-of-dunces-by-john-kennedy-toole"
 ---
 
 Every now and then, a book comes by, rocks your world, and completely shakes your foundations by changing the way you think.
 
-A Confederacy of Dunces ![](http://ec3.images-amazon.com/images/G/01/ciu/b2/b6/07ded250fca04bf347de8010.L.jpg)is not one of those books – but it’s close.
+<a href="http://www.amazon.com/Confederacy-Dunces-Evergreen-Book/dp/0802130208/sr=8-1/qid=1162017088/ref=pd_bbs_1/104-0217725-8528750?ie=UTF8&s=books" target="_blank">A Confederacy of Dunces</A> ![](http://ec3.images-amazon.com/images/G/01/ciu/b2/b6/07ded250fca04bf347de8010.L.jpg)is not one of those books – but it’s close.
 
 John Kennedy Toole simply fascinated me with this book.  The dialogue, vocabulary, humor, and character development are simply unequaled.  You have to read it to believe it.
 
@@ -41,7 +38,7 @@ But if you’re looking for a good read that is completely out of left field, an
 
 ---
 
-## Archived Comments (2)
+## Archived Comments
 
 <div class="archived-comments">
 <div class="comment">
@@ -52,7 +49,6 @@ But if you’re looking for a good read that is completely out of left field, an
     [...] Remember my blog entry ranting about A Confederacy of Dunces? Well, 90% of that book was read while listening to this album. Weird books deserve weird music. Hammers of Misfortune is just bizarre, and I love everything they do. [...]
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>Nipper Seaturtle</strong> • <time>2015-12-09 11:34:46</time>
@@ -61,5 +57,4 @@ But if you’re looking for a good read that is completely out of left field, an
     I am not sure what you mean by &quot;this book about isn&#x27;t about anything&quot;. Of course it is. It&#x27;s about ridiculous people. It&#x27;s also about its unique and colorful city, New Orleans, the way, say, play it as it Lays is about Southern California, or Slaves of New York is about NY ...And so on.
   </div>
 </div>
-
 </div>

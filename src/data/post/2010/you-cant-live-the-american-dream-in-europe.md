@@ -1,7 +1,6 @@
 ---
 publishDate: 2010-10-22
 title: "You Can't Live the American Dream in Europe"
-excerpt: "Greetings from Guangzhou, China! A few weeks ago, I traveled to Europe with friends. We did a weekend in Amsterdam, spent Sunday night in Belgium, hung in..."
 category: "Entrepreneurship"
 tags:
   - "entrepreneur europe"
@@ -9,8 +8,6 @@ author: "Mike Roberto"
 wpSlug: "you-cant-live-the-american-dream-in-europe"
 wpYear: 2010
 comments_count: 1
-metadata:
-  canonical: "https://www.mikeroberto.com/2010/you-cant-live-the-american-dream-in-europe"
 ---
 
 Greetings from Guangzhou, China!  A few weeks ago, I traveled to Europe with friends.  We did a weekend in Amsterdam, spent Sunday night in Belgium, hung in Interlaken, Switzerland during the week, and then finally the boys and girls split and we guys headed to Munich, Germany for Oktoberfest (the girls opted for somewhat-less-exciting Paris).  It was an utterly epic trip.
@@ -33,7 +30,7 @@ But in the meantime, I will continue to lead my tribe of 1, rise above the masse
 
 ---
 
-## Archived Comments (1)
+## Archived Comments
 
 <div class="archived-comments">
 <div class="comment">
@@ -44,5 +41,4 @@ But in the meantime, I will continue to lead my tribe of 1, rise above the masse
     It was the mustache.
   </div>
 </div>
-
 </div>

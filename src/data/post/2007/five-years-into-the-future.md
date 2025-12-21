@@ -1,14 +1,11 @@
 ---
 publishDate: 2007-02-25
 title: "Five Years Into the Future"
-excerpt: "These past few years have been pretty wild for me. I had the best of my college years, graduated, traveled Europe, moved 1400 miles southwest, and then moved..."
 category: "Life, The Universe, and Everything"
 author: "Mike Roberto"
 wpSlug: "five-years-into-the-future"
 wpYear: 2007
 comments_count: 2
-metadata:
-  canonical: "https://www.mikeroberto.com/2007/five-years-into-the-future"
 ---
 
 These past few years have been pretty wild for me.  I had the best of my college years, graduated, traveled Europe, moved 1400 miles southwest, and then moved another 1400 miles west.
@@ -61,7 +58,7 @@ With new worlds to explore, I drive to my supposed home, and return to my suppos
 
 ---
 
-## Archived Comments (2)
+## Archived Comments
 
 <div class="archived-comments">
 <div class="comment">
@@ -72,7 +69,6 @@ With new worlds to explore, I drive to my supposed home, and return to my suppos
     Awesome post dude!
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>Minh</strong> • <time>2007-02-26 14:52:14</time>
@@ -83,5 +79,4 @@ With new worlds to explore, I drive to my supposed home, and return to my suppos
 Kidding!
   </div>
 </div>
-
 </div>

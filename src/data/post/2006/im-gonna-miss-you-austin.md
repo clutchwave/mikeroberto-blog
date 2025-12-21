@@ -7,8 +7,6 @@ author: "Mike Roberto"
 wpSlug: "im-gonna-miss-you-austin"
 wpYear: 2006
 comments_count: 5
-metadata:
-  canonical: "https://www.mikeroberto.com/2006/im-gonna-miss-you-austin"
 ---
 
 Greetings from Redondo Beach!  My friends and I have been talking about it for the greater part of 2006, and it's finally here.
@@ -19,7 +17,7 @@ Rather than babble about this "next phase of my life" or whatever, I'd rather re
 
 We really recruit some awesome people at work.  I could write a book about all the cool people I've met in Austin, but I'd like to focus on the big four:
 
-*Bassett* – The Bass-Ass.  Steve and I started work on the same day.  Bassett is the most chill dude I've been friends with, which is a great thing because he helps neutralize my flip outs.  You can't go insane with Bassett around!
+- *Bassett* – The Bass-Ass.  Steve and I started work on the same day.  Bassett is the most chill dude I've been friends with, which is a great thing because he helps neutralize my flip outs.  You can't go insane with Bassett around!
 
 [![](https://www.mikeroberto.com/Gonna_Miss_Austin/Bassett_Berto-thumb.jpg)](https://www.mikeroberto.com/Gonna_Miss_Austin/Bassett_Berto.jpg)When he wasn't going back to Kansas literally once a month to be in a wedding, we had some wild nights downtown.  Who can forget ACL 05, my 24th birthday with the girls, Corpus Christi, or the camping trip where we all nearly froze and I spooned you.  Hahaha... and of course the countless boat outings and that one night where all hell broke loose with Johnny, Snarr, and Jordo.
 
@@ -27,7 +25,7 @@ Bassett has an affinity for getting his truck run into (what are we at, 4 times 
 
 Steve is a great friend and a positive influence and there shall be many more humiliations to come in LA and at sales conferences!
 
-*Lon* – Ahh, where do I start with the LAM – Little Angry Man.  A fellow Buckeye and Browns fan, there's never a shortage of shit to shoot with this guy.  During the first Ohio State game he was complaining his job, which would turn out to be a common theme.
+- *Lon* – Ahh, where do I start with the LAM – Little Angry Man.  A fellow Buckeye and Browns fan, there's never a shortage of shit to shoot with this guy.  During the first Ohio State game he was complaining his job, which would turn out to be a common theme.
 
 ![](https://www.mikeroberto.com/Gonna_Miss_Austin/Lon-Rafters-thumb.jpg)He told me "Berto, I'm from Erie Pennsylvania – I was born to hate my job", and the friendship was born!
 
@@ -37,7 +35,7 @@ I wish Lon and I had been young in college together...  I have a feeling quite a
 
 I'll miss Lon bitching about his job, but I have a feeling that I'm yet to hear the end of it all.
 
-*Jordan* – Jordo!  Jordan is everything you expect when coming to Texas... tall blonde guy with loads of energy, a slight accent, a huge truck, and lots of boots and toys.
+- *Jordan* – Jordo!  Jordan is everything you expect when coming to Texas... tall blonde guy with loads of energy, a slight accent, a huge truck, and lots of boots and toys.
 
 [![](https://www.mikeroberto.com/Gonna_Miss_Austin/Jordo-thumb.jpg)](http://www.bertopics.com/111905-Camping_with_NI/GDE_Pics_14?full=1)Jordan's boat parties will go down in history as some of the craziest times in my life, I don't even know where to start with them.  Every time I hear the song "Float On" I think of Memorial Day 05 and all the mayhem that ensued that weekend with Andyman and Johnny.
 
@@ -47,7 +45,7 @@ Jordo's currently in Italy doing some management, and while he's been out there,
 
 And don't believe him when he tells you he weighs less than 200 pounds.  Trust me, I've had to carry him off of 6th street.
 
-[![](https://www.mikeroberto.com/Gonna_Miss_Austin/Paul-Timmay-thumb.jpg)](http://www.bertopics.com/111905-Camping_with_NI/GDE_Pics_18?full=1)*Paul* – He won't admit it, but this guy's the smartest bastard that I've yet to meet.  Paul was always a help at work, down for BBQ at any time of the week, and without a doubt the best mover too!  I'm deeply indebted to him!
+- [![](https://www.mikeroberto.com/Gonna_Miss_Austin/Paul-Timmay-thumb.jpg)](http://www.bertopics.com/111905-Camping_with_NI/GDE_Pics_18?full=1)*Paul* – He won't admit it, but this guy's the smartest bastard that I've yet to meet.  Paul was always a help at work, down for BBQ at any time of the week, and without a doubt the best mover too!  I'm deeply indebted to him!
 
 Paul mixes awesome techno CDs, be sure to check em out if you weren't aware.  He's also always spinning up at the SlaughterHouse parties.
 
@@ -128,21 +126,24 @@ Killer place to grab a beer and see a flick.  DO NOT miss out on the Sinus Show!
 Well folks, keep in touch, and stay weird!
 -berto
 
+<div id="a-few-more-things"></div>
+
 **A Few More Things...**
 Earlier, I wrote about what I'll miss about Austin.  I forgot two so VERY important things that I have to add a new entry:
 
 - Skirts with cowboy boots.  It's awesome, I hope this catches on everywhere.  Enough said.
-**Y'ALL**.  I must say, I have fallen in love with the use of y'all.  It's so much more fun and easy to say than "you guys" .  :"You guys" is awkward and lame, but Y'all has so many good uses:
+- **Y'ALL**.  I must say, I have fallen in love with the use of y'all.  It's so much more fun and easy to say than "you guys" .  :"You guys" is awkward and lame, but Y'all has so many good uses:
 
 "How're y'all doin?"
 
 "It was nice coming to y'alls house"
 
-And so on.  So I plan on bringing y'all with me from Texas, even if people thing I'm a moron when I say it in the city.- The *hard-working* attitudes of Texans (and Ohioans, for that matter).  More on this later.
+And so on.  So I plan on bringing y'all with me from Texas, even if people thing I'm a moron when I say it in the city.
+- The *hard-working* attitudes of Texans (and Ohioans, for that matter).  More on this later.
 
 ---
 
-## Archived Comments (5)
+## Archived Comments
 
 <div class="archived-comments">
 <div class="comment">
@@ -157,7 +158,6 @@ Peace,
 Minh
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>Yo Mamma</strong> • <time>2006-12-31 14:47:32</time>
@@ -166,7 +166,6 @@ Minh
     As usual, Lil&#x27; Berto, you brought a tear to my eye (in fact, many are streaming down my face).  This past 18 months has brought you so many good times and memories.  This is true happiness.  I admit that I am a bit jealous of your awesome lifestyle - HOWEVER, as you grew into the unique young man that you are and I kissed you off to college, I knew that you would settle for nothing less than fun, adventure and independence in your life.  This is every mom&#x27;s wish - and mine has come true..  Have a great time in LA... Be Safe and Be Happy.
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>The LAM</strong> • <time>2007-01-15 14:20:17</time>
@@ -175,7 +174,6 @@ Minh
     Great stuff!  I haven&#x27;t read it in a while.  I miss ya already!  I am sorry I have nothing to bitch about regarding my job today.  As it turns out, it WAS just the company!  God NI sucks!  And you suckers voted it in the top 100 again!  Not to brag, but my bonus after 4 months at Novatel was twice as hign as my past 2 years at NI combined!  And still after 4 months, nobody has told me how great it is.
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>Mike Roberto&amp;#8217;s Blog &amp;raquo; A Few More Things&amp;#8230;</strong> • <time>2007-01-26 00:08:24</time>
@@ -184,7 +182,6 @@ Minh
     [...] Earlier, I wrote a blog entry about what I&amp;#8217;ll miss about Austin. I forgot two so VERY important things that I have to add a new entry: [...]
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>Jordo</strong> • <time>2007-01-28 19:51:56</time>
@@ -201,5 +198,4 @@ Thanks again for including me in your experience in Austin and we still need to 
 Jordo - OUT
   </div>
 </div>
-
 </div>

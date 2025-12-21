@@ -1,7 +1,6 @@
 ---
 publishDate: 2016-05-06
 title: "Study Shows \"The Biggest Loser\" *IS* the Big Loser"
-excerpt: "Weight loss is big business in America -- over a $60 billion annually.[2] This is no surprise when you consider that one in three Americans over the age of 20..."
 category: "Diet Research"
 tags:
   - "Leptin"
@@ -9,15 +8,12 @@ tags:
 author: "Mike Roberto"
 wpSlug: "biggest-loser-study"
 wpYear: 2016
-comments_count: 0
-metadata:
-  canonical: "https://www.mikeroberto.com/2016/biggest-loser-study"
 ---
 
 Weight loss is big business in America -- over a $60 billion annually.[2] This is no surprise when you consider that one in three Americans over the age of 20 is considered obese, and over 70% of the population is classified as overweight.[3]
 
 <figure class="alignright">
-  <a href="/images/the-biggest-loser.jpg"><img src="https://www.mikeroberto.com/wp-content/uploads/the-biggest-loser-300x307.jpg" alt="The Biggest Loser" width="300" height="307" class="size-medium wp-image-532" /></a>
+  <a href="/images/the-biggest-loser.jpg"><img src="/images/the-biggest-loser.jpg" alt="The Biggest Loser" width="300" height="307" class="size-medium wp-image-532" /></a>
   <figcaption>The Biggest Loser woos people with magical weight loss transformations, but a new study shows the methods employed by the shows leave the contestants worse off than where they started. Image courtesy Wikimedia</figcaption>
 </figure>
 
@@ -42,7 +38,7 @@ To do this, they used dual energy X-ray absorptiometry and measured RMR by indir
 In the six years since the original members completed the competition, **contestants regained 90lbs** (41kg) on average, and their resting metabolisms have *further* decreased to an average of 704 calories below their original baseline values at the start of the competition!
 
 <figure class="aligncenter">
-  <a href="/images/biggest-loser-study-table-1.png"><img src="https://www.mikeroberto.com/wp-content/uploads/biggest-loser-study-table-1-625x323.png" alt="Biggest Loser Study Table 1" width="625" height="323" class="size-large wp-image-534" /></a>
+  <a href="/images/biggest-loser-study-table-1.png"><img src="/images/biggest-loser-study-table-1.png" alt="Biggest Loser Study Table 1" width="625" height="323" class="size-large wp-image-534" /></a>
   <figcaption>Researchers found that 6 years following the competition, contestants regained a majority of their weight, and their resting metabolic rates were WORSE than when they were on the show...</figcaption>
 </figure>
 
@@ -59,7 +55,7 @@ Ultimately, the researchers concluded that, *“those subjects maintaining great
 Sure, our metabolisms will slow after six years of aging, but not *that* much! Effectively, this TV show **put contestants' bodies into *"starvation mode"* and literally screwed them up - possibly *permanently!***
 
 <figure class="aligncenter">
-  <a href="/images/biggest-loser-study-figure-2.png"><img src="https://www.mikeroberto.com/wp-content/uploads/biggest-loser-study-figure-2-625x327.png" alt="Biggest Loser Study Figure 2" width="625" height="327" class="size-large wp-image-535" /></a>
+  <a href="/images/biggest-loser-study-figure-2.png"><img src="/images/biggest-loser-study-figure-2.png" alt="Biggest Loser Study Figure 2" width="625" height="327" class="size-large wp-image-535" /></a>
   <figcaption>This graph illustrates what we've been saying. 6 years after appearing on the show, individuals were all in worse health and gained back more fat than when they finished the show.[1]</figcaption>
 </figure>
 
@@ -74,7 +70,7 @@ This study shows that improperly employing crash diets and extreme exercise prot
 ### *DISCIPLINE*, not Motivation
 
 <figure class="alignright">
-  <a href="/images/discipline-vs-motivation.jpg"><img src="https://www.mikeroberto.com/wp-content/uploads/discipline-vs-motivation-300x281.jpg" alt="Discipline vs. Motivation" width="300" height="281" class="size-medium wp-image-536" /></a>
+  <a href="/images/discipline-vs-motivation.jpg"><img src="/images/discipline-vs-motivation.jpg" alt="Discipline vs. Motivation" width="300" height="281" class="size-medium wp-image-536" /></a>
   <figcaption>Forget motivation.  It won't last anyway. Get disciplined and make this a part of your everyday life. Image courtesy BloggingWithJazz</figcaption>
 </figure>
 
@@ -90,10 +86,9 @@ If this study teaches us anything, it’s that we need to stop looking for the q
 
 ## References
 
-	- Fothergill, E., Guo, J., Howard, L., Kerns, J. C., Knuth, N. D., Brychta, R., Chen, K. Y., Skarulis, M. C., Walter, M., Walter, P. J. and Hall, K. D. (2016), [Persistent metabolic adaptation 6 years after “The Biggest Loser” competition](http://onlinelibrary.wiley.com/doi/10.1002/oby.21538/full). Obesity. doi: 10.1002/oby.21538
-
-	- [http://www.prnewswire.com/news-releases/the-us-weight-loss-market-2014-status-report--forecast-246304741.html](http://www.prnewswire.com/news-releases/the-us-weight-loss-market-2014-status-report--forecast-246304741.html)
-
-	- [http://www.niddk.nih.gov/health-information/health-statistics/Pages/overweight-obesity-statistics.aspx](http://www.niddk.nih.gov/health-information/health-statistics/Pages/overweight-obesity-statistics.aspx)
-
-	- Johanssen DL, Knuth ND, Huizenga R, Rood J, Ravussin E, Hall KD. [Metabolic slowing with massive weight loss despite preservation of fat-free mass.](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3387402/) J Clin Endocrinol Metab 2012;97:2489–2496.
+<ol class="references">
+	<li>Fothergill, E., Guo, J., Howard, L., Kerns, J. C., Knuth, N. D., Brychta, R., Chen, K. Y., Skarulis, M. C., Walter, M., Walter, P. J. and Hall, K. D. (2016), <a href="http://onlinelibrary.wiley.com/doi/10.1002/oby.21538/full" target="_blank" rel="noopener noreferrer">Persistent metabolic adaptation 6 years after “The Biggest Loser” competition</a>. Obesity. doi: 10.1002/oby.21538</li>
+	<li><a href="http://www.prnewswire.com/news-releases/the-us-weight-loss-market-2014-status-report--forecast-246304741.html" target="_blank" rel="noopener noreferrer">http://www.prnewswire.com/news-releases/the-us-weight-loss-market-2014-status-report--forecast-246304741.html</a></li>
+	<li><a href="http://www.niddk.nih.gov/health-information/health-statistics/Pages/overweight-obesity-statistics.aspx" target="_blank" rel="noopener noreferrer">http://www.niddk.nih.gov/health-information/health-statistics/Pages/overweight-obesity-statistics.aspx</a></li>
+	<li>Johanssen DL, Knuth ND, Huizenga R, Rood J, Ravussin E, Hall KD. <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3387402/" target="_blank" rel="noopener noreferrer">Metabolic slowing with massive weight loss despite preservation of fat-free mass.</a> J Clin Endocrinol Metab 2012;97:2489–2496.</li>
+</ol>

@@ -7,8 +7,6 @@ author: "Mike Roberto"
 wpSlug: "regarding-this-weeks-shark-attack-in-san-diego"
 wpYear: 2008
 comments_count: 3
-metadata:
-  canonical: "https://www.mikeroberto.com/2008/regarding-this-weeks-shark-attack-in-san-diego"
 ---
 
 Before I begin, I'd like to send my condolences out to the family of Dr. David Martin, [who was killed by a great white shark](https://www.latimes.com/archives/la-xpm-2008-apr-26-me-shark26-story.html) in Solana Beach earlier this week.
@@ -27,7 +25,7 @@ See you in the water!
 
 ---
 
-## Archived Comments (3)
+## Archived Comments
 
 <div class="archived-comments">
 <div class="comment">
@@ -38,7 +36,6 @@ See you in the water!
     R.I.P.
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>Jordan</strong> • <time>2008-04-28 15:44:40</time>
@@ -47,7 +44,6 @@ See you in the water!
     Dr. David Martin was also killed doing something he loved--interacting w/animals.
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>Uncle A</strong> • <time>2008-04-28 02:43:07</time>
@@ -56,5 +52,4 @@ See you in the water!
     I feel the same as you when I float on my inner tube in Lake Erie.  Bring em on.
   </div>
 </div>
-
 </div>

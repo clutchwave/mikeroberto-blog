@@ -1,32 +1,30 @@
 ---
 publishDate: 2019-03-13
-title: 'High Protein Diets Do NOT Cause Kidney Issues: Meta-Analysis'
-excerpt: 'A new meta-analysis adds further weight to combat the myth that protein can damage the kidneys. Repeat: High Protein Diets do NOT cause renal damage!'
-category: Diet Research
+title: "High Protein Diets Do NOT Cause Kidney Issues: Meta-Analysis"
+excerpt: "A new meta-analysis adds further weight to combat the myth that protein can damage the kidneys. Repeat: High Protein Diets do NOT cause renal damage!"
+image: "https://www.mikeroberto.com/images/protein-kidneys.png"
+category: "Diet Research"
 tags:
-- Glomerular Filtration Rate
-- Jose Antonio
-- Kidneys
-- McMaster University
-- Protein
-- Protein Powder
-- Robert Morton
-- Stuart Phillips
-- Whey Protein
-author: Mike Roberto
-wpSlug: high-protein-kidney
+  - "Glomerular Filtration Rate"
+  - "Jose Antonio"
+  - "Kidneys"
+  - "McMaster University"
+  - "Protein"
+  - "Protein Powder"
+  - "Robert Morton"
+  - "Stuart Phillips"
+  - "Whey Protein"
+author: "Mike Roberto"
+wpSlug: "high-protein-kidney"
 wpYear: 2019
-comments_count: 0
-image: https://www.mikeroberto.com/wp-content/uploads/protein-kidneys.png
-metadata:
-  canonical: https://www.mikeroberto.com/2019/high-protein-kidney
 ---
+
 > "The great enemy of truth is very often not the lie - deliberate, contrived, and dishonest - but the myth - persistent, persuasive, and unrealistic. Too often we hold fast to the cliches of our forebears. We subject all facts to a prefabricated set of interpretations. We enjoy the comfort of opinion without the discomfort of thought."
 
 -- John F. Kennedy[1]
 
 <figure class="aligncenter">
-  <a href="/images/john-f-kennedy-enemy-of-truth-myth.jpg" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/john-f-kennedy-enemy-of-truth-myth-625x433.jpg" alt="John F. Kennedy Enemy of Truth: The Myth" width="625" height="433" class="size-large wp-image-37753" data-wp-pid="37753"></a>
+  <a href="/images/john-f-kennedy-enemy-of-truth-myth.jpg" target="_blank" rel="noopener noreferrer"><img src="/images/john-f-kennedy-enemy-of-truth-myth.jpg" alt="John F. Kennedy Enemy of Truth: The Myth" width="625" height="433" class="size-large wp-image-37753" data-wp-pid="37753"></a>
   <figcaption>The Enemy of Truth is not necessarily the lie, but the <em>myth</em>. Today, we fight to destroy one such myth.</figcaption>
 </figure>
 
@@ -47,7 +45,7 @@ https://www.youtube.com/watch?v=hYkA5uDaYVk
 A meta analysis is only as good as the studies it utilizes. In order to get appropriate studies, the researchers were only interested in studies that compared "high protein diets" to "lower protein diets". In this context,
 
 <figure class="alignright">
-  <a href="/images/protein-kidney-meta-analysis.jpg" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/protein-kidney-meta-analysis-300x259.jpg" alt="Protein Kidney Meta Analysis" width="300" height="259" class="size-medium wp-image-37756" data-wp-pid="37756"></a>
+  <a href="/images/protein-kidney-meta-analysis.jpg" target="_blank" rel="noopener noreferrer"><img src="/images/protein-kidney-meta-analysis.jpg" alt="Protein Kidney Meta Analysis" width="300" height="259" class="size-medium wp-image-37756" data-wp-pid="37756"></a>
   <figcaption>The selection criteria for this meta-analysis</figcaption>
 </figure>
 
@@ -79,7 +77,7 @@ All others were excluded, leaving 28 studies total.
 
 Glomerular filtration is the *first* step in the production of urine, and Glomuerular Filtration Rate (GFR) is the volume of fluid that gets filtered to the second step in a given amount of time. On average, humans filter 125mL per minute or 180L per day. The biological process is quite complex, and if you're interested, there are [fantastic videos on YouTube diagramming it](https://www.youtube.com/watch?v=8Mn0IUCTg3U) from start to finish.
 
-**Note:** This article was originally published on the [PricePlow Blog](https://blog.priceplow.com) and was co-sponsored by [NutraBio](https://blog.priceplow.com/supplement-news/nutrabio), but diet-related content has been moved to my personal site.
+<div class="sidebar right">**Note:** This article was originally published on the [PricePlow Blog](https://blog.priceplow.com) and was co-sponsored by [NutraBio](https://blog.priceplow.com/supplement-news/nutrabio), but diet-related content has been moved to my personal site.</div>
 
 The reason we care is because **GFR is simply a way to test how well the kidneys are working**.[3] There is a healthy GFR range, with rates too low being the most common diagnosis of kidney problems, but rates that are too high could also indicate issues.
 
@@ -96,7 +94,7 @@ So what exactly was the final verdict? Simple: **Dietary protein has no effect o
 The long and short of it is that those with high protein diets had higher GFRs at the end.
 
 <figure class="aligncenter">
-  <a href="/images/high-protein-diet-renal-function.png" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/high-protein-diet-renal-function-625x247.png" alt="High Protein Diet Renal Function" width="625" height="247" class="size-large wp-image-37760" data-wp-pid="37760"></a>
+  <a href="/images/high-protein-diet-renal-function.png" target="_blank" rel="noopener noreferrer"><img src="/images/high-protein-diet-renal-function.png" alt="High Protein Diet Renal Function" width="625" height="247" class="size-large wp-image-37760" data-wp-pid="37760"></a>
   <figcaption>The data shows a dose-response effect between increasing protein intake and post eGFR! The myth is not only wrong, it's <em>completely</em> wrong![2]</figcaption>
 </figure>
 
@@ -109,7 +107,7 @@ Each study is interesting on its own, but when all 28 are collected, the data is
 - **Jose Antonio** and team conducted two crossover studies on athletic men with the *highest* protein intakes analyze (3.3g/kg vs 2.5-2.6g/kg), and both showed GFRs increasing.[5,6] The subjects added whey protein and ate ad libitum (as much as they wanted).
 
  	- <figure class="alignright">
-  <a href="/images/high-protein-kidneys.png" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/high-protein-kidneys-300x167.png" alt="High Protein Kidneys" width="300" height="167" class="size-medium wp-image-37763" data-wp-pid="37763"></a>
+  <a href="/images/high-protein-kidneys.png" target="_blank" rel="noopener noreferrer"><img src="/images/high-protein-kidneys.png" alt="High Protein Kidneys" width="300" height="167" class="size-medium wp-image-37763" data-wp-pid="37763"></a>
   <figcaption>Forest plot of a random-effects meta-analysis on the change in renal function induced by HP compared with NLP intake in healthy people.[2]</figcaption>
 </figure>**Wycherly, et al** performed a diet comparison study in Australia looking at high-protein diets against high-carbohydrate diets.[7] Creatinine clearance *improved* in the high-protein diet but slightly *worsened* in the high-carb diet. The high-protein diet lost more weight, burned more fat, and kept more muscle.
 
@@ -126,7 +124,7 @@ We have mountains of data affirming this, statistically significant and well-con
 This study wasn't the first time arriving at such a conclusion, but it's definitely the *best*.
 
 <figure class="alignleft">
-  <a href="/images/stuart-phillips-protein-kidneys.jpg" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/stuart-phillips-protein-kidneys-300x223.jpg" alt="Stuart Phillips Protein Kidneys" width="300" height="223" class="size-medium wp-image-37771" data-wp-pid="37771"></a>
+  <a href="/images/stuart-phillips-protein-kidneys.jpg" target="_blank" rel="noopener noreferrer"><img src="/images/stuart-phillips-protein-kidneys.jpg" alt="Stuart Phillips Protein Kidneys" width="300" height="223" class="size-medium wp-image-37771" data-wp-pid="37771"></a>
   <figcaption>Robert Morton (left) and Stuart Phillips (right) have put together a <em>fantastic</em> meta-analysis to disprove the "protein-kidney-damage" myth!</figcaption>
 </figure>
 
@@ -173,7 +171,7 @@ In fact, those with chronic kidney disease can *benefit* from a higher protein d
 Dr. Phillips and team performed the best meta analysis to date on this topic, and there's been *such* an abundant amount of data to back it up that the debate has now been put to rest.
 
 <figure class="alignleft">
-  <a href="/images/protein-kidneys.png" target="_blank" rel="noopener noreferrer"><img src="https://www.mikeroberto.com/wp-content/uploads/protein-kidneys-300x300.png" alt="Protein Kidneys" width="300" height="300" class="size-medium wp-image-37774" data-wp-pid="37774"></a>
+  <a href="/images/protein-kidneys.png" target="_blank" rel="noopener noreferrer"><img src="/images/protein-kidneys.png" alt="Protein Kidneys" width="300" height="300" class="size-medium wp-image-37774" data-wp-pid="37774"></a>
   <figcaption>Fact or Fiction?! The myth is not only <strong>fiction</strong>, it's the <em>opposite</em> of what really happens!</figcaption>
 </figure>
 
@@ -185,40 +183,24 @@ For the near entirety of the population, we can safely say that the benefits of 
 
 ## References
 
- 	- John F Kennedy; "Commencement Address at Yale University"; New Haven, Connecticut; June 11, 1962; [https://jfkl.prod.acquia-sites.com/asset-viewer/archives/JFKWHA/1962/JFKWHA-104/JFKWHA-104](https://jfkl.prod.acquia-sites.com/asset-viewer/archives/JFKWHA/1962/JFKWHA-104/JFKWHA-104)
-
- 	- Devries MC, Sithamparapillai A, Brimble KS, Banfield L, Morton RW, Phillips SM; "Changes in Kidney Function Do Not Differ between Healthy Adults Consuming Higher- Compared with Lower- or Normal-Protein Diets: A Systematic Review and Meta-Analysis"; Journal of Nutrition; vol. 148,11 (2018): 1760-1775; [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6236074/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6236074/)
-
- 	- Levey, Andrew S et al; "Glomerular filtration rate and albuminuria for detection and staging of acute and chronic kidney disease in adults: a systematic review"; JAMA vol. 313,8 (2015): 837-46; [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4410363/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4410363/)
-
- 	- Fouque D, Laville M; "Low protein diets for chronic kidney disease in non diabetic adults"; The Cochrane Database of Systematic Reviews; Jul 8, 2009; [https://www.ncbi.nlm.nih.gov/pubmed/19588328](https://www.ncbi.nlm.nih.gov/pubmed/19588328)
-
- 	- Antonio, Jose et al. "The effects of a high protein diet on indices of health and body composition--a crossover trial in resistance-trained men" Journal of the International Society of Sports Nutrition vol. 13 3. 16 Jan. 2016; [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4715299/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4715299/)
-
- 	- Antonio, Jose, et al; "A High Protein Diet Has No Harmful Effects: A One-Year Crossover Study in Resistance-Trained Males"; Journal of Nutrition and Metabolism; Volume 2016, Article ID 9104792, 5 pages; [https://www.hindawi.com/journals/jnme/2016/9104792/](https://www.hindawi.com/journals/jnme/2016/9104792/)
-
- 	- Wycherley, T P et al; "Comparison of the effects of 52 weeks weight loss with either a high-protein or high-carbohydrate diet on body composition and cardiometabolic risk factors in overweight and obese males"; Nutrition & diabetes vol. 2,8 e40. 13 Aug. 2012, doi:10.1038/nutd.2012.11; [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3432181/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3432181/)
-
- 	- Roughead, Z, et al; "Controlled high meat diets do not affect calcium retention or indices of bone status in healthy postmenopausal women"; Journal of Nutrition; 133(4):1020-6; April 2003; [https://www.ncbi.nlm.nih.gov/pubmed/12672913](https://www.ncbi.nlm.nih.gov/pubmed/12672913)
-
- 	- Skov A, Toubro S, Ronn B, Holm L, Astrup A. Randomized trial on protein vs carbohydrate in ad libitum fat reduced diet for the treatment of obesity. Int J Obes Relat Metab Disord 1999;23(5):528–36; [https://www.ncbi.nlm.nih.gov/pubmed/10375057](https://www.ncbi.nlm.nih.gov/pubmed/10375057)
-
- 	- Schwingshackl L, Hoffmann G. Comparison of high vs. normal/low protein diets on renal function in subjects without chronic kidney disease: a systematic review and meta-analysis. PLoS ONE 2014;9(5):e97656; [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4031217/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4031217/)
-
- 	- Paddon-Jones, D, et al; "Protein, weight management, and satiety"; American Journal of Clinical Nutrition; 87(5):1558S-1561S; May 2008; [https://www.ncbi.nlm.nih.gov/pubmed/18469287](https://www.ncbi.nlm.nih.gov/pubmed/18469287)
-
- 	- Simpson S, Raubenheimer, D; "Obesity: the protein leverage hypothesis"; Obesity Reviews; 6(2):133-42; May 2005; [https://www.ncbi.nlm.nih.gov/pubmed/15836464](https://www.ncbi.nlm.nih.gov/pubmed/15836464) ([Archive](https://www.docdroid.net/c6G7d6l/protein-leverage-hypothesis-simpson-raubenheimer-2005.pdf))
-
- 	- Cermak N, Res P, de Groot L, Saris H, van Loon L. Protein supplementation augments the adaptive response of skeletal muscle to resistance-type exercise training: a meta-analysis. Am J Clin Nutr 2012;96:1454–64; [https://www.ncbi.nlm.nih.gov/pubmed/23134885](https://www.ncbi.nlm.nih.gov/pubmed/23134885)
-
- 	- Wycherley T, Moran L, Clifton P, Noakes M, Brinkworth G. Effects of energy-restricted high-protein, low-fat compared with standard-protein, low fat diets: a meta-analysis of randomized controlled trials. Am J Clin Nutr 2012;96(6):1281–98; [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3432181/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3432181/)
-
- 	- Josse A, Atkinson S, Tarnopolsky M, Phillips S. "Increased consumption of dairy foods and protein during diet- and exercise-induced weight loss promotes fat mass loss and lean mass gain in overweight and obese premenopausal women." J Nutr 2011;141(9):1626–34; [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3159052/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3159052/)
-
- 	- Bauer J, Biolo G, Cederholm T, Cesari M, Cruz-Jentoft A, Morley J, Phillips S, Sieber C, Stehle P, Teta D et al. Evidence-based recommendation for optimal dietary protein intake in older people: a position paper from the PROT-AGE Study Group. J Am Med Dir Assoc 2013;14(8):542–59; [https://www.ncbi.nlm.nih.gov/pubmed/23867520](https://www.ncbi.nlm.nih.gov/pubmed/23867520)
-
- 	- Deutz N, Bauer J, Barazzoni R, Biolo G, Boirie Y, Bosy-Westphal A, Cederholm T, Cruz-Jentoft A, Krznariç Z, Nair K et al. Protein intake and exercise for optimal muscle function with aging: recommendations from the ESPEN Expert Group. Clin Nutr 2014;33(6):929–36; [https://www.ncbi.nlm.nih.gov/pubmed/24814383](https://www.ncbi.nlm.nih.gov/pubmed/24814383)
-
- 	- Joint WHO/FAO/UN University Expert Consultation Protein and amino acid requirements in human nutrition. World Health Organ Tech Rep Ser 2007;935:1–265; [https://www.ncbi.nlm.nih.gov/pubmed/18330140](https://www.ncbi.nlm.nih.gov/pubmed/18330140)
-
- 	- National Kidney Foundation; "Kidney Disease: Improving Global Outcomes (KDIGO)"; CKD Work Group KDIGO 2012 clinical practice guideline for the evaluation and management of chronic kidney disease. Kidney Int Suppl 2013;3:1–150; [https://www.kdigo.org/clinical_practice_guidelines/pdf/CKD/KDIGO_2012_CKD_GL.pdf](https://www.kdigo.org/clinical_practice_guidelines/pdf/CKD/KDIGO_2012_CKD_GL.pdf)
+<ol class="references">
+ 	<li>John F Kennedy; "Commencement Address at Yale University"; New Haven, Connecticut; June 11, 1962; <a href="https://jfkl.prod.acquia-sites.com/asset-viewer/archives/JFKWHA/1962/JFKWHA-104/JFKWHA-104" target="_blank" rel="noopener noreferrer">https://jfkl.prod.acquia-sites.com/asset-viewer/archives/JFKWHA/1962/JFKWHA-104/JFKWHA-104</a></li>
+ 	<li>Devries MC, Sithamparapillai A, Brimble KS, Banfield L, Morton RW, Phillips SM; "Changes in Kidney Function Do Not Differ between Healthy Adults Consuming Higher- Compared with Lower- or Normal-Protein Diets: A Systematic Review and Meta-Analysis"; Journal of Nutrition; vol. 148,11 (2018): 1760-1775; <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6236074/" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6236074/</a></li>
+ 	<li>Levey, Andrew S et al; "Glomerular filtration rate and albuminuria for detection and staging of acute and chronic kidney disease in adults: a systematic review"; JAMA vol. 313,8 (2015): 837-46; <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4410363/" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4410363/</a></li>
+ 	<li>Fouque D, Laville M; "Low protein diets for chronic kidney disease in non diabetic adults"; The Cochrane Database of Systematic Reviews; Jul 8, 2009; <a href="https://www.ncbi.nlm.nih.gov/pubmed/19588328" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/pubmed/19588328</a></li>
+ 	<li>Antonio, Jose et al. "The effects of a high protein diet on indices of health and body composition--a crossover trial in resistance-trained men" Journal of the International Society of Sports Nutrition vol. 13 3. 16 Jan. 2016; <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4715299/" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4715299/</a></li>
+ 	<li>Antonio, Jose, et al; "A High Protein Diet Has No Harmful Effects: A One-Year Crossover Study in Resistance-Trained Males"; Journal of Nutrition and Metabolism; Volume 2016, Article ID 9104792, 5 pages; <a href="https://www.hindawi.com/journals/jnme/2016/9104792/" target="_blank" rel="noopener noreferrer">https://www.hindawi.com/journals/jnme/2016/9104792/</a></li>
+ 	<li>Wycherley, T P et al; "Comparison of the effects of 52 weeks weight loss with either a high-protein or high-carbohydrate diet on body composition and cardiometabolic risk factors in overweight and obese males"; Nutrition &amp; diabetes vol. 2,8 e40. 13 Aug. 2012, doi:10.1038/nutd.2012.11; <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3432181/" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3432181/</a></li>
+ 	<li>Roughead, Z, et al; "Controlled high meat diets do not affect calcium retention or indices of bone status in healthy postmenopausal women"; Journal of Nutrition; 133(4):1020-6; April 2003; <a href="https://www.ncbi.nlm.nih.gov/pubmed/12672913" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/pubmed/12672913</a></li>
+ 	<li>Skov A, Toubro S, Ronn B, Holm L, Astrup A. Randomized trial on protein vs carbohydrate in ad libitum fat reduced diet for the treatment of obesity. Int J Obes Relat Metab Disord 1999;23(5):528–36; <a href="https://www.ncbi.nlm.nih.gov/pubmed/10375057" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/pubmed/10375057</a></li>
+ 	<li>Schwingshackl L, Hoffmann G. Comparison of high vs. normal/low protein diets on renal function in subjects without chronic kidney disease: a systematic review and meta-analysis. PLoS ONE 2014;9(5):e97656; <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4031217/" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4031217/</a></li>
+ 	<li>Paddon-Jones, D, et al; "Protein, weight management, and satiety"; American Journal of Clinical Nutrition; 87(5):1558S-1561S; May 2008; <a href="https://www.ncbi.nlm.nih.gov/pubmed/18469287" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/pubmed/18469287</a></li>
+ 	<li>Simpson S, Raubenheimer, D; "Obesity: the protein leverage hypothesis"; Obesity Reviews; 6(2):133-42; May 2005; <a href="https://www.ncbi.nlm.nih.gov/pubmed/15836464" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/pubmed/15836464</a> (<a href="https://www.docdroid.net/c6G7d6l/protein-leverage-hypothesis-simpson-raubenheimer-2005.pdf" target="_blank" rel="noopener noreferrer">Archive</a>)</li>
+ 	<li>Cermak N, Res P, de Groot L, Saris H, van Loon L. Protein supplementation augments the adaptive response of skeletal muscle to resistance-type exercise training: a meta-analysis. Am J Clin Nutr 2012;96:1454–64; <a href="https://www.ncbi.nlm.nih.gov/pubmed/23134885" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/pubmed/23134885</a></li>
+ 	<li>Wycherley T, Moran L, Clifton P, Noakes M, Brinkworth G. Effects of energy-restricted high-protein, low-fat compared with standard-protein, low fat diets: a meta-analysis of randomized controlled trials. Am J Clin Nutr 2012;96(6):1281–98; <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3432181/" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3432181/</a></li>
+ 	<li>Josse A, Atkinson S, Tarnopolsky M, Phillips S. "Increased consumption of dairy foods and protein during diet- and exercise-induced weight loss promotes fat mass loss and lean mass gain in overweight and obese premenopausal women." J Nutr 2011;141(9):1626–34; <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3159052/" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3159052/</a></li>
+ 	<li>Bauer J, Biolo G, Cederholm T, Cesari M, Cruz-Jentoft A, Morley J, Phillips S, Sieber C, Stehle P, Teta D et al. Evidence-based recommendation for optimal dietary protein intake in older people: a position paper from the PROT-AGE Study Group. J Am Med Dir Assoc 2013;14(8):542–59; <a href="https://www.ncbi.nlm.nih.gov/pubmed/23867520" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/pubmed/23867520</a></li>
+ 	<li>Deutz N, Bauer J, Barazzoni R, Biolo G, Boirie Y, Bosy-Westphal A, Cederholm T, Cruz-Jentoft A, Krznariç Z, Nair K et al. Protein intake and exercise for optimal muscle function with aging: recommendations from the ESPEN Expert Group. Clin Nutr 2014;33(6):929–36; <a href="https://www.ncbi.nlm.nih.gov/pubmed/24814383" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/pubmed/24814383</a></li>
+ 	<li>Joint WHO/FAO/UN University Expert Consultation Protein and amino acid requirements in human nutrition. World Health Organ Tech Rep Ser 2007;935:1–265; <a href="https://www.ncbi.nlm.nih.gov/pubmed/18330140" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/pubmed/18330140</a></li>
+ 	<li>National Kidney Foundation; "Kidney Disease: Improving Global Outcomes (KDIGO)"; CKD Work Group KDIGO 2012 clinical practice guideline for the evaluation and management of chronic kidney disease. Kidney Int Suppl 2013;3:1–150; <a href="https://www.kdigo.org/clinical_practice_guidelines/pdf/CKD/KDIGO_2012_CKD_GL.pdf" target="_blank" rel="noopener noreferrer">https://www.kdigo.org/clinical_practice_guidelines/pdf/CKD/KDIGO_2012_CKD_GL.pdf</a></li>
+</ol>

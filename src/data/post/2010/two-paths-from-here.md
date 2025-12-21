@@ -1,7 +1,6 @@
 ---
 publishDate: 2010-08-31
 title: "Two Paths From Here"
-excerpt: "Two roads diverged in a wood, and I— I took the one less traveled by, And that has made all the difference. --Robert Frost Tomorrow is the big day. My first..."
 category: "Entrepreneurship"
 tags:
   - "beach bum"
@@ -12,8 +11,6 @@ author: "Mike Roberto"
 wpSlug: "two-paths-from-here"
 wpYear: 2010
 comments_count: 4
-metadata:
-  canonical: "https://www.mikeroberto.com/2010/two-paths-from-here"
 ---
 
 > Two roads diverged in a wood, and I—	
@@ -37,7 +34,7 @@ And as things become more and more clear, I am pretty sure I know which one it's
 
 ---
 
-## Archived Comments (4)
+## Archived Comments
 
 <div class="archived-comments">
 <div class="comment">
@@ -57,7 +54,6 @@ Looking forward to seeing you during the holiday and hearing your plan.
 Uncle A
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>Chris</strong> • <time>2010-09-01 07:47:13</time>
@@ -68,7 +64,6 @@ Uncle A
 WTG man
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>The Mamma Berto</strong> • <time>2010-09-02 07:09:08</time>
@@ -77,7 +72,6 @@ WTG man
     BertoSon - Once again, you amaze me with your linguistic talents. Of course, I will support you in whichever path you choose. However, when I come to visit (which will be often), I will be much more comfortable in a big house than in a tent on the beach.... Congrats again - now let&#x27;s get this party started.
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>Jon Blankenberg</strong> • <time>2010-08-31 21:32:33</time>
@@ -86,5 +80,4 @@ WTG man
     #2. Its more metal /m\
   </div>
 </div>
-
 </div>

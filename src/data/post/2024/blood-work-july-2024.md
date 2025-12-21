@@ -1,14 +1,11 @@
 ---
 publishDate: 2024-07-27
 title: "My Blood Work After 1.5 Years on a Low Vitamin A Diet: The Good, The Bad, and The Ugly"
-excerpt: "It's July 2024, I've been on a low vitamin A diet for 19 months now, and this is my second check-in. My previous blood results were December 2023, 12 months..."
 category: "Fitness"
 author: "Mike Roberto"
 wpSlug: "blood-work-july-2024"
 wpYear: 2024
 comments_count: 3
-metadata:
-  canonical: "https://www.mikeroberto.com/2024/blood-work-july-2024"
 ---
 
 It's July 2024, I've been on a low vitamin A diet for 19 months now, and this is my second check-in. My previous blood results were December 2023, 12 months in. I'm 42 years old.
@@ -17,14 +14,14 @@ There will be some TMI in this thread. At the end, I link to my diet and a sprea
 
 Let's get to it.
 
-	
+	- 
 ## VITAMIN A and RBP-4
 
 Aside from what's in beef, I've been *very* actively avoiding vitamin A and plant carotenoids for 1.5 years. So surely, by now, I'm vitamin A deficient, right?
 
 Haha, nope:
 
-	- **Retinol:** *45*, down from *49.6* (goal is under 20)
+	<li>**Retinol:** *45*, down from *49.6* (goal is under 20)
 
 	- **RBP-4:** *5.0*, down from *5.4* (goal is under 2 or so)
 
@@ -36,9 +33,9 @@ Two points doesn't indicate a trend, but the good news is that I may be on my wa
 
 Chances are, if you're on the fence with this substance... you've had *more* than enough of it. If nothing else, you don't need to actively supplement more or eat any amount of liver.
 
-Let's continue.
+Let's continue.</li>
 
-	
+	- 
 ## VITAMIN D
 
 Similarly, I went off the Vitamin D3 / cholecalciferol starting January 2023, after understanding its role in soft tissue calcification and considering my growing joint pain, specifically in the knee (extreme hypercalcaemia is how/why it's used as rat poison in products like D-Con and TeraD3).
@@ -47,22 +44,22 @@ Dropping D3 is the biggest "quality of life" confound for me on this diet. I hav
 
 I've never had a Vitamin D test before, so I figured I'd start now and get another in the winter. A note about me is that I'm Italian/Sicilian American, and can get VERY tan in the sun, to the point of looking rather "ethnic". I *can* get sunburnt, but it takes considerable effort and is minimally painful compared to others.
 
-	- **Vitamin D, 25-Hydroxy:** *42.6*
+	<li>**Vitamin D, 25-Hydroxy:** *42.6*
 
 I came into this test decently tan, but hadn't had serious sun for about a week.
 
 Many will say this level needs to be higher, I've seen some absurd numbers, but I think this is fine. Goal is generally over 30, 50+ may be optimal.
 
-One thing I'll admit is that I feel *noticeably* more energetic with sunshine, and start to notice reduced energy if I've gone a few days without. I don't recall having this happen when on the D3 rat poison, this may be some kind of 'hack' that people have gotten used to. I'm quite sun-dependent at this point, and will use a Sperti Lamp if needed over the winter.
+One thing I'll admit is that I feel *noticeably* more energetic with sunshine, and start to notice reduced energy if I've gone a few days without. I don't recall having this happen when on the D3 rat poison, this may be some kind of 'hack' that people have gotten used to. I'm quite sun-dependent at this point, and will use a Sperti Lamp if needed over the winter.</li>
 
-	
+	- 
 ## THE BAD: Free Testosterone
 
 This is nothing new for me, but I exhibit the kinda-sucky pattern of:
 
 	
 
-- Good total testosterone
+<li>Good total testosterone
 
 	- High Sex-Hormone Binding Globulin
 
@@ -92,16 +89,16 @@ The TMI part of this is that I have a pretty bad varicocele - one that hasn't hu
 
 Coupled with my very high ferritin, which we'll get to, and I believe I'm working through some liver issues, and they may be causing the high SHBG alongside. Hyperthyroidism may also be a possibility for me, you'll note that I haven't had a thyroid panel in a long time, so this is something I might as well check out, even though my diet/lifestyle wouldn't change much.
 
-Long story short, I want to see if fixing vitamin A and ferritin will fix SHBG, and thus fix free testosterone. I'll give it at least 3 more years. Worst case, I get on Maximus' enclomiphene when I'm ready to throw the towel in, but I'm not there yet.
+Long story short, I want to see if fixing vitamin A and ferritin will fix SHBG, and thus fix free testosterone. I'll give it at least 3 more years. Worst case, I get on Maximus' enclomiphene when I'm ready to throw the towel in, but I'm not there yet.</li>
 
-	
+	- 
 ## THE UGLY: Ferritin
 
-Total Iron Binding Capacity (TIBC): 259 (previously, 258) [prefer 250-350]
+Total Iron Binding Capacity (TIBC):</strong> 259 (previously, 258) [prefer 250-350]
 
 	
 
-- **Unsaturated Iron Binding Capacity:** 183 (previously 152) [prefer 111-343]
+<li>**Unsaturated Iron Binding Capacity:** 183 (previously 152) [prefer 111-343]
 
 	- **Iron, Serum:** 76 (previously 106) [prefer 40-140]
 
@@ -125,9 +122,9 @@ So I took that as a "sign" that I'd wait a bit... then never got around to it, a
 
  	- What happens with ferritin
 
-If I feel good, I'll keep doing it. If I feel bad I will not, even if numbers improve.
+If I feel good, I'll keep doing it. If I feel bad I will not, even if numbers improve.</li>
 
-	
+	- 
 ## The GOOD(?): LIPIDS
 
 Now it's time for everyone's favorite: lipid panel!
@@ -138,7 +135,7 @@ Two articles I wrote that went viral are here:
 
 	
 
-- *"[My LDL Cholesterol is High, But I'm Not Worried. Here's Why.](https://blog.priceplow.com/diet-research/ldl-cholesterol)"*
+<li>*"[My LDL Cholesterol is High, But I'm Not Worried. Here's Why.](https://blog.priceplow.com/diet-research/ldl-cholesterol)"*
 
 	- *"[How I "Fixed" My Cholesterol Levels with a Low-Carb Diet](https://blog.priceplow.com/diet-research/ldl-cholesterol/low-carb)"*
 
@@ -170,7 +167,7 @@ Fast forward to today, and my profile looks quite different:
 
 OK, so per the Framingham study, my numbers still give me in the lowest mortality odds ratio, and have been ever since adding carbs back in to get LDL down a bit.
 
-![](https://blog.priceplow.com/wp-content/uploads/framingham-study-cholesterol-risk-factors-improved-low-carb.png)
+<img src="/images/framingham-study-cholesterol-risk-factors-improved-low-carb.png" width="1920" height="1080" class="aligncenter size-medium" />
 
 However, let's not kid ourselves: while I'm still "low triglyceride" and "high HDL", both of these went in the wrong direction since 7 months ago. My triglycerides went up especially, and I think I got a bit TOO out of control with the sugars/carbs. To put it nicely, I enjoyed a spoonful or two of maple syrup.
 
@@ -184,9 +181,9 @@ Regarding HbA1c, 5.3-5.4 is what I want, so I'm nearly happy there. I prefer fas
 
 NOTE: I stopped taking niacin a week before this test. Didn't want it to bork my test (sorry @DrSteveGoeddeke), I get plenty in my meat, and I don't like flushing anyway. I may go back on like 25-50mg.
 
-Fun one, feel free to debate.
+Fun one, feel free to debate.</li>
 
-	
+	- 
 ## Comprehensive Metabolic Panel (CMP)
 
 I don't want to paste everything, it's in the spreadsheet linked below, but a couple things to note:
@@ -219,7 +216,7 @@ Feel free to make a copy of this and use it for your own numbers!
 
 ---
 
-## Archived Comments (3)
+## Archived Comments
 
 <div class="archived-comments">
 <div class="comment">
@@ -240,7 +237,6 @@ If you find any good solutions, I’d like to know.
 Also, I’m fairly ignorant on the low vitamin A diet.  I know a bit, but interested if you can recommend a simple foods to avoid guide and any other basics.
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>Berto</strong> • <time>2025-09-17 07:31:16</time>
@@ -249,7 +245,6 @@ Also, I’m fairly ignorant on the low vitamin A diet.  I know a bit, but intere
     I&#x27;ll post updates, since I received these, I&#x27;ve donated 7 times and the ferritin is WAY down. It&#x27;s amazing, literally everything is better. Thanks!
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>Ricardo</strong> • <time>2025-05-05 14:46:56</time>
@@ -258,5 +253,4 @@ Also, I’m fairly ignorant on the low vitamin A diet.  I know a bit, but intere
     Donate blood. It really reduces ferritin. I did it and nothing changes ferritin so rapidly as blood donation.
   </div>
 </div>
-
 </div>

@@ -1,21 +1,20 @@
 ---
 publishDate: 2025-09-17
-title: 'Class of 2000: The Final Boarding Call Before the Chaos'
-excerpt: 'You have died of dysentery: 25 Years after the Class of 2000: Old enough for an analog childhood, young enough to master digital. Timing is everything'
-category: Current Events
+title: "Class of 2000: The Final Boarding Call Before the Chaos"
+excerpt: "You have died of dysentery: 25 Years after the Class of 2000: Old enough for an analog childhood, young enough to master digital. Timing is everything"
+image: "https://www.mikeroberto.com/images/class-of-2000-25-years.png"
+category: "Current Events"
 tags:
-- Processed Seed Oils
-author: Mike Roberto
-wpSlug: class-of-2000
+  - "Processed Seed Oils"
+author: "Mike Roberto"
+wpSlug: "class-of-2000"
 wpYear: 2025
 comments_count: 4
-image: https://www.mikeroberto.com/wp-content/uploads/class-of-2000-25-years.png
-metadata:
-  canonical: https://www.mikeroberto.com/2025/class-of-2000
 ---
+
 *"Timing is everything!"*
 
-[![Class of 2000: 25 Years Later](/images/class-of-2000-25-years.png)](/images/class-of-2000-25-years.png)
+[<img src="/images/class-of-2000-25-years.png" alt="Class of 2000: 25 Years Later" width="300" height="450" class="alignright size-medium wp-image-713" />](/images/class-of-2000-25-years.png)
 
 Decades ago, as I was stumbling into young adulthood, I used to roll my eyes at the above phrase. It was usually dispensed -- unsolicited -- by older women reflecting on their marriages, real estate, child-rearing, or careers. Regardless of circumstance, "timing" was unfailingly a major deciding factor in their lives' outcomes.
 
@@ -44,13 +43,15 @@ Let's explore through a few different lenses:
 
 ## A Tale of Two Technological Worlds
 
+<div style="margin-left:2%;">
+
 We came of age right as the world flipped: first with the Internet, then cell phones, social media, and finally smartphones.
 
-With childhood beginning in the early '80s, we had an **analog youth** -- no internet, no smartphones, no screens glued to our hands. Play was largely outside and physical, parenting was mostly free-range, and it was still a *relatively* high-trust society (though in decline in certain areas).
+With childhood beginning in the early '80s, we had an <strong>analog youth</strong> -- no internet, no smartphones, no screens glued to our hands. Play was largely outside and physical, parenting was mostly free-range, and it was still a <em>relatively</em> high-trust society (though in decline in certain areas).
 
-Yes, we saw the rise of home video game consoles (late Atari, NES, then SNES and Sega Genesis - I was an SNES guy myself), but they didn't dominate most of our lives. Well, not *too* much at least.
+Yes, we saw the rise of home video game consoles (late Atari, NES, then SNES and Sega Genesis - I was an SNES guy myself), but they didn't dominate most of our lives. Well, not <em>too</em> much at least.
 
-### Vibe Shift: From Connectivity to Total Immersion
+<h3>Vibe Shift: From Connectivity to Total Immersion</h3>
 
 The first big shift hit in our teens: AOL, AIM, and the Internet. What a time to be a teenager.
 
@@ -59,7 +60,7 @@ The first big shift hit in our teens: AOL, AIM, and the Internet. What a time to
   <figcaption>Now <em>these</em> were the days. Note: My Twitter Handle is my old screen name: <a href="https://twitter.com/MicroBerto" target="_blank" rel="noopener">@MicroBerto</a>.</figcaption>
 </figure>
 
-At the time it felt gradual, but looking back, we clearly lived in two separate worlds... and experienced *both* of them as young adults.
+At the time it felt gradual, but looking back, we clearly lived in two separate worlds... and experienced <em>both</em> of them as young adults.
 
 Our first cell phones came in college (2001–2003 for most), and Facebook showed up just as we were leaving, back when a .edu email was required.
 
@@ -71,15 +72,19 @@ We straddled both worlds as adolescents and young adults, giving us a perspectiv
 
 You couldn't ask for a better vantage point: we adopted it all, but we also knew how to live without it. And we remember life before it conquered society.
 
+</div>
+
 ## Economics: Dodging Bullets in the Age of Easy Money
+
+<div style="margin-left:2%;">
 
 Growing up in the '80s and '90s, inflation was real (having kicked off in 1971) but still manageable. One income could often support a family in a safe neighborhood while maintaining a middle-class lifestyle.
 
 But the real stroke of economic serendipity came with timing. Two critical points defined our cohort:
-
- 	- We were in college, trade school, or military during 9/11 and the early 2000s dot-com crash.
-
- 	- We were established enough in the workforce by 2008 to avoid getting pummeled by the banking crisis.
+<ol>
+ 	<li>We were in college, trade school, or military during 9/11 and the early 2000s dot-com crash.</li>
+ 	<li>We were established enough in the workforce by 2008 to avoid getting pummeled by the banking crisis.</li>
+</ol>
 
 <figure class="alignright">
   <a href="/images/money-printer.jpg"><img src="/images/money-printer.jpg" alt="Money Printer" width="640" height="362" class="size-full wp-image-721" /></a>
@@ -94,73 +99,95 @@ As for retirement, social security may or may not be waiting for us, but at leas
 
 Ultimately, if you were born around 1980, you didn't just get lucky. You dodged three massive economic bullets that reshaped entire generations.
 
+</div>
+
 ## Less Political Poison
+
+<div style="margin-left:2%;">
 
 Our childhoods were politically quiet. We vaguely remember the fall of the Berlin Wall, but it barely touched us in America. The Gulf War came and went quickly, with little controversy or cultural baggage.
 
 <figure class="alignright">
-  <a href="/images/bill_clinton-monica_lewinsky.jpg"><img src="https://www.mikeroberto.com/wp-content/uploads/bill_clinton-monica_lewinsky-300x199.jpg" alt="Bill Clinton and Monica Lewinsky. Image courtesy Wikimedia Commons" width="300" height="199" class="size-medium wp-image-723" /></a>
+  <a href="/images/bill_clinton-monica_lewinsky.jpg"><img src="/images/bill_clinton-monica_lewinsky.jpg" alt="Bill Clinton and Monica Lewinsky. Image courtesy Wikimedia Commons" width="300" height="199" class="size-medium wp-image-723" /></a>
   <figcaption>This scandal signaled the beginning of the normalization of  degeneracy in our society, but at the time, it didn't directly affect our lives.</figcaption>
 </figure>
 
-The political "landmarks" we grew up with were the O.J. Simpson trial, the Rodney King riots, and Bill Clinton's Monica Lewinsky scandal. O.J. and Rodney King cracked open the disintegration of our country's race relations, and Clinton marked the normalization of public degeneracy. But unless you lived in Los Angeles, none of these things *divided* us at school -- they'd need more time to take hold.
+The political "landmarks" we grew up with were the O.J. Simpson trial, the Rodney King riots, and Bill Clinton's Monica Lewinsky scandal. O.J. and Rodney King cracked open the disintegration of our country's race relations, and Clinton marked the normalization of public degeneracy. But unless you lived in Los Angeles, none of these things <em>divided</em> us at school -- they'd need more time to take hold.
 
-Then it all changed. Literally *months* after we graduated in 2000, the nation plunged into the first of an endless stream of divisive, fraudulent-filled presidential elections. Remember the hanging chads? We were already out of high school when that circus started.
+Then it all changed. Literally <em>months</em> after we graduated in 2000, the nation plunged into the first of an endless stream of divisive, fraudulent-filled presidential elections. Remember the hanging chads? We were already out of high school when that circus started.
 
-And that matters. Back then, we didn't care *which* parasite would win the 2000 presidential election. Politics simply wasn't baked into our daily lives. Contrast that with today, where high schoolers can't walk two feet without being sledgehammered by the cancer known as American politics.
+And that matters. Back then, we didn't care <em>which</em> parasite would win the 2000 presidential election. Politics simply wasn't baked into our daily lives. Contrast that with today, where high schoolers can't walk two feet without being sledgehammered by the cancer known as American politics.
 
-We were *the* last high school class that got to live free of partisan warfare in our hallways. For that, I'll always be grateful.
+We were <em>the</em> last high school class that got to live free of partisan warfare in our hallways. For that, I'll always be grateful.
+
+</div>
 
 ## The Last Call for Clean Food
 
-Most importantly, we were *healthy*, at least compared to the Millennials to come after us.
+<div style="margin-left:2%;">
 
-Yes, we ate our share of "fortified slop" (mostly via cereal, milk, and microwave meals), but we still escaped childhood before canola oil (approved in 1985) and other omega-6 industrial oils polluted the food supply. By the time the biocide known as *glyphosate* and obesogenic fats like soybean oil truly took hold, we were already young adults.
+Most importantly, we were <em>healthy</em>, at least compared to the Millennials to come after us.
+
+Yes, we ate our share of "fortified slop" (mostly via cereal, milk, and microwave meals), but we still escaped childhood before canola oil (approved in 1985) and other omega-6 industrial oils polluted the food supply. By the time the biocide known as <em>glyphosate</em> and obesogenic fats like soybean oil truly took hold, we were already young adults.
 
 <figure class="aligncenter">
   <a href="/images/canola-oil.png"><img src="/images/canola-oil.png" alt="Canola Oil" width="640" height="363" class="size-full wp-image-725" /></a>
   <figcaption>Many consider the 1985 approval of canola oil / rapeseed oil to be a turning point in our collective health situation</figcaption>
 </figure>
 
-More controversially, we were also born *just* before the CDC dramatically expanded the childhood vaccine schedule 1983, 1986, and what seems to be every single year since.The sun was still yellow, the sky was blue, and clouds even looked like *clouds* on a regular basis back then!
+More controversially, we were also born <em>just</em> before the CDC dramatically expanded the childhood vaccine schedule 1983, 1986, and what seems to be every single year since.The sun was still yellow, the sky was blue, and clouds even looked like <em>clouds</em> on a regular basis back then!
 
-The net effect is that we had *significantly* lower toxic burdens, more sunshine, and far less screen time, ultimately making our bodies more resilient to metabolic stress than those born only a few years later. Meanwhile, terms like "autism," "ADHD," "depression," or "dysphoria" were virtually unknown in everyday life.
+The net effect is that we had <em>significantly</em> lower toxic burdens, more sunshine, and far less screen time, ultimately making our bodies more resilient to metabolic stress than those born only a few years later. Meanwhile, terms like "autism," "ADHD," "depression," or "dysphoria" were virtually unknown in everyday life.
 
 It was a good time to be a kid, if only because we were the last cohort to pass through childhood and adolescence before the nation's collective poisoning really began.
+
+</div>
 
 ## Music, Popular Culture, and Dating without Swiping
 
 ### Pop Culture and Music
 
+<div style="margin-left:2%;">
+
 Childhood and adolescence revolved around Saturday morning cartoons, MTV in its prime, and the golden age of blockbuster movies.
 
-Musically, we rode the full arc: vinyl to cassette to CD to MP3 to streaming. Gen X before us grew up on *albums* and *radio*; Millennials curate playlists. Sure, we had mixtapes and burned CDs, but nothing beats an album you can listen to straight through - the true marker of a legitimate band.
+Musically, we rode the full arc: vinyl to cassette to CD to MP3 to streaming. Gen X before us grew up on <em>albums</em> and <em>radio</em>; Millennials curate playlists. Sure, we had mixtapes and burned CDs, but nothing beats an album you can listen to straight through - the true marker of a legitimate band.
 
 <figure class="aligncenter">
   <a href="/images/cassette-tape.jpg"><img src="/images/cassette-tape.jpg" alt="Cassette Tape" width="1600" height="1067" class="size-full wp-image-728" /></a>
   <figcaption>Oh, I remember</figcaption>
 </figure>
 
-Class of 2000 lived the heyday of late '80s pop, '90s alt-rock and hip-hop, early 2000s country, and the height of heavy metal... all before things got, well, *autotuned*. We had a front row seat watching Nirvana singlehandedly throw the entire music industry into an identity crisis. Regardless of what you listened to, these were some golden years.
+Class of 2000 lived the heyday of late '80s pop, '90s alt-rock and hip-hop, early 2000s country, and the height of heavy metal... all before things got, well, <em>autotuned</em>. We had a front row seat watching Nirvana singlehandedly throw the entire music industry into an identity crisis. Regardless of what you listened to, these were some golden years.
 
-When did it change? The dividing line is clear: **9/11**. Looking back now, it's inarguable that this is when pop culture nosedived. From movies to music to television, that's truly when they put the screws to us, dialed up the degeneracy, and never relented.
+When did it change? The dividing line is clear: <strong>9/11</strong>. Looking back now, it's inarguable that this is when pop culture nosedived. From movies to music to television, that's truly when they put the screws to us, dialed up the degeneracy, and never relented.
+
+</div>
 
 ### Drug and Social Culture
 
+<div style="margin-left:2%;">
+
 In our youth, alcohol was king and marijuana was still taboo. This arguably forced better face-to-face socialization skills than later generations raised in an era of normalized cannabis use.
 
-Yes, alcohol has countless problems of its own, and it's smart not to overindulge now that we've slid into a low-trust society with HD cameras in every pocket. But adding legal marijuana to the mix has merely layered *new* problems in, and the verdict is clear: it's been a net negative for society at large.
+Yes, alcohol has countless problems of its own, and it's smart not to overindulge now that we've slid into a low-trust society with HD cameras in every pocket. But adding legal marijuana to the mix has merely layered <em>new</em> problems in, and the verdict is clear: it's been a net negative for society at large.
 
 <figure class="alignright">
-  <a href="/images/robert-sterling-last-chopper.png"><img src="https://www.mikeroberto.com/wp-content/uploads/robert-sterling-last-chopper-300x297.png" alt="Robert Sterling Last Chopper" width="300" height="297" class="size-medium wp-image-730" /></a>
+  <a href="/images/robert-sterling-last-chopper.png"><img src="/images/robert-sterling-last-chopper.png" alt="Robert Sterling Last Chopper" width="300" height="297" class="size-medium wp-image-730" /></a>
   <figcaption>Major thanks to Robert Sterling for inspiring this <em>entire</em> article with <a href="https://x.com/RobertMSterling/status/1965493475669147997" target="_blank" rel="noopener">this post</a></figcaption>
 </figure>
 
-At least 25 years ago, people weren't breeding the weed into a chemical factory that'd instantly turn you into a schizophrenic. Meanwhile, if you're to take a *hard* drug today, there is a very real and serious chance that you may die.
+At least 25 years ago, people weren't breeding the weed into a chemical factory that'd instantly turn you into a schizophrenic. Meanwhile, if you're to take a <em>hard</em> drug today, there is a very real and serious chance that you may die.
+
+</div>
 
 ### Dating Without Swiping
 
-Finally, the dating marketplace. Most of us met spouses *before* Tinder rewired the system. Relationships formed through school, friends, or work -- not by swiping on human catalogs. Another bullet dodged.
+<div style="margin-left:2%;">
+
+Finally, the dating marketplace. Most of us met spouses <em>before</em> Tinder rewired the system. Relationships formed through school, friends, or work -- not by swiping on human catalogs. Another bullet dodged.
+
+</div>
 
 ## The Last Unplugged Generation
 
@@ -174,7 +201,7 @@ Because sometimes you *don't* create your own timing... the timing creates *you*
 
 ---
 
-## Archived Comments (4)
+## Archived Comments
 
 <div class="archived-comments">
 <div class="comment">
@@ -185,7 +212,6 @@ Because sometimes you *don't* create your own timing... the timing creates *you*
     Awesome read!
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>Marilyn Goudas</strong> • <time>2025-09-29 05:12:57</time>
@@ -197,7 +223,6 @@ Congratulations and I also send hellos to your wife and child
 who has a great daddy standing beside her and guiding her.. Wishing you many good years of health and success..
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>David Walan</strong> • <time>2025-12-07 11:10:59</time>
@@ -206,7 +231,6 @@ who has a great daddy standing beside her and guiding her.. Wishing you many goo
     thanks for sharing
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>Alicia</strong> • <time>2025-09-21 09:16:39</time>
@@ -215,5 +239,4 @@ who has a great daddy standing beside her and guiding her.. Wishing you many goo
     Well stated, Mike! Great article.
   </div>
 </div>
-
 </div>

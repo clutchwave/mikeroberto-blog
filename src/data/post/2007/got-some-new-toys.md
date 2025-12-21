@@ -1,14 +1,11 @@
 ---
 publishDate: 2007-02-18
 title: "Got Some New Toys!"
-excerpt: "Yesterday I headed over to the local Dive 'n Surf shop and walked out 583 dollars poorer. They were hosting their annual February yard sale, with some huge..."
 category: "Fitness"
 author: "Mike Roberto"
 wpSlug: "got-some-new-toys"
 wpYear: 2007
 comments_count: 1
-metadata:
-  canonical: "https://www.mikeroberto.com/2007/got-some-new-toys"
 ---
 
 [![](https://www.mikeroberto.com/pics/My_New_Surfboard-021807-thumb.jpg)](http://www.bertopics.com/v/LA_Pics/Hermosa_Beach/My_New_Surfboard-021807.jpg.html)Yesterday I headed over to the [local](http://maps.google.com/maps?f=q&hl=en&q=504+N+Broadway,+Redondo+Beach,+CA+90277+(Dive+N%27+Surf+Inc)%5C&sll=33.869507,-118.387313&sspn=0.024765,0.028367&ie=UTF8&z=14&ll=33.847109,-118.390903&spn=0.049543,0.056734&om=1&iwloc=A) [Dive 'n Surf](http://www.divensurf.com/) shop and walked out 583 dollars poorer.  They were hosting their annual February yard sale, with some huge discounts for the slow season.
@@ -29,6 +26,7 @@ Total after 8.25% sales tax = **$615.94**
 
 Good prices, but more than I wanted to spend.  I asked for discounts.   He wouldn't budge on the board, but took another twenty off the wetsuit and ten off the rack.  I offered to go get a money order and pay cash if he'd knock more off.  He declined.
 
+![](http://www.redondo.com/business/divesurf.jpg)So the price was **$583**, but I just wasn't 100% happy.  He gave me some time to think.  That's when I realized that he left out the $20 leash that connects the board to your ankle.
 
 "Fernando, you forgot the leash.  If you throw that in I'll do it all for $583."  **Deal.**
 
@@ -36,17 +34,19 @@ I'm sure I could have done better (you always can), but at that point I was happ
 
 Negotiating makes me uncomfortable as hell.  Perhaps that's why it's fun; it brings us out of our comfort zone and makes us elevate our game.
 
+![](http://www.redondochamber.org/images/IMG0121.jpg)So anyway, I went surfing today. Or tried to.  The tide at Redondo Beach was low, so the water was all deep.  Waves weren't breaking until they were literally on the beach, which means that you're going to fall straight into sand and get clobbered.
 
 The guys out there were bummed out.  They didn't have time to drive around the city and find a good spot.  When there's no surf, there's depression.  Imagine a group of Harley riders planning a huge weekend of riding, only to have thunderstorms ruin their plans.  For us working folk, we only have two days open to surf, so we hope it's great on those days.  The sport is reliant on so many variables.
 
 Either way, I decided to jump in and get some exercise.  My board was very comfortable.  I have fun just chilling on it and paddling around.  One other guy was really good but only caught two waves in over an hour.  I struck up conversation -- his wife only gave him 2 hours away from the newborn baby, so he was frustrated.  The only wave I caught (I guess you could say it caught me) destroyed me in shallow water.  It was scary and next time I'll need to learn to eject.
 
+![](http://www.rbmarina.com/dolphin.jpg)So guess who joins us to surf - two dolphins and a seal!  I was about 20 feet away from these two fins, and quickly got alarmed.   I asked the guy "Were those dolphins?" and he jokes "Let's hope so!"  Not surprisingly, the dolphins put us to shame and rode some deep waves.
 
 Fun stuff.  And for the first and definitely not the last time, I heard the age old dreaded line, *"You should have been here yesterday".*
 
 ---
 
-## Archived Comments (1)
+## Archived Comments
 
 <div class="archived-comments">
 <div class="comment">
@@ -61,5 +61,4 @@ On that topic. .after a night of destroyal in the Flats, TJ attempted to negotia
 Also, while in NYC Wes would haggle w/people selling knockoff whatevers.  He would get the price so low and then back out w/a &quot;ehh nevermind&quot; and walk away.  It was as though he was toying w/these people.  I thought for sure we&#x27;d be beaten to a pulp in some back alley.
   </div>
 </div>
-
 </div>

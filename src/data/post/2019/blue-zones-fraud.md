@@ -1,26 +1,24 @@
 ---
 publishDate: 2019-08-09
-title: Are Blue Zones Based Upon FRAUD? New Research May Suggest…
-excerpt: Imagine this. You were born in 1925 in a rural area in Italy and have no birth certificate. It's now 1965, so you're 40 years old. You know that pensions are...
-category: Diet Research
+title: "Are Blue Zones Based Upon FRAUD? New Research May Suggest…"
+image: "https://www.mikeroberto.com/images/blue-zones.png"
+category: "Diet Research"
 tags:
-- Anti-Aging
-- Longevity
-- Mediterranean Diet
-author: Mike Roberto
-wpSlug: blue-zones-fraud
+  - "Anti-Aging"
+  - "Longevity"
+  - "Mediterranean Diet"
+author: "Mike Roberto"
+wpSlug: "blue-zones-fraud"
 wpYear: 2019
 comments_count: 3
-image: https://www.mikeroberto.com/wp-content/uploads/blue-zones.png
-metadata:
-  canonical: https://www.mikeroberto.com/2019/blue-zones-fraud
 ---
+
 Imagine this. You were born in 1925 in a rural area in Italy and have no birth certificate. It's now 1965, so you're 40 years old. You know that pensions are given to those who are 60 or older. You're poor, uneducated, and have just about nothing to lose.
 
 Knowing that you don't really exist on paper, you submit pension paperwork stating you were born in *1905*. What's the worst that can happen?
 
 <figure class="alignright">
-  <a href="/images/blue-zones.png"><img src="https://www.mikeroberto.com/wp-content/uploads/blue-zones-300x300.png" alt="Blue Zones" width="300" height="300" class="size-medium wp-image-40256" data-wp-pid="40256" /></a>
+  <a href="/images/blue-zones.png"><img src="/images/blue-zones.png" alt="Blue Zones" width="300" height="300" class="size-medium wp-image-40256" data-wp-pid="40256" /></a>
   <figcaption>Yikes! Are the Blue Zones really based upon bad (or even fraudulent) birth reporting?! New research investigates</figcaption>
 </figure>
 
@@ -59,7 +57,7 @@ In the U.S., supercentenarian status is far more common when there was less vita
 This lends credence to the hypothesis that the number of *legitimate* supercentenarians is far fewer than currently reported!
 
  	- <figure class="alignright">
-  <a href="/images/blue-zones-longevity.jpg"><img src="https://www.mikeroberto.com/wp-content/uploads/blue-zones-longevity-300x299.jpg" alt="Blue Zones Longevity" width="300" height="299" class="size-medium wp-image-40263" data-wp-pid="40263" /></a>
+  <a href="/images/blue-zones-longevity.jpg"><img src="/images/blue-zones-longevity.jpg" alt="Blue Zones Longevity" width="300" height="299" class="size-medium wp-image-40263" data-wp-pid="40263" /></a>
   <figcaption>Crazy! People simultaneously live short lives and what seems like <em>forever</em> in the same area![1] How is that possible?</figcaption>
 </figure>
 In Italy, there is somehow an "inverted" longevity curve. There's a relatively short lifespan, unless you make it to past 95, at which point it somehow becomes *increasingly* likely you're going to live to 110![1] This is not at all statistically expected.
@@ -67,14 +65,16 @@ In Italy, there is somehow an "inverted" longevity curve. There's a relatively s
  	- 
 The Italian data suggests that *errors made in reporting* contribute to false counts of supercentenarians!
 
- 	
+</li>
+ 	- 
 “Italians over the age of 110 are concentrated into the *poorest, most remote, and shortest-lived provinces*,”[1] also highly unexpected.
 
- 	
+ 	<li>
 How can a single area have both the shortest and longest lifespans when this happens nowhere else in the world?
 
 Answer: individuals in Italy may be simply making *false claims* in regards to their age, either via error or lying deliberately!
 
+</li>
  	- 
 Okinawa has the “*highest murder rate per capita, the worst over-65 dependency ratio, the second-lowest median income, and the lowest median lifespan*” in Japan![1]
 
@@ -82,7 +82,7 @@ Okinawa has the “*highest murder rate per capita, the worst over-65 dependency
 These are factors that would *decrease* the likelihood of living past 110!
 
  	- <figure class="alignright">
-  <a href="/images/blue-zone.jpg"><img src="https://www.mikeroberto.com/wp-content/uploads/blue-zone-300x299.jpg" alt="Blue Zone" width="300" height="299" class="size-medium wp-image-40267" data-wp-pid="40267" /></a>
+  <a href="/images/blue-zone.jpg"><img src="/images/blue-zone.jpg" alt="Blue Zone" width="300" height="299" class="size-medium wp-image-40267" data-wp-pid="40267" /></a>
   <figcaption>The real world doesn't work like this.[1]</figcaption>
 </figure>
 Okinawa, along with Sardinia and Ikaria, are among the *“least educated and poorest regions*” in their respective nations.[1]
@@ -99,6 +99,8 @@ Again, the health risks associated with those factors aren’t exactly conducive
  	- 
 “A 2010 investigation of Japanese records revealed that 238,000 allegedly living centenarians were actually *missing* or *deceased*.”
 
+</li>
+
 Without foolproof methods verifying one’s true age, we simply can’t put too much faith into the *accurate* number of supercentenarians out there! Time will fix this, but for now, it's simply dirty data.
 
 With severe health factors such as *smoking* and *crime rates* being curiously high in these areas, as well as a lack of adequate education available, it makes you really wonder just how these individuals are living so long. Chances are, they *aren't*. They were just dodging war or have been collecting pension checks for an extra decade or two.
@@ -108,7 +110,7 @@ With severe health factors such as *smoking* and *crime rates* being curiously h
 The biggest visual indicator that something is *clearly* amiss is below:
 
 <figure class="aligncenter">
-  <a href="/images/blue-zone-birth-certificates.jpg"><img src="https://www.mikeroberto.com/wp-content/uploads/blue-zone-birth-certificates-625x393.jpg" alt="Blue Zone Birth Certificates" width="625" height="393" class="size-large wp-image-40258" data-wp-pid="40258" /></a>
+  <a href="/images/blue-zone-birth-certificates.jpg"><img src="/images/blue-zone-birth-certificates.jpg" alt="Blue Zone Birth Certificates" width="625" height="393" class="size-large wp-image-40258" data-wp-pid="40258" /></a>
   <figcaption>Well look at that! Once you start requiring birth certificates, there's a whole lot less people living to 110!</figcaption>
 </figure>
 
@@ -132,7 +134,7 @@ Humans want to live longer - that’s entirely understandable. Given the scienti
 
 Unfortunately, given our drug-fueled opiate crisis and metabolic diabetic obesity mental epidemic driven by processed foods, refined carbohydrates, toxic seed oils, and lack of quality protein -- all fueled by copious propaganda -- American life expectancy has actually begun to *decline*.[2]
 <figure class="alignleft">
-  <a href="https://www.mikeroberto.com/wp-content/uploads/american-life-expectancy-2017.png"><img src="https://www.mikeroberto.com/wp-content/uploads/american-life-expectancy-2017-300x223.png" alt="American Life Expectancy 2017" width="300" height="223" class="size-medium wp-image-40261" data-wp-pid="40261" /></a>
+  <a href="/images/american-life-expectancy-2017.png"><img src="/images/american-life-expectancy-2017.png" alt="American Life Expectancy 2017" width="300" height="223" class="size-medium wp-image-40261" data-wp-pid="40261" /></a>
   <figcaption>As of 2017, American Life Expectancy is on the <em>decline!</em> Despite medical advances, what we're doing is <em>not</em> working for us. Time to reconsider our diets.</figcaption>
 </figure>
 
@@ -148,15 +150,15 @@ Oh, and while we're at it, remember Jeanne Calment, the French woman claimed to 
 
 ## References
 
- 	- Saul Justin Newman; “Supercentenarians and the oldest-old are concentrated into regions with no birth certificates and short lifespans.”; bioRxiv; July 16, 2019; [https://www.biorxiv.org/content/10.1101/704080v1.full](https://www.biorxiv.org/content/10.1101/704080v1.full)
-
- 	- United States Centers for Disease Control and Prevention; "Mortality in the United States, 2017"; NCHS Data Brief No. 328, November 2018; [https://www.cdc.gov/nchs/products/databriefs/db328.htm](https://www.cdc.gov/nchs/products/databriefs/db328.htm)
-
- 	- Zak, Nikolay; “Evidence That Jeanne Calment Died in 1934-Not 1997”; Rejuvenation research vol. 22,1 (2019): 3-12; [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6424156/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6424156/)
+<ol class="references">
+ 	<li>Saul Justin Newman; “Supercentenarians and the oldest-old are concentrated into regions with no birth certificates and short lifespans.”; bioRxiv; July 16, 2019; <a href="https://www.biorxiv.org/content/10.1101/704080v1.full" target="_blank" rel="noopener noreferrer">https://www.biorxiv.org/content/10.1101/704080v1.full</a></li>
+ 	<li>United States Centers for Disease Control and Prevention; "Mortality in the United States, 2017"; NCHS Data Brief No. 328, November 2018; <a href="https://www.cdc.gov/nchs/products/databriefs/db328.htm" target="_blank" rel="noopener noreferrer">https://www.cdc.gov/nchs/products/databriefs/db328.htm</a></li>
+ 	<li>Zak, Nikolay; “Evidence That Jeanne Calment Died in 1934-Not 1997”; Rejuvenation research vol. 22,1 (2019): 3-12; <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6424156/" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6424156/</a></li>
+</ol>
 
 ---
 
-## Archived Comments (3)
+## Archived Comments
 
 <div class="archived-comments">
 <div class="comment">
@@ -167,7 +169,6 @@ Oh, and while we're at it, remember Jeanne Calment, the French woman claimed to 
     Understanding that you are refuting lifestyle based upon observation, the outcomes are difficult to dispute. Humans have an infinite capacity for resilience which is physiologically misunderstood and lacks hard evidence. Quantum physics supports observational outcomes based upon spiritual principles that are a process not widely understood, however experienced as transformation and alchemy which is validated by quantum mechanics.
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>zdb</strong> • <time>2025-04-24 17:24:21</time>
@@ -176,7 +177,6 @@ Oh, and while we're at it, remember Jeanne Calment, the French woman claimed to 
     Thank you.  Well said.
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>zdb</strong> • <time>2025-04-24 17:36:26</time>
@@ -189,5 +189,4 @@ What they shared in common was that they were all on the 3rd floor of 3 story wa
 Also please subscribe me to your email list whenever you start one.  Thank you.
   </div>
 </div>
-
 </div>

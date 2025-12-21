@@ -7,11 +7,24 @@ author: "Mike Roberto"
 wpSlug: "fed-cuts-interest-rate-to-0-in-emergency-effort"
 wpYear: 2008
 comments_count: 8
-metadata:
-  canonical: "https://www.mikeroberto.com/2008/fed-cuts-interest-rate-to-0-in-emergency-effort"
 ---
 
-December 2025 Update from Mike: This was a satire post that ultimately came true not only in late 2008, but 2020 as well.
+<div 
+  style="
+    max-width: 750px;
+    margin: 25px auto;
+    padding: 20px 25px;
+    border: 2px solid #c7d4e2;
+    border-radius: 8px;
+    background-color: #f3f7fc;
+    color: #111;
+    text-align: left;
+    font-size: 1.05rem;
+    line-height: 1.55;
+  "
+>
+  <strong style="font-size:1.2rem;">December 2025 Update from Mike:</strong> This was a satire post that ultimately came true not only in late 2008, but 2020 as well.
+</div>
 
 August 5, 2008 -- The Federal Reserve cut the benchmark interest rate by 1.5% to a new target lending rate of 0% yesterday, the Federal Open Market Committee said in a statement in Washington.  It's the largest reduction since the Fed began using the rate as primary tool of fiscal policy around 1990.
 
@@ -31,7 +44,7 @@ A representative of the middle class was sought for comment, but none could be f
 
 ---
 
-## Archived Comments (8)
+## Archived Comments
 
 <div class="archived-comments">
 <div class="comment">
@@ -42,7 +55,6 @@ A representative of the middle class was sought for comment, but none could be f
     Brilliant!
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>GermanJulian</strong> • <time>2008-01-24 11:04:49</time>
@@ -51,7 +63,6 @@ A representative of the middle class was sought for comment, but none could be f
     agree... shows us how it works in the US
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>Amerikaanse economie binnen half jaar over de kop? - Sargasso</strong> • <time>2008-01-24 14:15:56</time>
@@ -60,7 +71,6 @@ A representative of the middle class was sought for comment, but none could be f
     [...] economie binnen half jaar over de kop?24-01-2008 om 23:15 door Carlos August 5, 2008 — The Federal Reserve cut the benchmark interest rate by 1.5% to a new target lendi... Economie, Toekomst, Verenigde Staten, Waan v/d Dag   Terug naar het [...]
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>weerbarst</strong> • <time>2008-01-25 03:14:19</time>
@@ -69,7 +79,6 @@ A representative of the middle class was sought for comment, but none could be f
     Berto ohno! I&#x27;m dutch and I only read your disclaimer now, I just sold all my stock based on your article, You&#x27;ll hear from my lawyer.
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>Mightygodking.com &amp;raquo; Blog Archive &amp;raquo; Link-ness</strong> • <time>2008-01-28 07:53:17</time>
@@ -78,7 +87,6 @@ A representative of the middle class was sought for comment, but none could be f
     [...] Feds cut interest rate to zero in &amp;#8220;emergency effort.&amp;#8221; [...]
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>Berto</strong> • <time>2008-01-24 16:05:57</time>
@@ -91,7 +99,6 @@ In case you didn&#x27;t catch it, this is a satire!
 And hello to everyone from over at sensibleerection.com - very interesting site you have.  I tried to join but you never emailed me my activation!
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>Sensible Erection</strong> • <time>2008-01-24 20:13:49</time>
@@ -100,7 +107,6 @@ And hello to everyone from over at sensibleerection.com - very interesting site 
     You broke my heart Berto.
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>Berto</strong> • <time>2008-12-16 12:42:38</time>
@@ -109,5 +115,4 @@ And hello to everyone from over at sensibleerection.com - very interesting site 
     So sad how this is about to come true...
   </div>
 </div>
-
 </div>

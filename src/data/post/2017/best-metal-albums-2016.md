@@ -1,47 +1,46 @@
 ---
 publishDate: 2017-01-27
-title: The Best Metal Albums of 2016
-excerpt: It's nearly unanimous... Fates Warning crushed it in 2016 with Theories of Flight After a long hiatus, Mike and MetalBrian are back. 2016 was a legendary year...
-category: Guest Writers
+title: "The Best Metal Albums of 2016"
+image: "https://www.mikeroberto.com/images/best-metal-album-2016.jpg"
+category: "Guest Writers"
 tags:
-- Amon Amarth
-- Blues Pills
-- Charred Walls of the Damned
-- Death Angel
-- devin townsend
-- Fates Warning
-- Flotsam and Jetsam
-- Gojira
-- Hammers of Misfortune
-- Ihsahn
-- In the Woods...
-- Insomnium
-- Katatonia
-- Lemmy
-- Metal Church
-- Metallica
-- Pain
-- Redemption
-- Subrosa
-- Suicidal Tendencies
-- Trees of Eternity
-- Volbeat
-author: Mike Roberto
-wpSlug: best-metal-albums-2016
+  - "Amon Amarth"
+  - "Blues Pills"
+  - "Charred Walls of the Damned"
+  - "Death Angel"
+  - "devin townsend"
+  - "Fates Warning"
+  - "Flotsam and Jetsam"
+  - "Gojira"
+  - "Hammers of Misfortune"
+  - "Ihsahn"
+  - "In the Woods..."
+  - "Insomnium"
+  - "Katatonia"
+  - "Lemmy"
+  - "Metal Church"
+  - "Metallica"
+  - "Pain"
+  - "Redemption"
+  - "Subrosa"
+  - "Suicidal Tendencies"
+  - "Trees of Eternity"
+  - "Volbeat"
+author: "Mike Roberto"
+wpSlug: "best-metal-albums-2016"
 wpYear: 2017
-comments_count: 0
-image: https://www.mikeroberto.com/wp-content/uploads/2017/01/best-metal-album-2016.jpg
-metadata:
-  canonical: https://www.mikeroberto.com/2017/best-metal-albums-2016
 ---
+
 <figure class="alignright">
-  <a href="/images/2017/01/best-metal-album-2016.jpg"><img src="https://www.mikeroberto.com/wp-content/uploads/2017/01/best-metal-album-2016-300x300.jpg" alt="Best Metal Album of 2016" width="300" height="300" class="size-medium wp-image-443" /></a>
+  <a href="/images/best-metal-album-2016.jpg"><img src="/images/best-metal-album-2016.jpg" alt="Best Metal Album of 2016" width="300" height="300" class="size-medium wp-image-443" /></a>
   <figcaption>It's <em>nearly</em> unanimous... Fates Warning crushed it in 2016 with Theories of Flight</figcaption>
 </figure>
 
 After a long hiatus, Mike and MetalBrian are *back*. 2016 was a legendary year for obvious reasons, but what many aren’t talking about is how epic of a year it was for **music and heavy metal**.
 
 So here’s our respective Top 15 Albums of 2016, starting with MetalBrian:
+
+<!--more-->
 
 ## MetalBrian’s Best Albums of 2016
 
@@ -55,8 +54,9 @@ So here’s our respective Top 15 Albums of 2016, starting with MetalBrian:
 
  	- Amon Amarth - Jomsviking
 
- 	
+ 	- <div style="float: right; margin-left: 10px;"><iframe src="https://embed.spotify.com/?uri=spotify%3Aalbum%3A5vjij4mTC8pJYNTGtA7WSi" width="300" height="380" frameborder="0" allowtransparency="true"></iframe></div>
 Hammers of Misfortune - Dead Revolution
+
  	- Death Angel - The Evil Divide
 
  	- Subrosa - For This We Fought the Battle of Ages
@@ -78,7 +78,7 @@ Hammers of Misfortune - Dead Revolution
 I’m having a hard time thinking of a better year for heavy music. A year which saw a basically perfect album (Theories of Flight), bands getting back on track after slight detours (Katatonia and Amon Amarth), Mike Howe returning to Metal Church and sounding better than ever, Flotsam and Death Angel carrying the thrash flag with epic releases while their more popular contemporaries - Anthrax, Megadeth and Testament all mailed in shit records.
 
 <figure class="alignleft">
-  <a href="/images/iron-maiden-book-of-souls-tour.jpg"><img src="https://www.mikeroberto.com/wp-content/uploads/iron-maiden-book-of-souls-tour-300x180.jpg" alt="Iron Maiden Book of Souls Tour" width="300" height="180" class="size-medium wp-image-446" /></a>
+  <a href="/images/iron-maiden-book-of-souls-tour.jpg"><img src="/images/iron-maiden-book-of-souls-tour.jpg" alt="Iron Maiden Book of Souls Tour" width="300" height="180" class="size-medium wp-image-446" /></a>
   <figcaption>Just when we thought 2016 couldn't be beat... the Book of Souls Tour continues into 2017!</figcaption>
 </figure>
 
@@ -89,6 +89,8 @@ Every once in awhile a band comes along that I really connect with. Trees of Ete
 On the live front, I was lucky enough to see Iron Maiden kick off the Book Of Souls World tour in Fort Lauderdale. Impressive doesn’t even begin to describe the Iron Maiden machine in 2016. Metal Church live with Mike Howe! And it was worth the 27 year wait. ProgPower in Atlanta, Georgia in September, filled with once in a lifetime performances. Green Carnation - Light of Day, Day of Darkness live was magic, there are no words for it, you have to witness it to understand. Anneke and Devy sharing the stage, Fates Warning with Jon Arch performing Awaken the Guardian. What a weekend, I can’t recommend ProgPower enough - the most professionally run concert I have seen, first class all the way.
 
 ## Mike’s Best Albums of 2016
+
+<div style="margin-left: 10px; float: right;"><iframe src="https://embed.spotify.com/?uri=spotify%3Aartist%3A7zQD2u7oV1a3TyWKXpt4qM" width="300" height="380" frameborder="0" allowtransparency="true"></iframe></div>
 
  	- Charred Walls of the Damned - Creatures Watching over the Dead
 
@@ -123,7 +125,7 @@ On the live front, I was lucky enough to see Iron Maiden kick off the Book Of So
 ### The Metallic Divide
 
 <figure class="alignright">
-  <a href="/images/charred-walls-of-the-damned-creatures-watching-over-the-dead.jpg"><img src="https://www.mikeroberto.com/wp-content/uploads/charred-walls-of-the-damned-creatures-watching-over-the-dead-300x300.jpg" alt="Charred Walls of the Damned - Creatures Watching Over the Dead" width="300" height="300" class="size-medium wp-image-448" /></a>
+  <a href="/images/charred-walls-of-the-damned-creatures-watching-over-the-dead.jpg"><img src="/images/charred-walls-of-the-damned-creatures-watching-over-the-dead.jpg" alt="Charred Walls of the Damned - Creatures Watching Over the Dead" width="300" height="300" class="size-medium wp-image-448" /></a>
   <figcaption>Airplay -- especially in the gym -- put this one way over the top. Ripper and crew can do no wrong!</figcaption>
 </figure>
 
@@ -136,7 +138,7 @@ By all indications, Theories of Flight is musically the best album of the year. 
 Gojira was my surprise of the year - a much-welcomed change of pace and sound from a band that maybe I haven’t given enough of a chance in the past. But going through their back catalogue, it seems that I’ve instead lucked into them morphing into *my* wheelhouse instead.
 
 <figure class="alignleft">
-  <a href="/images/devin-townsend-project-transcendence.jpg"><img src="https://www.mikeroberto.com/wp-content/uploads/devin-townsend-project-transcendence-300x300.jpg" alt="Devin Townsend Project - Transcendence" width="300" height="300" class="size-medium wp-image-450" /></a>
+  <a href="/images/devin-townsend-project-transcendence.jpg"><img src="/images/devin-townsend-project-transcendence.jpg" alt="Devin Townsend Project - Transcendence" width="300" height="300" class="size-medium wp-image-450" /></a>
   <figcaption>Devin Townsend is a very hit-or-miss artist... and Transcendence is a <em>serious</em> hit.</figcaption>
 </figure>
 

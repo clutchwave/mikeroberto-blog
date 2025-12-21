@@ -1,7 +1,6 @@
 ---
 publishDate: 2010-08-06
 title: "IT JUST GOT REAL: Quitting My Sales Job to Start My Own Business"
-excerpt: "This week, I tendered my resignation to my employer, National Instruments, in order to focus on my own internet marketing business that I started. I spent 1.5..."
 category: "Entrepreneurship"
 tags:
   - "national instruments"
@@ -9,8 +8,6 @@ author: "Mike Roberto"
 wpSlug: "things-just-got-real"
 wpYear: 2010
 comments_count: 4
-metadata:
-  canonical: "https://www.mikeroberto.com/2010/things-just-got-real"
 ---
 
 This week, I tendered my resignation to my employer, National Instruments, in order to focus on my own internet marketing business that I started.
@@ -33,7 +30,7 @@ It's been a wild, weird week, and I'm ready for it to end.  But first, I am goin
 
 ---
 
-## Archived Comments (4)
+## Archived Comments
 
 <div class="archived-comments">
 <div class="comment">
@@ -44,7 +41,6 @@ It's been a wild, weird week, and I'm ready for it to end.  But first, I am goin
     Good luck! I was kind of forced into being an entrepreneur before I was ready so it&#x27;s been an, um, &quot;interesting&quot; two years. That being said, I might have a hard time going back to full time if the opportunity presented itself.
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>mike michelini</strong> • <time>2010-08-09 12:26:56</time>
@@ -55,7 +51,6 @@ It's been a wild, weird week, and I'm ready for it to end.  But first, I am goin
 welcome to the club!!!  its gonna be a wild ride
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>nonVello!</strong> • <time>2010-08-06 08:40:33</time>
@@ -64,7 +59,6 @@ welcome to the club!!!  its gonna be a wild ride
     Hooray for untempered, unfiltered Berto!   We&#x27;re with you all the way!
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>Quitting a Job is Hard</strong> • <time>2010-08-28 08:31:28</time>
@@ -73,5 +67,4 @@ welcome to the club!!!  its gonna be a wild ride
     [...] Ever since Shit Got Real, I&amp;#8217;ve been one busy guy. You&amp;#8217;d think it was because I&amp;#8217;ve been working on my own [...]
   </div>
 </div>
-
 </div>

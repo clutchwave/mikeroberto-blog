@@ -1,7 +1,6 @@
 ---
 publishDate: 2008-08-12
 title: "\"Never let defeat have the last word.\""
-excerpt: "Never Let Defeat Have The Last Word."
 category: "Sports"
 tags:
   - "2008 4x100 Free Relay"
@@ -12,11 +11,9 @@ author: "Mike Roberto"
 wpSlug: "never-let-defeat-have-the-last-word"
 wpYear: 2008
 comments_count: 1
-metadata:
-  canonical: "https://www.mikeroberto.com/2008/never-let-defeat-have-the-last-word"
 ---
 
-Never
+**Never
 [![](http://i58.photobucket.com/albums/g278/MicroBerto/2008_Beijing_OlympicGamesSwimmingMe.jpg)](http://i58.photobucket.com/albums/g278/MicroBerto/2008_Beijing_OlympicGamesSwimmingMe.jpg)
 
 Let
@@ -35,11 +32,11 @@ Last
 [![](http://i58.photobucket.com/albums/g278/MicroBerto/2008_Beijing_OlympicGamesSwimmin-4.jpg)](http://i58.photobucket.com/albums/g278/MicroBerto/2008_Beijing_OlympicGamesSwimmin-4.jpg)
 
 Word.
-[![](http://i58.photobucket.com/albums/g278/MicroBerto/2008_Beijing_OlympicGamesSwimmin-6.jpg)](http://i58.photobucket.com/albums/g278/MicroBerto/2008_Beijing_OlympicGamesSwimmin-6.jpg)
+[![](http://i58.photobucket.com/albums/g278/MicroBerto/2008_Beijing_OlympicGamesSwimmin-6.jpg)](http://i58.photobucket.com/albums/g278/MicroBerto/2008_Beijing_OlympicGamesSwimmin-6.jpg)**
 
 ---
 
-## Archived Comments (1)
+## Archived Comments
 
 <div class="archived-comments">
 <div class="comment">
@@ -52,5 +49,4 @@ Word.
 Hope you&#x27;re beaglin&#x27; in Cali.
   </div>
 </div>
-
 </div>

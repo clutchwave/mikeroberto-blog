@@ -7,12 +7,11 @@ author: "Mike Roberto"
 wpSlug: "why-you-do-not-deserve-to-be-the-time-magazine-person-of-the-year"
 wpYear: 2006
 comments_count: 2
-metadata:
-  canonical: "https://www.mikeroberto.com/2006/why-you-do-not-deserve-to-be-the-time-magazine-person-of-the-year"
 ---
 
 *Warning:  This op-ed is extremely American-centric, since it’s where I live and what I know.  I know that the Person of the Year can be from anywhere (or even a non-human), but I am focusing on America.  Feel free to add comments or write your own if you can do better.*
 
+In what could be the greatest literary cop-out of this young century, ![](http://img.timeinc.net/time/magazine/archive/covers/2006/1101061225_400.jpg)TIME Magazine has surprised the world and selected **YOU** to be their annual [Person of the Year](http://www.time.com/time/magazine/article/0,9171,1569514,00.html).  That’s right, they chose you.
 
 Now, I know that 2006 has been quite a pathetic and abysmal year as far as world news goes, and [the primary choices](http://www.time.com/time/personoftheyear/2006/walkup/) were bleak at best... but YOU?  ME?!
 
@@ -38,17 +37,17 @@ So relatively few of you blog, submit articles to wikipedia, post videos on YouT
 
 But now you got me mad, people.  Not only are you undeserving of this award, you are undeserving of anything besides a slap in the face.  Let's take a look at how badly you're screwing things up:
 
-[You spend $1.10 for every $1.00 you make](http://www.nwaonline.net/articles/2006/12/10/business/121006consumerdebt.txt) (original data [here](http://www.federalreserve.gov/Releases/G19/Current/)).
+- [You spend $1.10 for every $1.00 you make](http://www.nwaonline.net/articles/2006/12/10/business/121006consumerdebt.txt) (original data [here](http://www.federalreserve.gov/Releases/G19/Current/)).
 
 Is anybody aware of how freaking bad this is?!?!  Do any of you realize that this is cited as [one of the potential causes of the Great Depression](http://en.wikipedia.org/wiki/Great_depression#Suggested_causes_of_the_depression)?  I'm not saying we're heading there, but I AM saying to stop spending money you don't have and won't have in the near future.
 
-[4.7% of you are delinquent on your mortgage payments](http://www.nytimes.com/2006/12/14/business/14mortgage.html?_r=3&ref=business&oref=slogin&oref=slogin&oref=slogin), a steadily rising number.  12.6% of subprime borrowers are not making payments.
+- [4.7% of you are delinquent on your mortgage payments](http://www.nytimes.com/2006/12/14/business/14mortgage.html?_r=3&ref=business&oref=slogin&oref=slogin&oref=slogin), a steadily rising number.  12.6% of subprime borrowers are not making payments.
 
 With all the ARMs ([adjustable rate mortgages](http://en.wikipedia.org/wiki/Adjustable_rate_mortgage)) out there, I have a hard time believing that there won’t be a lot of foreclosures next year.   Especially now that [20% of mortgages are sub-prime, stated income mortgages are increasingly used, 60% of you sub-prime people are lying about your incomes, and many of you have negative equity in your homes.](http://www.occ.treas.gov/ftp/release/2006-124a.pdf)
 
 Let me spell this out for you:  STOP BUYING STUFF YOU CAN'T AFFORD.  IT IS BAD FOR YOU AND BAD FOR THE ECONOMY.
 
-You are still building awful automobiles, and [your mistakes are beginning to take their toll](http://money.cnn.com/2006/12/05/news/economy/challenger_layoff.reut/?postversion=2006120509).
+- You are still building awful automobiles, and [your mistakes are beginning to take their toll](http://money.cnn.com/2006/12/05/news/economy/challenger_layoff.reut/?postversion=2006120509).
 
 [![](https://www.mikeroberto.com/TIME/New_Passenger_Car_Sales-thumb.jpg)](https://www.mikeroberto.com/TIME/New_Passenger_Car_Sales.jpg)
 
@@ -56,7 +55,7 @@ I’m all for American-made products whenever it makes sense, but I’m sorry, n
 
 - [Manufacturing might be next...  ISM is under 50](http://money.cnn.com/2006/12/01/news/economy/ism/).  [Every time this happened since the 60s, we've gone into a recession](http://www.washingtonpost.com/wp-dyn/content/article/2006/12/01/AR2006120100362.html?nav=rss_business/industries)
 
-In 2000, we had a glut of crappy websites, network hardware, and overpriced NASDAQ stocks.  Now, we have a glut of crappy cars and homes that people can’t afford.  Which bubble bursts louder?
+- In 2000, we had a glut of crappy websites, network hardware, and overpriced NASDAQ stocks.  Now, we have a glut of crappy cars and homes that people can’t afford.  Which bubble bursts louder?
 
 And despite this bad news, what did you do?[![](https://www.mikeroberto.com/TIME/Wilshire5000-121706-thumb.jpg)](https://www.mikeroberto.com/TIME/Wilshire5000-121706.jpg)  You ran the stock market up to an all-time high this year.  Shown to the side is the Wilshire 5000 Index, an all-around market indicator.  Go ahead and check out any other indicator and you’ll see the same thing – you have driven the stock market to its highest points.
 
@@ -72,7 +71,7 @@ I hope I’m wrong, but I just don’t feel like investing at this “high” ri
 
 - ...while anywhere from [57 to 62% of you think that me and my tax money should pick up the tab when you get sick from it all](http://www.pollingreport.com/health3.htm)
 
-In the meantime, [over half of you STILL don’t vote](http://elections.gmu.edu/Voter_Turnout_2006.htm)... despite all of those political YouTube videos you kids watched.
+- In the meantime, [over half of you STILL don’t vote](http://elections.gmu.edu/Voter_Turnout_2006.htm)... despite all of those political YouTube videos you kids watched.
 
 There *is* one thing I’ll admit that I’m happy you did:  enough of you showed up at the polls to neutralize the man who may end up being the single worst president of US history.
 
@@ -82,9 +81,9 @@ There *is* one thing I’ll admit that I’m happy you did:  enough of you showe
 
 - You have made it impossible for me to go grocery shopping without seeing magazines that ALL  feature either Brad Pitt, Jennifer Aniston, and/or Jessica Simpson on the cover
 
-You paid [tens of billions of dollars for one of the absolute worst movie years I can remember](http://www.boxofficemojo.com/yearly/chart/?yr=2006)
+- You paid [tens of billions of dollars for one of the absolute worst movie years I can remember](http://www.boxofficemojo.com/yearly/chart/?yr=2006)
 
-- [59% of you still use an inferior web browser](http://www.w3counter.com/globalstats/) (that number is even higher in the US) – [possibly the single most exploited and costly piece of software in the history of computing](http://www.pcmag.com/article2/0,1895,1952999,00.asp).
+<li>[59% of you still use an inferior web browser](http://www.w3counter.com/globalstats/) (that number is even higher in the US) – [possibly the single most exploited and costly piece of software in the history of computing](http://www.pcmag.com/article2/0,1895,1952999,00.asp).
 
 - And, of all offenses, [NICKELBACK is in the top 3 album sales of 2006](http://bumpshack.com/?p=1719).  Are you people serious?
 
@@ -98,7 +97,7 @@ And stop pretending that you deserve to be the Person of the Year.  Because you 
 
 ---
 
-## Archived Comments (2)
+## Archived Comments
 
 <div class="archived-comments">
 <div class="comment">
@@ -109,7 +108,6 @@ And stop pretending that you deserve to be the Person of the Year.  Because you 
     This blog made my day!
   </div>
 </div>
-
 <div class="comment">
   <div class="comment-meta">
     <strong>Lon</strong> • <time>2007-01-15 14:22:19</time>
@@ -118,5 +116,4 @@ And stop pretending that you deserve to be the Person of the Year.  Because you 
     DAMNIT!  WHY DON&#x27;T TABS WORK ON THIS PAGE?  The blog however is just classic!
   </div>
 </div>
-
 </div>

@@ -1,26 +1,23 @@
 ---
 publishDate: 2018-06-22
-title: Is the Combo of Carbs and Fats Duping Your Brain.. and Diet?
-excerpt: Is one of our bigger diet problems when we mix carbs and fats together? Because our brains sure get confused by the situation... Image Courtesy Cell...
-category: Diet Research
+title: "Is the Combo of Carbs and Fats Duping Your Brain.. and Diet?"
+image: "https://www.mikeroberto.com/images/carbs-fats-combination.jpg"
+category: "Diet Research"
 tags:
-- Calories
-- Carbohydrates
-- Cian Foley
-- Fat
-- Hyperphasia
-- Low Carb
-- Low Fat Diet
-author: Mike Roberto
-wpSlug: carbs-fats-brain
+  - "Calories"
+  - "Carbohydrates"
+  - "Cian Foley"
+  - "Fat"
+  - "Hyperphasia"
+  - "Low Carb"
+  - "Low Fat Diet"
+author: "Mike Roberto"
+wpSlug: "carbs-fats-brain"
 wpYear: 2018
-comments_count: 0
-image: https://www.mikeroberto.com/wp-content/uploads/carbs-fats-combination.jpg
-metadata:
-  canonical: https://www.mikeroberto.com/2018/carbs-fats-brain
 ---
+
 <figure class="alignright">
-  <a href="/images/carbs-fats-combination.jpg"><img src="https://www.mikeroberto.com/wp-content/uploads/carbs-fats-combination-300x301.jpg" alt="Carbs Fats Combination" width="300" height="301" class="size-medium wp-image-626" /></a>
+  <a href="/images/carbs-fats-combination.jpg"><img src="/images/carbs-fats-combination.jpg" alt="Carbs Fats Combination" width="300" height="301" class="size-medium wp-image-626" /></a>
   <figcaption>Is one of our bigger diet problems when we mix carbs <em>and</em> fats together? Because our brains sure get confused by the situation... Image Courtesy Cell Metabolism[1]</figcaption>
 </figure>
 
@@ -39,7 +36,7 @@ But now we have some direction as to why so many people are way better off with 
 ## Is Your Brain Programmed to "Count Macros"?
 
 <figure class="alignleft">
-  <a href="/images/junk-food.jpg"><img src="https://www.mikeroberto.com/wp-content/uploads/junk-food-300x141.jpg" alt="Junk Food" width="300" height="141" class="size-medium wp-image-627" /></a>
+  <a href="/images/junk-food.jpg"><img src="/images/junk-food.jpg" alt="Junk Food" width="300" height="141" class="size-medium wp-image-627" /></a>
   <figcaption>As we have "known" for a while, a combination of high fats and high carbs in a diet could be detrimental.</figcaption>
 </figure>
 
@@ -52,7 +49,7 @@ Why? Apparently, this effect results in recruitment of a person’s central rewa
 This seems to make sense with the eye test. Clearly, our brain fires pleasure signals when we see a "cheat meal", knowing how good it will taste. More often than not, that cheat meal will have a combination of carbs and fats in conjunction with one another. Some of the most glorified “pleasure” foods are usually a high combination of fats and carbs:
 
 <figure class="alignright">
-  <a href="/images/cheat-meal-carbs-fats.jpg"><img src="https://www.mikeroberto.com/wp-content/uploads/cheat-meal-carbs-fats-300x225.jpg" alt="Cheat Meal" width="300" height="225" class="size-medium wp-image-630" /></a>
+  <a href="/images/cheat-meal-carbs-fats.jpg"><img src="/images/cheat-meal-carbs-fats.jpg" alt="Cheat Meal" width="300" height="225" class="size-medium wp-image-630" /></a>
   <figcaption>Consider the effects of cheat meals, if used too often and in a non-strategic manner.</figcaption>
 </figure>
 
@@ -70,9 +67,12 @@ This seems to make sense with the eye test. Clearly, our brain fires pleasure si
 
 You get the point. Sure, you can make healthier versions, but your average restaurant isn’t going to measure the oil or butter they use on a food scale, and even worse, those restaurants and processed food manufacturers use seed oils that are high in inflammatory omega-6 fatty acids. Even if you count calories and macros, you generally have to assume your macros will crushed if eating out and enjoying any of the above stuff.
 
+<div class="sidebar right">
 ### Introducing Hyperphagia
 
 The above foods lead to what's known as *hyperphagia*, which is an excessive "sensation of hunger or desire to eat" that leads to massive amounts of overeating with very little "signal" to stop. What most don't realize is that these types of foods -- carbs and fats together (often with some salt and high in omega-6 fatty acids) found so rarely in nature -- actually *lead* to this condition, and avoiding them limits binge episodes.
+
+</div>
 
 ### Protein can't be ignored...
 
@@ -83,7 +83,7 @@ On top of that, the above foods are often low protein but usually not *zero* pro
 In this study, participants were given five Euros and told they could bid on food items. They were only bidding against a computer, with random bid amounts. The study gets interesting here, as the data shows that participants were given three distinct options:
 
 <figure class="alignright">
-  <a href="/images/carbs-fats-valuation.jpg"><img src="https://www.mikeroberto.com/wp-content/uploads/carbs-fats-valuation-300x301.jpg" alt="Carbs Fats Valuation" width="300" height="301" class="size-medium wp-image-631" /></a>
+  <a href="/images/carbs-fats-valuation.jpg"><img src="/images/carbs-fats-valuation.jpg" alt="Carbs Fats Valuation" width="300" height="301" class="size-medium wp-image-631" /></a>
   <figcaption>An overwhelming amount of particpants opted to have a food that was high in both fat and carbs, rather than food that was in only one of those macros.[1]</figcaption>
 </figure>
 
@@ -105,12 +105,13 @@ The best explanation for the study's results are actually one that weren't even 
 
 Consider the two times when carbs and fats are found together:
 
- 
+ - 
 #### Breastmilk
 
 Built for the most important "bulking season" of our lives, breastmilk is actually pretty low in protein - around 6% - but plenty high in carbs and fats! This is because newborn humans need to pack on as much weight as possible after birth, even if it's in the form of added bodyfat!
  
- 
+
+ - 
 #### During the autumn harvest
 
 Autumn is a time when animals fatten up and fruits and nuts harvest. Carbs and fats together. It's also the time when animals *must* prepare for hibernation and the cold winter.
@@ -126,7 +127,7 @@ Of course, we no longer have evolutionary pressures - but our lizard brains don'
 ## Researcher Theory: Are Artificial Sweeteners Ruining Our Brain’s Ability To Value Carbohydrate Calories?
 
 <figure class="alignleft">
-  <a href="/images/artificial-sweeteners.jpg"><img src="https://www.mikeroberto.com/wp-content/uploads/artificial-sweeteners-300x220.jpg" alt="Artificial Sweeteners" width="300" height="220" class="size-medium wp-image-633" /></a>
+  <a href="/images/artificial-sweeteners.jpg"><img src="/images/artificial-sweeteners.jpg" alt="Artificial Sweeteners" width="300" height="220" class="size-medium wp-image-633" /></a>
   <figcaption>Artificial sweeteners are nice to avoid excess calories but be warned it may be tricking your brain!</figcaption>
 </figure>
 Another (unlikely) possibility proposed by the researchers is that recent increases in artificial sweeteners in modern diets can degrade how our brain associates differences between carbohydrate-containing foods and its actual energy density. Essentially, this creates an impaired ability to estimate calories correctly.[1]
@@ -138,7 +139,7 @@ This makes a bit of sense, but doesn't account for issues that occur such as whe
 This data suggests that the association between food as a reward and food as an energy dense option will differ for fat and carbohydrate (Figure 2). For fatty foods, our willingness to pay is tightly coupled to energy density and self-reported "food liking". Although both food liking and energy density are associated with willingness to pay, mediation analyses indicate that these factors contribute independently to reward value.[1]
 
 <figure class="alignright">
-  <a href="/images/carbs-fats-figure-2.jpg"><img src="https://www.mikeroberto.com/wp-content/uploads/carbs-fats-figure-2-300x184.jpg" alt="Carbs Fats Figure 2" width="300" height="184" class="size-medium wp-image-634" /></a>
+  <a href="/images/carbs-fats-figure-2.jpg"><img src="/images/carbs-fats-figure-2.jpg" alt="Carbs Fats Figure 2" width="300" height="184" class="size-medium wp-image-634" /></a>
   <figcaption>Figure 2[1]</figcaption>
 </figure>
 
@@ -158,22 +159,27 @@ Long story short - eat carbs and fats together, your body has to burn the carbs,
 
 ## What does this all mean?
 
+<div class="sidebar right">
 ### We theorized this in 2016!
 
 In my popular blog post titled *[Want to Die Sooner? Then Don’t Eat Your Vegetables](https://blog.priceplow.com/vegetables)*, I hypothesized this issue in my ["broscience theory" section](https://blog.priceplow.com/vegetables#broscience) of that post, essentially suggesting you pick a side unless you're willing to count calories and weigh food like a hawk. Every new study like this makes it look like a better idea, although the *best* idea is adopting a satiating diet that requires *zero* calorie counting!
 
+</div>
+
 This study produced two findings that are relevant to help understand why we make certain food choices:
 
+- 
 ### Fats and carbs are more mentally "rewarding"
 
 First, this is the first demonstration that foods containing both fat and carbohydrate are more rewarding, calorie for calorie, than those containing only fat or only carbohydrate. The study also proves this via brain monitoring. It proved that people will have a more “reward” like effect when given food options consisting of carbs and fats, rather than one or the other.[1]
 
+- 
 ### It's easier to estimate energy density of fatty-only foods
 
 Second, this study revealed that individuals are better able to estimate the energy density of fat foods, compared with carbohydrate foods, and fat combined with carbohydrate foods.[1]
 
 <figure class="alignright">
-  <a href="/images/brain-monitoring-carbs-fats.jpg"><img src="https://www.mikeroberto.com/wp-content/uploads/brain-monitoring-carbs-fats-300x287.jpg" alt="Brain Monitoring Carbs Fats" width="300" height="287" class="size-medium wp-image-635" /></a>
+  <a href="/images/brain-monitoring-carbs-fats.jpg"><img src="/images/brain-monitoring-carbs-fats.jpg" alt="Brain Monitoring Carbs Fats" width="300" height="287" class="size-medium wp-image-635" /></a>
   <figcaption>Brain monitoring during this study proved that "rewards circuits" were firing across the brain in response to fat and carb foods, more so than fat foods or carb foods alone.</figcaption>
 </figure>
 
@@ -207,28 +213,30 @@ This may be one theory that explains how processed foods high in fat and carbohy
 
 ## References
 
-	
+	<ol class="references">
 
-- DiFeliceantonio, Alexandra G., Coppin, Géraldine., Rigoux, Lionel., Thanarajah, Sharmili Edwin., Dagher, Alain., Tittgemeyer, Marc., Small, Dana M., Supra-Additive Effects of Combining Fat and Carbohydrate on Food Reward. [https://www.sciencedirect.com/science/article/pii/S1550413118303255](https://www.sciencedirect.com/science/article/pii/S1550413118303255)
+<li>DiFeliceantonio, Alexandra G., Coppin, Géraldine., Rigoux, Lionel., Thanarajah, Sharmili Edwin., Dagher, Alain., Tittgemeyer, Marc., Small, Dana M., Supra-Additive Effects of Combining Fat and Carbohydrate on Food Reward. <a href="https://www.sciencedirect.com/science/article/pii/S1550413118303255" target="_blank" rel="noopener noreferrer">https://www.sciencedirect.com/science/article/pii/S1550413118303255</a></li>
 
-- Parker, B. et al; “Effect Of A High-Protein, High-Monounsaturated Fat Weight Loss Diet On Glycemic Control And Lipid Levels In Type 2 Diabetes”; Diabetes Care; 25.3 (2002): 425-430; [http://care.diabetesjournals.org/content/25/3/425.long](http://care.diabetesjournals.org/content/25/3/425.long)
+<li>Parker, B. et al; “Effect Of A High-Protein, High-Monounsaturated Fat Weight Loss Diet On Glycemic Control And Lipid Levels In Type 2 Diabetes”; Diabetes Care; 25.3 (2002): 425-430; <a href="http://care.diabetesjournals.org/content/25/3/425.long" target="_blank" rel="noopener noreferrer">http://care.diabetesjournals.org/content/25/3/425.long</a></li>
 
-- Evans, Ellen M, et al; “Effects of Protein Intake and Gender on Body Composition Changes: A Randomized Clinical Weight Loss Trial”; Nutrition & Metabolism 9 (2012): 55; [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3407769/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3407769/)
+<li>Evans, Ellen M, et al; “Effects of Protein Intake and Gender on Body Composition Changes: A Randomized Clinical Weight Loss Trial”; Nutrition &amp; Metabolism 9 (2012): 55; <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3407769/" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3407769/</a></li>
 
-- Leidy, H. J. et al; “The Role Of Protein In Weight Loss And Maintenance”. American Journal of Clinical Nutrition 101.6 (2015): 1320S-1329S; [http://ajcn.nutrition.org/content/101/6/1320S.long](http://ajcn.nutrition.org/content/101/6/1320S.long)
+<li>Leidy, H. J. et al; “The Role Of Protein In Weight Loss And Maintenance”. American Journal of Clinical Nutrition 101.6 (2015): 1320S-1329S; <a href="http://ajcn.nutrition.org/content/101/6/1320S.long" target="_blank" rel="noopener noreferrer">http://ajcn.nutrition.org/content/101/6/1320S.long</a></li>
 
-	- Tellez, L.A., Han, W., Zhang, X., Ferreira, T.L., Perez, I.O., Shammah-Lagnado, S.J., van den Pol, A.N., and de Araujo, I.E. (2016). Separate circuitries encode the hedonic and nutritional values of sugar. Nat. Neurosci. 19, 465–470; [https://www.nature.com/articles/nn.4224](https://www.nature.com/articles/nn.4224)
+	<li>Tellez, L.A., Han, W., Zhang, X., Ferreira, T.L., Perez, I.O., Shammah-Lagnado, S.J., van den Pol, A.N., and de Araujo, I.E. (2016). Separate circuitries encode the hedonic and nutritional values of sugar. Nat. Neurosci. 19, 465–470; <a href="https://www.nature.com/articles/nn.4224" target="_blank" rel="noopener noreferrer">https://www.nature.com/articles/nn.4224</a></li>
 
-	- Tellez, L.A., Medina, S., Han, W., Ferreira, J.G., Licona-Limon, P., Ren, X., Lam, T.T., Schwartz, G.J., and de Araujo, I.E. (2013b). A gut lipid messenger links excess dietary fat to dopamine deficiency. Science 341, 800–802; [http://science.sciencemag.org/content/341/6147/800](http://science.sciencemag.org/content/341/6147/800)
+	<li>Tellez, L.A., Medina, S., Han, W., Ferreira, J.G., Licona-Limon, P., Ren, X., Lam, T.T., Schwartz, G.J., and de Araujo, I.E. (2013b). A gut lipid messenger links excess dietary fat to dopamine deficiency. Science 341, 800–802; <a href="http://science.sciencemag.org/content/341/6147/800" target="_blank" rel="noopener noreferrer">http://science.sciencemag.org/content/341/6147/800</a></li>
 
-	- Tellez, L.A., Ren, X., Han, W., Medina, S., Ferreira, J.G., Yeckel, C.W., and de Araujo, I.E. (2013c). Glucose utilization rates regulate intake levels of artificial sweeteners. J. Physiol. 591, 5727–5744. [https://physoc.onlinelibrary.wiley.com/doi/abs/10.1113/jphysiol.2013.263103](https://physoc.onlinelibrary.wiley.com/doi/abs/10.1113/jphysiol.2013.263103)
+	<li>Tellez, L.A., Ren, X., Han, W., Medina, S., Ferreira, J.G., Yeckel, C.W., and de Araujo, I.E. (2013c). Glucose utilization rates regulate intake levels of artificial sweeteners. J. Physiol. 591, 5727–5744. <a href="https://physoc.onlinelibrary.wiley.com/doi/abs/10.1113/jphysiol.2013.263103" target="_blank" rel="noopener noreferrer">https://physoc.onlinelibrary.wiley.com/doi/abs/10.1113/jphysiol.2013.263103</a></li>
 
-- Simpson S, Raubenheimer,D; “Obesity: the protein leverage hypothesis”; Obes Reviews; 6(2):133-42; May 2005; [https://www.ncbi.nlm.nih.gov/pubmed/15836464](https://www.ncbi.nlm.nih.gov/pubmed/15836464)
+<li>Simpson S, Raubenheimer,D; “Obesity: the protein leverage hypothesis”; Obes Reviews; 6(2):133-42; May 2005; <a href="https://www.ncbi.nlm.nih.gov/pubmed/15836464" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/pubmed/15836464</a></li>
 
-- Foley, Cian; "Don't Eat For Winter"; [https://www.donteatforwinter.com/](https://www.donteatforwinter.com/)
+<li>Foley, Cian; "Don't Eat For Winter"; <a href="https://www.donteatforwinter.com/" target="_blank" rel="noopener noreferrer">https://www.donteatforwinter.com/</a></li>
 
- 	- Sidossis, L, et al; "Glucose and insulin-induced inhibition of fatty acid oxidation: the glucose-fatty acid cycle reversed"; American Journal of Physiology; 270(4 Pt 1):E733-8; April 1996; [https://www.ncbi.nlm.nih.gov/pubmed/8928782](https://www.ncbi.nlm.nih.gov/pubmed/8928782)
+ 	<li>Sidossis, L, et al; "Glucose and insulin-induced inhibition of fatty acid oxidation: the glucose-fatty acid cycle reversed"; American Journal of Physiology; 270(4 Pt 1):E733-8; April 1996; <a href="https://www.ncbi.nlm.nih.gov/pubmed/8928782" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/pubmed/8928782</a></li>
+ 	<li>Bonadonna, R; "Dose-dependent effect of insulin on plasma free fatty acid turnover and oxidation in humans"; The American Journal of Physiology; 259(5 Pt 1):E736-50; November 1990; <a href="https://www.ncbi.nlm.nih.gov/pubmed/2240211" target="_blank" rel="noopener noreferrer">https://www.ncbi.nlm.nih.gov/pubmed/2240211</a></li>
 
- 	- Bonadonna, R; "Dose-dependent effect of insulin on plasma free fatty acid turnover and oxidation in humans"; The American Journal of Physiology; 259(5 Pt 1):E736-50; November 1990; [https://www.ncbi.nlm.nih.gov/pubmed/2240211](https://www.ncbi.nlm.nih.gov/pubmed/2240211)
+ 	<li>Acheson, K J, et al; "Glycogen storage capacity and de novo lipogenesis during massive carbohydrate overfeeding in man"; The American Journal of Clinical Nutrition; Volume 48, Issue 2; August 1988; Pages 240–247; <a href="https://academic.oup.com/ajcn/article-abstract/48/2/240/4694971" target="_blank" rel="noopener noreferrer">https://academic.oup.com/ajcn/article-abstract/48/2/240/4694971</a></li>
 
- 	- Acheson, K J, et al; "Glycogen storage capacity and de novo lipogenesis during massive carbohydrate overfeeding in man"; The American Journal of Clinical Nutrition; Volume 48, Issue 2; August 1988; Pages 240–247; [https://academic.oup.com/ajcn/article-abstract/48/2/240/4694971](https://academic.oup.com/ajcn/article-abstract/48/2/240/4694971)
+
+</ol>

@@ -7,8 +7,6 @@ author: "Mike Roberto"
 wpSlug: "hostel-review-cuesta-arriba-in-santa-teresa-costa-rica"
 wpYear: 2007
 comments_count: 1
-metadata:
-  canonical: "https://www.mikeroberto.com/2007/hostel-review-cuesta-arriba-in-santa-teresa-costa-rica"
 ---
 
 Sometimes you find the greatest places by accident.  Billy and I were at the last leg of our Costa Rica trip, and decided to go to the surf town of Santa Teresa and maybe Mal País.  The place recommended by Lonely Planet looked like a disaster area, so we hit the streets.  A bunch of people coming from the beach were walking further down the main street, so we decided to follow.  We arrived at the **Cuesta Arriba Hostel** and were immediately pleased with what we saw.
@@ -34,7 +32,7 @@ This will probably be my last writing about the actual Costa Rica trip.  I could
 
 ---
 
-## Archived Comments (1)
+## Archived Comments
 
 <div class="archived-comments">
 <div class="comment">
@@ -45,5 +43,4 @@ This will probably be my last writing about the actual Costa Rica trip.  I could
     Hi my name is Joe.  I am old family friends of Charlie and Denies Robinson, the owners of Hotel Buenisimo and Rancho Sancho.  I am 26 years old and I&quot;m looking for a new life in Costa Rica.  I&quot;ve worked in restaurants for 10 years cooking and serving tables.  I speek spanish and english very well.  If there is any job openings I would love to apply.  Thanks
   </div>
 </div>
-
 </div>
