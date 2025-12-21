@@ -11,12 +11,10 @@ metadata:
   canonical: "https://www.mikeroberto.com/2008/the-great-unamerican-beer"
 ---
 
-![](http://c.myspace.com/Groups/00022/01/13/22663110_m.png)This past Friday, I was asked to buy some beer for a party.  On my way to the grocery store, I deposited my Stimulus Check, then used some of that to buy a case of Bud Light.  A few hours later, I realized that this seemingly normal sequence of events was an ironic microcosm for the economic disaster that this country faces, and I was part of the problem.
 
 Over the past decade, our government has engaged in a [series of actions that have resulted in the devaluation of the US Dollar](http://www.youtube.com/watch?v=8pEiLHnjAiw).  From 
 artificially low interest rates to printing up "free money" and distributing it as "stimulus checks", our dollar has become more and more worthless on the global market.  Just like its citizenry, this country spends more money than it makes.  What makes the government different than its citizens is that the government doesn't go bankrupt  -- the money just becomes increasingly useless.
 
-[![](http://www.goldmoney.com/en/images/commentary-images/commentary-charts/alert_2008-01-02c.gif)](http://www.goldmoney.com/en/commentary/2008-01-02.html)As a result of this, the prices of imported goods (oil, anybody?) have skyrocketed, and our country is quietly being bought out by the [Europeans](http://www.dw-world.de/dw/article/0,,860494,00.html).
 
 That case of Bud Light, which is produced by now European-owned Anheuser-Busch, was direct support for the collapse of the dollar and those who are profiting off of it. Cashing that check devalued the dollar, and the devaluation of the dollar is partially responsible for the [sale of AB to InBev](http://www.stltoday.com/stltoday/business/stories.nsf/business/story/89d4eb15947240a28625748b000c9b44?OpenDocument).  Regardless of which came first, the downward spiral we are traveling upon will be difficult to derail unless we make changes now.
 
@@ -45,7 +43,6 @@ This means that the next time I'm asked to buy some light beer for a party, here
 
 - [Shiner (Spoetzel Brewery)](http://www.shiner.com/beers/beers-home.php?pg=light) - I absolutely love this stuff, and will drink it on my upcoming trip to Austin, but I've never seen a Shiner Light out here.  Shiner Bock will do for now.
 
-![](http://www.shiner.com/beers/images/Light.gif)At this point, I give up.
 
 The time is ripe for an American to step it up, make the next popular light beer, and distribute/market it like mad.  While you're at it, get the NASCAR crowd up in arms.  Pabst could step up to the table, but they need to start brewing their own beer again before I jump onto that bandwagon.  Until then, I suppose I'm drinking Shiner and Fat Tire.
 

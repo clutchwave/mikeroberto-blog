@@ -17,7 +17,6 @@ There are several methods of obtaining this cost-of-living change, such as using
 
 This data is great, especially when you want a serious number that includes housing.  But when it comes to the price differences for general "stuff", I call BS on those studies.  Because in the end, the prices change proportionally to one thing -- perhaps the most precious thing -- and that is **cereal**.
 
-Cereal is the one commodity that defines all economic factors besides housing.  It is processed food, requiring such manufactured goodness as whole grains, high fructose corn syrup, and 8 essential vitamins and minerals (including everyone's personal favorite, riboflavin).  ![](http://www.goreydetails.net/images/items/jpeg1124519040.jpg)It uses plastic, a small element from the chemical and petroleum industries.  It takes up space, creating shipping and storage costs.  The box is cardboard, so trees died somewhere for it.  And last but not least, the added components of manual labor, which includes the heroic figure who smoked enough dope to come up with Count Chocula.
 
 And unfortunately, cereal's pretty damned expensive out here.  A box of generic cereal is $2.60 if you're lucky in South Bay.  In Austin, that same box was $2.00.  That's 30% more expensive for a worse product! (not even Kroger brands can top Hill Country Fare)
 
@@ -25,11 +24,9 @@ And unfortunately, cereal's pretty damned expensive out here.  A box of generic 
 
 Which brings me to Life.
 
-![](http://www.lifecereal.com/images/img_box_LifeVYC.jpg)More specifically, [Life Vanilla Yogurt Crunch](http://www.lifecereal.com/LFE_ProductsNutrition/LifeVanillaYogurtCrunch.cfm).  This delightful biscuity cereal with magical white globules of sugary yogurt deliciousness can be fetched at your local [Vons](http://www.vons.com) for a mere $2.00!  That's play money in SoCal!
 
 So my point is that even when in hostile cereal spending territory, a blind squirrel like you can find a nut.  And not just any nut, but one that contains delectable white sugar lumps and ***nine*** essential vitamins and minerals!
 
-![](http://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Mikey_life_cereal.jpg/180px-Mikey_life_cereal.jpg)I've come to realize that expensive areas are expensive for a reason: because they're great places to live, and thus, lots of people want to live there.  And at the end of the day, after reflecting on money, the South Bay lifestyle, and cereal, there's only one thing left to say:  *Mikey Likes It!*
 
 ---
 

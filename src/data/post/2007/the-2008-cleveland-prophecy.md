@@ -27,7 +27,6 @@ But then there's our favorite -- [The Drive](http://en.wikipedia.org/wiki/The_Dr
 
 It only took another year for more of the same.  In January of 1988, [The Fumble](http://en.wikipedia.org/wiki/The_Fumble) went down, where Bernie Kosar's four 2nd-half touchdowns would be negated by Earnest Byner's fumble on the Denver 3-yard-line.  1987 stabbed you in the heart, 1988 twisted the blade.
 
-![](http://upload.wikimedia.org/wikipedia/en/d/dd/MJ_shot.JPG)We weren't beat down enough, so Michael Jordan decided to join the party.  16 months after The Fumble, MJ nailed [The Shot](http://en.wikipedia.org/wiki/The_Shot) over poor Craig Ehlo, which I'm sure you've seen on hundreds of Gatorade commercials.
 
 Next up – Art Modell and Al Lerner tear the soul from the city and [move the Cleveland Browns to Baltimore](http://en.wikipedia.org/wiki/Art_Modell#Move_to_Baltimore), who of course go on to win the Super Bowl.  I will not debate who is at fault for this move, as far as I'm concerned, everyone is, but it goes without saying that 1996-1998 sucked in Cleveland...
 
@@ -35,7 +34,6 @@ Next up – Art Modell and Al Lerner tear the soul from the city and [move the C
 
 In between all of these time gaps, every other Cleveland team is losing their asses off.  That is, until 2007, when the Cleveland Cavs bring championship basketball back to the Heart of Rock and Roll, but lose to a superior San Antonio Spurs.
 
-So this brings me back to the **2008 Cleveland Prophecy**.  ![](http://i.a.cnn.net/si/2006/writers/arash_markazi/11/10/lebron/p1_lebron1.jpg)Things began looking up a few years back – Lebron James on the Cavs.  Hafner, Sabathia, and Sizemore on the Indians.  Phil Savage to return the Browns back to glory.  And slowly, the pieces are truly coming together.
 
 The Cavs need just one or two more skilled players for Lebron to play along with, as well as the hopeful development of Daniel Gibson.  GM Danny Ferry has ONE offseason to get it together – the Cavs will have to be the first to win in 2008.
 

@@ -30,9 +30,6 @@ Exactly a year ago, I was thrown into a reality TV pilot titled [Crash Test](htt
 
 I was the "biomedical scientist" of the bunch, and took measurements to determine if the real-life accidents would have really occurred in our simulations had we not been using professional stuntmen and women.
 
-<figure class="alignleft">
-  <a href="http://sphotos.ak.fbcdn.net/hphotos-ak-snc3/hs456.snc3/26093_1360470644728_1020395698_1074614_7128527_n.jpg"><img alt="Crash Test Spike TV - Remote Controlled 70MPH Crash!" src="http://sphotos.ak.fbcdn.net/hphotos-ak-snc3/hs456.snc3/26093_1360470644728_1020395698_1074614_7128527_n.jpg" title="Crash Test Spike TV - Remote Controlled 70MPH Crash!" width="300"/></a>
-</figure>
 
 For reasons I'd rather not get into, the show is not moving forward with a whole season, despite its rave reviews from both sexes and all age groups (further despite the bad rating on IMDB... who's the clown that gave us a 1/10?!).  So at this point, I'd like to add my perspective.
 
@@ -52,9 +49,7 @@ At this point, I must give a shout-out and thank NI Systems Engineering* for the
 *(side note: If you're an NI customer working on a very large project and are not leveraging these resources, you're crazy NOT to contact your local rep and make sure you're doing things right!) 
 
 **Come Prepared (Research)**
-<figure class="alignright">
-  <a href="http://www.imdb.com/name/nm3834816/" title="I have an IMDB Profile?!" target="_blank"><img alt="Mike Roberto IMDB" src="http://sphotos.ak.fbcdn.net/hphotos-ak-snc4/hs062.snc4/34452_10100202193564395_12409364_57025209_5708078_n.jpg" title="I have an IMDB profile?" width="300"/></a>
-</figure>***You are the expert*** on whatever the hell you're doing.  Or so the country believes.  One of the directors is going to be asking you questions from your perspective.  You need to know what's going on, and how to compare it to real world stuff so that the audience has a clue what you're talking about?
+***You are the expert*** on whatever the hell you're doing.  Or so the country believes.  One of the directors is going to be asking you questions from your perspective.  You need to know what's going on, and how to compare it to real world stuff so that the audience has a clue what you're talking about?
 
 There was 40g of force?  Guess what, geek - that means nothing to 99.5% of the country.  But "it's the same impact force as getting hit by a college lineman off the line of scrimmage"?  Cool, now you're talkin.
 
@@ -98,9 +93,6 @@ Because I was pulled in at the last minute, I was spending all-nighters coding u
 Hurry up and wait - Be prepared but chill out.  It'll take time as the other ongoing chaos unfolds.
 
 **Know who is who on the crew.**
-<figure class="alignleft">
-  <a href="http://sphotos.ak.fbcdn.net/hphotos-ak-snc3/hs476.snc3/26093_1360470924735_1020395698_1074619_1984505_n.jpg"><img alt="Crash Test Spike - Matt&#039;s Tornado" src="http://sphotos.ak.fbcdn.net/hphotos-ak-snc3/hs476.snc3/26093_1360470924735_1020395698_1074619_1984505_n.jpg" title="Crash Test Spike - Matt&#039;s Tornado" width="300"/></a>
-</figure>
 You will get a "Call Sheet" that has everyone's jobs and names.  Understand what their roles are and try to remember their names.  If you have time, research what is a "Line Producer" vs. an "Assistant Director", what the Grips are, and so on.  This will pay MASSIVE dividends.  Treat them all incredibly well.  Also note that if it's a pilot, defined roles are not clearly set and everyone wears a zillion hats, so if you need something, just keep asking for it (or keep asking who to ask) until you get the right person.
 
 Also, the director is KING.  Do whatever he says, with little argument unless you know it's awfully wrong.  Otherwise, guess what... you will get cut out of that scene!  Don't try to "write" over what they want you to say, you'll just get yelled at.  Right Casey?
@@ -123,9 +115,7 @@ As the rep for National Instruments at the time, I had access and know-how to us
 
 **Have Fun**
 
-<figure class="alignright">
-  <a href="http://hphotos-snc3.fbcdn.net/hs476.snc3/26093_1360470964736_1020395698_1074620_2902507_n.jpg"><img alt="Crash Test - Matt in the Tornado" src="http://hphotos-snc3.fbcdn.net/hs476.snc3/26093_1360470964736_1020395698_1074620_2902507_n.jpg" title="Crash Test - Matt in the Tornado" width="300"/></a>
-</figure>It was stressful at times on that set, but things started slowing down by the final couple of days.  Remember you're on there to make good TV!  Have fun and be yourself!  It's an experience you might never get again, so enjoy it, make friends, and smile.
+It was stressful at times on that set, but things started slowing down by the final couple of days.  Remember you're on there to make good TV!  Have fun and be yourself!  It's an experience you might never get again, so enjoy it, make friends, and smile.
 
 As I finish writing this, I am kind of bummed out.  Working with [Tim Prokop](http://www.imdb.com/name/nm0698599/), [Casey](http://www.imdb.com/name/nm1980590/), [TJ](http://www.imdb.com/name/nm2340741/), [Jack](http://www.imdb.com/name/nm0318678/), and the [Stunts Unlimited](http://www.stuntsunlimited.com/) guys was such a cool experience.  John Schneider is a total pimp.  This show was fucking awesome, and I really wish we could have received a full season.
 

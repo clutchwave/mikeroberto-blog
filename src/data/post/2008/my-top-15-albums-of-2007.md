@@ -105,7 +105,6 @@ There are many albums that could have taken this spot, but Nightrage gets in bec
 
 **Would be Top 5 If That Queer Geddy Lee Wasn't The Vocalist Award:** [Rush - Snakes and Errors](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FSnakes-Arrows-Rush%2Fdp%2FB000NVIXFK%3Fie%3DUTF8%26s%3Dmusic%26qid%3D1199311876%26sr%3D1-1&tag=mikrobsblo-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=mikrobsblo-20&l=ur2&o=1)
 
-**Best Cover Album:** [Shaw Blades - Influence](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FInfluence-Shaw-Blades%2Fdp%2FB000MX7TRW%3Fie%3DUTF8%26s%3Dmusic%26qid%3D1199311946%26sr%3D1-1&tag=mikrobsblo-20&linkCode=ur2&camp=1789&creative=9325)![](http://www.assoc-amazon.com/e/ir?t=mikrobsblo-20&l=ur2&o=1)
 
 **Biggest Disappointments** - Soilwork - Sworn to a Great Divide (these guys are done), Iced Earth - Framing Armageddon (thankfully, Matt Barlow is back), Dream Theater - Systematic Chaos (is anyone surprised anymore?)
 

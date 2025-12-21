@@ -13,7 +13,6 @@ metadata:
 
 *Warning:  This op-ed is extremely American-centric, since it’s where I live and what I know.  I know that the Person of the Year can be from anywhere (or even a non-human), but I am focusing on America.  Feel free to add comments or write your own if you can do better.*
 
-In what could be the greatest literary cop-out of this young century, ![](http://img.timeinc.net/time/magazine/archive/covers/2006/1101061225_400.jpg)TIME Magazine has surprised the world and selected **YOU** to be their annual [Person of the Year](http://www.time.com/time/magazine/article/0,9171,1569514,00.html).  That’s right, they chose you.
 
 Now, I know that 2006 has been quite a pathetic and abysmal year as far as world news goes, and [the primary choices](http://www.time.com/time/personoftheyear/2006/walkup/) were bleak at best... but YOU?  ME?!
 

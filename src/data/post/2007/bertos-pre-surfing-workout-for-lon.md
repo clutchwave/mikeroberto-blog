@@ -22,7 +22,6 @@ First, lay a towel on the ground the width of a surfboard (22-23 inches should b
 
 Launch yourself up in the air high enough to bring your knees up in a twisting motion landing in a balanced surfing crouch in one move. This is about a shoulder width half squat position.
 
-![](http://shinymedia.blogs.com/photos/uncategorized/ollypop.jpg)
 Do something like the above picture, but with a less homo-erotic look on your face, take the goddamned sunglasses out of your hair, don't grow your hair out like that, and don't grab the rails of your board like this fool unless you want to eat shit on the bottom of the ocean.  And if any of you have bought a towel like this, you are a retard.
 
 Anyway, as a right-handed person, you will most likely want your left foot forward.  If this is uncomfortable to you, then put your right foot forward, thus making you a "goofy-footed" person.
@@ -43,7 +42,6 @@ Do 3 sets of 15 front shoulder raises per arm, vary reps depending on weight.
 If you are feeling saucy, also do some [lateral shoulder raises](http://www.muscleandstrength.com/watermark.php?src=images/exercises/03shoulders/06dumbbelllateralraise2.jpg).
 - **Core Strength - Abs - Flutter Kicks**
 
-![](http://www.af.mil/shared/media/photodb/photos/070326-F-0809C-222.jpg)We're going to do [flutter kicks](http://en.wikipedia.org/wiki/Flutter_kick) here, because they're related to swimming (you won't be kicking, but you never know) and Navy SEALS do them -- luckily you won't have to do them with heavy rubber fins on.  Lie on your back, tuck your chin, raise your legs 6 inches in the air, and alternate your legs while keeping them straight with your toes pointed out.
 
 *Do 5 sets @ 20 seconds of flutter kicks.  Count slow, do not cheat!  If you're not tired yet, do 10 close-grip pushups in between sets.*
 - **Squats

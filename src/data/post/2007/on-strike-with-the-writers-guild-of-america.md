@@ -11,7 +11,6 @@ metadata:
   canonical: "https://www.mikeroberto.com/2007/on-strike-with-the-writers-guild-of-america"
 ---
 
-[![](http://www.bertopics.com/d/18155-2/Sarah_Watson-Mike_Roberto-Writers_Guild_Strike-20071127.jpg)](http://www.bertopics.com/v/LA_Pics/Writers_Guild_Strike-20071127/Sarah_Watson-Mike_Roberto-Writers_Guild_Strike-20071127.jpg.html?g2_imageViewsIndex=0)Early this morning, I participated in an event I never would have imagined myself taking part in:  *I went on strike with a labor union*.
 
 Specifically, I was a guest picketer for the Writers Guild of America (WGA), joining my dear friend [Sarah Watson](http://www.imdb.com/name/nm0914872/), writer on NBC's forthcoming primetime show, [Lipstick Jungle](http://www.nbc.com/Fall_Preview/Lipstick_Jungle/).
 
@@ -24,14 +23,12 @@ The writers want 8 cents for every DVD sold, double their current 4 cents.  That
 - **"New Media" Residuals**
 Writers currently get no money when their work is viewed through Internet downloads, streaming feeds, IPTV, or phone downloads.  They want to receive the 2.5% for these (which is what they're paid on traditional television).
 
-[![](http://www.bertopics.com/d/18161-2/Writers_Guild_Strike1-20071127.jpg)](http://www.bertopics.com/v/LA_Pics/Writers_Guild_Strike-20071127/Writers_Guild_Strike1-20071127.jpg.html)The funniest thing about this strike is what a social event it seems to be for the writers.  Everyone I talked to was in optimistic spirits, and was very friendly to Sarah and myself.  After all, being out of work for many months at a time is nothing new to a writer.  Among those that I met were
 - [Craig Williams](http://www.imdb.com/name/nm1958979/), writer of Underdog (and some really cool upcoming ideas),
 - [Zach Estrin](http://www.imdb.com/name/nm0261922/), Co-executive Producer of Prison Break,
 - Brent Fletcher and [John Zinman](http://www.imdb.com/name/nm0957003/) of Friday Night Lights (all of my regular readers know [what a sucker I am for this show](https://www.mikeroberto.com/2006/12/03/tv-review-friday-night-lights/)),
 - [David Misch](http://www.imdb.com/name/nm0592676/) and [Jeff Reno](http://www.imdb.com/name/nm0719734/) of Mork & Mindy fame, and
 - [Rob Bragin](http://www.imdb.com/name/nm0103928/), Sarah's co-worker on Lipstick Jungle.
 
-![](http://upload.wikimedia.org/wikipedia/en/3/3a/WGA_logo.png)The Writers are not dumb, nor are the studios.  As Internet and TV are quickly merging (take, for instance, [AppleTV](http://www.apple.com/appletv/), [Verizon FIOS](http://www22.verizon.com/Content/FiOSTV/), and even the growing popularity of streaming protocols such as [Sopcast](http://www.sopcast.org)), each side must stand their ground and try to gain as much leverage over new media as soon as possible. This is especially true since the lines between TV and Internet are blurring and all forecasts of new media are vastly underestimated.
 
 As a Libertarian, I find the entire situation to be a slap in the face to our country's economic system, which resembles more and more of a joke every day.  While I've never been pro-Union, I find it absolutely ridiculous that 6 of the largest corporations in the world can unite and dominate an industry with basically no competition between each other.
 

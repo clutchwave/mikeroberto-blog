@@ -16,7 +16,6 @@ Happy New Year!  It's the moment you've all been waiting for, my top 15 albums o
 2008 was great (although I didn't blog much) - there could easily be 20 albums on this list.  Links to past lists:  [Top 15 Albums of 2007](https://www.mikeroberto.com/2008/01/02/my-top-15-albums-of-2007/), [Top 15 Albums of 2006](https://www.mikeroberto.com/2006/12/28/my-top-15-albums-of-2006/).  Here we go:
 
 **[Amon Amarth - Twilight of the Thunder Gods](http://www.amazon.com/gp/product/B001CISHU4?ie=UTF8&tag=mikrobsblo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B001CISHU4)**
-[![](http://ecx.images-amazon.com/images/I/51jNDkoLw8L._SL500_AA240_.jpg)](http://www.amazon.com/gp/product/B001CISHU4?ie=UTF8&tag=mikrobsblo-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B001CISHU4)Last year I said European Death Metal was dead?  Think again.
 
 Not since Opeth's Blackwater Park in 2001 has there been such a runaway race.  This album crushes everything in its path.  Brutal rhythm and the concert was one of the best I've ever been to.  These guys are the real deal.
 

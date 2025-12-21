@@ -15,7 +15,6 @@ metadata:
 
 Within a few years, they would rise to the top of the Sunset Strip circuit, and a couple years later, sign with Elektra Records, elevating the band to monstrous success and fame.
 
-Now, imagine being a deadbeat kid from a deadbeat family living on the filthy streets of a deadbeat city and [![](http://a956.ac-images.myspacecdn.com/images01/62/m_a00d8b56208cd73559429fcc981211e3.jpg)](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FHeroin-Diaries-Year-Life-Shattered%2Fdp%2F0743486285%3Fie%3DUTF8%26s%3Dbooks%26qid%3D1188083160%26sr%3D8-1&tag=mikrobsblo-20&linkCode=ur2&camp=1789&creative=9325)suddenly becoming an international rock icon of God-like status.  All of the sudden, thousands of people worship you; you have more money and women than you know what to do with, and it's all fueled by a record industry that feeds you whatever you need to keep it going so that they can suck your life dry like the vultures they are.  Yeah, your life would be a mess too.
 
 Sixx's life turned into such a cocaine- and heroin-filled saga that his excesses eventually killed him -- was declared dead after an overdose, but was revived by two adrenaline shots to the heart.  After this, he cleaned up through rehab, and went on to produce Mötley Crüe's most successful album, Dr. Feelgood.
 

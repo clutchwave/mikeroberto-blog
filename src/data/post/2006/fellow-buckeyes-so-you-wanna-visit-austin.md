@@ -82,7 +82,6 @@ The Colorado River runs through Austin, and a series of dams and reservoirs were
 
 It's a bit similar to Columbus in those aspects, but the similarities end there.
 
-“Keep Austin Weird” is an unofficial motto of the city.  This is a city that strives to support the local music scene and local eateries, and rebels wherever possible against corporate invasion.  ![](http://www.tylersaustin.com/images/content/KeepAustinWierdLogo.gif)I've never seen a city with so few McDonalds (but yes, they do exist).  The rallying cry to Keep Austin Weird became popular in the 90s when an influx of corporate retail displaced some local businesses.  True Austin-lovers support local business, and I expect you to do the same.
 
 Austin is also known as The Live Music Capital of the World (official slogan).  This is due to having the most music venues per capita than any other U.S. City.  Back in the 70s, the city became a refuge of country and western musicians escaping the corporate clutches of the Nashville Country scene.  Willie Nelson might be one that comes to mind.  This may be a surprise to you, but most of the music is NOT country – it is rock.  See this link for an idea of upcoming shows in the city:  [Austin360.com's Upcoming Music Events](http://www.austin360.com/event/events/etc/event?fmainPage=fmainPage&txtkeyword=&category=3456%3AMusic&radDate=days&selNoOfDays=365&selNeighborhood=-1&selVenue=-1&hidActionName=SearchUserEvent&selCategory=3456&selSubCategory=Music)
 
@@ -162,7 +161,6 @@ These tours rock because the vehicles go through both land and water.  Take a lo
 
 [Alamo Drafthouse](http://www.drafthouse.com)
 
-This is your version of Studio 35 in Austin.  ![](http://www.alltheclosefamily.com/alamologo.jpg)The downtown one always has a bunch of cult and foreign films and a good beer and food menu. They also have a number of specialty shows and film festivals.
 
 [Google Maps of the Drafthouses](http://maps.google.com/maps?f=q&hl=en&q=drafthouse+near+austin,+tx&ie=UTF8&om=1&ll=30.266944,-97.742778&spn=0.204897,0.254402)
 
@@ -185,7 +183,6 @@ I'll agree, and there's not much argument here.  The problem with the UT campus,
 
 Darrell K. Royal-Texas Memorial Stadium
 
-[![](http://www.mackbrown-texasfootball.com/wp/Football/Stadium/Stadium_800x600.jpg)](http://www.mackbrown-texasfootball.com/wp/Football/Stadium/Stadium_800x600.jpg)
 [![](http://i25.photobucket.com/albums/c80/MegaDittos/HDscoreboard2.jpg)](http://i25.photobucket.com/albums/c80/MegaDittos/HDscoreboard2.jpg)Ugly popsicle stand.  They really need the upcoming renovations.  I guess I'm just spoiled though, having been in the Shoe over 30 times.
 
 However, I'll give them this - the new scoreboard is [freakishly huge](http://www.texassports.com/webcam.html).  For a bit it was the biggest HD screen in the world, but rumor is that Japan is attacking back (don't they always?) with a bigger one.
@@ -239,7 +236,6 @@ Thanks J.D!
 
 [Trudy's](http://www.trudys.com)
 
-Best in Town without a doubt.  Get the Mexican Martinis (I like to upgrade mine for just a dollar more to Sauza Commemorativo tequila – For just 8.75 you get an entire shaker worth of the margarita/martini mixture.  [![](http://smv.typepad.com/photos/austin/jan_06_007.jpg)](http://smv.typepad.com/photos/austin/jan_06_007.jpg)They only let you have two and then cut you off, so if you're planning on tying one on, get one from the bar, switch to beer for a while, then get your second one before you leave :)
 
 Oh, and the Stuffed Avocado is TO DIE FOR.  Go to any Trudy's location, I personally like the one up north on Burnet.
 [Map of all the Trudy's Locations](http://maps.google.com/maps?f=q&hl=en&q=trudy%27s+near+Austin,+TX&ie=UTF8&om=1)
@@ -265,7 +261,6 @@ This is out by Lake Travis.  Try the Top Shelf Margarita and enjoy the sunset to
 
 [Oasis](http://www.oasis-austin.com/)
 
-![](http://decker.typepad.com/photos/austin_images/oview1.jpg)Great views, they say it’s the best view in Austin, but the food isn’t up to par.  I prefer Iguana Grill.
  On your left is a pic of the view.
 The story is that in the summer of last year, they were hit by lightning and the place caught on fire, knocking out half of the patio.  They're now back!
 
@@ -376,7 +371,6 @@ Friends and Spilz and Exodus – These places suck, but if you want to dance on 
 
 Bar Celona – Dancing downstairs
 
-[![](http://www.johnnyroadtrip.com/cities/sanantonio/images/chugginmonkey.jpg)](http://www.johnnyroadtrip.com/cities/sanantonio/images/chugginmonkey.jpg)Chuggin Monkey – Get the Wet Banana shot.  I like this place, small little dance floor up in the corner.  Music's too loud, like most places on 6th.
 
 B.D. Riley's – Irish bar that always has some sort of crazy band playing some sort of music that I can't classify because I'm a metalhead.  Pretty cool spot.
 
@@ -386,7 +380,6 @@ Shakespeare's – By far my favorite bar on the strip, I really don't know why. 
 
 Maggie Mae's / Blind Pig -  I lump these together because they're the best spots to drink on an upstairs porch under the moonlight, and they'll have music downstairs.  They're next to each other.
 
-I prefer Blind Pig.  ![](http://mikuna.image.pbase.com/u/wyk/small/52980.Scan2148.jpg)However, I just met an upstairs Maggie Mae's bartender from Wisconsin who said she'll be cheering hard for us and her and her UT friend are going to serve with two signs – hers will say “THIS LINE IF YOU SAY 'YOU GUYS'”, and her UT friend will have a sign saying “THIS LINE IF YOU SAY 'Y'ALL'” -- kinda a cool idea, I'll have to check it out and see if they really do that.
 
 The Aquarium – Great place to get started, ALWAYS an abundance of hotties in here for whatever reason.  Great prices, I seriously think the bartenders purposefully forget to add all drinks to your tab.
 
@@ -398,7 +391,6 @@ Agave – If at all possible, go to the back bar with a bunch of friends and get
 
 Cheers shot bar – College Station (Texas A&M) has far better shot bars, but I guess I'll point this one out because we're not used to shot bars up in the OH.
 
-Pete's Piano Bar – expensive, but entertaining as hell.  ![](http://a1916.g.akamaitech.net/7/1916/33/7bffa240e4fb9a/images.citysearch.com/profile/62/b9/10206292p1.jpg)  Your typical piano bar with funny musicians and all.  Quite a unique crowd always comes in.
 
 I never make it any more east than that usually when hitting 6th, since I live closer to the West side of 6th.  However, to get to Stubbs, we'll need to venture more east.
 

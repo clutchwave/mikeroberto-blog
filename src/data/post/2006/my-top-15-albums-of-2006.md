@@ -21,7 +21,6 @@ Each year, my friend Brian and I share our Top 15 albums of the year.  Brian is 
 
 [Agalloch - Ashes Against the Grain](http://www.amazon.com/Ashes-Against-Grain-Agalloch/dp/B000GIW9H8/sr=8-1/qid=1167285361/ref=pd_bbs_sr_1/102-9774492-4801760?ie=UTF8&s=music)
 
-![](http://upload.wikimedia.org/wikipedia/en/thumb/4/44/Agalloch.jpg/220px-Agalloch.jpg)There's no denying it:  I cannot stop listening to Agalloch.  This atmospheric, doom metal band out of Portland simply stuns me.  Falling Snow (track 2) and Not Unlike the Waves (track 5) put me into a trance.  
 
 Not too many people have this album rated so high.  Brian has it at 20.  This is one band where we don't agree much at all.
 
