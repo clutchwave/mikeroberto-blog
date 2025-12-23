@@ -3,7 +3,7 @@ import { defineCollection, z } from 'astro:content';
 
 const post = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/data/post' }),
-  schema: z.object({
+  schema: ({ image }) => z.object({  // ← Make it a function and destructure { image }
     publishDate: z.coerce.date().optional(),
     updateDate: z.coerce.date().optional(),
     draft: z.boolean().optional(),
@@ -11,17 +11,8 @@ const post = defineCollection({
     title: z.string(),
     excerpt: z.string().optional(),
     
-    // Image can be either:
-    // 1. A simple string: "/images/file.png"
-    // 2. An object with dimensions: { src: "/images/file.png", width: 1280, height: 720 }
-    image: z.union([
-      z.string(),
-      z.object({
-        src: z.string(),
-        width: z.number(),
-        height: z.number(),
-      })
-    ]).optional(),
+    // Optimized cover image – relative path from the .md file
+    image: image().optional(),  // ← Use the helper here
     
     category: z.string().optional(),
     tags: z.array(z.string()).optional(),
