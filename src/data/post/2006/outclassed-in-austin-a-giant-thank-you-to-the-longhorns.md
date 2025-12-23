@@ -51,7 +51,7 @@ So one last time - THANK YOU from all of the Buckeyes.  Feel free to send this t
 
 One last thing... why the hell not...  Hook'em Horns!
 
-<A HREF="https://www.mikeroberto.com/Austin_Guide/OSU_UT_Tailgate1.jpg"><IMG SRC="https://www.mikeroberto.com/Austin_Guide/OSU_UT_Tailgate1.jpg" WIDTH="200"></a>    <A HREF="https://www.mikeroberto.com/Austin_Guide/OSU_UT_Tailgate2.jpg"><IMG SRC="https://www.mikeroberto.com/Austin_Guide/OSU_UT_Tailgate2.jpg" WIDTH="200"></a>
+<A HREF="/src/assets/images/OSU_UT_Tailgate1.jpg"><IMG SRC="/src/assets/images/OSU_UT_Tailgate1.jpg" WIDTH="200"></a>    <A HREF="/src/assets/images/OSU_UT_Tailgate2.jpg"><IMG SRC="/src/assets/images/OSU_UT_Tailgate2.jpg" WIDTH="200"></a>
 
 -berto
 

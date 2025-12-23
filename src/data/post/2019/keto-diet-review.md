@@ -2,7 +2,7 @@
 publishDate: 2019-06-09
 title: "My Keto Diet Review from 2019: Thoughts After Three Years, Now Evolved"
 excerpt: "After three years of keto dieting and a decade of low-carb, paleo dieting, I finally put a &quot;keto diet review&quot; to paper, discussing what I've learned."
-image: "https://www.mikeroberto.com/images/keto-diet-review.jpg"
+image: "/src/assets/images/keto-diet-review.jpg"
 category: "Diet Research"
 author: "Mike Roberto"
 wpSlug: "keto-diet-review"
@@ -64,7 +64,7 @@ This means all of the following things are "ketogenic":
         - Excessive glycogen-depleting exercise (such as intense cardio)
 
 <figure class="alignright">
-  <a href="/images/beta-oxidation-ketogenesis.png"><img src="/images/beta-oxidation-ketogenesis.png" alt="Beta Oxidation Ketogenesis" width="267" height="800" class="size-medium wp-image-37660" data-wp-pid="37660" /></a>
+  <a href="/src/assets/images/beta-oxidation-ketogenesis.png"><img src="/src/assets/images/beta-oxidation-ketogenesis.png" alt="Beta Oxidation Ketogenesis" width="267" height="800" class="size-medium wp-image-37660" data-wp-pid="37660" /></a>
   <figcaption>Beta Oxidation of fatty acids leading to Ketogenesis. First, why would you NOT want to live in a state where this is easily accessible and not blocked by insulin spikes from carbs? Second, why would you waste this process on dietary fats (from too much butter and coconut oil) when you can burn <em>your own</em> fat?!<br>Note that BHB is the primary ketone made, but we were highlighting acetone for another blog post. Sadly, by gaining a pound per year, few every really get to <em>really</em> experience the glory of this process.</figcaption>
 </figure>
 
@@ -95,7 +95,7 @@ Meanwhile, many people fall in love with the mental clarity once they've rid the
 ### It re-started with seizures... but do *you* have seizures?
 
 <figure class="alignleft">
-  <a href="/images/charlie-foundation.jpg"><img src="/images/charlie-foundation.jpg" alt="Charlie Foundation" width="300" height="67" class="size-medium wp-image-39057" data-wp-pid="39057" /></a>
+  <a href="/src/assets/images/charlie-foundation.jpg"><img src="/src/assets/images/charlie-foundation.jpg" alt="Charlie Foundation" width="300" height="67" class="size-medium wp-image-39057" data-wp-pid="39057" /></a>
   <figcaption>Realize that the current ultra high fat, lowish-protein diet was pioneered seizure disorder. If that's you, then head over to the Charlie Foundation. But if not... then why are eating all that fat if you're trying to <em>burn</em> fat??</figcaption>
 </figure>
 
@@ -112,7 +112,7 @@ Point being this: because there are so many different ways to do keto, and so ma
 This of leads to me and my personal story, but I've decided to make that a separate video so we stay on topic here. The long story short is that I spent about a half dozen years as a fat kid, but fortunately grew out of it and stayed lean with swimming. Eventually in my mid-20s, I could no longer "swim my way out of a bad diet" though.
 
 <figure class="alignright">
-  <a href="/images/marks-daily-apple-diabetes.png"><img src="/images/marks-daily-apple-diabetes.png" alt="Marks Daily Apple Diabetes" width="300" height="236" class="size-medium wp-image-39054" data-wp-pid="39054" /></a>
+  <a href="/src/assets/images/marks-daily-apple-diabetes.png"><img src="/src/assets/images/marks-daily-apple-diabetes.png" alt="Marks Daily Apple Diabetes" width="300" height="236" class="size-medium wp-image-39054" data-wp-pid="39054" /></a>
   <figcaption>The article on Mark's Daily Apple that changed everything for me in 2008[21]</figcaption>
 </figure>
 
@@ -137,7 +137,7 @@ I sometimes ask experts, is it because the ketones are *therapeutic*, or because
 ## Fat adaptation becomes the *only* way to live
 
 <figure class="alignright">
-  <a href="/images/hangry.jpg"><img src="/images/hangry.jpg" alt="Hangry" width="300" height="274" class="size-medium wp-image-39048" data-wp-pid="39048" /></a>
+  <a href="/src/assets/images/hangry.jpg"><img src="/src/assets/images/hangry.jpg" alt="Hangry" width="300" height="274" class="size-medium wp-image-39048" data-wp-pid="39048" /></a>
   <figcaption>Why live like this when you know there's an option <em>not</em> to! Annotations courtesy Dr. Ted Naiman (@TedNaiman)</figcaption>
 </figure>
 
@@ -150,7 +150,7 @@ And once you realize that, you also realize that it's insanely easy to eat less.
 For many of us, appetite disappears like we've *never* known in our entire lives. Before, we couldn't even *fathom* going three waking hours without putting anything into our mouths. Now we can go that many *days* if need be, and all is right as rain (note that I am not the biggest proponent of long fasts but they're occasionally worth exploring).
 
 <figure class="alignleft">
-  <a href="/images/blood-sugar-rollercoaster.jpg"><img src="/images/blood-sugar-rollercoaster.jpg" alt="Blood Sugar Rollercoaster" width="300" height="300" class="size-medium wp-image-39050" data-wp-pid="39050" /></a>
+  <a href="/src/assets/images/blood-sugar-rollercoaster.jpg"><img src="/src/assets/images/blood-sugar-rollercoaster.jpg" alt="Blood Sugar Rollercoaster" width="300" height="300" class="size-medium wp-image-39050" data-wp-pid="39050" /></a>
   <figcaption>You control your appetite by controlling the blood sugar rollercoaster. None of the above nonsense is necessary. Image courtesy Dr. Ted Naimain (@TedNaimain)</figcaption>
 </figure>
 
@@ -161,7 +161,7 @@ The naysayer will retort, *"Yeah, of course you're losing weight -- you're eatin
 ### Fat loss vs. fat loss *prevention* vs. fat *gain*
 
 <figure class="alignright">
-  <a href="/images/carbohydrate-fat-gain.jpg"><img src="/images/carbohydrate-fat-gain.jpg" alt="Carbohydrate Fat Gain" width="300" height="238" class="size-medium wp-image-39052" data-wp-pid="39052" /></a>
+  <a href="/src/assets/images/carbohydrate-fat-gain.jpg"><img src="/src/assets/images/carbohydrate-fat-gain.jpg" alt="Carbohydrate Fat Gain" width="300" height="238" class="size-medium wp-image-39052" data-wp-pid="39052" /></a>
   <figcaption>Low-Carb Advocates need to understand this. It takes a TON of carbohydrate alone to drive it into fat storage via de-novo lipogenesis.[18] The real danger is eating the carbohydrate with tons of fat and not enough protein. Pick one side or the other.</figcaption>
 </figure>
 
@@ -170,7 +170,7 @@ When you eat carbohydrate and spike your insulin, you're *sparing* fat. There's 
 My general take is this: eating carbs and healthy fats in conjunction can easily lead to an "*overweight* crisis". But use industrialized processed seed oils (like canola oil, corn oil, soybean oil, cottonseed oil, safflower oil, etc -- all rich in omega-6 polyunsaturated fatty acids and linoleic acid), and you're off to the *obesity* crisis. Combined with refined carbohydrates, these are the *exact* ingredients in processed foods - the crap from boxes and bags in the middle of the grocery store that you shouldn't be eating.
 
 <figure class="alignleft">
-  <a href="/images/carbohydrates-fat-oxidation.jpg"><img src="/images/carbohydrates-fat-oxidation.jpg" alt="Carbohydrates Fat Oxidation" width="300" height="294" class="size-medium wp-image-39068" data-wp-pid="39068" /></a>
+  <a href="/src/assets/images/carbohydrates-fat-oxidation.jpg"><img src="/src/assets/images/carbohydrates-fat-oxidation.jpg" alt="Carbohydrates Fat Oxidation" width="300" height="294" class="size-medium wp-image-39068" data-wp-pid="39068" /></a>
   <figcaption>Want to burn fat? Stop eating carbohydrates then and replace them with <em>protein!</em> Annotations courtesy Dr. @TedNaiman</figcaption>
 </figure>
 
@@ -187,7 +187,7 @@ My long-winded point is this: while a low-fat diet is almost never easy for any 
 Regarding obesity, I'll put it this way - almost nobody's getting *obese* from eating an ultra low carb diet devoid of seed oils. Again, we need to define our demographic. Obese and extremely overweight individuals have a long road ahead, and traditional short-term diet tricks that do not address the core root of *appetite*, *hunger*, and even *addiction* do not work.
 
 <figure class="alignright">
-  <a href="/images/carbohydrates-displace-fat-oxidation.jpg"><img src="/images/carbohydrates-displace-fat-oxidation.jpg" alt="Carbohydrates Displace Fat Oxidation" width="300" height="300" class="size-medium wp-image-39060" data-wp-pid="39060" /></a>
+  <a href="/src/assets/images/carbohydrates-displace-fat-oxidation.jpg"><img src="/src/assets/images/carbohydrates-displace-fat-oxidation.jpg" alt="Carbohydrates Displace Fat Oxidation" width="300" height="300" class="size-medium wp-image-39060" data-wp-pid="39060" /></a>
   <figcaption>Every time you eat carbohydrates, you <em>stop burning fat!</em> So why are you wasting time? <strong>BURN FAT, NOT SUGAR!</strong> Image courtesy @TedNaiman</figcaption>
 </figure>
 
@@ -198,7 +198,7 @@ No, a drastic situation like obesity requires drastic measures, and that often m
 ## The truth about my keto journey
 
 <figure class="alignright">
-  <a href="/images/keto-diet-review.jpg"><img src="/images/keto-diet-review.jpg" alt="Keto Diet Review" width="300" height="300" class="size-medium wp-image-39073" data-wp-pid="39073" /></a>
+  <a href="/src/assets/images/keto-diet-review.jpg"><img src="/src/assets/images/keto-diet-review.jpg" alt="Keto Diet Review" width="300" height="300" class="size-medium wp-image-39073" data-wp-pid="39073" /></a>
   <figcaption>Long story short -- BURN FAT (preferably your own), NOT SUGAR. And not a ton of butter either! A well-devised ketogenic diet makes this happen.</figcaption>
 </figure>
 
@@ -261,7 +261,7 @@ And over the course of time and in my own failures mentioned above, I realized t
 ## Don't fear protein!!
 
 <figure class="alignright">
-  <a href="/images/ben-bikman-ketones-boost-muscle-health.jpg"><img src="/images/ben-bikman-ketones-boost-muscle-health.jpg" alt="Ben Bikman Ketones Boost Muscle Health" width="300" height="169" class="size-medium wp-image-39066" data-wp-pid="39066" /></a>
+  <a href="/src/assets/images/ben-bikman-ketones-boost-muscle-health.jpg"><img src="/src/assets/images/ben-bikman-ketones-boost-muscle-health.jpg" alt="Ben Bikman Ketones Boost Muscle Health" width="300" height="169" class="size-medium wp-image-39066" data-wp-pid="39066" /></a>
   <figcaption>When Ben Bikman emphasized prioritizing protein in this video, a light bulb <em>finally</em> went off for me</figcaption>
 </figure>
 
@@ -280,7 +280,7 @@ Meanwhile, we see a ton of keto dieters doing whatever it takes to keep their fa
 Seriously, what in the hell kind of clown world nonsense is that?
 
 <figure class="alignright">
-  <a href="/images/ketogenic-weight-loss-eat-less-fat.jpg"><img src="/images/ketogenic-weight-loss-eat-less-fat.jpg" alt="Ketogenic Weight Loss Eat Less Fat" width="300" height="300" class="size-medium wp-image-39070" data-wp-pid="39070" /></a>
+  <a href="/src/assets/images/ketogenic-weight-loss-eat-less-fat.jpg"><img src="/src/assets/images/ketogenic-weight-loss-eat-less-fat.jpg" alt="Ketogenic Weight Loss Eat Less Fat" width="300" height="300" class="size-medium wp-image-39070" data-wp-pid="39070" /></a>
   <figcaption>Some cold, hard truths from Dr. @TedNaiman</figcaption>
 </figure>
 
@@ -329,7 +329,7 @@ Upon my return to the low-carb movement, something awesome had happened. Protein
 ### Red meat is *back!*
 
 <figure class="alignleft">
-  <a href="/images/red-meat.jpg"><img src="/images/red-meat.jpg" alt="Red Meat" width="300" height="200" class="size-medium wp-image-39063" data-wp-pid="39063" /></a>
+  <a href="/src/assets/images/red-meat.jpg"><img src="/src/assets/images/red-meat.jpg" alt="Red Meat" width="300" height="200" class="size-medium wp-image-39063" data-wp-pid="39063" /></a>
   <figcaption>Red Meat is <em>back</em> on the menu, folks! Just don't mix it with those disgusting seed oils (or starchy carbs if you haven't trained like a beast today)</figcaption>
 </figure>
 
@@ -376,7 +376,7 @@ Fix diet, and most (not all) medical issues go away. Fix medical issues, and ton
 Discovering the truth is not without its uncertainties.
 
 <figure class="alignright">
-  <a href="/images/ldl-cholesterol.png"><img src="/images/ldl-cholesterol.png" alt="LDL Cholesterol" width="300" height="300" class="size-medium wp-image-38118" data-wp-pid="38118" /></a>
+  <a href="/src/assets/images/ldl-cholesterol.png"><img src="/src/assets/images/ldl-cholesterol.png" alt="LDL Cholesterol" width="300" height="300" class="size-medium wp-image-38118" data-wp-pid="38118" /></a>
   <figcaption>LDL Cholesterol is often used as a scare tactic to keep people away from low-carb diets. Turns out... population data shows that it doesn't matter once you bring HDL high, insulin low, and triglycerides down!</figcaption>
 </figure>
 

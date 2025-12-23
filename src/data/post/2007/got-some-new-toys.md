@@ -8,7 +8,7 @@ wpYear: 2007
 comments_count: 1
 ---
 
-[![](https://www.mikeroberto.com/pics/My_New_Surfboard-021807-thumb.jpg)](http://www.bertopics.com/v/LA_Pics/Hermosa_Beach/My_New_Surfboard-021807.jpg.html)Yesterday I headed over to the [local](http://maps.google.com/maps?f=q&hl=en&q=504+N+Broadway,+Redondo+Beach,+CA+90277+(Dive+N%27+Surf+Inc)%5C&sll=33.869507,-118.387313&sspn=0.024765,0.028367&ie=UTF8&z=14&ll=33.847109,-118.390903&spn=0.049543,0.056734&om=1&iwloc=A) [Dive 'n Surf](http://www.divensurf.com/) shop and walked out 583 dollars poorer.  They were hosting their annual February yard sale, with some huge discounts for the slow season.
+[![](/src/assets/images/My_New_Surfboard-021807-thumb.jpg)](http://www.bertopics.com/v/LA_Pics/Hermosa_Beach/My_New_Surfboard-021807.jpg.html)Yesterday I headed over to the [local](http://maps.google.com/maps?f=q&hl=en&q=504+N+Broadway,+Redondo+Beach,+CA+90277+(Dive+N%27+Surf+Inc)%5C&sll=33.869507,-118.387313&sspn=0.024765,0.028367&ie=UTF8&z=14&ll=33.847109,-118.390903&spn=0.049543,0.056734&om=1&iwloc=A) [Dive 'n Surf](http://www.divensurf.com/) shop and walked out 583 dollars poorer.  They were hosting their annual February yard sale, with some huge discounts for the slow season.
 
 I walked in and told the sales guy, Fernando, what I wanted:  a long soft top surfboard (used or new), new wetsuit, and removable soft roof rack for my car.  They didn't have much selection of soft boards, but I really liked what they had, as you can see.  It's a 9' board, making it buoyant and easy for beginners.
 

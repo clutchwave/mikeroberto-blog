@@ -12,7 +12,7 @@ comments_count: 2
 
 A few weeks ago, my mom was rummaging through some old stuff, where she happened upon an article from the News Herald.  It was an article about volunteering, with my picture alongside childhood best friend Jason and our buddy Andy.
 
-And there it is.  [![](https://www.mikeroberto.com/pics/Little_Berto_Michigan_Sin-thumb.jpg)](https://www.mikeroberto.com/pics/Little_Berto_Michigan_Sin.jpg)Fifth grader Mike Roberto, wearing a MICHIGAN shirt!
+And there it is.  [![](/src/assets/images/Little_Berto_Michigan_Sin-thumb.jpg)](/src/assets/images/Little_Berto_Michigan_Sin.jpg)Fifth grader Mike Roberto, wearing a MICHIGAN shirt!
 
 I could hardly believe my eyes when I saw this!  How could I wear such filth?  How could my parents allow me to leave the house with that?  How was that allowed in our home?   What a tasteless obscenity!
 

@@ -2,7 +2,7 @@
 publishDate: 2019-02-21
 title: "Soybean Oil WRECKS the Gut Microbiome.. But They Won't Tell You That"
 excerpt: "Soybean Oil has been shown to damage the gut microbiome in a new 6 month research study in China. But that's not exactly how they're positioning it..."
-image: "https://www.mikeroberto.com/images/soybean-oil-scandal.png"
+image: "/src/assets/images/soybean-oil-scandal.png"
 category: "Diet Research"
 tags:
   - "Alistipes"
@@ -38,7 +38,7 @@ For years, the most well-researched members of the diet community have warned of
 ## The soybean study scandal
 
 <figure class="alignright">
-  <a href="/images/soybean-oil-scandal.png" target="_blank" rel="noopener noreferrer"><img src="/images/soybean-oil-scandal.png" alt="Soybean Oil Scandal" width="300" height="300" class="size-medium wp-image-37477" data-wp-pid="37477"></a>
+  <a href="/src/assets/images/soybean-oil-scandal.png" target="_blank" rel="noopener noreferrer"><img src="/src/assets/images/soybean-oil-scandal.png" alt="Soybean Oil Scandal" width="300" height="300" class="size-medium wp-image-37477" data-wp-pid="37477"></a>
   <figcaption>A new study has shown us that soybean oil is <em>disastrous</em> for the gut microbiome and slows weight loss. But that's not exactly how they're 'selling' it...</figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ Given this statement, **the study's title is extremely misleading**. What we're 
 As mentioned above, the researchers largely used **soybean oil** to increase fat calories.
 
 <figure class="alignleft">
-  <a href="/images/soybean-oil.jpg" target="_blank" rel="noopener noreferrer"><img src="/images/soybean-oil.jpg" alt="Soybean Oil" width="300" height="198" class="size-medium wp-image-37479" data-wp-pid="37479"></a>
+  <a href="/src/assets/images/soybean-oil.jpg" target="_blank" rel="noopener noreferrer"><img src="/src/assets/images/soybean-oil.jpg" alt="Soybean Oil" width="300" height="198" class="size-medium wp-image-37479" data-wp-pid="37479"></a>
   <figcaption>This is not a vegetable. And it's loaded with unstable omega-6 polyunsaturated fatty acids that are <em>terrible</em> for heating/cooking! Image courtesy Wikimedia</figcaption>
 </figure>
 
@@ -109,7 +109,7 @@ In 2012, research showed that diets high in omega-6 polyunsaturated fatty acids 
 ### A "cooking oil" that oxidizes when heated?!
 
 <figure class="alignright">
-  <a href="/images/omega-6-polyunsaturated-fatty-acid-dangers.png" target="_blank" rel="noopener noreferrer"><img src="/images/omega-6-polyunsaturated-fatty-acid-dangers.png" alt="Omega-6 Polyunsaturated Fatty Acid Dangers" width="300" height="216" class="size-medium wp-image-37484" data-wp-pid="37484"></a>
+  <a href="/src/assets/images/omega-6-polyunsaturated-fatty-acid-dangers.png" target="_blank" rel="noopener noreferrer"><img src="/src/assets/images/omega-6-polyunsaturated-fatty-acid-dangers.png" alt="Omega-6 Polyunsaturated Fatty Acid Dangers" width="300" height="216" class="size-medium wp-image-37484" data-wp-pid="37484"></a>
   <figcaption>Eating this stuff (especially when heating it) is known to be extremely dangerous. So why would the researchers load participants up with as much as 24% of their diets with it?![4]</figcaption>
 </figure>
 
@@ -154,7 +154,7 @@ Now, the bad news for the poor soybean oil groups:
 The "higher", moderate fat diets had a significant decrease in *Blautia* and *Faecalibacterium*. *Blautia* is a group of bacteria containing various beneficial pro-acetate and pro-butyrate strains, and type-II diabetics are generally lower in them. *Faecalibacterium* is a well-known, important bacteria that is anti-inflammatory.
 
 <figure class="aligncenter">
-  <a href="/images/soybean-oil-gut-bacteria.png" target="_blank" rel="noopener noreferrer"><img src="/images/soybean-oil-gut-bacteria.png" alt="Soybean Oil Gut Bacteria" width="625" height="167" class="size-large wp-image-37487" data-wp-pid="37487"></a>
+  <a href="/src/assets/images/soybean-oil-gut-bacteria.png" target="_blank" rel="noopener noreferrer"><img src="/src/assets/images/soybean-oil-gut-bacteria.png" alt="Soybean Oil Gut Bacteria" width="625" height="167" class="size-large wp-image-37487" data-wp-pid="37487"></a>
   <figcaption>Healthy bacteria down, inflammatory bacteria up.[1] Would <em>all</em> dietary fats behave like this, though? We think not.</figcaption>
 </figure>
 
@@ -165,7 +165,7 @@ Simultaneously, the soybean group had an increase in the abundance of *Alistipes
 Inflammation markers fared no better. The groups receiving greater amounts of soybean oil had decreased short-chain fatty acids such as butyric acid, a highly-beneficial compound.
 
 <figure class="alignright">
-  <a href="/images/soybean-oil-inflammation-1.png" target="_blank" rel="noopener noreferrer"><img src="/images/soybean-oil-inflammation-1.png" alt="Soybean Oil Inflammation" width="300" height="309" class="size-medium wp-image-37482" data-wp-pid="37482"></a>
+  <a href="/src/assets/images/soybean-oil-inflammation-1.png" target="_blank" rel="noopener noreferrer"><img src="/src/assets/images/soybean-oil-inflammation-1.png" alt="Soybean Oil Inflammation" width="300" height="309" class="size-medium wp-image-37482" data-wp-pid="37482"></a>
   <figcaption>One example of how it happens. The main constituent breaks down into known inflammatory acids that general dieters do <em>not</em> need more of.</figcaption>
 </figure>
 
@@ -188,7 +188,7 @@ Those who adhere to *actual* low-carbohydrate diets (eg. less than 10% energy fr
  	- **The "higher fat" group was *definitely* not a high-fat diet!**
 
 <figure class="alignleft">
-  <a href="/images/cooking-oil.jpg" target="_blank" rel="noopener noreferrer"><img src="/images/cooking-oil.jpg" alt="Cooking Oil" width="300" height="225" class="size-medium wp-image-37490" data-wp-pid="37490"></a>
+  <a href="/src/assets/images/cooking-oil.jpg" target="_blank" rel="noopener noreferrer"><img src="/src/assets/images/cooking-oil.jpg" alt="Cooking Oil" width="300" height="225" class="size-medium wp-image-37490" data-wp-pid="37490"></a>
   <figcaption>Another note. Let's not confuse "Cooking Oil" with actual <em>Fat</em> from <em>food</em>. Image courtesy Wikimedia</figcaption>
 </figure>
 
@@ -235,7 +235,7 @@ Mann should do what he obviously knows is correct, and warn societies of this to
 Regardless of the truth, the process has already begun. The initial headline has been written, and there's almost nothing stopping the media from twisting this one into **yet another crusade against a** ***species-appropriate* diet** -- which includes high amounts of fat and protein from *animal* sources.
 
 <figure class="alignright">
-  <a title="Jillian Michaels is an Anti-Keto “Disinformation Agent”. But We Can Save Her." href="https://www.mikeroberto.com/2019/jillian-michaels-keto-diet" target="_blank" rel="noopener noreferrer"><img src="/images/jillian-michaels-keto-diet.png" alt="Jillian Michaels Keto Diet" width="300" height="300" class="size-medium wp-image-36502" data-wp-pid="36502"></a>
+  <a title="Jillian Michaels is an Anti-Keto “Disinformation Agent”. But We Can Save Her." href="https://www.mikeroberto.com/2019/jillian-michaels-keto-diet" target="_blank" rel="noopener noreferrer"><img src="/src/assets/images/jillian-michaels-keto-diet.png" alt="Jillian Michaels Keto Diet" width="300" height="300" class="size-medium wp-image-36502" data-wp-pid="36502"></a>
   <figcaption>We've seen disinformation before, and we'll see it again. They really are pushing back hard, aren't they? Why is that? What are they afraid of?</figcaption>
 </figure>
 

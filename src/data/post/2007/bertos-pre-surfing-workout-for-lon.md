@@ -30,7 +30,7 @@ Tips:  Keep your butt down. You want to squat, and stand from there, keeping you
 
 **- Balance
 **
-[![](https://www.mikeroberto.com/Gonna_Miss_Austin/Lon-Rafters-thumb.jpg)](https://www.mikeroberto.com/2006/12/31/im-gonna-miss-you-austin/)Your shoulders and chest are probably a bit tired now, so let's do something easy.  You can't surf without balance.  Luckily, you are shorter than me and have better balance, as proven to the left.  All you need to do is stand on one foot for 60 seconds at a time.  This will work your stabilizer muscles.
+[![](/src/assets/images/Lon-Rafters-thumb.jpg)](https://www.mikeroberto.com/2006/12/31/im-gonna-miss-you-austin/)Your shoulders and chest are probably a bit tired now, so let's do something easy.  You can't surf without balance.  Luckily, you are shorter than me and have better balance, as proven to the left.  All you need to do is stand on one foot for 60 seconds at a time.  This will work your stabilizer muscles.
 
 *Do 2 sets of 60-second balancing for each leg (ie. this will take 4 minutes)*</li>
 **- Shoulder Raises

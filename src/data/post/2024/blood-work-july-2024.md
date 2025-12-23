@@ -167,7 +167,7 @@ Fast forward to today, and my profile looks quite different:
 
 OK, so per the Framingham study, my numbers still give me in the lowest mortality odds ratio, and have been ever since adding carbs back in to get LDL down a bit.
 
-<img src="/images/framingham-study-cholesterol-risk-factors-improved-low-carb.png" width="1920" height="1080" class="aligncenter size-medium" />
+<img src="/src/assets/images/framingham-study-cholesterol-risk-factors-improved-low-carb.png" width="1920" height="1080" class="aligncenter size-medium" />
 
 However, let's not kid ourselves: while I'm still "low triglyceride" and "high HDL", both of these went in the wrong direction since 7 months ago. My triglycerides went up especially, and I think I got a bit TOO out of control with the sugars/carbs. To put it nicely, I enjoyed a spoonful or two of maple syrup.
 

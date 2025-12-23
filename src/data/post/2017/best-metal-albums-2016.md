@@ -87,7 +87,7 @@ Hammers of Misfortune - Dead Revolution
 I’m having a hard time thinking of a better year for heavy music. A year which saw a basically perfect album (Theories of Flight), bands getting back on track after slight detours (Katatonia and Amon Amarth), Mike Howe returning to Metal Church and sounding better than ever, Flotsam and Death Angel carrying the thrash flag with epic releases while their more popular contemporaries - Anthrax, Megadeth and Testament all mailed in shit records.
 
 <figure class="alignleft">
-  <a href="/images/iron-maiden-book-of-souls-tour.jpg"><img src="/images/iron-maiden-book-of-souls-tour.jpg" alt="Iron Maiden Book of Souls Tour" width="300" height="180" class="size-medium wp-image-446" /></a>
+  <a href="/src/assets/images/iron-maiden-book-of-souls-tour.jpg"><img src="/src/assets/images/iron-maiden-book-of-souls-tour.jpg" alt="Iron Maiden Book of Souls Tour" width="300" height="180" class="size-medium wp-image-446" /></a>
   <figcaption>Just when we thought 2016 couldn't be beat... the Book of Souls Tour continues into 2017!</figcaption>
 </figure>
 
@@ -134,7 +134,7 @@ On the live front, I was lucky enough to see Iron Maiden kick off the Book Of So
 ### The Metallic Divide
 
 <figure class="alignright">
-  <a href="/images/charred-walls-of-the-damned-creatures-watching-over-the-dead.jpg"><img src="/images/charred-walls-of-the-damned-creatures-watching-over-the-dead.jpg" alt="Charred Walls of the Damned - Creatures Watching Over the Dead" width="300" height="300" class="size-medium wp-image-448" /></a>
+  <a href="/src/assets/images/charred-walls-of-the-damned-creatures-watching-over-the-dead.jpg"><img src="/src/assets/images/charred-walls-of-the-damned-creatures-watching-over-the-dead.jpg" alt="Charred Walls of the Damned - Creatures Watching Over the Dead" width="300" height="300" class="size-medium wp-image-448" /></a>
   <figcaption>Airplay -- especially in the gym -- put this one way over the top. Ripper and crew can do no wrong!</figcaption>
 </figure>
 
@@ -147,7 +147,7 @@ By all indications, Theories of Flight is musically the best album of the year. 
 Gojira was my surprise of the year - a much-welcomed change of pace and sound from a band that maybe I haven’t given enough of a chance in the past. But going through their back catalogue, it seems that I’ve instead lucked into them morphing into *my* wheelhouse instead.
 
 <figure class="alignleft">
-  <a href="/images/devin-townsend-project-transcendence.jpg"><img src="/images/devin-townsend-project-transcendence.jpg" alt="Devin Townsend Project - Transcendence" width="300" height="300" class="size-medium wp-image-450" /></a>
+  <a href="/src/assets/images/devin-townsend-project-transcendence.jpg"><img src="/src/assets/images/devin-townsend-project-transcendence.jpg" alt="Devin Townsend Project - Transcendence" width="300" height="300" class="size-medium wp-image-450" /></a>
   <figcaption>Devin Townsend is a very hit-or-miss artist... and Transcendence is a <em>serious</em> hit.</figcaption>
 </figure>
 

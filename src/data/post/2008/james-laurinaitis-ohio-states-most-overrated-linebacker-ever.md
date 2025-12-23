@@ -23,25 +23,25 @@ Enough talk, let's get to the OSU vs. LSU game film (this is not easy to do, but
 
 - Defensive Play 1, 1st and 10, 13:34
 Freeman already makes the play, JL jumps on the pile.  Good play #1.  A sign of things to come?  For Freeman, no.  For Laurinaitis, yes.
-[![](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-01-thumb.jpg)](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-01.jpg)
+[![](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-01-thumb.jpg)](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-01.jpg)
 So I'm guessing this was one of #33's **18** tackles?
 
 - Defensive Play 2, 2nd and 7, 13:05
 Pass play in the flats dropped by LSU
 
 - Freeze to video of Tedd Ginn Jr. wearing Chicago White Sox gear, some ridiculous t-shirt, and beads. Lame.
-[![](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-02-thumb.jpg)](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-02.jpg)
+[![](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-02-thumb.jpg)](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-02.jpg)
 
 - Defensive Play 3, 3rd and 7, 12:53
 Botched snap, JL second man on the scene.  All Buckeyes are laughing at this point.
 
 - Defensive Play 4, 1st and 10, 9:12
 Grant makes the first of his many good plays.  JL in pursuit, gets a bit stuck in traffic, then jumps on the pile.
-[![](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-03-thumb.jpg)](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-03.jpg)
+[![](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-03-thumb.jpg)](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-03.jpg)
 
 - Defensive Play 5, 2nd and 9, 8:35
 You can't see him here, but I assure you that #33 is behind  #79 and 71 (Carnell Stewart, who he'll be seeing plenty of).  A double-team that nobody in college football is going to beat.  Another Larry Grant play.
-[![](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-04-thumb.jpg)](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-04.jpg)
+[![](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-04-thumb.jpg)](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-04.jpg)
 
 - Defensive Play 6, 3rd and 7, 7:50
 Pass away from JL, blown coverage by Freeman, first down LSU.
@@ -51,33 +51,33 @@ LSU dumps off to the right to #45 Johnson, Larry Grant on the coverage/tackle.  
 
 - Defensive Play 8, 2nd and 7, 7:15
 Hester run, pretty tough stop made by Laurinaitis.  Get your hat in front of him and you might be able to stop that extra yardage, but that's no easy feat on Hester.  A good play, could have been great.
-[![](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-05-thumb.jpg)](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-05.jpg)
+[![](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-05-thumb.jpg)](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-05.jpg)
 
 - Defensive Play 8, 3rd and 3, 6:45
 JL absolutely manhandled by 71.  But it looks like he might be able to shake free and make the play!
-[![](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-06a-thumb.jpg)](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-06a.jpg)
+[![](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-06a-thumb.jpg)](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-06a.jpg)
 Guess not.  Denlinger blew it on this one too.
-[![](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-06b-thumb.jpg)](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-06b.jpg)
+[![](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-06b-thumb.jpg)](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-06b.jpg)
 
 - Defensive Play 9, 1st and 10, 6:11
 Russell absolutely burned.  Laurinaitis can only watch from the middle.
 
 - Defensive Play 10, 1st and 10, 5:59
 Run left, Laurinaitis makes the angle-grabbing tackle on Doucet.  Not a bad play, but Katzenmoyer and company would have put him 6 feet under.
-[![](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-07-thumb.jpg)](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-07.jpg)
+[![](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-07-thumb.jpg)](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-07.jpg)
 
 - Defensive Play 11, 2nd and 6, 5:25
-[![](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-08a-thumb.jpg)](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-08a.jpg)
+[![](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-08a-thumb.jpg)](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-08a.jpg)
 Play already made by Freeman, JL has a chance to finish him off and drive him backwards, but instead sets him down nice and easy.  What a gentleman!
-[![](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-08b-thumb.jpg)](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-08b.jpg)
+[![](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-08b-thumb.jpg)](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-08b.jpg)
 
 - Defensive Play 12, 3rd and 1, 4:41
 JL in position to make a huge play, look where he's got his helmet on Hester!  Unfortunately, he is overpowered due to the futility of his sideways-tackle (he is literally perpendicular to the ballcarrier).  Yeah, those usually don't work on a guy like Hester.  First down Tigers.
-[![](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-09-thumb.jpg)](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-09.jpg)
+[![](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-09-thumb.jpg)](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-09.jpg)
 
 - Defensive Play 13, 1st and 10, 4:09
 Flynn runs, Grant with another solid play.  Hey, look who's jumping on the pile!  Go get em Animal, just like in the WWF!
-[![](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-10-thumb.jpg)](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-10.jpg)
+[![](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-10-thumb.jpg)](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-10.jpg)
 
 - Defensive Play 14, 2nd and 10, 3:20
 JL blitzes outside, goes nowhere.  Blown play on Flynn, entire defensive front in there.
@@ -87,13 +87,13 @@ Pressure Gholston and Heyward, Flynn throws it away.  **Field goal LSU, 10-3 Buc
 
 - Defensive Play 16, 1st and 10, 0:07
 Whoops!  Can you guess who catches this one?  Probably the guy that's wide open in the middle of our baby-soft zone.  End of first quarter
-[![](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-11-thumb.jpg)](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-11.jpg)
+[![](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-11-thumb.jpg)](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-11.jpg)
 
 **Second Quarter**
 
 - Defensive Play 17, 2nd and 4, 15:00
 Now this is a good one!  JL and Freeman both make their blockers miss, who then in turn block each other!  Tackle made by #1 mostly, but #33 is definitely there.
-[![](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-12-thumb.jpg)](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-12.jpg)
+[![](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-12-thumb.jpg)](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-12.jpg)
 
 - Defensive Play 18, 3rd and 1, 14:23
 Heacock blitzes Laurinaitis, which opens a big hole.  Stupid play call!  Hester vs. Anderson Russell = bloodbath.  First down LSU.
@@ -103,23 +103,23 @@ Option left, how did Grant not get Perrilloux?  Laurinaitis blocked at both leve
 
 - Defensive Play 20, 1st and 10, 13:55
 Dump left, Laurinaitis drops back, gets blocked, and dives 7(!) yards from the tackle in an obvious attempt to jump on the pile.  Great play Heyward.  I'm starting to wonder where these 18 tackles came from, so I'm guessing they gave #33 one here too.
-[![](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-13-thumb.jpg)](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-13.jpg)
+[![](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-13-thumb.jpg)](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-13.jpg)
 
 - Defensive Play 21, 2nd and 11, 13:16
 If you listen close enough, you can hear Laurinaitis and Freeman yell "Oh, shit!" simultaneously here.  Freeman blows a big one.
-[![](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-14-thumb.jpg)](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-14.jpg)
+[![](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-14-thumb.jpg)](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-14.jpg)
 But wait, there's more!  Facemask on #33!  Great job guys!  And we're excited to have both of them back for 2008?
 
 - Defensive Play 22, 1st and 10, 13:05
 Yep.  All-American.
-[![](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-15-thumb.jpg)](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-15.jpg)
+[![](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-15-thumb.jpg)](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-15.jpg)
 If you can't tell by this picture, let me put it to you this way:  There's nobody in between the tight end and the endzone.
 
 - (Missed Robiskie TD pass [hey, he's from Cleveland, what'd you expect?], blocked field goal [what happened to Tressel's special teams over the past few years?])
 <li>Defensive Play 23, 1st and 10, 10:42
 Option right.
 Announcer:  "Gholston doesn't take the bait but will have no help behind him"
-[![](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-16-thumb.jpg)](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-16.jpg)
+[![](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-16-thumb.jpg)](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-16.jpg)
 By "no help", he means #33 and everyone else are getting punished by #71 again.
 
 - Defensive Play 24, 2nd and 1, 10:29
@@ -127,16 +127,16 @@ Pass incomplete down the sideline, Larry Grant puts a hit on Flynn.  Man is he a
 
 - Defensive Play 25, 3rd and 1, 10:23
 Hester is in... so let's blitz Freeman on the strong side and send JL over to the left, leaving the middle wide open.
-[![](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-17-thumb.jpg)](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-17.jpg)
+[![](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-17-thumb.jpg)](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-17.jpg)
 HEACOCK STOP BLITZING YOU FOOL!
 
 - Defensive Play 26, 1st and 10, 10:03
 I'm running out of synonyms for "manhandled".  Stewart (71) is having his way with JL.  Grant on the stop.
-[![](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-18-thumb.jpg)](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-18.jpg)
+[![](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-18-thumb.jpg)](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-18.jpg)
 
 - Defensive Play 27, 2nd and 10, 9:20
 Dear God.  Heacock blitzes JL to the left, who realizes his coach's folly and makes his way back to the runner all in time to whiff on the the tackle!
-[![](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-19-thumb.jpg)](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-19.jpg)
+[![](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-19-thumb.jpg)](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-19.jpg)
 Gain of 9 on this one.  Looks unlikely from the picture, doesn't it?
 
 - Defensive Play 28, 3rd and 1, 8:45
@@ -148,7 +148,7 @@ Pass batted down by Grant.  JL in coverage.
 
 - Defensive Play 30, 2nd and 10, 8:13
 Flynn on another keeper, and look at this -- JL has a chance to put him on his back right here!
-[![](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-20-thumb.jpg)](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-20.jpg)
+[![](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-20-thumb.jpg)](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-20.jpg)
 But what happens?  Another terrible form tackle around the ankles, giving Flynn 3 more yards.  This is Flynn, not Hester.
 
 - Defensive Play 31, 3rd and 5, 7:40
@@ -162,32 +162,32 @@ Grant and Laurinaitis blitz AGAIN.  Nobody is in the middle (I mean nobody!) Hea
 
 - Defensive Play 33, 1st and goal, 5:29
 WOW.  Now THAT'S how OSU linebackers play.  Hester gets pasted by JL here.  Wow!
-[![](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-21-thumb.jpg)](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-21.jpg)
+[![](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-21-thumb.jpg)](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-21.jpg)
 
 - Defensive Play 34, 2nd and goal, 4:56
 Hester stuffed again by Larimore and Laurainitis.  Finally some good plays!
 
 - Defensive Play 35, 3rd and goal, 4:30
 #33 hesitates way too long and makes the stop one step too short.  I don't understand how you can go from play 33 to this garbage on the goal line.  He simply dances while Hester gains the momentum of a freight train.  Touchdown LSU.
-[![](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-22-thumb.jpg)](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-22.jpg)
+[![](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-22-thumb.jpg)](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-22.jpg)
 Two good plays and one awful play = you lose.  I know the punt is an important play, Jim, but what about 3rd downs?
 
 **Third quarter**
 
 - Defensive Play 36, 1st and 10, 15:00
 1.  JL gets blown up
-[![](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-23a-thumb.jpg)](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-23a.jpg)
+[![](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-23a-thumb.jpg)](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-23a.jpg)
 
 2.  JL gets off the block, but overpursues
-[![](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-23b-thumb.jpg)](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-23b.jpg)
+[![](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-23b-thumb.jpg)](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-23b.jpg)
 
 3.  JL jumps on the ballcarrier after Freeman has already tackled him.
-[![](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-23c-thumb.jpg)](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-23c.jpg)
+[![](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-23c-thumb.jpg)](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-23c.jpg)
 That sounds about typical.
 
 - Defensive Play 37, 1st and 10, 14:40
 At this point, LSU has figured things out and are simply attacking Laurinaitis.  A wonderful one-handled catch, which #33 should have been able to knock away if he was within 2 steps of the receiver.  Good coverage is not good enough.
-[![](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-24-thumb.jpg)](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-24.jpg)
+[![](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-24-thumb.jpg)](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-24.jpg)
 
 - Defensive Play 38, 2nd and 5, 13:59
 Option.  JL covers his assignment (the pitch), but Perrilloux keeps.  Unfortunately, #33 also dances for 2 seconds while Perrilloux has already crossed the line of scrimmage.  This guy has no killer instinct.
@@ -200,16 +200,16 @@ James and Heacock are both having a terrible game.  A Hester run up the middle a
 
 - Defensive Play 41, 2nd and 3, 12:28
 You need to watch this play on tape to see how lost Laurinaitis is.  Totally bit a terrible play fake.  He does almost get back into the play, but once again, he gets pushed back and it's too late.
-[![](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-25-thumb.jpg)](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-25.jpg)
+[![](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-25-thumb.jpg)](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-25.jpg)
 
 - Defensive Play 42, 3rd and 1, 12:12
 I don't think I need to tell you which player is upside down in this picture.  First down LSU.  Unbelievable.
-[![](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-26-thumb.jpg)](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-26.jpg)
+[![](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-26-thumb.jpg)](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-26.jpg)
 
 - Defensive Play 43, 1st and 10, 11:42
 Owned.
 The good news is that it wasn't #71.  The bad news is that he was busy pancaking Heyward.
-[![](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-27-thumb.jpg)](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-27.jpg)
+[![](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-27-thumb.jpg)](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-27.jpg)
 
 - Defensive Play 44, 2nd and 8, 11:04
 JL in coverage.  Intentional grounding Flynn.  Gholston will be missed.
@@ -222,7 +222,7 @@ Run right, good stick by JL!  Solid tackle... but what's this?  Heyward punches 
 
 - Defensive Play 47, 1st and 10,  10:26
 No comment.
-[![](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-28-thumb.jpg)](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-28.jpg)
+[![](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-28-thumb.jpg)](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-28.jpg)
 
 - Defensive Play 48, 2nd and 1,  9:22
 LSU throws away from JL, who is in coverage, and at this point, nobody else on OSU can tackle either.
@@ -235,11 +235,11 @@ Incomplete pass.
 
 - Defensive Play 51, 2nd and 10,  5:43
 JL can't get off his block, but does manage to get himself pancaked.
-[![](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-29-thumb.jpg)](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-29.jpg)
+[![](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-29-thumb.jpg)](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-29.jpg)
 
 - Defensive Play 52, 3rd and 4,  5:07
 Laurinaitis beat on a slant again.
-[![](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-30-thumb.jpg)](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-30.jpg)
+[![](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-30-thumb.jpg)](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-30.jpg)
 
 - Defensive Play 53, 1st and 10,  4:40
 JL finally sheds Stewart and helps Grant make the tackle after Coleman misses!  Nice play!
@@ -291,14 +291,14 @@ Huge run on Murphy.  JL is burned and misses, but then again, so does everyone e
 - Defensive Play 68, 1st and goal, 2:40
 Wait!  JL breaks through on a blitz and is about to DEMOLISH this guy!!!
 
-[![](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-31a-thumb.jpg)](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-31a.jpg)
+[![](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-31a-thumb.jpg)](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-31a.jpg)
 Oh, but he falls on his ass instead.  What a playmaker.
 
-[![](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-31b-thumb.jpg)](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-31b.jpg)
+[![](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-31b-thumb.jpg)](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-31b.jpg)
 <li>Defensive Play 69, 2nd and goal, 1:56
 Another Freeman/Laurinaitis suckfest combo.  It's okay though, USC is all about media hype so they won't even think about tearing into these two overrated guys like LSU did.
 
-[![](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-32-thumb.jpg)](https://www.mikeroberto.com/pics/James_Laurinaitis_is_Overrated/OSU_LSU_2008-Laurinaitis_Overrated-32.jpg)
+[![](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-32-thumb.jpg)](/src/assets/images/OSU_LSU_2008-Laurinaitis_Overrated-32.jpg)
 
 To summarize, I think that Laurinaitis is the most overrated linebacker Ohio State has ever had, and not just because of this miserable game.  This has been going on all season long.  He does not hold a candle to the hard-hitting, smart-playing guys of our past.  He plays on his heels, thinks too much, and does not have that killer instinct.
 

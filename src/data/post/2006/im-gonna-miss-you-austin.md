@@ -19,7 +19,7 @@ We really recruit some awesome people at work.  I could write a book about all t
 
 - *Bassett* – The Bass-Ass.  Steve and I started work on the same day.  Bassett is the most chill dude I've been friends with, which is a great thing because he helps neutralize my flip outs.  You can't go insane with Bassett around!
 
-[![](https://www.mikeroberto.com/Gonna_Miss_Austin/Bassett_Berto-thumb.jpg)](https://www.mikeroberto.com/Gonna_Miss_Austin/Bassett_Berto.jpg)When he wasn't going back to Kansas literally once a month to be in a wedding, we had some wild nights downtown.  Who can forget ACL 05, my 24th birthday with the girls, Corpus Christi, or the camping trip where we all nearly froze and I spooned you.  Hahaha... and of course the countless boat outings and that one night where all hell broke loose with Johnny, Snarr, and Jordo.
+[![](/src/assets/images/Bassett_Berto-thumb.jpg)](/src/assets/images/Bassett_Berto.jpg)When he wasn't going back to Kansas literally once a month to be in a wedding, we had some wild nights downtown.  Who can forget ACL 05, my 24th birthday with the girls, Corpus Christi, or the camping trip where we all nearly froze and I spooned you.  Hahaha... and of course the countless boat outings and that one night where all hell broke loose with Johnny, Snarr, and Jordo.
 
 Bassett has an affinity for getting his truck run into (what are we at, 4 times now?), breaking hearts, getting towed, and sleeping on my couch (it's in LA waiting for ya buddy!)   He also loaned me an air mattress, which about 15 people have slept on.
 
@@ -27,7 +27,7 @@ Steve is a great friend and a positive influence and there shall be many more hu
 
 - *Lon* – Ahh, where do I start with the LAM – Little Angry Man.  A fellow Buckeye and Browns fan, there's never a shortage of shit to shoot with this guy.  During the first Ohio State game he was complaining his job, which would turn out to be a common theme.
 
-![](https://www.mikeroberto.com/Gonna_Miss_Austin/Lon-Rafters-thumb.jpg)He told me "Berto, I'm from Erie Pennsylvania – I was born to hate my job", and the friendship was born!
+![](/src/assets/images/Lon-Rafters-thumb.jpg)He told me "Berto, I'm from Erie Pennsylvania – I was born to hate my job", and the friendship was born!
 
 Many a Saturdays were spent together at Sam's Boat cheering on the Buckeyes and being winners, but my favorites were the Sundays at Lon's house watching the Browns, and thus, being losers.  It was always great to go to Lon's house and hang with him, his wife Daniela, and now his beautiful new daughter Vanessa.  The house is so comfortable and a nice change up from my apartment dwelling.  Deliciousness was ALWAYS achieved at Lon's house too!  We never had a bad meal there.
 
@@ -37,7 +37,7 @@ I'll miss Lon bitching about his job, but I have a feeling that I'm yet to hear 
 
 - *Jordan* – Jordo!  Jordan is everything you expect when coming to Texas... tall blonde guy with loads of energy, a slight accent, a huge truck, and lots of boots and toys.
 
-[![](https://www.mikeroberto.com/Gonna_Miss_Austin/Jordo-thumb.jpg)](http://www.bertopics.com/111905-Camping_with_NI/GDE_Pics_14?full=1)Jordan's boat parties will go down in history as some of the craziest times in my life, I don't even know where to start with them.  Every time I hear the song "Float On" I think of Memorial Day 05 and all the mayhem that ensued that weekend with Andyman and Johnny.
+[![](/src/assets/images/Jordo-thumb.jpg)](http://www.bertopics.com/111905-Camping_with_NI/GDE_Pics_14?full=1)Jordan's boat parties will go down in history as some of the craziest times in my life, I don't even know where to start with them.  Every time I hear the song "Float On" I think of Memorial Day 05 and all the mayhem that ensued that weekend with Andyman and Johnny.
 
 Everyone loves Jordan, and for good reason.  He's always happy and fun to be around, smart, and very active.  There's always something new and exciting going on with Jordan around, the biggest problem for me is that I couldn't keep up!
 
@@ -45,7 +45,7 @@ Jordo's currently in Italy doing some management, and while he's been out there,
 
 And don't believe him when he tells you he weighs less than 200 pounds.  Trust me, I've had to carry him off of 6th street.
 
-- [![](https://www.mikeroberto.com/Gonna_Miss_Austin/Paul-Timmay-thumb.jpg)](http://www.bertopics.com/111905-Camping_with_NI/GDE_Pics_18?full=1)*Paul* – He won't admit it, but this guy's the smartest bastard that I've yet to meet.  Paul was always a help at work, down for BBQ at any time of the week, and without a doubt the best mover too!  I'm deeply indebted to him!
+- [![](/src/assets/images/Paul-Timmay-thumb.jpg)](http://www.bertopics.com/111905-Camping_with_NI/GDE_Pics_18?full=1)*Paul* – He won't admit it, but this guy's the smartest bastard that I've yet to meet.  Paul was always a help at work, down for BBQ at any time of the week, and without a doubt the best mover too!  I'm deeply indebted to him!
 
 Paul mixes awesome techno CDs, be sure to check em out if you weren't aware.  He's also always spinning up at the SlaughterHouse parties.
 

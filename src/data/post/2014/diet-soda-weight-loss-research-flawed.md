@@ -1,7 +1,7 @@
 ---
 publishDate: 2014-05-30
 title: "Why the New Diet Soda Weight Loss Study is Flawed to the Core"
-image: "https://www.mikeroberto.com/images/diet-coke-by-Niall_Kennedy.jpg"
+image: "/src/assets/images/diet-coke-by-Niall_Kennedy.jpg"
 category: "Diet Research"
 tags:
   - "Sweeteners"
@@ -12,7 +12,7 @@ wpYear: 2014
 ---
 
 <figure class="alignright">
-  <img src="/images/diet-coke-by-Niall_Kennedy.jpg" alt="Diet Coke - Image Courtesy of Niall Kennedy" width="300" height="187" class="size-medium wp-image-488" />
+  <img src="/src/assets/images/diet-coke-by-Niall_Kennedy.jpg" alt="Diet Coke - Image Courtesy of Niall Kennedy" width="300" height="187" class="size-medium wp-image-488" />
   <figcaption>Does it assist with weight loss?  Maybe, but this study proves nothing.  Read why below.</figcaption>
 </figure>
 
@@ -65,7 +65,7 @@ So basically, here's what they're doing:
 Seriously, **what in the hell did you *expect* to happen?**  We're surprised these subjects lost any weight at all!
 
 <figure class="alignright">
-  <a href="/images/diet-soda-research-screening.png" target="_blank" rel="noopener noreferrer"><img src="/images/diet-soda-research-screening.png" alt="How the Diet Soda Research was Screened" width="300" height="430" class="size-medium wp-image-4154"></a>
+  <a href="/src/assets/images/diet-soda-research-screening.png" target="_blank" rel="noopener noreferrer"><img src="/src/assets/images/diet-soda-research-screening.png" alt="How the Diet Soda Research was Screened" width="300" height="430" class="size-medium wp-image-4154"></a>
   <figcaption>How the Research was Screened</figcaption>
 </figure>To summarize the situation, one side of the study gets roughly ~150mg caffeine (24oz of diet soda, and they can keep their coffee sweetened), while the "control group" cannot.
 

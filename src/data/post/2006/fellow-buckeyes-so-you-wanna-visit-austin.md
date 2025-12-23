@@ -85,7 +85,7 @@ Austin is also known as The Live Music Capital of the World (official slogan).  
 
 Austin is also host to <A HREF=”http://www.aclfestival.com” target="_blank">Austin City Limits</A>, a massive annual music festival in Zilker Park, which is held the weekend following the big game this year.
 
-About 25 minutes west of the city lies Lake Travis, which is a reservoir on the Colorado River.  [![](https://www.mikeroberto.com/Austin_Guide/lake_travis_view-thumb.jpg)](https://www.mikeroberto.com/Austin_Guide/lake_travis_view.jpg)It is home to some amazing sights and real estate, in addition to one hell of a party scene at Devil's Cove and a bar named Carlos and Charlies.  Lake Travis is considered one of the clearest lakes in Texas.
+About 25 minutes west of the city lies Lake Travis, which is a reservoir on the Colorado River.  [![](/src/assets/images/lake_travis_view-thumb.jpg)](/src/assets/images/lake_travis_view.jpg)It is home to some amazing sights and real estate, in addition to one hell of a party scene at Devil's Cove and a bar named Carlos and Charlies.  Lake Travis is considered one of the clearest lakes in Texas.
 
 I've already mentioned Silicon Hills.  Austin has an incredible amount of high-tech companies in the area, which includes IBM, AMD, Samsung, Dell (actually in Round Rock, TX), National Instruments, Freescale, Applied Materials, 3M... the list goes on.
 
@@ -99,14 +99,14 @@ OK, that's enough about the city. Let's get down to business.
 
 <li>Lake Travis
 
-I'll put it nicely:  If you come to Austin for a 3+ day trip and don't at least go see Lake Travis, you are retarded.  There are sights, views, and activities that you simply don't have in Columbus.  [![](https://www.mikeroberto.com/Austin_Guide/lake_travis_view2-thumb.jpg)](http://ericg.net/galleries/eric/albums/boat_travis/IMG_0759.jpg)You can find one on the side here.
+I'll put it nicely:  If you come to Austin for a 3+ day trip and don't at least go see Lake Travis, you are retarded.  There are sights, views, and activities that you simply don't have in Columbus.  [![](/src/assets/images/lake_travis_view2-thumb.jpg)](http://ericg.net/galleries/eric/albums/boat_travis/IMG_0759.jpg)You can find one on the side here.
 
 The Ohio State alumni organization is setting up activities to do in Austin.  On Friday, there's going to be a chartered boat on the Lake.  I am pushing hard for this.  You can find out more on the website at [www.gobucksbeattexas.com](http://www.gobucksbeattexas.com)
 
 If you would rather do something such as rent jetskis or get your own boat, there are many rental places.  Some quick googling and you'll be on your way:
 [google results for austin jetski rental](http://www.google.com/search?q=austin+jetski+rental&sourceid=mozilla-search&start=0&start=0&ie=utf-8&oe=utf-8&client=firefox-a&rls=org.mozilla:en-US:official) (FYI:  On Friday I'm renting a pontoon from [Daybreak Boat Rentals](http://austin.citysearch.com/profile/10221831/))
 
-While you're on the Lake, there's a few places you'll want to check out.  The first is Devil's Cove.  Here's a picture of some of the partying that goes on there – on a good weekend, you'll see a whole lot more boats than this.  [![](https://www.mikeroberto.com/Austin_Guide/Devils_Cove-thumb.jpg)](https://www.mikeroberto.com/Austin_Guide/Devils_Cove.jpg)  Everyone simply  drops anchor, ties their boats together, and madness ensues.  After about a dozen trips out here, I have some stories that rival my best (or worst) times in Columbus.
+While you're on the Lake, there's a few places you'll want to check out.  The first is Devil's Cove.  Here's a picture of some of the partying that goes on there – on a good weekend, you'll see a whole lot more boats than this.  [![](/src/assets/images/Devils_Cove-thumb.jpg)](/src/assets/images/Devils_Cove.jpg)  Everyone simply  drops anchor, ties their boats together, and madness ensues.  After about a dozen trips out here, I have some stories that rival my best (or worst) times in Columbus.
 
 Another thing you can do on the Lake is check out Hippie Hollow, which is a the only nude public park in the area (and yes, people do hang out in the buff there).
 
@@ -118,13 +118,13 @@ It's important to note that there's a lot of money around the lake.  Because of 
 
 - Town Lake
 
-OK, I admit it, I'm a fish and love water.  Town Lake is a reservoir on the Colorado River in downtown Austin.  [![](https://www.mikeroberto.com/Austin_Guide/ViewFromTownLake-thumb.jpg)](http://upload.wikimedia.org/wikipedia/en/4/4a/ViewFromTownLake.jpg)The Town Lake Hike and Bike Trail is a 10.1 mile long trail in that goes around it downtown.  You can always find plenty of fit men and women running along it, as well as dog walkers and retirees enjoying their afternoon.  If you're one of the crazy ones who needs to go for a run before cracking that 8am Budweiser on gameday, this is where you want to go.
+OK, I admit it, I'm a fish and love water.  Town Lake is a reservoir on the Colorado River in downtown Austin.  [![](/src/assets/images/ViewFromTownLake-thumb.jpg)](http://upload.wikimedia.org/wikipedia/en/4/4a/ViewFromTownLake.jpg)The Town Lake Hike and Bike Trail is a 10.1 mile long trail in that goes around it downtown.  You can always find plenty of fit men and women running along it, as well as dog walkers and retirees enjoying their afternoon.  If you're one of the crazy ones who needs to go for a run before cracking that 8am Budweiser on gameday, this is where you want to go.
 
 Additionally, Town Lake is a great place to rent a kayak, canoe or rowboat.  See [www.ci.austin.tx.us/parks/trails.htm](http://www.ci.austin.tx.us/parks/trails.htm).  And [here's a great map of it all](http://www.ci.austin.tx.us/parks/downloads/tlake_kiosk.pdf).
 
 - BATS!
 
-Spanning Town Lake is the Congress Ave. Bridge.  Congress is a major, six-lane street that cuts through the middle of the city and leads to the Capitol.  [![](https://www.mikeroberto.com/Austin_Guide/Austin_Bats-thumb.jpg)<a/>In the summer, nearly 1.5 million Mexican Free-tailed Bats live under the bridge, and you can see them nightly from mid-March to November to head out and get dinner.  It's an amazing experience.
+Spanning Town Lake is the Congress Ave. Bridge.  Congress is a major, six-lane street that cuts through the middle of the city and leads to the Capitol.  [![](/src/assets/images/Austin_Bats-thumb.jpg)<a/>In the summer, nearly 1.5 million Mexican Free-tailed Bats live under the bridge, and you can see them nightly from mid-March to November to head out and get dinner.  It's an amazing experience.
 
 Now, you might be disgusted by all these bats, but I think it's beautiful – and don't forget that lots of bats means NOT lots of mosquitoes.  I'll take that deal any day.  They consume 10,000 to 30,000 pounds of insects every night.  Still hate bats?
 
@@ -132,7 +132,7 @@ Now, you might be disgusted by all these bats, but I think it's beautiful – an
 
 - The Capitol
 
-While you're on Congress checkin’ out the bats, you'll have a great view of the Texas State Capitol.  ![](https://www.mikeroberto.com/Austin_Guide/Texasstatecapitol.jpg)It's a great site, but is also symbolic of the overabundance of Texas pride:  the building is 15 feet taller than the National Capitol.  To me, this is an egotistical effort to display the state's independence and dominance over everything else.  Good for you, Texas; you build big building.
+While you're on Congress checkin’ out the bats, you'll have a great view of the Texas State Capitol.  ![](/src/assets/images/Texasstatecapitol.jpg)It's a great site, but is also symbolic of the overabundance of Texas pride:  the building is 15 feet taller than the National Capitol.  To me, this is an egotistical effort to display the state's independence and dominance over everything else.  Good for you, Texas; you build big building.
 
 > Yep, that comment enraged lots of Texans.  And I stand by it.  But after some discussion on hornfans.com, I have conceded that the architecture is absolutely beautiful, and beats anything out of Ohio (especially Columbus).  But come on, why does it HAVE to be 15 feet taller than the US Capitol??
 
@@ -165,7 +165,7 @@ This is your version of Studio 35 in Austin.  ![](http://www.alltheclosefamily.c
 
 - UT Tower
 
-[![](https://www.mikeroberto.com/Austin_Guide/UT_Tower_in_Orange-thumb.jpg)](http://upload.wikimedia.org/wikipedia/en/d/d8/UT-Tower-in-Orange.jpg)Tower infamous for the August 1, 1966 killings by student Charles Whitman.  [Here's a great article](http://www.crimelibrary.com/notorious_murders/mass/whitman/) if that interests you.
+[![](/src/assets/images/UT_Tower_in_Orange-thumb.jpg)](http://upload.wikimedia.org/wikipedia/en/d/d8/UT-Tower-in-Orange.jpg)Tower infamous for the August 1, 1966 killings by student Charles Whitman.  [Here's a great article](http://www.crimelibrary.com/notorious_murders/mass/whitman/) if that interests you.
 
 The tower's really nothing too special... ugly by day, looks great at night.  Kind of like your sister.
 
@@ -338,7 +338,7 @@ Well, first off, I'll give more pimpage to the party we're having at Stubb's BBQ
 
 After Stubb's at 3pm, you can go to the Buckeye Bash.  Since not all of my friends are in the alumni organization and we're going to opt for some crazier stuff, we might also just invade some other tailgates I know of.
 
-[![](https://www.mikeroberto.com/Austin_Guide/UT_Tailgating-thumb.jpg)](https://www.mikeroberto.com/Austin_Guide/UT_Tailgating.jpg)Here’s a map of the tailgate scene at UT.  When I went here, I was very new to Austin and didn’t know my away around, but this is the way I understand it:
+[![](/src/assets/images/UT_Tailgating-thumb.jpg)](/src/assets/images/UT_Tailgating.jpg)Here’s a map of the tailgate scene at UT.  When I went here, I was very new to Austin and didn’t know my away around, but this is the way I understand it:
 
 One area is by Congress and E. Martin Luther King Jr. Blvd, the other is at San Jacinto and Martin Luther King Jr.  These are off-campus, so there’s drinking.  When I was last there, it seemed pretty lax.  I have no clue what I’ll do, but I might bring some beer and cups and money and see what kind of (friendly) damage I can do with my friends.
 

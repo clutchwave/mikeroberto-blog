@@ -1,7 +1,7 @@
 ---
 publishDate: 2019-08-09
 title: "Are Blue Zones Based Upon FRAUD? New Research May Suggest…"
-image: "https://www.mikeroberto.com/images/blue-zones.png"
+image: "/src/assets/images/blue-zones.png"
 category: "Diet Research"
 tags:
   - "Anti-Aging"
@@ -18,7 +18,7 @@ Imagine this. You were born in 1925 in a rural area in Italy and have no birth c
 Knowing that you don't really exist on paper, you submit pension paperwork stating you were born in *1905*. What's the worst that can happen?
 
 <figure class="alignright">
-  <a href="/images/blue-zones.png"><img src="/images/blue-zones.png" alt="Blue Zones" width="300" height="300" class="size-medium wp-image-40256" data-wp-pid="40256" /></a>
+  <a href="/src/assets/images/blue-zones.png"><img src="/src/assets/images/blue-zones.png" alt="Blue Zones" width="300" height="300" class="size-medium wp-image-40256" data-wp-pid="40256" /></a>
   <figcaption>Yikes! Are the Blue Zones really based upon bad (or even fraudulent) birth reporting?! New research investigates</figcaption>
 </figure>
 
@@ -57,7 +57,7 @@ In the U.S., supercentenarian status is far more common when there was less vita
 This lends credence to the hypothesis that the number of *legitimate* supercentenarians is far fewer than currently reported!
 
  	- <figure class="alignright">
-  <a href="/images/blue-zones-longevity.jpg"><img src="/images/blue-zones-longevity.jpg" alt="Blue Zones Longevity" width="300" height="299" class="size-medium wp-image-40263" data-wp-pid="40263" /></a>
+  <a href="/src/assets/images/blue-zones-longevity.jpg"><img src="/src/assets/images/blue-zones-longevity.jpg" alt="Blue Zones Longevity" width="300" height="299" class="size-medium wp-image-40263" data-wp-pid="40263" /></a>
   <figcaption>Crazy! People simultaneously live short lives and what seems like <em>forever</em> in the same area![1] How is that possible?</figcaption>
 </figure>
 In Italy, there is somehow an "inverted" longevity curve. There's a relatively short lifespan, unless you make it to past 95, at which point it somehow becomes *increasingly* likely you're going to live to 110![1] This is not at all statistically expected.
@@ -82,7 +82,7 @@ Okinawa has the “*highest murder rate per capita, the worst over-65 dependency
 These are factors that would *decrease* the likelihood of living past 110!
 
  	- <figure class="alignright">
-  <a href="/images/blue-zone.jpg"><img src="/images/blue-zone.jpg" alt="Blue Zone" width="300" height="299" class="size-medium wp-image-40267" data-wp-pid="40267" /></a>
+  <a href="/src/assets/images/blue-zone.jpg"><img src="/src/assets/images/blue-zone.jpg" alt="Blue Zone" width="300" height="299" class="size-medium wp-image-40267" data-wp-pid="40267" /></a>
   <figcaption>The real world doesn't work like this.[1]</figcaption>
 </figure>
 Okinawa, along with Sardinia and Ikaria, are among the *“least educated and poorest regions*” in their respective nations.[1]
@@ -110,7 +110,7 @@ With severe health factors such as *smoking* and *crime rates* being curiously h
 The biggest visual indicator that something is *clearly* amiss is below:
 
 <figure class="aligncenter">
-  <a href="/images/blue-zone-birth-certificates.jpg"><img src="/images/blue-zone-birth-certificates.jpg" alt="Blue Zone Birth Certificates" width="625" height="393" class="size-large wp-image-40258" data-wp-pid="40258" /></a>
+  <a href="/src/assets/images/blue-zone-birth-certificates.jpg"><img src="/src/assets/images/blue-zone-birth-certificates.jpg" alt="Blue Zone Birth Certificates" width="625" height="393" class="size-large wp-image-40258" data-wp-pid="40258" /></a>
   <figcaption>Well look at that! Once you start requiring birth certificates, there's a whole lot less people living to 110!</figcaption>
 </figure>
 
@@ -134,7 +134,7 @@ Humans want to live longer - that’s entirely understandable. Given the scienti
 
 Unfortunately, given our drug-fueled opiate crisis and metabolic diabetic obesity mental epidemic driven by processed foods, refined carbohydrates, toxic seed oils, and lack of quality protein -- all fueled by copious propaganda -- American life expectancy has actually begun to *decline*.[2]
 <figure class="alignleft">
-  <a href="/images/american-life-expectancy-2017.png"><img src="/images/american-life-expectancy-2017.png" alt="American Life Expectancy 2017" width="300" height="223" class="size-medium wp-image-40261" data-wp-pid="40261" /></a>
+  <a href="/src/assets/images/american-life-expectancy-2017.png"><img src="/src/assets/images/american-life-expectancy-2017.png" alt="American Life Expectancy 2017" width="300" height="223" class="size-medium wp-image-40261" data-wp-pid="40261" /></a>
   <figcaption>As of 2017, American Life Expectancy is on the <em>decline!</em> Despite medical advances, what we're doing is <em>not</em> working for us. Time to reconsider our diets.</figcaption>
 </figure>
 

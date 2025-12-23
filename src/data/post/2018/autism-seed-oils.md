@@ -1,7 +1,7 @@
 ---
 publishDate: 2018-06-19
 title: "Autism Cause THEORY: Is the Increase in Autism from SEED Oils?"
-image: "https://www.mikeroberto.com/images/autism-and-canola-oil.png"
+image: "/src/assets/images/autism-and-canola-oil.png"
 category: "Diet Research"
 tags:
   - "Antibiotics"
@@ -106,7 +106,7 @@ But what's this have to do with autism?
 Now take a look at what's happened since processed seed oils have become ubiquitous in our food supply. Their increased usage -- namely **canola oil** -- also correlates *very* tightly with the rising rates of autism:
 
 <figure class="aligncenter">
-  <a href="/images/autism-and-canola-oil.png"><img src="/images/autism-and-canola-oil.png" alt="Autism and Canola Oil" width="404" height="533" class="size-full wp-image-39486" data-wp-pid="39486" /></a>
+  <a href="/src/assets/images/autism-and-canola-oil.png"><img src="/src/assets/images/autism-and-canola-oil.png" alt="Autism and Canola Oil" width="404" height="533" class="size-full wp-image-39486" data-wp-pid="39486" /></a>
   <figcaption>Since the introduction of <em>Canola Oil</em> in 1985, literally <em>nothing</em> has gone right for us. That includes exploding rates of autism. Is there a connection? I believe there is.</figcaption>
 </figure>
 
@@ -135,7 +135,7 @@ If you are someone who values your health -- or the health of your family -- you
 And due to the fact that they are *literally everywhere*, from restaurants to all of the undefined "processed food" we discuss, this means you're going to be cooking a whole lot. Preferably with animal fats like *beef tallow* and *butter*, as I am not sure we can even trust the "fruit oils" such as olive oil and avocado oil, given that they're oftentimes spiked with these nasty seed oils more than anyone wants to admit.
 
 <figure class="alignright">
-  <a href="/images/red-meat.jpg"><img src="/images/red-meat.jpg" alt="Red Meat" width="300" height="200" class="size-medium wp-image-39063" data-wp-pid="39063" /></a>
+  <a href="/src/assets/images/red-meat.jpg"><img src="/src/assets/images/red-meat.jpg" alt="Red Meat" width="300" height="200" class="size-medium wp-image-39063" data-wp-pid="39063" /></a>
   <figcaption>Red Meat is <em>back</em> on the menu, folks! Just don't mix it with those disgusting seed oils (or starchy carbs if you haven't trained like a beast today)</figcaption>
 </figure>
 

@@ -10,13 +10,13 @@ comments_count: 3
 
 *Note:  Talia has sent me pictures!  I am including some of my favorites here.  Click [here](http://share.shutterfly.com/action/welcome?sid=2CauWbloxYvkA) for the entire slideshow.*
 
-![](https://www.mikeroberto.com/pics/Blackfield_Concert/Steven_Wilson1-Blackfield_Concert-20070310.jpg)Last night, I had the honor of seeing one of [Blackfield](http://www.blackfield.org)'s seven US concerts on their tour to promote [Blackfield II](http://www.amazon.com/Blackfield-II/dp/B000MGVA8I/ref=pd_bbs_sr_1/103-0339983-4830263?ie=UTF8&s=music&qid=1173672698&sr=8-1) (reviewed at [this earlier blog post](https://www.mikeroberto.com/2007/01/28/music-review-blackfield-blackfield-ii/)).  The sold-out show at the [Knitting Factory](http://www.knittingfactory.com/), a small venue on the edge of the Hollywood Blvd. strip, was fetching tickets for up to 4 times face value.  Led by Steven Wilson and Aviv Geffen, Blackfield lived up to the excitement on the street, perhaps more.
+![](/src/assets/images/Steven_Wilson1-Blackfield_Concert-20070310.jpg)Last night, I had the honor of seeing one of [Blackfield](http://www.blackfield.org)'s seven US concerts on their tour to promote [Blackfield II](http://www.amazon.com/Blackfield-II/dp/B000MGVA8I/ref=pd_bbs_sr_1/103-0339983-4830263?ie=UTF8&s=music&qid=1173672698&sr=8-1) (reviewed at [this earlier blog post](https://www.mikeroberto.com/2007/01/28/music-review-blackfield-blackfield-ii/)).  The sold-out show at the [Knitting Factory](http://www.knittingfactory.com/), a small venue on the edge of the Hollywood Blvd. strip, was fetching tickets for up to 4 times face value.  Led by Steven Wilson and Aviv Geffen, Blackfield lived up to the excitement on the street, perhaps more.
 
 <a href=”http://www.john-wesley.com/index.shtml” target=”_blank”>John Wesley</a> played the opening act, a one-man band.  Wesley's music consists of whiny love song tripe, so you can safely assume that I did not enjoy it.  The guitar chops were sloppy, the vocals nothing special.  However, the song Thanksgiving Day was touching.  A local Hollywood B-actress/singer came on stage to provide some heinous backup vocals.
 
 Although I was largely unimpressed with this opening act, it sure beat the hell out of the typical Hate Eternal shit opening band that I have to deal with at metal shows...
 
-![](https://www.mikeroberto.com/pics/Blackfield_Concert/Steven_Wilson_and_Aviv_Geffen1-Blackfield_Concert-ren-20070310.jpg)
+![](/src/assets/images/Steven_Wilson_and_Aviv_Geffen1-Blackfield_Concert-ren-20070310.jpg)
 
 A half hour later, Blackfield drummer Tomer Z stormed the stage, and began an extended intro to Blackfield II's intro track, *Once*.  Right away I knew the sound setup was going to be incredible – and it was.  The rest of the band came on, and went right into Once.  Here's the setlist:
 
@@ -58,7 +58,7 @@ Encore:
 
 - Cloudy Now
 
-![](https://www.mikeroberto.com/pics/Blackfield_Concert/Aviv_Geffen1-Blackfield_Concert-20070310.jpg)The surprises there were the playing of an incredible Alanis Morisette - Thank You cover and Once twice[1].  During the second version of Once, Blackfield wratcheted up the intensity.  I've been to a lot of concerts, and I've never seen a band play the same song twice.  In this case, I loved it.  The setlist is also well-balanced between Blackfield and Blackfield II songs.
+![](/src/assets/images/Aviv_Geffen1-Blackfield_Concert-20070310.jpg)The surprises there were the playing of an incredible Alanis Morisette - Thank You cover and Once twice[1].  During the second version of Once, Blackfield wratcheted up the intensity.  I've been to a lot of concerts, and I've never seen a band play the same song twice.  In this case, I loved it.  The setlist is also well-balanced between Blackfield and Blackfield II songs.
 
 The best performances of the night were Blackfield, Pain, Epidemic, and the second playing of Once.
 
@@ -76,7 +76,7 @@ As I stated, the acoustics were absolutely perfect.  On top of that, Wilson's li
 
 - Daniel Salomon Eran Mittelman - Flawless keyboards.  Great job!
 
-![](https://www.mikeroberto.com/pics/Blackfield_Concert/Blackfield-Blackfield_Concert-20070310.jpg)
+![](/src/assets/images/Blackfield-Blackfield_Concert-20070310.jpg)
 
 At this point, I want to conclude with two things, which most of you will probably disagree with:
 

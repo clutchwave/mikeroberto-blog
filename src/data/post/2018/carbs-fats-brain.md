@@ -1,7 +1,7 @@
 ---
 publishDate: 2018-06-22
 title: "Is the Combo of Carbs and Fats Duping Your Brain.. and Diet?"
-image: "https://www.mikeroberto.com/images/carbs-fats-combination.jpg"
+image: "/src/assets/images/carbs-fats-combination.jpg"
 category: "Diet Research"
 tags:
   - "Calories"
@@ -17,7 +17,7 @@ wpYear: 2018
 ---
 
 <figure class="alignright">
-  <a href="/images/carbs-fats-combination.jpg"><img src="/images/carbs-fats-combination.jpg" alt="Carbs Fats Combination" width="300" height="301" class="size-medium wp-image-626" /></a>
+  <a href="/src/assets/images/carbs-fats-combination.jpg"><img src="/src/assets/images/carbs-fats-combination.jpg" alt="Carbs Fats Combination" width="300" height="301" class="size-medium wp-image-626" /></a>
   <figcaption>Is one of our bigger diet problems when we mix carbs <em>and</em> fats together? Because our brains sure get confused by the situation... Image Courtesy Cell Metabolism[1]</figcaption>
 </figure>
 
@@ -36,7 +36,7 @@ But now we have some direction as to why so many people are way better off with 
 ## Is Your Brain Programmed to "Count Macros"?
 
 <figure class="alignleft">
-  <a href="/images/junk-food.jpg"><img src="/images/junk-food.jpg" alt="Junk Food" width="300" height="141" class="size-medium wp-image-627" /></a>
+  <a href="/src/assets/images/junk-food.jpg"><img src="/src/assets/images/junk-food.jpg" alt="Junk Food" width="300" height="141" class="size-medium wp-image-627" /></a>
   <figcaption>As we have "known" for a while, a combination of high fats and high carbs in a diet could be detrimental.</figcaption>
 </figure>
 
@@ -49,7 +49,7 @@ Why? Apparently, this effect results in recruitment of a person’s central rewa
 This seems to make sense with the eye test. Clearly, our brain fires pleasure signals when we see a "cheat meal", knowing how good it will taste. More often than not, that cheat meal will have a combination of carbs and fats in conjunction with one another. Some of the most glorified “pleasure” foods are usually a high combination of fats and carbs:
 
 <figure class="alignright">
-  <a href="/images/cheat-meal-carbs-fats.jpg"><img src="/images/cheat-meal-carbs-fats.jpg" alt="Cheat Meal" width="300" height="225" class="size-medium wp-image-630" /></a>
+  <a href="/src/assets/images/cheat-meal-carbs-fats.jpg"><img src="/src/assets/images/cheat-meal-carbs-fats.jpg" alt="Cheat Meal" width="300" height="225" class="size-medium wp-image-630" /></a>
   <figcaption>Consider the effects of cheat meals, if used too often and in a non-strategic manner.</figcaption>
 </figure>
 
@@ -83,7 +83,7 @@ On top of that, the above foods are often low protein but usually not *zero* pro
 In this study, participants were given five Euros and told they could bid on food items. They were only bidding against a computer, with random bid amounts. The study gets interesting here, as the data shows that participants were given three distinct options:
 
 <figure class="alignright">
-  <a href="/images/carbs-fats-valuation.jpg"><img src="/images/carbs-fats-valuation.jpg" alt="Carbs Fats Valuation" width="300" height="301" class="size-medium wp-image-631" /></a>
+  <a href="/src/assets/images/carbs-fats-valuation.jpg"><img src="/src/assets/images/carbs-fats-valuation.jpg" alt="Carbs Fats Valuation" width="300" height="301" class="size-medium wp-image-631" /></a>
   <figcaption>An overwhelming amount of particpants opted to have a food that was high in both fat and carbs, rather than food that was in only one of those macros.[1]</figcaption>
 </figure>
 
@@ -127,7 +127,7 @@ Of course, we no longer have evolutionary pressures - but our lizard brains don'
 ## Researcher Theory: Are Artificial Sweeteners Ruining Our Brain’s Ability To Value Carbohydrate Calories?
 
 <figure class="alignleft">
-  <a href="/images/artificial-sweeteners.jpg"><img src="/images/artificial-sweeteners.jpg" alt="Artificial Sweeteners" width="300" height="220" class="size-medium wp-image-633" /></a>
+  <a href="/src/assets/images/artificial-sweeteners.jpg"><img src="/src/assets/images/artificial-sweeteners.jpg" alt="Artificial Sweeteners" width="300" height="220" class="size-medium wp-image-633" /></a>
   <figcaption>Artificial sweeteners are nice to avoid excess calories but be warned it may be tricking your brain!</figcaption>
 </figure>
 Another (unlikely) possibility proposed by the researchers is that recent increases in artificial sweeteners in modern diets can degrade how our brain associates differences between carbohydrate-containing foods and its actual energy density. Essentially, this creates an impaired ability to estimate calories correctly.[1]
@@ -139,7 +139,7 @@ This makes a bit of sense, but doesn't account for issues that occur such as whe
 This data suggests that the association between food as a reward and food as an energy dense option will differ for fat and carbohydrate (Figure 2). For fatty foods, our willingness to pay is tightly coupled to energy density and self-reported "food liking". Although both food liking and energy density are associated with willingness to pay, mediation analyses indicate that these factors contribute independently to reward value.[1]
 
 <figure class="alignright">
-  <a href="/images/carbs-fats-figure-2.jpg"><img src="/images/carbs-fats-figure-2.jpg" alt="Carbs Fats Figure 2" width="300" height="184" class="size-medium wp-image-634" /></a>
+  <a href="/src/assets/images/carbs-fats-figure-2.jpg"><img src="/src/assets/images/carbs-fats-figure-2.jpg" alt="Carbs Fats Figure 2" width="300" height="184" class="size-medium wp-image-634" /></a>
   <figcaption>Figure 2[1]</figcaption>
 </figure>
 
@@ -179,7 +179,7 @@ First, this is the first demonstration that foods containing both fat and carboh
 Second, this study revealed that individuals are better able to estimate the energy density of fat foods, compared with carbohydrate foods, and fat combined with carbohydrate foods.[1]
 
 <figure class="alignright">
-  <a href="/images/brain-monitoring-carbs-fats.jpg"><img src="/images/brain-monitoring-carbs-fats.jpg" alt="Brain Monitoring Carbs Fats" width="300" height="287" class="size-medium wp-image-635" /></a>
+  <a href="/src/assets/images/brain-monitoring-carbs-fats.jpg"><img src="/src/assets/images/brain-monitoring-carbs-fats.jpg" alt="Brain Monitoring Carbs Fats" width="300" height="287" class="size-medium wp-image-635" /></a>
   <figcaption>Brain monitoring during this study proved that "rewards circuits" were firing across the brain in response to fat and carb foods, more so than fat foods or carb foods alone.</figcaption>
 </figure>
 

@@ -49,7 +49,7 @@ Let me spell this out for you:  STOP BUYING STUFF YOU CAN'T AFFORD.  IT IS BAD F
 
 - You are still building awful automobiles, and [your mistakes are beginning to take their toll](http://money.cnn.com/2006/12/05/news/economy/challenger_layoff.reut/?postversion=2006120509).
 
-[![](https://www.mikeroberto.com/TIME/New_Passenger_Car_Sales-thumb.jpg)](https://www.mikeroberto.com/TIME/New_Passenger_Car_Sales.jpg)
+[![](/src/assets/images/New_Passenger_Car_Sales-thumb.jpg)](/src/assets/images/New_Passenger_Car_Sales.jpg)
 
 I’m all for American-made products whenever it makes sense, but I’m sorry, never in my life would I trade my Acura in for a Ford or GM vehicle.  An  [increasing number of Americans agree with me this past decade](http://www.bts.gov/publications/national_transportation_statistics/html/table_01_16.html).
 
@@ -57,9 +57,9 @@ I’m all for American-made products whenever it makes sense, but I’m sorry, n
 
 - In 2000, we had a glut of crappy websites, network hardware, and overpriced NASDAQ stocks.  Now, we have a glut of crappy cars and homes that people can’t afford.  Which bubble bursts louder?
 
-And despite this bad news, what did you do?[![](https://www.mikeroberto.com/TIME/Wilshire5000-121706-thumb.jpg)](https://www.mikeroberto.com/TIME/Wilshire5000-121706.jpg)  You ran the stock market up to an all-time high this year.  Shown to the side is the Wilshire 5000 Index, an all-around market indicator.  Go ahead and check out any other indicator and you’ll see the same thing – you have driven the stock market to its highest points.
+And despite this bad news, what did you do?[![](/src/assets/images/Wilshire5000-121706-thumb.jpg)](/src/assets/images/Wilshire5000-121706.jpg)  You ran the stock market up to an all-time high this year.  Shown to the side is the Wilshire 5000 Index, an all-around market indicator.  Go ahead and check out any other indicator and you’ll see the same thing – you have driven the stock market to its highest points.
 
-Now excuse me for my bearishness, but am I the only one that doesn’t think that the US economy is at an all-time best?  [trade deficits are astronomical](http://www.bloomberg.com/apps/news?pid=20601103&sid=a349xJXiRK00&refer=us) (admittedly no thanks to my Acura purchase), [the dollar is steadily losing its value](http://finance.yahoo.com/q/bc?s=USDEUR=X&t=1y), [inflation is NOT under control](http://www.breitbart.com/news/2006/12/19/061219150056.i0vmpzp9.html), [![](https://www.mikeroberto.com/TIME/US_Dollar-thumb-121906.jpg)](https://www.mikeroberto.com/TIME/US_Dollar-121906.jpg)we still have practically no control over the most important thing to our economy (oil), and everybody’s collectively in debt.  In the meantime, our “conservative” government went and [spent more money than any other administration in history](http://www.breitbart.com/news/2006/01/12/D8F3AUAG7.html).
+Now excuse me for my bearishness, but am I the only one that doesn’t think that the US economy is at an all-time best?  [trade deficits are astronomical](http://www.bloomberg.com/apps/news?pid=20601103&sid=a349xJXiRK00&refer=us) (admittedly no thanks to my Acura purchase), [the dollar is steadily losing its value](http://finance.yahoo.com/q/bc?s=USDEUR=X&t=1y), [inflation is NOT under control](http://www.breitbart.com/news/2006/12/19/061219150056.i0vmpzp9.html), [![](/src/assets/images/US_Dollar-thumb-121906.jpg)](/src/assets/images/US_Dollar-121906.jpg)we still have practically no control over the most important thing to our economy (oil), and everybody’s collectively in debt.  In the meantime, our “conservative” government went and [spent more money than any other administration in history](http://www.breitbart.com/news/2006/01/12/D8F3AUAG7.html).
 
 I hope I’m wrong, but I just don’t feel like investing at this “high” right now.
 

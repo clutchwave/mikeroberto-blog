@@ -9,7 +9,7 @@ wpYear: 2007
 comments_count: 7
 ---
 
-[![](https://www.mikeroberto.com/pics/RIP_Berto-300.jpg)](http://i58.photobucket.com/albums/g278/MicroBerto/RIP_Berto.jpg)On December 31, 2006, I was setting up my new bedroom, which also serves as my office, design studio, and, of course, surfboard storage room.  I turned on my computer, which was so creatively named "berto", and noticed the power supply fan struggling to do its job.
+[![](/src/assets/images/RIP_Berto-300.jpg)](http://i58.photobucket.com/albums/g278/MicroBerto/RIP_Berto.jpg)On December 31, 2006, I was setting up my new bedroom, which also serves as my office, design studio, and, of course, surfboard storage room.  I turned on my computer, which was so creatively named "berto", and noticed the power supply fan struggling to do its job.
 
 Like any other idiot electrical engineer from Ohio State would have done, I decided to test if the fan was spinning by inserting a metal screwdriver into the power supply, thereby electrocuting myself with 120V and creating a small explosion.
 
@@ -17,7 +17,7 @@ And that was it. Berto had died.  And this post is dedicated to the death of tha
 
 You are now attending berto's funeral, and I am begrudgingly giving you his eulogy right now.
 
-![](https://www.mikeroberto.com/pics/apk.gif)Berto was born on December 27, 1999.  Hours of preparation went into his creation.  This was my first computer being built from scratch, and would be used to forge my new life in college, as well as help me accomplish work for the beloved but now-defunct APK Net (sold to Expedient).
+![](/src/assets/images/apk.gif)Berto was born on December 27, 1999.  Hours of preparation went into his creation.  This was my first computer being built from scratch, and would be used to forge my new life in college, as well as help me accomplish work for the beloved but now-defunct APK Net (sold to Expedient).
 
 Berto was paid for in half by myself, and half by my parents.  He cost $2600 total.
 
@@ -33,13 +33,13 @@ I learned a lot about that purchase over time.  Some quick lessons are:
 - Don't buy cheap cooling or power supplies or expect them to last forever, or they'll just electrocute you in the end
 - Do your research and find good deals with sites such as [shopper.com](http://www.shopper.com)
 
-![](https://www.mikeroberto.com/pics/Bertocam-JelloShots.jpg)berto and I had some great memories.  They began during construction, and ended with destruction.  In between, there were those LAN parties at Larz's house, CFabe's house (don't forget about jello shots with TGould and CFabe!), Arstein's house, and TGould's house.  Yes, we were dorks, and it was fun.
+![](/src/assets/images/Bertocam-JelloShots.jpg)berto and I had some great memories.  They began during construction, and ended with destruction.  In between, there were those LAN parties at Larz's house, CFabe's house (don't forget about jello shots with TGould and CFabe!), Arstein's house, and TGould's house.  Yes, we were dorks, and it was fun.
 
 Bertocam, pictured above, was around for a while, hosted using berto's Apache server.  I have a ton of silly pictures from freshman year, back before digital cameras were hot.
 
-![](https://www.mikeroberto.com/pics/Bertocam-GingoJonJer.jpg)In college, berto became popular for quite a while.  You see, berto's administrator decided to leave sharing wide open on the campus network, and quickly became a hub for "filesharing". Despite being warned by a friend to turn on password protection, its ethernet connection was *constantly* pegged at 10MBits.
+![](/src/assets/images/Bertocam-GingoJonJer.jpg)In college, berto became popular for quite a while.  You see, berto's administrator decided to leave sharing wide open on the campus network, and quickly became a hub for "filesharing". Despite being warned by a friend to turn on password protection, its ethernet connection was *constantly* pegged at 10MBits.
 
-![](https://www.mikeroberto.com/pics/Bertocam-OSUvsMich5.jpg)berto was a trooper.  Pegged network connections.  Silly websites.  Traveled all over northeast Ohio.  Put up with numerous idiotic kernel panics and botched experiments.  He lived in 6 different locations with me, and nearly survived the 7th.  That's impressive.
+![](/src/assets/images/Bertocam-OSUvsMich5.jpg)berto was a trooper.  Pegged network connections.  Silly websites.  Traveled all over northeast Ohio.  Put up with numerous idiotic kernel panics and botched experiments.  He lived in 6 different locations with me, and nearly survived the 7th.  That's impressive.
 
 berto saved the day numerous times with remote desktop capabilities in Linux.  His usage as a webserver for the early renditions of bertopics.com and bertoline, as well as that of a MySQL and file server were monumental.
 

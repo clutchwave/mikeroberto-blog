@@ -2,7 +2,7 @@
 publishDate: 2025-09-17
 title: "Class of 2000: The Final Boarding Call Before the Chaos"
 excerpt: "You have died of dysentery: 25 Years after the Class of 2000: Old enough for an analog childhood, young enough to master digital. Timing is everything"
-image: "https://www.mikeroberto.com/images/class-of-2000-25-years.png"
+image: "/src/assets/images/class-of-2000-25-years.png"
 category: "Current Events"
 tags:
   - "Processed Seed Oils"
@@ -14,7 +14,7 @@ comments_count: 4
 
 *"Timing is everything!"*
 
-[<img src="/images/class-of-2000-25-years.png" alt="Class of 2000: 25 Years Later" width="300" height="450" class="alignright size-medium wp-image-713" />](/images/class-of-2000-25-years.png)
+[<img src="/src/assets/images/class-of-2000-25-years.png" alt="Class of 2000: 25 Years Later" width="300" height="450" class="alignright size-medium wp-image-713" />](/src/assets/images/class-of-2000-25-years.png)
 
 Decades ago, as I was stumbling into young adulthood, I used to roll my eyes at the above phrase. It was usually dispensed -- unsolicited -- by older women reflecting on their marriages, real estate, child-rearing, or careers. Regardless of circumstance, "timing" was unfailingly a major deciding factor in their lives' outcomes.
 
@@ -35,7 +35,7 @@ Between roughly 1979 and 1983, there's this "micro-generation" who were born at 
 As we head into our collective "back nine", it's worth taking a step back and appreciating the unique vantage point we hold, as we saw life from *both sides* as young adults. And no matter what angle I look at it from, I keep coming back to the same conclusion: *we got out by the skin of our teeth*.
 
 <figure class="aligncenter">
-  <a href="/images/you-have-died-of-dysentery.png"><img src="/images/you-have-died-of-dysentery.png" alt="You Have Died of Dysentery" width="900" height="500" class="size-full wp-image-733" /></a>
+  <a href="/src/assets/images/you-have-died-of-dysentery.png"><img src="/src/assets/images/you-have-died-of-dysentery.png" alt="You Have Died of Dysentery" width="900" height="500" class="size-full wp-image-733" /></a>
   <figcaption>Peak trauma, peak nostalgia. The anthem of my people.</figcaption>
 </figure>
 
@@ -56,7 +56,7 @@ Yes, we saw the rise of home video game consoles (late Atari, NES, then SNES and
 The first big shift hit in our teens: AOL, AIM, and the Internet. What a time to be a teenager.
 
 <figure class="aligncenter">
-  <a href="/images/aol-instant-messenger.png"><img src="/images/aol-instant-messenger.png" alt="AOL Instant Messenger - Image Courtesy Wikimedia Commons" width="1200" height="665" class="size-full wp-image-718" /></a>
+  <a href="/src/assets/images/aol-instant-messenger.png"><img src="/src/assets/images/aol-instant-messenger.png" alt="AOL Instant Messenger - Image Courtesy Wikimedia Commons" width="1200" height="665" class="size-full wp-image-718" /></a>
   <figcaption>Now <em>these</em> were the days. Note: My Twitter Handle is my old screen name: <a href="https://twitter.com/MicroBerto" target="_blank" rel="noopener">@MicroBerto</a>.</figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ But the real stroke of economic serendipity came with timing. Two critical point
 </ol>
 
 <figure class="alignright">
-  <a href="/images/money-printer.jpg"><img src="/images/money-printer.jpg" alt="Money Printer" width="640" height="362" class="size-full wp-image-721" /></a>
+  <a href="/src/assets/images/money-printer.jpg"><img src="/src/assets/images/money-printer.jpg" alt="Money Printer" width="640" height="362" class="size-full wp-image-721" /></a>
   <figcaption>Own a decent house before 2020? Consider yourself one of the lucky ones.</figcaption>
 </figure>
 
@@ -108,7 +108,7 @@ Ultimately, if you were born around 1980, you didn't just get lucky. You dodged 
 Our childhoods were politically quiet. We vaguely remember the fall of the Berlin Wall, but it barely touched us in America. The Gulf War came and went quickly, with little controversy or cultural baggage.
 
 <figure class="alignright">
-  <a href="/images/bill_clinton-monica_lewinsky.jpg"><img src="/images/bill_clinton-monica_lewinsky.jpg" alt="Bill Clinton and Monica Lewinsky. Image courtesy Wikimedia Commons" width="300" height="199" class="size-medium wp-image-723" /></a>
+  <a href="/src/assets/images/bill_clinton-monica_lewinsky.jpg"><img src="/src/assets/images/bill_clinton-monica_lewinsky.jpg" alt="Bill Clinton and Monica Lewinsky. Image courtesy Wikimedia Commons" width="300" height="199" class="size-medium wp-image-723" /></a>
   <figcaption>This scandal signaled the beginning of the normalization of  degeneracy in our society, but at the time, it didn't directly affect our lives.</figcaption>
 </figure>
 
@@ -131,7 +131,7 @@ Most importantly, we were <em>healthy</em>, at least compared to the Millennials
 Yes, we ate our share of "fortified slop" (mostly via cereal, milk, and microwave meals), but we still escaped childhood before canola oil (approved in 1985) and other omega-6 industrial oils polluted the food supply. By the time the biocide known as <em>glyphosate</em> and obesogenic fats like soybean oil truly took hold, we were already young adults.
 
 <figure class="aligncenter">
-  <a href="/images/canola-oil.png"><img src="/images/canola-oil.png" alt="Canola Oil" width="640" height="363" class="size-full wp-image-725" /></a>
+  <a href="/src/assets/images/canola-oil.png"><img src="/src/assets/images/canola-oil.png" alt="Canola Oil" width="640" height="363" class="size-full wp-image-725" /></a>
   <figcaption>Many consider the 1985 approval of canola oil / rapeseed oil to be a turning point in our collective health situation</figcaption>
 </figure>
 
@@ -154,7 +154,7 @@ Childhood and adolescence revolved around Saturday morning cartoons, MTV in its 
 Musically, we rode the full arc: vinyl to cassette to CD to MP3 to streaming. Gen X before us grew up on <em>albums</em> and <em>radio</em>; Millennials curate playlists. Sure, we had mixtapes and burned CDs, but nothing beats an album you can listen to straight through - the true marker of a legitimate band.
 
 <figure class="aligncenter">
-  <a href="/images/cassette-tape.jpg"><img src="/images/cassette-tape.jpg" alt="Cassette Tape" width="1600" height="1067" class="size-full wp-image-728" /></a>
+  <a href="/src/assets/images/cassette-tape.jpg"><img src="/src/assets/images/cassette-tape.jpg" alt="Cassette Tape" width="1600" height="1067" class="size-full wp-image-728" /></a>
   <figcaption>Oh, I remember</figcaption>
 </figure>
 
@@ -173,7 +173,7 @@ In our youth, alcohol was king and marijuana was still taboo. This arguably forc
 Yes, alcohol has countless problems of its own, and it's smart not to overindulge now that we've slid into a low-trust society with HD cameras in every pocket. But adding legal marijuana to the mix has merely layered <em>new</em> problems in, and the verdict is clear: it's been a net negative for society at large.
 
 <figure class="alignright">
-  <a href="/images/robert-sterling-last-chopper.png"><img src="/images/robert-sterling-last-chopper.png" alt="Robert Sterling Last Chopper" width="300" height="297" class="size-medium wp-image-730" /></a>
+  <a href="/src/assets/images/robert-sterling-last-chopper.png"><img src="/src/assets/images/robert-sterling-last-chopper.png" alt="Robert Sterling Last Chopper" width="300" height="297" class="size-medium wp-image-730" /></a>
   <figcaption>Major thanks to Robert Sterling for inspiring this <em>entire</em> article with <a href="https://x.com/RobertMSterling/status/1965493475669147997" target="_blank" rel="noopener">this post</a></figcaption>
 </figure>
 

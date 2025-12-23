@@ -13,7 +13,7 @@ wpYear: 2016
 Weight loss is big business in America -- over a $60 billion annually.[2] This is no surprise when you consider that one in three Americans over the age of 20 is considered obese, and over 70% of the population is classified as overweight.[3]
 
 <figure class="alignright">
-  <a href="/images/the-biggest-loser.jpg"><img src="/images/the-biggest-loser.jpg" alt="The Biggest Loser" width="300" height="307" class="size-medium wp-image-532" /></a>
+  <a href="/src/assets/images/the-biggest-loser.jpg"><img src="/src/assets/images/the-biggest-loser.jpg" alt="The Biggest Loser" width="300" height="307" class="size-medium wp-image-532" /></a>
   <figcaption>The Biggest Loser woos people with magical weight loss transformations, but a new study shows the methods employed by the shows leave the contestants worse off than where they started. Image courtesy Wikimedia</figcaption>
 </figure>
 
@@ -38,7 +38,7 @@ To do this, they used dual energy X-ray absorptiometry and measured RMR by indir
 In the six years since the original members completed the competition, **contestants regained 90lbs** (41kg) on average, and their resting metabolisms have *further* decreased to an average of 704 calories below their original baseline values at the start of the competition!
 
 <figure class="aligncenter">
-  <a href="/images/biggest-loser-study-table-1.png"><img src="/images/biggest-loser-study-table-1.png" alt="Biggest Loser Study Table 1" width="625" height="323" class="size-large wp-image-534" /></a>
+  <a href="/src/assets/images/biggest-loser-study-table-1.png"><img src="/src/assets/images/biggest-loser-study-table-1.png" alt="Biggest Loser Study Table 1" width="625" height="323" class="size-large wp-image-534" /></a>
   <figcaption>Researchers found that 6 years following the competition, contestants regained a majority of their weight, and their resting metabolic rates were WORSE than when they were on the show...</figcaption>
 </figure>
 
@@ -55,7 +55,7 @@ Ultimately, the researchers concluded that, *“those subjects maintaining great
 Sure, our metabolisms will slow after six years of aging, but not *that* much! Effectively, this TV show **put contestants' bodies into *"starvation mode"* and literally screwed them up - possibly *permanently!***
 
 <figure class="aligncenter">
-  <a href="/images/biggest-loser-study-figure-2.png"><img src="/images/biggest-loser-study-figure-2.png" alt="Biggest Loser Study Figure 2" width="625" height="327" class="size-large wp-image-535" /></a>
+  <a href="/src/assets/images/biggest-loser-study-figure-2.png"><img src="/src/assets/images/biggest-loser-study-figure-2.png" alt="Biggest Loser Study Figure 2" width="625" height="327" class="size-large wp-image-535" /></a>
   <figcaption>This graph illustrates what we've been saying. 6 years after appearing on the show, individuals were all in worse health and gained back more fat than when they finished the show.[1]</figcaption>
 </figure>
 
@@ -70,7 +70,7 @@ This study shows that improperly employing crash diets and extreme exercise prot
 ### *DISCIPLINE*, not Motivation
 
 <figure class="alignright">
-  <a href="/images/discipline-vs-motivation.jpg"><img src="/images/discipline-vs-motivation.jpg" alt="Discipline vs. Motivation" width="300" height="281" class="size-medium wp-image-536" /></a>
+  <a href="/src/assets/images/discipline-vs-motivation.jpg"><img src="/src/assets/images/discipline-vs-motivation.jpg" alt="Discipline vs. Motivation" width="300" height="281" class="size-medium wp-image-536" /></a>
   <figcaption>Forget motivation.  It won't last anyway. Get disciplined and make this a part of your everyday life. Image courtesy BloggingWithJazz</figcaption>
 </figure>
 
