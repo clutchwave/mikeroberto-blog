@@ -1,15 +1,15 @@
 ---
 import { Icon } from 'astro-icon/components';
+import { Image } from 'astro:assets';
 import WidgetWrapper from '~/components/ui/WidgetWrapper.astro';
 import Headline from '~/components/ui/Headline.astro';
-import Button from '~/components/ui/Button.astro';
 import type { Steps as Props } from '~/types';
 
 const {
   title = await Astro.slots.render('title'),
   subtitle = await Astro.slots.render('subtitle'),
   tagline,
-  callToAction = await Astro.slots.render('callToAction'),
+  image, // Required: { src: ImageMetadata, alt: string }
   items = [],
   isReversed = false,
 
@@ -22,31 +22,33 @@ const {
 
 <WidgetWrapper id={id} isDark={isDark} containerClass={`max-w-6xl mx-auto ${classes?.container ?? ''}`} bg={bg}>
   <div class={`flex flex-col gap-8 md:gap-12 md:flex-row ${isReversed ? 'md:flex-row-reverse' : ''}`}>
-    <div class={`w-full lg:w-1/2 gap-8 md:gap-12 ${isReversed ? 'lg:ml-16 md:ml-8 ml-0' : 'lg:mr-16 md:mr-8 mr-0'}`}>
+    <!-- Image Column with Headline above it -->
+    <div class="w-full lg:w-1/2 lg:mx-16 md:mx-8 mx-0">
+      <!-- Headline: Centered above image -->
       <Headline
         title={title}
         subtitle={subtitle}
         tagline={tagline}
         classes={{
-          container: 'text-center md:text-left rtl:md:text-right mb-4 md:mb-8',
+          container: 'text-center mb-6 md:mb-8',
           title: 'mb-4 text-3xl lg:text-4xl font-bold font-heading',
-          subtitle: 'mb-8 text-xl text-muted dark:text-slate-400',
-          // ...((classes?.headline as {}) ?? {}),
+          subtitle: 'mt-4 mb-8 text-xl text-muted dark:text-slate-400',
         }}
       />
-
-      <div class="w-full text-center md:text-left rtl:md:text-right">
-        {
-          typeof callToAction === 'string' ? (
-            <Fragment set:html={callToAction} />
-          ) : (
-            callToAction &&
-            callToAction.text &&
-            callToAction.href && <Button variant="primary" {...callToAction} class="mb-12 w-auto" />
-          )
-        }
+      
+      <div class="sticky top-8 flex justify-center">
+        <Image
+          src={image.src}
+          alt={image.alt || ''}
+          class="rounded-lg shadow-lg max-w-full h-auto"
+          widths={[400, 600, 800]}
+          sizes="(max-width: 768px) 100vw, 50vw"
+          loading="eager"
+        />
       </div>
     </div>
+
+    <!-- Steps Column -->
     <div class="w-full lg:w-1/2 px-0">
       <ul class="space-y-10">
         {

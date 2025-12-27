@@ -24,7 +24,8 @@ const currentPage = page.currentPage ?? 1;
 // const allTags = await findTags();
 
 const metadata = {
-  title: `Blog${currentPage > 1 ? ` — Page ${currentPage}` : ''}`,
+  title: currentPage > 1 ? `Blog — Page ${currentPage}` : "Mike Roberto - A Nutritional Dose of Heavy Metal Overload",
+  ignoreTitleTemplate: currentPage === 1, // This prevents the template from being applied
   robots: {
     index: blogListRobots?.index && currentPage === 1,
     follow: blogListRobots?.follow,

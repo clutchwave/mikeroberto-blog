@@ -12,6 +12,11 @@ export default {
         accent: 'var(--aw-color-accent)',
         default: 'var(--aw-color-text-default)',
         muted: 'var(--aw-color-text-muted)',
+	green: {
+          50: '#dfffee',   // Your light green (lighter than 100)
+          100: '#d1fae5',  // Standard light green
+          // Tailwind's other greens will still work (200-900)
+        },
       },
       fontFamily: {
         sans: ['var(--aw-font-sans, ui-sans-serif)', ...defaultTheme.fontFamily.sans],

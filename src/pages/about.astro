@@ -1,75 +1,154 @@
 ---
 import Features2 from '~/components/widgets/Features2.astro';
+import Features2WithLinks from '~/components/widgets/Features2WithLinks.astro';
 import Features3 from '~/components/widgets/Features3.astro';
 import Hero from '~/components/widgets/Hero.astro';
 import Stats from '~/components/widgets/Stats.astro';
 import Steps2 from '~/components/widgets/Steps2.astro';
 import Layout from '~/layouts/PageLayout.astro';
 
+// Import the new component
+import Steps2WithImage from '~/components/widgets/Steps2WithImage.astro';
+
+// Import your image
+import mikeImage from '~/assets/images/mike-roberto-bucked-up-2025-cropped.jpg';
+
 const metadata = {
-  title: 'About us',
+  title: 'About Mike Roberto',
 };
+
+const priceplowStartDate = new Date('2008-11-24');
+const birthDate = new Date('1981-12-09');
+const now = new Date();
+const yearsInIndustry = Math.round((now - priceplowStartDate) / (1000 * 60 * 60 * 24 * 365.25));
+const age = Math.floor((now - birthDate) / (1000 * 60 * 60 * 24 * 365.25));
+
+// Fetch blood donation count from Google Sheets
+const SHEET_ID = '1q4B8aHJZQd31oKmoI_6kqEMFdzjmbGqrQdsqgastHiY';
+let bloodDonations = '9'; // Fallback value
+
+try {
+  const url = `https://docs.google.com/spreadsheets/d/${SHEET_ID}/export?format=csv&gid=0`;
+  const response = await fetch(url);
+  const csv = await response.text();
+
+  // Parse CSV and find the "Blood Donations" row
+  const rows = csv.split('\n').map(row => row.split(','));
+  const bloodDonationRow = rows.find(row => row[0]?.includes('Blood Donations'));
+
+  if (bloodDonationRow) {
+    // Get all numeric values from that row
+    const numbers = bloodDonationRow
+      .slice(1) // Skip first column (the label)
+      .map(cell => parseInt(cell, 10))
+      .filter(num => !isNaN(num)); // Only valid numbers
+
+    if (numbers.length > 0) {
+      bloodDonations = String(Math.max(...numbers));
+    }
+  }
+} catch (error) {
+  console.warn('Could not fetch blood donation count, using fallback:', error);
+}
+
 ---
 
 <Layout metadata={metadata}>
   <!-- Hero Widget ******************* -->
 
   <Hero
-    tagline="About us"
+    tagline="About Mike Roberto"
     image={{
-      src: 'https://images.unsplash.com/photo-1559136555-9303baea8ebd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80',
-      alt: 'Caos Image',
+    src: '~/assets/images/mike-roberto-lab.jpg',
+      alt: 'Mike Roberto',
     }}
   >
     <Fragment slot="title">
-      Elevate your online presence with our <br />
-      <span class="text-accent dark:text-white"> Beautiful Website Templates</span>
+      Metabolic contrarian, <br /	>
+      <span class="text-accent dark:text-white">truth-seeker, food rebuilder</span>
     </Fragment>
 
     <Fragment slot="subtitle">
-      Donec efficitur, ipsum quis congue luctus, mauris magna convallis mauris, eu auctor nisi lectus non augue. Donec
-      quis lorem non massa vulputate efficitur ac at turpis. Sed tincidunt ex a nunc convallis, et lobortis nisi tempus.
-      Suspendisse vitae nisi eget tortor luctus maximus sed non lectus.
+	    I'm Mike Roberto - a {age}-year family man and water sports athlete who built a career researching, writing, formulating, and podcasting in the supplement industry. Always "healthy" but never <em>optimal</em>, I eventually figured out what was actually wrong.<br/><br/>Now I'm researching an alternative theory to metabolic health while experimenting with food on 6 acres in Oklahoma. No "gurus", no drugs, no zealotry (well, maybe a little)... just science, curiosity, and a sense of humor about the absurdity of the modern nutrition and pharmaceutical discourse.
     </Fragment>
   </Hero>
 
   <!-- Stats Widget ****************** -->
 
   <Stats
-    title="Statistics about us"
+    title="The Numbers That Tell the Story"
     stats={[
-      { title: 'Offices', amount: '4' },
-      { title: 'Employees', amount: '248' },
-      { title: 'Templates', amount: '12' },
-      { title: 'Awards', amount: '24' },
+      { title: 'Years in the supplement industry', amount: String(yearsInIndustry) },
+      { title: 'Acres for food experiments', amount: '6' },
+      { title: 'Blood donations completed (since 2024)', amount: bloodDonations },
+      { title: 'Ferritin points dropped', amount: '700' },
     ]}
   />
+
+
+
+  <Steps2WithImage
+	title="How I Got Here"
+	subtitle="The short version of my journey from mystery symptoms to metabolic clarity."
+		
+	image={{
+      src: mikeImage,
+      alt: "Mike Roberto at Bucked Up 2025"
+    }}
+    items={[
+      {
+        title: 'Childhood',
+        description: 'A happy and active childhood slowed by eczema, allergies, eye problems, and becoming overweight. I "grew out of" being fat, but the other problems remained. Turns out, the answers were there all along.',
+      },
+      {
+        title: 'The Injury That Changed Everything',
+        description: 'Broke my jaw in 9th grade playing baseball. I switched to water sports - swimming in high school, water polo in college. In hindsight, that injury physically and mentally derailed me for years.',
+      },
+      {
+        title: 'Finding Paleo',
+        description: 'In 2008, Mark Sisson and the paleo movement gave me my first real framework for thinking about food and health. It was a revelation, even if it wasn\'t the complete answer.',
+      },
+      {
+        title: 'Building in the Industry',
+        description: 'I spent the next 15+ years in supplement industry media and consulting work, learning to decode marketing BS, read studies properly, and help people navigate an increasingly chaotic landscape. We\'re now expanding in beverage and food.',
+      },
+      {
+        title: 'The Vitamin A Lightbulb',
+        description: 'December 2022, I stumbled onto vitamin A toxicity research. January 3, 2023, I went all in on a low-vitamin-A approach, realizing that society is more toxic than deficient. Thirty-plus years later, I finally understood what had been wrong with me as a kid.',
+      },
+      {
+        title: 'Years of Iron Overload?',
+        description: 'Around this time, I finally got serious bloodwork done, and it showed ferritin through the <em>roof</em>. Suddenly the fatigue, joint issues, and metabolic dysfunction made sense. Started donating blood systematically.',
+      },
+    ]}
+  />
+
 
   <!-- Features3 Widget ************** -->
 
   <Features3
-    title="Our templates"
-    subtitle="Etiam scelerisque, enim eget vestibulum luctus, nibh mauris blandit nulla, nec vestibulum risus justo ut enim. Praesent lacinia diam et ante imperdiet euismod."
+    title="What I Explore"
+    subtitle="These days, I'm deep in metabolic research and food development, connecting dots between toxin bioaccumulation, nutrient dynamics, drug-free health outcomes, sane supplementation, and how to feed our kids better."
     columns={3}
     isBeforeContent={true}
     items={[
       {
-        title: 'Educational',
+        title: 'Vitamin A Nuance',
         description:
-          'Morbi faucibus luctus quam, sit amet aliquet felis tempor id. Cras augue massa, ornare quis dignissim a, molestie vel nulla.',
-        icon: 'tabler:template',
+    'Excess retinol / carotene is hazardous, but how much is too much? I focus on vitamin A toxicity, beta-carotene conversion, and what happens when these systems go sideways.',
+        icon: 'tabler:dna',
       },
       {
-        title: 'Interior Design',
+        title: 'Iron & Copper Dynamics',
         description:
-          'Vivamus porttitor, tortor convallis aliquam pretium, turpis enim consectetur elit, vitae egestas purus erat ac nunc nulla.',
-        icon: 'tabler:template',
+          'Tracking my own high-ferritin journey, exploring subclinical iron overload, and understanding how copper and other metals play into the whole metabolic picture.',
+        icon: 'tabler:activity',
       },
       {
-        title: 'Photography',
+        title: 'Metabolic Pollutants',
         description:
-          'Duis sed lectus in nisl vehicula porttitor eget quis odio. Aliquam erat volutpat. Nulla eleifend nulla id sem fermentum.',
-        icon: 'tabler:template',
+    'Seed oils, aldehydes, pesticides, and a philosophy of "toxins in moderation" covering everything from alcohol to caffeine to spices to retinol. Context matters.',
+        icon: 'tabler:flask',
       },
     ]}
   />
@@ -81,148 +160,129 @@ const metadata = {
     isAfterContent={true}
     items={[
       {
-        title: 'E-commerce',
+        title: 'Food Rebuilding',
         description:
-          'Rutrum non odio at vehicula. Proin ipsum justo, dignissim in vehicula sit amet, dignissim id quam. Sed ac tincidunt sapien.',
-        icon: 'tabler:template',
+		  'Recipe experiments, low-vitamin-A meal construction, protein-forward eating, what kids should (and want) to eat, and figuring out how to grow better ingredients on my own land.',
+        icon: 'tabler:leaf',
       },
       {
-        title: 'Blog',
+        title: 'N=1 Experiments',
         description:
-          'Nullam efficitur volutpat sem sed fringilla. Suspendisse et enim eu orci volutpat laoreet ac vitae libero.',
-        icon: 'tabler:template',
+          'Bloodwork breakdowns, dietary interventions, supplement use (only what I personally take), and documenting the metabolic shifts in real time.',
+        icon: 'tabler:chart-line',
       },
       {
-        title: 'Business',
+        title: 'Scientific Storytelling',
         description:
-          'Morbi et elit finibus, facilisis justo ut, pharetra ipsum. Donec efficitur, ipsum quis congue luctus, mauris magna.',
-        icon: 'tabler:template',
+          'Study walkthroughs, exposing methodological flaws, and explaining complex mechanisms in ways that don\'t make your eyes glaze over.',
+        icon: 'tabler:book',
       },
       {
-        title: 'Branding',
+        title: 'Culture & Philosophy',
         description:
-          'Suspendisse vitae nisi eget tortor luctus maximus sed non lectus. Cras malesuada pretium placerat. Nullam venenatis dolor a ante rhoncus.',
-        icon: 'tabler:template',
+		  'Life as a "Xennial", entrepreneurial reflections, advice to younger versions of myself, and general slightly-higher-IQ contrarian musings in a sub-100 IQ society.',
+        icon: 'tabler:users',
       },
       {
-        title: 'Medical',
+        title: 'Oklahoma Life',
         description:
-          'Vestibulum malesuada lacus id nibh posuere feugiat. Nam volutpat nulla a felis ultrices, id suscipit mauris congue. In hac habitasse platea dictumst.',
-        icon: 'tabler:template',
+          'Parenting, property projects, and living a metabolically sane life in the midst of the modern food disaster. We\'ve been mass poisoned... what are we doing about it?',
+        icon: 'tabler:home',
       },
       {
-        title: 'Fashion Design',
+        title: 'The Long Game',
         description:
-          'Maecenas eu tellus eget est scelerisque lacinia et a diam. Aliquam velit lorem, vehicula id fermentum et, rhoncus et purus.',
-        icon: 'tabler:template',
+          'All of this is heading somewhere: toward better foods, better ingredients, and products built around metabolic principles. But we\'re not rushing it.',
+        icon: 'tabler:target-arrow',
       },
     ]}
     image={{
-      src: 'https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80',
-      alt: 'Colorful Image',
+		  src: '~/assets/images/mike-roberto-podcasting-vitamin-shoppe-1-cropped.jpg',
+      alt: 'Mike Roberto podcasting',
     }}
   />
 
   <!-- Steps2 Widget ****************** -->
 
   <Steps2
-    title="Our values"
-    subtitle="Maecenas eu tellus eget est scelerisque lacinia et a diam. Aliquam velit lorem, vehicula id fermentum et, rhoncus et purus. Nulla facilisi. Vestibulum malesuada lacus."
-    items={[
-      {
-        title: 'Customer-centric approach',
-        description:
-          'Donec id nibh neque. Quisque et fermentum tortor. Fusce vitae dolor a mauris dignissim commodo. Ut eleifend luctus condimentum.',
-      },
-      {
-        title: 'Constant Improvement',
-        description:
-          'Phasellus laoreet fermentum venenatis. Vivamus dapibus pulvinar arcu eget mattis. Fusce eget mauris leo.',
-      },
-      {
-        title: 'Ethical Practices',
-        description:
-          'Vestibulum imperdiet libero et lectus molestie, et maximus augue porta. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.',
-      },
-    ]}
-  />
-
-  <!-- Steps2 Widget ****************** -->
-
-  <Steps2
-    title="Achievements"
-    subtitle="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sagittis, quam nec venenatis lobortis, mi risus tempus nulla, sed porttitor est nibh at nulla."
+    title="Where This Goes"
+    subtitle="I'm building a personal brand around metabolic health, food experimentation, and scientific storytelling... while having some fun in the sunshine and keeping a sense of humor along the way.<br><br>The long-term goal is creating better-for-you foods, sauces, and supplements that actually make sense."
     isReversed={true}
-    callToAction={{
-      text: 'See more',
-      href: '/',
-    }}
     items={[
       {
-        title: 'Global reach',
-        description: 'Nam malesuada urna in enim imperdiet tincidunt. Phasellus non tincidunt nisi, at elementum mi.',
-        icon: 'tabler:globe',
+        title: 'Deep Scientific Content',
+    description: 'Long-form video deep-dives, study breakdowns, "talk of the town" ramblings, and research essays for people who want to understand the why behind the what.',
+        icon: 'tabler:video',
       },
       {
-        title: 'Positive customer feedback and reviews',
+        title: 'Real-Time Experimentation',
         description:
-          'Cras semper nulla leo, eget laoreet erat cursus sed. Praesent faucibus massa in purus iaculis dictum.',
-        icon: 'tabler:message-star',
+          'Bloodwork updates, dietary experiments, and transparent documentation of what\'s working (and what\'s not) in my own middle-age battle.',
+        icon: 'tabler:flask-2',
       },
       {
-        title: 'Awards and recognition as industry experts',
+        title: 'A Future Food Brand',
         description:
-          'Phasellus lacinia cursus velit, eu malesuada magna pretium eu. Etiam aliquet tellus purus, blandit lobortis ex rhoncus vitae.',
-        icon: 'tabler:award',
+    'This all leads toward building better foods - products designed around lower toxin loads, metabolic intelligence, and higher-quality ingredients. But first, I need to show that the concepts work.',
+        icon: 'tabler:package',
       },
     ]}
   />
 
   <!-- Features2 Widget ************** -->
 
-  <Features2
-    title="Our locations"
-    tagline="Find us"
-    columns={4}
-    items={[
-      {
-        title: 'EE.UU',
-        description: '1234 Lorem Ipsum St, 12345, Miami',
-      },
-      {
-        title: 'Spain',
-        description: '5678 Lorem Ipsum St, 56789, Madrid',
-      },
-      {
-        title: 'Australia',
-        description: '9012 Lorem Ipsum St, 90123, Sydney',
-      },
-      {
-        title: 'Brazil',
-        description: '3456 Lorem Ipsum St, 34567, São Paulo',
-      },
-    ]}
-  />
-
-  <!-- Features2 Widget ************** -->
-
-  <Features2
-    title="Technical Support"
-    tagline="Contact us"
+  <Features2WithLinks
+    title="Follow Along"
+    tagline="Connect"
     columns={2}
     items={[
       {
-        title: 'Chat with us',
+        title: 'Twitter (@MicroBerto)',
         description:
-          'Integer luctus laoreet libero, auctor varius purus rutrum sit amet. Ut nec molestie nisi, quis eleifend mi.',
-        icon: 'tabler:messages',
+          'Daily thoughts, study discoveries, and the best place for real-time conversation. This is where I hang out most.',
+    	  icon: 'tabler:brand-x',
+        url: 'https://x.com/MicroBerto',
+        urlTitle: 'Follow me on Twitter: @MicroBerto'
       },
       {
-        title: 'Call us',
+        title: 'YouTube',
         description:
-          'Mauris faucibus finibus orci, in posuere elit viverra non. In hac habitasse platea dictumst. Cras lobortis metus a hendrerit congue.',
-        icon: 'tabler:headset',
+          'Long-form deep dives, scientific storytelling, and the anchor platform for everything I\'m building. Subscribe for weekly videos.',
+        icon: 'tabler:brand-youtube',
+        url: 'https://www.youtube.com/@mike-roberto',
+        urlTitle: 'Subscribe to my YouTube Channel'
       },
+      {
+        title: 'TikTok',
+        description:
+          'Short, witty teaching moments and trending topic breakdowns. Think "old man yells at the [increasingly fake] clouds". This is the growth engine for reaching new people.',
+        icon: 'tabler:brand-tiktok',
+     },
+     {
+        title: 'LinkedIn',
+        description:
+    'Content postings that are more entrepreneurial and business-minded in nature, especially with regards to my work in the supplement, food, and beverage industries.',
+      icon: 'tabler:brand-linkedin',
+      url: 'https://www.linkedin.com/in/mikeroberto/',
+      urlTitle: 'Follow me on LinkedIn',
+      },
+      {
+        title: 'Instagram (@mikeconoclast)',
+        description:
+          'Reposts and highlights from other platforms. I\'m here, but it\'s not where I spend my energy.',
+        icon: 'tabler:brand-instagram',
+        url: 'https://www.instagram.com/mikeconoclast',
+        urlTitle: 'Follow me on Instagram (@mikeconoclast)'
+      },
+      {
+        title: 'Facebook',
+        description:
+	    'Same situation as Instagram. Feel free to follow if this is where you get your news, but I may keep it limited here.',
+        icon: 'tabler:brand-facebook',
+        url: 'https://www.facebook.com/mike.roberto',
+        urlTitle: 'Facebook is mostly awful, isn\'t it?'
+      },
+
     ]}
   />
 </Layout>
